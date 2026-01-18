@@ -1,0 +1,1082 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+Identify the hypotenuse, opposite and adjacent of a right-angled
+triangle.
+Describe the basic properties of a right-angled triangle.
+Define sine, cosine, and tangent ratio.
+Find trigonometric values of angles from trigonometric table.
+Unit Contents
+5.1 Revision on Right-angled Triangles
+5.2 Trigonometric Ratios
+Summary
+Review Exercise
+185
+Unit 5: Introduction to Trigonometry
+trigonometric table
+KEY
+Words
+trigonometric ratio (sine, cosine and
+tangent)
+right-angled triangle
+Pythagoras theorem
+INTRODUCTION
+You have already studied about triangles, in particular, right-angled triangles, in your
+earlier classes. In this unit, you will learn the relationship between angles and sides
+of a right-angled triangle.
+5.1 Revision on Right-angled Triangles
+Definition 5.1 Right-angled triangle
+A right-angled triangle is a type of triangle that has one of its angles equal to 90
+degrees.
+C
+1. The opposite side to the right-angle is called
+h
+hypotenuse.
+2. The relationship among the three sides is:
+A
+E
+b² +p² = h².
+b
+Figure 5.1
+Example 1
+C
+a. What is the sum of the maximum degree measure of
+45°
+the two interior angles other than the right angle?
+b. If one of the angles of a triangle is 90°and the other
+two are equal to 45°each, what do you call such a
+triangle?
+45°
+A
+B
+Figure 5.2
+186
+Unit 5: Introduction to Trigonometry
+Solution:
+a. As you observed in figure 5.1, one of the angles of a right-angled triangle is 90°.
+The sum of the measure of the other two angles of this triangle is 90°. So the sum
+of the maximum degree measure of the two other interior angles of a right-angled
+triangle is 90°.
+b. If one of the angles of a triangle is 90° and the other two angles measure
+45° each, then the triangle is called an isosceles right-angled triangle, where the
+adjacent sides to 90° are equal in length (figure 5.2).
+Note
+For right-angled triangle, we also have the following basic properties:
+One angle is always 90° or right angle.
+C
+The opposite side to angle 90° is hypotenuse.
+h
+p
+The hypotenuse is always the longest side.
+The sum of the other two interior angles is
+A
+B
+b
+equal to 90° (each angle is acute).
+The other two sides adjacent to the right angle are called base and
+perpendicular side. (b is the base and p is the perpendicular side).
+If one of the angles is 90° and the other two angles are equal to 45° each,
+then the triangle is called an isosceles right-angled triangle, where the
+adjacent sides to 90° are equal in length.
+If b, p and h are sides of a right-angled triangle as shown in the above figure,
+we can write a relation using the Pythagoras theorem, that is b² + p² = h².
+Example 2
+C
+Find the length of the missing side.
+Solution:
+6
+4
+Using the Pythagoras theorem, x² + 4² = 6².
+A
+B
+x
+187
+Unit 5: Introduction to Trigonometry
+It results in x² = 20. Since x > 0, x = 2√5.
+Example 3
+Find the height of an equilateral triangle ABC with length of 6units.
+Solution:
+A
+Consider equilateral triangle as shown at the right. When
+drawing a line segment from A and perpendicular to side BC,
+6
+6
+H is midpoint of BC. BH = 3unit. Using Pythagoras
+theorem, let AH = x (x > 0), then BH² + AH² = AB²
+B
+C
+3² + x² = 6²
+H
+6
+x² = 27
+This results in AH = x = 3√3 units.
+Exercise 5.1
+1. Find the value of x. Express your answer in simplest radical form.
+19
+x
+10
+x
+x
+8
+x
+5
+16
+(a)
+(b)
+(c)
+2. Find the value of x. If your answer is not an integer give it in the simplest radical
+form.
+A
+A
+A
+3
+2√5
+x
+13
+13
+4
+B
+x
+D
+x
+B
+D
+3
+2
+8
+C
+C
+B
+C
+D
+24
+(a)
+(b)
+(c)
+188
+Unit 5: Introduction to Trigonometry
+Conversion of the Pythagoras theorem
+Conversion of the Pythagoras theorem
+C
+If b² + p² = h², then LB = 90°.
+ß
+h
+p
+α
+A
+B
+b
+Example 1
+Which one of the following can be sides of a right-angled triangle (the sides are with
+the same unit of length)?
+a. 5, 6, 2
+b.3,4,5
+c.V5,2,3
+Solution:
+a. First identify the longest side (hypotenuse). From the property of right-angled
+triangle, the longest side is the hypotenuse and the other would be the base and
+perpendicular side.
+So, we can take 2 and 5 as length of the base and
+6
+perpendicular side, respectively, and 6 as the hypotenuse,
+2
+as shown in the figure. Now, check if Pythagoras theorem
+5
+is satisfied or not, that is b² + p² = h² or not. The left
+Figure 5.3
+hand side (LHS) of the equation is 5² + 2² = 29 and the
+right hand side (RHS) of the equation is 6² = 36. Here, LHS # RHS. Hence, the
+triangle is not a right-angled triangle.
+b. Consider 3,4 and 5 as a, b and C respectively. Check whether these numbers
+satisfy the theorem b² + p² = h².
+LHS = 3² + 4² = 25 and RHS =5² = 25. Thus, LHS = RHS Therefore, it is a
+right-angled triangle.
+c. As 2² < (5) 2 < 3², then 2 < √5 < 3. Hence, h = 3. Using equation
+189
+Unit 5: Introduction to Trigonometry
+b² + p² = ,LHS = (5) 2 + 2² = 9 and RHS =3² = 9. Thus LHS = RHS.
+Therefore, it is a right-angled triangle.
+Exercise 5.2
+1. Identify whether the given sides can form a right-angled triangle or not provided
+that the units for each length is identical.
+a. 4,6,8
+b.
+√2,
+√3,
+√5
+c.1,2,V3
+d.V6, 3, √3
+2. Is each triangle a right-angled triangle? Explain.
+65
+33
+20
+28
+25
+8
+19
+24
+56
+(a)
+(b)
+(c)
+5.2 Trigonometric Ratios
+In this subsection, you will learn some ratios of the sides of a right-angled triangle
+with respect to its angles, called trigonometric ratios of the angle. We will restrict our
+discussion to acute angles only. However, these ratios can also be extended to other
+angles.
+Could you think some examples from our surroundings where right-angled
+triangles can be imagined?
+Suppose 9ᵗʰ grade students of your
+school are visiting Addis Ababa.
+h2
+H
+Now, if a student is looking at the
+Θ
+T
+top of the building (head office of
+h₁
+the Commercial Bank of Ethiopia)
+Figure 5.4
+190
+Unit 5: Introduction to Trigonometry
+a right-angled triangle can be imagined, as shown in fig 5.4. Can you find out the
+height of the building without actually measuring it?
+In the above situation, the height can be found by using some mathematical
+techniques, which come under a branch of mathematics called 'trigonometry'.
+Trigonometry is derived from two Greek words 'trigonon' which means 'triangle' and
+'metron' meaning 'measure'. Put together, the words mean "triangle measuring". In
+fact, trigonometry is the study of relationships between the sides and angles of a
+triangle. The earliest known work on trigonometry was recorded in Egypt and
+Babylon. Early astronomers used it to find out the distances of the stars and planets
+from the Earth. Even today, most of the technologically advanced methods used in
+Engineering and Physical Sciences are based on trigonometric concepts.
+Now let us define the trigonometric ratio.
+Definition 5.2 Trigonometric ratios
+The trigonometric ratios of a given angle are defined by the ratios of two sides of
+a right-angled triangle. These trigonometric ratios remain unchanged as long as
+the angle remains the same, that is, they are independent of the size of the
+triangle provided the angle remains the same.
+There are six trigonometric ratios. But here we will define only the first three
+trigonometric ratios as follows.
+Consider the following right-angled triangle as shown in the figure 5.5 below.
+For angle A, the trigonometric ratios sine, cosine and tangent are defined as
+C
+sine of LA = side opposite hypotenuse to angle A = AC BC
+cosine of LA = side adjacent hypotenuse to angle A = AB AC
+Hypotenuse
+B Side Opposite to
+angle A
+tangent of = side side opposite adjacent to to angle angle A A = AB BC
+A
+Side Adjacent to angle A
+Figure 5.5
+191
+Unit 5: Introduction to Trigonometry
+The above trigonometric ratios sineA, cosine A and tangent A are abbreviated as
+sin A, cos A and tan A, respectively.
+So, the trigonometric ratios of an acute angle in a right-angled triangle express the
+relationship between the angle and the length of its sides.
+Example
+Find the trigonometric ratios (sine, cosine and tangent) for angle A in the following
+figures.
+C
+C
+2
+√₃
+√2
+1
+A
+B
+A
+B
+1
+1
+(a)
+(b)
+Solution:
+a. Using definition 5.2, sin A = Hypotenuse Opposite = 1/22 √2' 1 cos A = hypotenuse adjacent
+b. Similar to (a) above, sin A = Hypotenuse Opposite = √3 13/2 2 , cos A = hypotenuse adjacent = 2 and
+adjacent opposite
+Exercise 5.3
+1. Find the trigonometric ratios sine, cosine, and tangent of the angle A for each of
+the following right-angled triangles:
+192
+Unit 5: Introduction to Trigonometry
+C
+13
+12
+C
+C
+10
+6
+2√5
+2
+A
+B
+5
+B
+A
+A
+B
+8
+4
+(a)
+(b)
+(c)
+If one of the three trigonometric ratios is given, it is possible to determine the other
+two trigonometric ratios.
+Example
+Determine the remaining two trigonometric ratios of an acute angle A of a right-
+angled triangle if
+a.sin A = ³
+b.tan A = 1/2
+Solution:
+a. First draw a right-angled triangle ABC as it is given sin A = 3/5 which is
+equal to BC / AC Hence, we have sin from this we immediately
+observe the length of side BC = 3 units (opposite side) and AC = 5 units
+(hypotenuse). Now, using the Pythagoras Theorem, we have
+AB² + BC² = AC², , we determine the side length AB as follows.
+C
+AB = √AC² - BC²
+= √25 9
+5
+3
+= √16
+A
+B
+= 4
+Hence, the remaining trigonometric ratios are
+Figure 5.6
+193
+Unit 5: Introduction to Trigonometry
+b. Following similar procedure as (a), first we need to determine cos A and sin A
+from the given ratio of tan A 1/2 = 1 This is also equal to the ratio BC / AB BC Hence,
+tan A d 1/1/2 if BC = 1, then AB = √2. Now, using the Pythagoras
+Theorem, we determine the length AC as
+AC = √AB² + BC = + = √3.
+Now, the remaining trigonometric ratios are cos
+Exercise 5.4
+Determine the remaining two trigonometric ratios of an acute angle A of a right-
+angled triangle if
+a. sin A = 1
+b. cos A = 3
+c. tan A = 2
+d. sin A = 1/5
+Trigonometric values of basic angles
+From lower grade mathematics lessons, you are already familiar with the
+construction of angles of 0°, 30°, 45°, 60° and 90°. Now you will learn how to find
+the values of the trigonometric ratios for these angles.
+Example 1
+Find sin 45°, cos 45° and tan 45°.
+C
+Solution:
+45°
+Consider a right-angled triangle ABC right-angled at B.
+If one of the acute angles is 45°, then the other acute angle is
+also 45°,
+45°
+A
+B
+that is LA = LC = 45°( see figure 5.7).
+Figure 5.7
+Hence, BC = AB (because the triangle is isosceles right-angled triangle).
+Suppose BC = AB = a. Then by Pythagoras Theorem,
+194
+Unit 5: Introduction to Trigonometry
+AC = √AB² + BC² which implies
+= √a² + = √2a² = √2a.
+Using the definition of trigonometric ratios we have:
+sin 45° = side opposite hypotenuse to angle 45° 1
+cos 45° = side adjacent hypotenuse to angle 45° = ABa1 AC = √2a = √2"
+tan 45° = side side opposite adjacent to to angle angle 45° 45° = AB BC = a = 1.
+Example 2
+Find i) sin 30°, cos 30°, and tan 30°.
+B
+ii) sin 60°, cos 60°, and tan 60°.
+30°
+Solution:
+Consider half of an equilateral triangle ABC shown
+as below (Figure 5.8). The triangle ABD is a right-
+60°
+A
+C
+angled triangle with angles 30° and 60° (Fig.5.9).
+D
+Figure 5.8
+Let the length of side AB be 2. The length of the side
+AD is half of the length of side AC. Thus AD = 1.
+B
+By applying the Pythagoras Theorem,
+AD² + BD² = AB².
+30°
+2
+√₃
+Then, 1² + BD² = 2²
+BD² = 4 - 1
+60°
+A
+D
+BD² = 3
+1
+BD = √3 because BD > 0.
+Figure 5.9
+Therefore,
+sin 30° = side side opposite adjacent hypotenuse to to angle angle B B 1/2 = 1/2 √3 sin 60° = side side opposite hypotenuse adjacent to to angle angle A = A √3 2 1
+cos 30° = hypotenuse = 13/2 2 cos 60° = hypotenuse = 1/2 2°
+195
+Unit 5: Introduction to Trigonometry
+tan 30° = side side opposite adjacent to to angle angle B B 1/3 = 1/3 tan 60° = side side adjacent opposite to to angle angle A A = 1 = √3.
+Example 3
+Find the unknown length of the sides of the
+A
+12
+following in the right-angled triangle.
+y
+Solution:
+B
+30°
+C
+x
+Applying the trigonometric ratios here,
+Figure 5.10
+cos Then, 12 x = 2 , x = X 12 = 6√3.
+Similarly; sin 30° = 12, = y , sin 30° 1/2 = 1/2
+Exercise 5.5
+1. Complete the following table column wise using the given triangles (a), (b) and (c)
+respectively.
+B
+30°
+B
+B
+2
+√₃
+2
+60°
+√2
+45°
+1
+1
+30°
+45°
+60°
+A
+C
+A
+C
+A
+C
+√₃
+1
+(a)
+(b)
+(c)
+LA = 30°
+LA = 45°
+LA = 60°
+sin A
+cos A
+tan A
+2. Find the unknown values of the following figures. If the value is not an
+integer, express it in simplest radical form.
+196
+Unit 5: Introduction to Trigonometry
+20
+6
+x
+x
+30°
+60°
+y
+y
+(a)
+(b)
+13√2
+7
+√7
+y
+x
+60
+8
+45
+y
+x
+y
+(c)
+(d)
+(e)
+A
+12
+E
+10√3
+x
+5V2
+b
+a
+10
+b
+60°
+45°
+30
+45
+B
+y
+c
+d
+C
+D
+a
+(f)
+(g)
+(h)
+Trigonometric Ratios of 0° to 90°
+We discussed how to determine trigonometric ratio of 30°, 45° and 60° using
+examples. To derive the trigonometric ratios of 0° and 90° needs advanced concept
+of mathematics and will not be treated at this level. The trigonometric ratios of these
+two angles together with 30°, 45° and 60° are indicated in the following table 5.1.
+Table 5.1
+LA
+0°
+30°
+45°
+60°
+90°
+1
+1
+√3
+sin A
+0
+-
+1
+2
+√2
+2
+√3
+1
+1
+cos A
+1
+-
+0
+2
+√2
+2
+1
+tan A
+O
+1
+√3
+undefined
+√3
+197
+Unit 5: Introduction to Trigonometry
+Remark: From the above table, you can observe that as LA increases from 0° to
+90°, sin A increases from 0 to 1 while cos A decreases from 1 to 0. On the other
+hand, the value of tan A increases from 0, become 1 at 45° and continues to increase
+until 90°.
+Trigonometrical values of angles from a table
+(sin Θ, cos Θ and tan Θ for 0° ≤ Θ ≤ 90 °)
+In the previous discussion we have seen how to determine the trigonometric ratios of
+sin Θ, cos Θ and tan Θ when Θ is a special angle 0°, 30°, 45°, 60° and 90°. Following
+the same procedure of getting the trigonometric ratio of the given special angles, it is
+possible to determine the trigonometric ratio of any angle. There are trigonometric
+tables of approximate values of trigonometric ratios of acute angles that have already
+been constructed by advanced arithmetical processes. One of such tables is found at
+the back of this textbook.
+Follow the next steps to read the trigonometric values from a trigonometric table:-
+Identify the trigonometric ratio from the first row if the degree you need is
+between 0° and 45° and the last row if the degree is between 45°and 90°.
+Using the column of the trigonometric ratio you need to find and move down
+or up till you get the required degree.
+The intersection of the row and column of the above two steps is the
+trigonometric value of the required degree.
+Example
+Using a trigonometric table, find the value of each of the following.
+a. sin 18°
+b. cos 37°
+c. tan 70°
+Solution:
+a. We can read the trigonometric ratio from a table. Since the given degree is
+18, use the first row and take the column of sin then move down till we get
+198
+Unit 5: Introduction to Trigonometry
+18°. The number we obtain is a value for sin 18°.
+That is sin 18° ≈ 0.309017. (You can observe the steps from table 5.2)
+Table 5.2
+Move Down
+sin
+cos
+tan
+0
+0
+1
+0
+1
+0.017452
+0.999848
+0.017455
+2
+0.03490
+0.999391
+0.034921
+3
+0.052336
+0.99863
+0.052408
+4
+0.069756
+0.997564
+0.069927
+5
+0.087156
+0.996195
+0.087489
+6
+0.104528
+0.994522
+0.10510
+7
+0.121869
+0.992546
+0.122784
+8
+0.139173
+0.990268
+0.140541
+9
+0.156434
+0.987688
+0.158384
+10
+0.173648
+0.984808
+0.176327
+11
+0.190809
+0.981627
+0.19438
+12
+0.207912
+0.978148
+0.212556
+13
+0.224951
+0.97437
+0.230868
+14
+0.241922
+0.97030
+0.249328
+15
+0.258819
+0.965926
+0.267949
+16
+0.275637
+0.961262
+0.286745
+17
+0.292371
+0.95630
+0.30573
+Move to
+the right
+18
+0.309017
+0.951057
+0.324919
+19
+0.325568
+0.945519
+0.344327
+b. In a similar way, cos 37° ≈ 0.798636.
+c. tan 70° ≈ 2.747480
+Exercise 5.6
+Find the value of each of the following using trigonometric table.
+a. sin 23°
+b. cos 9°
+C. tan 40°
+d. sin 52°
+e. cos 68°
+f. tan 82°
+199
+Unit 5: Introduction to Trigonometry
+Example 1
+Given cos A = 0.819152. Using the trigonometric table, find the angle A.
+Solution:
+On the column corresponding to 'cos', find the given number 0.819152.
+Corresponding to this number is 35, that is A = 35°. (see table 5.3 below).
+Table 5.3
+Move down till you get
+cosine value 0.819152
+sin
+cos
+tan
+0
+0
+1
+0
+90
+1
+0.017452
+0.999848
+0.017455
+57.2900
+89
+2
+0.03490
+0.999391
+0.034921
+28.63628
+88
+3
+0.052336
+0.99863
+0.052408
+19.08115
+87
+4
+0.069756
+0.997564
+0.069927
+14.30068
+86
+5
+0.087156
+0.996195
+0.087489
+11.43006
+85
+6
+0.104528
+0.994522
+0.10510
+9.514373
+84
+7
+0.121869
+0.992546
+0.122784
+8.144353
+83
+8
+0.139173
+0.990268
+0.140541
+7.115376
+82
+9
+0.156434
+0.987688
+0.158384
+6.313757
+81
+10
+0.173648
+0.984808
+0.176327
+5.671287
+80
+11
+0.190809
+0.981627
+0.19438
+5.144558
+79
+12
+0.207912
+0.978148
+0.212556
+4.704634
+78
+13
+0.224951
+0.97437
+0.230868
+4.33148
+77
+14
+0.241922
+0.97030
+0.249328
+4.010784
+76
+15
+0.258819
+0.965926
+0.267949
+3.732054
+75
+16
+0.275637
+0.961262
+0.286745
+3.487418
+74
+17
+0.292371
+0.95630
+0.30573
+3.270856
+73
+18
+0.309017
+0.951057
+0.324919
+3.077686
+72
+19
+0.325568
+0.945519
+0.344327
+2.904214
+71
+20
+0.34202
+0.939693
+0.36397
+2.74748
+70
+21
+0.358368
+0.933581
+0.383864
+2.605091
+69
+22
+0.374606
+0.927184
+0.404026
+2.475089
+68
+23
+0.390731
+0.920505
+0.424474
+2.355855
+67
+24
+0.406736
+0.913546
+0.445228
+2.246039
+66
+25
+0.422618
+0.906308
+0.466307
+2.144509
+65
+26
+0.438371
+0.898794
+0.487732
+2.050306
+64
+27
+0.45399
+0.891007
+0.509525
+1.962612
+63
+28
+0.469471
+0.882948
+0.531709
+1.880728
+62
+29
+0.484809
+0.87462
+0.554308
+1.80405
+61
+30
+0.5000
+0.866026
+0.57735
+1.732053
+60
+31
+0.515038
+0.857168
+0.60086
+1.664281
+59
+32
+0.529919
+0.848048
+0.624869
+1.600336
+58
+33
+0.544639
+0.838671
+0.649407
+1.539867
+57
+34
+0.559192
+0.829038
+0.674508
+1.482563
+56
+35
+0.573576
+0.819152
+0.700207
+1.42815
+55
+36
+0.587785
+0.809017
+0.726542
+1.376383
+54
+Move to the left till to get
+the required angle
+200
+Unit 5: Introduction to Trigonometry
+Example 2
+Given sin A° = 0.7565 find the measure of the acute angle A, correct to the nearest
+degree.
+Solution:
+In the column of 'sin', search the given number. If we get it directly, take the degree
+which corresponds to the number. Otherwise, take the approximation to the nearest
+one. In our case, the given number is not directly available on the table. Two values
+closest to the given value 0.7565 are 0.75471, the smaller one and 0.766045 the
+larger one. These values correspond to 49° and 50°, respectively.
+The given number is closest to 0.75471(since |0.7565 - 0.75471| < |0.7565 -
+0.766045|), and it corresponds to 49°. Therefore, A = 49° (to the nearest degree).
+Exercise 5.7
+1. Find the measure of an acute angle A, correct to the nearest degree if
+a. sin A = 0.173648
+b. cos A = 0.961262
+c. tan A = 0.60086
+d. sin A = 0.798636
+e. cos A = 0.438371
+f. tan A = 2.355855
+g. sin A = 0.2300
+h. cos A = 0.9960
+i. tan A = 1.2000
+2.
+Find the angle between the diagonal and the base of a rectangle where the base
+is 8 cm and the height is 5 cm. (give your answer to the nearest degree)
+201
+Summary and Review Exercise
+Summary
+1. For a right-angled triangle with hypotenuse h and other sides b and p, the
+Pythagoras theorem can be written as equation b² + p² = h².
+2. Let ДАВС be a right-angled triangle with hypotenuse( H) and opposite side(0)
+and adjacent side (A), as shown in figure 5.11. Then, the trigonometric ratios
+are defined as
+1 II
+cos A = hypotenuse adjacent = AB AC
+C
+Hypotenuse
+Opposite
+B Side to
+angle A
+A
+Side Adjacent to angle A
+Figure 5.11
+For A and C as acute angle of the same right-angled triangle as shown in
+figure 5.11, sin A = cos C and sin C = cos A.
+3. The trigonometric values of basic angles (0°, 30°, 45°, 60° and 90° ) are given
+as:
+sin 0° = 0, sin 30° = 2 1 sin 45° = 1/22 1 sin 60° = and sin 90° = 1
+cos 0° = 1, cos 30° = 2 , sin 45° = 1/2/2 1 cos 60° = 2 1 and cos 90° = 0
+tan 0° = 0, tan 30° = √3' 1/3'3 1 tan 45° = 1, tan 60° = √3 and tan 90° is undefined.
+202
+Summary and Review Exercise
+4. The following steps could be taken in order to read values of trigonometric ratio
+of sine, cosine and tangent from a trigonometric table.
+Identify the trigonometric ratio from the first row if the degree you
+need is between 0° and 45° and the last row if the degree is between
+45° and 90°.
+Using the column of the trigonometric ratio you need to find and move
+down or up till you get the required degree.
+The intersection of the row and column of the above two steps is the
+trigonometric value of the required degree.
+203
+Summary and Review Exercise
+Review Exercise
+1. Which one of the following is not correct about a right-angled triangle?
+A. The angle opposite to the hypotenuse is a right angle
+B. .If the base, height and hypotenuse of a right-angled triangle has lengths
+b, p and h its,respectively, then b² + p² = h².
+C. For an isosceles right-angled triangle, two sides of a triangle are equal in
+length.
+D. If Θ is one of the angles of a right-angled triangle, then cos Θ can be
+greater than 1.
+2. In ДАВС, right-angled at B, AB = 24 cm, BC = 7cm. Determine
+a. sin A, cos A
+b. sin C, cos C
+3. State whether the following are true or false. Justify your answer.
+a. The value of tan A is always less than 1.
+b. sin Θ - 13 = 4 1 ' for some acute angle Θ.
+C. If sin Θ = 1, = then cos 2√2/3
+d. When 0° ≤ Θ ≤ 90° is an angle of a right-angled triangle, both sin Θ
+and cos Θ are between 0 and 1.
+4. Given 0° < Θ < 90°. If tan Θ = 1, then which one of the following is not true?
+A. cos 2/2
+B. cos Θ = sin Θ
+C. θ = 45°
+D. tan Θ = sin Θ
+5. If sin Θ = 3 2 for an acute angle Θ, then which one of the following is correct?
+A. cos Θ = √5/2 2
+B. tan Θ =
+204
+Summary and Review Exercise
+C. (90° - Θ) = 312
+D. sin Θ > cos Θ
+6. Find the value of each of the following using trigonometric table.
+a. sin 18°
+b. cos 57°
+C. tan 71°
+7. Find the measure of an acute angle A, correct to the nearest degree if
+tan A = 12.10.
+8. The angle formed by the top of the building at a distance of 50 m from its foot
+on horizontal plane is found to be 60 degree. Find the height of the building.
+(See figure 5.12)
+C
+h
+60°
+B
+50m
+Figure 5.12
+9. A building with its height of 60 m above sea level is located at Bahir Dar city
+near to Lake Tana. The angle between the line segment from the sailing boat to
+the top of the building and surface of the water is 25° as shown in figure 5.13.
+a. How far is the boat from the base of the building to the nearest meter?
+b. What is the distance between the man at the top of the building and the
+boat? (Use fig 5.13)
+205
+Summary and Review Exercise
+P
+25°
+60m
+25°
+S
+B
+x
+Figure 5.13
+10. Two women A and B lie on the leveled ground at opposite sides of 150 m tall
+tower. If A observes the top of the tower at an angle of 60° and B observes the
+same point at an angle of 30°, then how far the two women can be away from
+each other?
+A. 100√3 m
+B. 600√3 m
+C. 200√3 m
+D. 450√3 m
+11. In figure 5.14, if the height of the man is 1.74 m, Θ = 63° and he is located at
+100 m away from the building, find the height of the building.
+h2
+H
+Θ
+T
+h₁
+1
+Figure 5.14
+206
+UNIT
+6
+REGULAR POLYGONS

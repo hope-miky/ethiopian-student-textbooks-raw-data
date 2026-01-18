@@ -1,0 +1,2917 @@
+Unit 6
+Electromagnetic Waves and
+Geometrical Optics
+Introduction
+Light is one form of an Electromagnetic wave. Light lets us see things and
+is responsible for our visual contact with our immediate environment. It
+enables us to admire and adore various beautiful manifestations of nature.
+You can use light rays to model mirrors, lenses, telescopes, microscopes,
+and prisms. The study of how light interacts with materials is called optics.
+Brainstorming
+When dealing with light rays, you are usually interested in the shape of
+Activity
+a material and the angles at which light rays hit it. This kind of optics is
+Do you remember
+referred to as geometrical optics. This unit deals with topics related to
+the definition of
+Electromagnetic waves and geometrical optics.
+wave that you
+learnt in grade
+By the end of this unit, you should be able to:
+9? Try to discuss
+understand the concept of Electromagnetic waves;
+in group and
+tell your answer
+understand the properties and transmission of light in various me-
+of wave to your
+dia and their applications;
+teacher.
+investigate the properties of light through experimentation and
+illustration using diagrams and optical instruments;
+predict the behavior of light through the use of ray diagrams;
+appreciate the contributions of optics in our day to day life.
+177
+178
+Unit 6 Electromagnetic Waves and Geometrical Optics
+6.1 Electromagnetic (EM) waves
+By the end of this section, you should be able to:
+describe the propagation of EM waves;
+state sources of EM waves.
+Exercise 6.1
+A wave transfers energy from one place to another without transferring
+What are the dif-
+matter. Waves, such as water waves and sound waves, transfer energy by
+ferent types of
+making particles of matter move. The energy is passed along from particle
+waves?
+to particle as they collide with their neighbors.
+Depending on their medium of propagation, waves are categorized into
+Key Concept
+mechanical waves and EM waves.
+EM is a wave
+Mechanical waves are the types of waves that use matter to transfer
+that consists of
+energy. They cannot travel in almost empty space between the Earth
+oscillating electric
+and the Sun.
+and magnetic
+fields, which radi-
+An EM wave is a wave that can travel through empty space or through
+ate outward from
+matter. They are produced by charged particles, such as electrons,
+the source at the
+that move back and forth or vibrate. It is thus made of electric and
+speed of light.
+magnetic fields as shown in Figure 6.1. Both parts are called fields
+and vibrate at right angles to the wave motion. Thus, EM waves are
+transverse waves as you learnt in grade 9. In transverse waves, the di-
+rection of oscillation is perpendicular to the direction of propagation
+Exercise 6.2
+of waves while in a longitudinal wave, the direction of oscillation
+Did you recall the
+is parallel to the direction of propagation of the wave. Recall that a
+differences be-
+wave on a rope is a transverse wave that causes the rope to move at
+tween transverse
+right angles to the direction the wave is traveling.
+and longitudinal
+waves?
+Like all waves, an EM wave has a frequency and a wavelength. The num-
+ber of times the electric and magnetic parts vibrate each second is the
+frequency of the wave. The wavelength is the distance between the crests
+or troughs of the vibrating electric or magnetic parts.
+6.1 Electromagnetic (EM) waves
+179
+Electric field(E)
+tw
+Magnetic field (B)
+Direction
+Y
+B
+Direction
+X
+Z
+too
+tw
+Figure 6.1 Electric field and magnetic field in an EM wave.
+Radiant Energy from the Sun
+The Sun emits EM waves that travel through space and reach Earth. The
+energy carried by EM waves is called radiant energy. Almost 92 % of the
+radiant energy that reaches the Earth from the Sun is carried by infrared
+and visible light waves. Infrared waves make you feel warm when you sit
+in sunlight and visible light waves enable you to see. A small amount of
+the radiant energy that reaches Earth is carried by ultraviolet waves. These
+are the waves that can cause sunburn if you are exposed to sunlight for too
+long.
+Section summary
+EM waves are transverse waves made of vibrating electric and
+magnetic fields.
+Review questions
+1. Explain how an EM wave propagates.
+2. Do EM waves need a medium to travel through?
+3. Describe the properties of EM waves.
+180
+Unit 6 Electromagnetic Waves and Geometrical Optics
+6.2 EM Spectrum
+By the end of this section, you should be able to:
+describe what an EM spectrum is;
+describe and explain the differences and similarities of the spec-
+trum's of EM waves;
+Exercise 6.3
+What do you know
+describe the uses and dangers of the spectrum's of EM waves.
+about the EM
+spectrum?
+As shown in Figure 6.2, an EM spectrum is the complete range of EM wave
+frequencies and wavelengths. At one end of the spectrum, the waves have
+a low frequency, a long wavelength, and low energy. At the other end of
+the spectrum, the waves have a high frequency, a short wavelength, and
+high energy. All of the waves, from radio waves to visible light to gamma
+rays, are the same kind of wave. They differ from each other only by their
+frequencies, wavelengths, and energies.
+You briefly describe these different spectrum's of EM wave, in order of
+decreasing wavelengths.
+Radio
+Microwave
+Infrared
+Visible
+Ultraviolet
+X-Ray
+Gamma Ray
+Longer
+Wavelength (m)
+Shorter
+10²
+1
+1
+1
+10⁻¹
+10⁻²
+10⁻³
+10⁴
+10⁻⁵
+10⁻⁶
+10⁻⁷
+10 ⁸
+10⁻⁹
+10⁻¹⁰
+10⁻¹¹
+10⁻¹²
+10⁻¹³
+Lower
+Frequency (Hz)
+Higher
+10⁶
+107
+10⁸
+10
+9
+10
+10
+10
+11
+10¹²
+10
+13
+10
+14
+10
+15
+10
+16
+1017
+10
+18
+1019
+10²⁰
+10
+21
+Radio
+Microwave
+Infrared
+Ultraviolet
+X-Ray
+Gamma Ray
+Visible Light
+700nm
+600nm
+500nm
+400nm
+Figure 6.2 The EM spectrum.
+6.2 EM Spectrum
+181
+Radio waves
+Radio waves are made by various types of transmitters, depending on the
+Key Concept
+wavelength. They are also given off by stars, sparks, and lightning, which
+The EM spec-
+is why you hear interference on your radio in a thunderstorm. They have
+trum consists
+the lowest frequencies in the EM spectrum, ranging from 500 kHz to about
+of the following
+1000 MHz and a wavelength of around 1 meter to thousands of meters.
+types of radia-
+tion: radio waves,
+They are used mainly for communications purposes like police radio com-
+microwaves, in-
+munications, military aircraft radios and television transmissions. On
+frared, visible,
+the other hand, large doses of radio waves are believed to cause cancer,
+ultraviolet, X-rays,
+leukaemia and other disorders.
+gamma-rays.
+Gamma-rays have
+Microwaves
+the highest energy
+and are the most
+Microwaves are basically extremely high-frequency radio waves, and are
+penetrating, while
+made by various types of transmitters. In a mobile phone, they are made
+radio waves have
+by a transmitter chip and an antenna; in a microwave oven, they are made
+the lowest energy
+by a "magnetron". Their wavelength is usually a couple of centimeters.
+and are the least
+Stars also give off microwaves.
+penetrating.
+Microwaves cause water and fat molecules to vibrate which makes the
+substances hot. Thus, you can use microwaves to cook many types of
+food. Mobile phones use microwaves, which can be generated by a small
+antenna. They are also used by traffic speed cameras, and for radar, which
+is used by aircraft, ships and weather forecasters.
+Prolonged exposure to microwaves is known to cause "cataracts" in your
+eyes which is a clouding of the cornea. So do not make it a habit of pressing
+your face against the microwave oven door to see if your food is ready.
+Microwaves from mobile phones can affect parts of your brain as you are
+holding the transmitter right by your head. The current advice is to keep
+calls short. To avoid being harmed by the powerful radar units in modern
+military planes, people who work on aircraft carrier decks wear special
+suits which reflect microwaves.
+182
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Infrared waves
+Infrared waves are just below visible red light in the EM spectrum. You
+probably think of Infrared waves as heat because they are given off by hot
+objects and you can feel them as warmth on your skin. Infrared waves
+are also given off by stars, lamps, flames and anything else that is warm
+including you.
+Infrared waves are used for many tasks, for example, as remote controls
+for TVs and video recorders and physiotherapists use heat lamps to help
+heal sports injuries. Infrared waves are used to see objects in the dark.
+Police helicopters track criminals at night using cameras that can see in
+the dark. Night sights for weapons sometimes use a sensitive infrared
+detector. Weather forecasters use satellite pictures to see what is heading
+our way. Some of the images they use were taken using infrared cameras,
+because they show cloud and rain patterns more clearly.
+Exercise 6.4
+The danger from too much infrared radiation is very simple: it simply
+What are the uses
+makes you hot.
+and dangers of
+each of the EM
+Visible Light
+spectrum?
+Our eyes can detect only a tiny part of the EM spectrum called visible light.
+The frequency of visible light ranges between about 4 X 10¹⁴ Hz to 7 X 10¹⁴
+Hz. Its wavelength in vacuum ranges between about 700 nm and 400 nm.
+Visible light, emitted or reflected from objects around us gives us with
+information about the world. The color of the visible spectrum will be
+discussed in detail in Section 6.8 of this unit.
+You use light to see things. As the Sun sends so much light towards our
+planet, you have evolved to make use of those particular wavelengths in
+order to sense our environment.
+Too much light can damage the retina in your eye. This can happen when
+you look at something very bright such as the Sun. Although the damage
+6.2 EM Spectrum
+183
+AM
+FM
+TV
+Radar
+TV Remote
+Light Bulb
+Sun
+X-ray machine
+Radioctive Elements
+Radio waves
+Infrared
+Ultraviolet
+X-rays
+Gamma rays
+100m
+1m
+1cm
+0.01cm
+1000nm
+10nm
+0.01nm
+0.0001nm
+Visible spectrum
+Figure 6.3 Visible spectrum.
+can heal, if it is too bad, it will be permanent.
+Ultraviolet rays
+Ultraviolet (UV) rays covers wavelengths ranging from about 4 X 10⁻⁷ m
+(400 nm) down to 6 X 10⁻¹⁰ m (0.6 nm). UV radiation is produced by special
+lamps and very hot bodies. The sun is also an important source of UV light.
+But fortunately, most of it is absorbed in the ozone layer in the atmosphere
+at an altitude of about 40 to 50 km.
+Uses for UV light include getting a sun tan, detecting forged bank notes in
+shops and hardening some types of dental filling. You also see UV lamps
+in discos where they make your clothes glow. When you mark your posses-
+sions with a security marker pen, the ink is invisible unless you shine a UV
+lamp at it. UV rays can be used to kill microbes. Hospitals use UV lamps to
+sterilize surgical equipment and the air in operating theaters. Food and
+drug companies also use UV lamps to sterilize their products. Suitable
+doses of UV rays cause the body to produce vitamin D, and this is used by
+doctors to treat vitamin D deficiency and some skin disorders.
+184
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Large doses of UV can damage the retinas in your eyes, so it is important
+to check that your sunglasses will block UV light. If your sunglasses do
+not block UV, you will actually get more UV light on your retinas than if
+you did not wear them. Large doses of UV cause sunburn and even skin
+cancer. Fortunately, the ozone layer in the Earth's atmosphere screens us
+from most of the UV given off by the Sun.
+X-rays
+X-rays are very high frequency waves and carry a lot of energy. They will
+pass through most substances, and this makes them useful in medicine
+and industry to see inside things. X-rays are given off by stars and strongly
+by some types of nebula. When you use X-rays, you make them by firing
+a beam of electrons at a "target". If you fire the electrons with enough
+energy, X-rays will be produced.
+X-rays are used by doctors to see the inside parts of a patient. X-rays are
+also used in airport security checks to see inside your luggage. They are
+also used by astronomers as many objects in the universe emit X-rays,
+which you can detect using suitable radio telescopes.
+X-rays can cause cell damage and cancers. This is why Radiographers in
+hospitals stand behind a shield when they X-ray their patients.
+Gamma rays
+Gamma rays are given off by stars and by some radioactive substances.
+They are extremely high frequency waves and carry a large amount of
+energy. They pass through most materials and are quite difficult to stop;-
+you need lead or concrete in order to block them out.
+Because gamma rays can kill living cells, they are used to kill cancer cells
+without having to resort to difficult surgery. This is called "Radiotherapy"
+and works because cancer cells cannot repair themselves like healthy cells
+6.2 EM Spectrum
+185
+can when damaged by gamma rays. In industry, radioactive "tracer" sub-
+stances can be put into pipes and machinery, then you can detect where
+the substances go. This is basically the same use as in medicine. Gamma
+rays kill microbes and are used to sterilize food so that it will keep fresh for
+longer. This is known as "irradiated" food. Gamma rays are also used to
+sterilize medical equipment.
+Gamma rays cause cell damage and can cause a variety of cancers. They
+cause mutations in growing tissues and hence, unborn babies are espe-
+cially vulnerable.
+Section summary
+The EM spectrum is made up of a broad range of frequencies
+of EM radiation.
+Each type of the EM spectrum have their own benefits and
+side effects.
+Review questions
+1. Mention one source of EM waves.
+2. Arrange the following types of EM radiation in order of in-
+creasing frequency: infrared, X-rays, UV rays, visible light, and
+gamma.
+3. Discuss on the use of each type of EM spectrum.
+4. Describe the dangers of each type of EM spectrum.
+186
+Unit 6 Electromagnetic Waves and Geometrical Optics
+6.3 Light as a wave
+By the end of this section, you should be able to:
+illustrate the propagation of light;
+describe the medium of propagation of light;
+Exercise 6.5
+describe the speed of light waves.
+Does light require
+In the previous section, you learnt that light is a form of EM wave. Light is,
+a medium to
+travel?
+thus, another type of wave that carries energy. The light that humans can
+see is called a 'visible light'.
+Medium of propagation of light
+Like other waves, light waves can travel through matter. Although it travels
+through matter, it is different from waves like water and sound waves. This
+is because light is an EM wave and it can pass through a vacuum. That is
+Key Concept
+why you can see light from the moon, distant stars, and galaxies.
+It As light is an
+EM wave, it can
+Speed of light
+travel in a vacuum
+as well as through
+An EM wave, including light, is special because, no matter what the fre-
+materials such
+quency, it all moves at a constant velocity (in a vacuum), which is known
+as air, water, and
+as the speed of light. The speed of light has the symbol c and is equal to
+glass.
+2.99792458 X 10⁸ m/s ≈ 3.00 X 10⁸ m/s.
+In reality, nothing travels faster than the speed of light. Thus, in empty
+space, light travels at a speed of about 300,000 kilometers. Light travels so
+fast that light emitted from the Sun travels 150 million km to Earth in only
+Exercise 6.6
+about eight and a half minutes. Even though light travels incredibly fast,
+How do you know
+stars other than the Sun are so far away that it takes years for the light they
+emit to reach Earth.
+that light trav-
+els through a
+vacuum?
+On the other hand, when light travels through matter, it interacts with the
+atoms and molecules in the material and slows down. As a result, light
+6.3 Light as a wave
+187
+travels fastest in empty space, and slowest in solids. In glass, for example,
+light travels about 197,000 km/s.
+Because all EM waves in a vacuum have the same speed c (i.e., speed of
+Key Concept
+light), it follows that:
+It
+EM waves
+in general and
+c=Xxf =
+(6.1)
+light in par-
+where Л is the wavelength of the EM wave, and f is the frequency of the
+ticular travel
+EM wave. Thus, the greater the frequency of an EM wave, the smaller its
+with a speed of
+3.00 X 10⁸ m/s in a
+wavelength becomes.
+vacuum.
+Example 6.1
+Find the frequency of red light with a wavelength of 700 nm.
+Solution:
+You are given that A = 700 nm and c = 3.00 X 10⁸ m/s. You are asked to find
+the frequency.
+You can obtain the frequency by rearranging the formula c = 1xf, to yield
+10⁻⁹n Hz
+Example 6.2
+An FM radio station broadcasts EM radiation at a frequency of 103.4 MHz.
+Calculate the wavelength of this radiation.
+Solution:
+In this example, you are given f = 103.4 MHz and c = 3.00 X 10⁸ m/s. What
+you want to find is the wavelength, Л.
+From the expression c = 1xf, X you can easily derive for Л. Thus,
+188
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Propagation of light
+Exercise 6.7
+A source of light such as a light bulb gives off light rays that travel away
+from the light source in all directions just as the rock hitting the pond
+If you drop a rock
+causes waves to form in the water as in Figure 6.4 (b). However, while the
+on the smooth
+water waves spread out only on the surface of the pond, light waves spread
+surface of a pond,
+what would hap-
+out in all directions from the light source as it is indicated in Figure 6.4 (a).
+pen?
+To understand the direction of propagation of a light wave, look at light
+entering a room through a small opening in a wall. You will note the
+motion of dust particles, which essentially provide simple evidence that
+light travels in a straight line. An arrow headed straight line represents the
+direction of propagation of light and is called a ray.
+Exercise 6.8
+How is light prop-
+Light rays are drawn using straight lines with arrow heads and are used
+agated?
+to show the path that light travels. A collection of rays is called a beam.
+Light rays are, therefore, narrow beams of light that travel in a straight line.
+You can use the idea of a light ray to indicate the direction through which
+light travels. A ray diagram is a drawing that shows the path of light rays.
+In Figure 6.5, the light rays from the object enter the eye, and the eye sees
+the object.
+(a)
+(b)
+Figure 6.4 (a) Light moves away in all directions from a light source, (b) Ripples
+spread out on the surface of water.
+6.3 Light as a wave
+189
+light
+analyze
+observe
+reflection
+of the light
+object
+Figure 6.5 Light rays from the object to the eyes.
+The most important thing to remember is that you can only see an object
+when light from the object enters our eyes. The object must be a source of
+light (for example, a light bulb) or else it must reflect light from a source
+(for example, the moon) and the reflected light enters our eyes.
+Section summary
+Light travels in all directions from its source, in straight lines
+with arrows to show the path of light.
+Light rays are not real. They are merely used to show the path
+that light travels.
+Like all forms of EM waves, light can travel through empty
+space as well as through matter.
+In vacuum, light travels with a speed of 3.00 X 10⁸ m/s.
+Review questions
+1. Are light rays real? Explain.
+2. Give evidence to support the statement: "Light travels in
+190
+Unit 6 Electromagnetic Waves and Geometrical Optics
+straight lines". Draw a ray diagram to prove this.
+3. Explain how light wave propagates.
+4. Do EM waves need a medium to travel through?
+5. What is the speed of light? What symbol is used to refer to the
+speed of light? Does the speed of light change?
+6. Calculate the frequency of an EM wave with a wavelength of
+400 nm.
+6.4 Laws of reflection & refraction
+Exercise 6.9
+By the end of this section, you should be able to:
+When you smile
+state laws of reflection and refraction;
+infront of a mirror,
+solve problems based on the laws of reflection and refraction;
+you see your own
+face smiling back
+identify area of application of these laws in your locality and/or
+at you. Do you
+elsewhere.
+know the reason
+behind it?
+Reflection of light
+When you look in a mirror, you see your image because of the reflection of
+light rays on the mirror. Thus, when a ray of light approaches a smooth
+polished surface and the light ray bounces back, it is called the reflection
+Perpendicular
+to surface
+of light. The incoming light ray is called the incident ray. The light ray
+Incident ray
+Reflected ray
+Θ₁
+Θᵣ
+moving away from the surface is the reflected ray. The most important
+characteristic of these rays is their angles in relation to the reflecting sur-
+face. These angles are measured with respect to the normal of the surface.
+Surface
+The normal is an imaginary line perpendicular to the surface. The angle
+of incidence, Θᵢ, is measured between the incident ray and the surface
+Figure 6.6 A light ray strikes a
+normal. The angle of reflection, Θᵣ, is measured between the reflected ray
+surface and is reflected.
+6.4 Laws of reflection & refraction
+191
+and the surface normal. This is shown in Figure 6.6.
+When a light ray strikes a surface and is reflected, as in Figure 6.6, the
+reflected ray obeys the law of reflection. According to the law of reflection,
+i. Θᵢ = Θᵣ and
+Key Concept
+Reflection is
+ii. The incident ray, the normal to the mirror at the point of incidence
+the change in
+and the reflected ray all lie in the same plane.
+direction of light
+These laws are applicable to all types of reflections, i.e., specular and dif-
+rays at a surface
+fuse reflection. The following is the discussion of the distinction between
+that causes them
+these two types of reflection.
+to move away
+from the surface.
+Specular Reflection and Diffuse Reflection
+The reflection of light from a smooth shiny surface, as in Figure 6.7 (a), is
+referred to as specular reflection. In this type of reflection, all the reflected
+light moves in the same direction. In contrast, if a surface is rough, as in
+Figure 6.7 (b), the reflected light is sent out in a variety of directions, giving
+rise to diffuse reflection. For example, when the surface of a road is wet,
+the water creates a smooth surface and headlights reflecting from the road
+undergo specular reflection.
+Exercise 6.10
+The law of reflec-
+tion is true for
+any surface. Does
+this mean that
+(a)
+(b)
+when parallel rays
+approach a sur-
+Figure 6.7 (a) Specular and (b) diffuse reflection.
+face, the reflected
+rays will also be
+Refraction of light
+parallel?
+In the first part of this section, you studied light reflecting off various sur-
+faces. Light seems to travel along straight-lines in a transparent medium.
+192
+Unit 6 Electromagnetic Waves and Geometrical Optics
+In this subsection, you will learn about the refraction of light. Let us start
+our discussion by considering the apparent displacement of a pencil partly
+immersed in water using the following activity:
+Activity 6.1
+1. Fill a large, opaque drinking glass or cup with water.
+2. Place a pencil in the water at an angle.
+3. Looking directly down into the cup from above, observe the
+Figure 6.8 Refraction of light.
+straw where it touches the water as shown in Figure 6.8.
+4. Placing yourself so that the pencil angles to your left or right,
+slowly back away about 1 T. Observe the pencil as it appears
+above, at and below the surface of the water.
+Exercise 6.11
+5. Describe the pencil's appearance from above.
+What happens
+when light
+6. Compare the pencil's appearance above and below the water's
+passes through a
+surface in step 4.
+medium? Does it
+still move along
+Have you noticed how the light reaching you from the portion of the pencil
+a straight line
+inside water seems to come from a different direction compared to the
+path or change its
+part above water. This makes the pencil appear to be displaced at the
+direction?
+interface. These observations indicate that light does not travel in the
+same direction in all media.
+normal to surface
+incident ray
+reflected ray
+Like all waves, the speed of light is dependent on the medium through
+which it is traveling. When light moves from one medium into another
+Θ,
+01
+Medium 1
+(for example, from air to glass), the direction of propagation of light in the
+second medium changes. This phenomenon is known as the refraction
+Medium 2
+of light. Refraction is therefore the bending of light as it moves from one
+Θ₂
+optical medium to another.
+refracted ray
+Figure 6.9 Ray showing the
+Glass, water, ice, diamonds and quartz are all examples of transparent
+refraction of light.
+media through which light can pass. The speed of light in each of these
+6.4 Laws of reflection & refraction
+193
+materials is different. The speed of light in water, for instance, is less than
+the speed of light in air; the speed of light in glass is less than the speed
+of light in water. When light moves from a material in which its speed is
+higher to a material in which its speed is lower, such as from air to glass,
+the ray is bent toward the normal, as shown in Figure 6.10 (a). On the other
+hand, if the ray moves from a material in which its speed is lower to one in
+which its speed is higher, as in Figure 6.10 (b), the ray is bent away from
+the normal. If the incident ray of light is parallel to the normal, then no
+refraction (bending) occurs in either case.
+Normal
+Normal
+Key Concept
+Θ₁ > Θ₂
+Θ₁ < Θ₂
+Refraction is
+v₁
+Θ₁
+v₁
+Θ₁
+the bending of
+light as it travels
+Air
+Glass
+from one medium
+Glass
+Air
+V₂ > v₁
+to another.
+V₂ < v₁
+V₂
+Θ₂
+Θ₂
+V₂
+JE
+Refraction oc-
+curs when light's
+Figure 6.10 Bending of a light ray (a) toward the normal and (b) away
+velocity changes.
+from the normal.
+The following are the laws of refraction of light:
+The incident ray, the refracted ray, and the normal to the interface of
+Exercise 6.12
+two transparent media at the point of incidence all lie in the same
+Explain why light
+plane.
+bends when it
+passes from one
+The ratio of the sine of the angle of incidence to the sine of the
+medium to an-
+angle of refraction is constant. This law is also known as Snell's law
+other.
+of refraction. If Θ₁ is the angle of incidence and Θ₂ is the angle of
+refraction as shown in Figure 6.11, then,
+sin Θ₁
+= constant
+(6.2)
+sin Θ₂
+This constant value is called the refractive index of the second medium
+with respect to the first. Let us study refractive index in some detail.
+194
+Unit 6 Electromagnetic Waves and Geometrical Optics
+The Refractive Index
+Exercise 6.13
+The speed of light and the degree of bending of the light depend on the
+Why does light
+refractive index of the material through which the light passes. You can
+travel faster
+think of the refractive index as a measure of how difficult it is for light to
+through air than
+get through a material.
+water?
+Consider a ray of light traveling from medium 1 into medium 2, as shown
+in Figure 6.11.
+Θ₁
+Medium 1
+n₁,V₁
+n₂,V₂
+Medium 2
+Θ₂
+Figure 6.11 Ray showing the refraction of light between different
+medium.
+Let v₁ be the speed of light in medium 1, and v₂ be the speed of light in
+medium 2. The refractive index of medium 2 with respect to medium 1
+is given by the ratio of the speed of light in medium 1 and the speed of
+light in medium 2. This is usually represented by the symbol n₂₁ which is
+expressed in an equation as:
+n₂₁ = speed speed of of light light in in medium medium 2 1 = V₂ V₁
+(6.3)
+By the same argument, the refractive index of medium 1 with respect to
+medium 2 is represented as n₁₂ and it is given by
+6.4 Laws of reflection & refraction
+195
+n₁₂ = speed speed of of light light in in medium medium 2 1 = V₁ V₂
+(6.4)
+If medium 1 is vacuum or air, then the refractive index of medium 2 is con-
+sidered with respect to vacuum. This is called the absolute refractive index
+(or simply the refractive index) of the medium. It is simply represented
+as n. If c is the speed of light in a vacuum and is the speed of light in the
+medium, then, the refractive index of the medium n is given by:
+speed of light in vacuum c
+Key Concept
+n =
+=
+(6.5)
+speed of light in medium V
+The absolute
+refractive index of
+The refractive index of different materials is given in Table 6.1. From the
+a material is the
+table, you can see that the refractive index of water, nw = 1.33. This means
+ratio of the speed
+that the ratio of the speed of light in vacuum to the speed of light in water
+of light in a vac-
+is equal to 1.33.
+uum to its speed
+in the medium.
+Table 6.1 Absolute refractive index of some material mediums
+Material medium
+Refractive index
+Material medium
+Refractive index
+Air
+1.0003
+Canada Balsam
+1.53
+Ice
+1.31
+Water
+1.33
+Rock salt
+1.54
+Alcohol
+1.36
+Kerosene
+1.44
+Carbon disulphide
+1.63
+Fused quartz
+1.46
+Dense flint glass
+1.65
+Turpentine oil
+1.47
+Ruby
+1.71
+Benzene
+1.5
+Sapphire
+1.77
+Crown glass
+1.52
+Diamond
+2.42
+In Figure 6.11 above, if a light ray is incident on the surface between these
+materials with an angle of incidence Θ₁, the refracted ray passes through
+the second medium with an angle of refraction Θ₂. Snell's law which was
+discussed above can thus be written as follows:
+n₁sinΘ₁=n₂sinΘ₂
+(6.6)
+196
+Unit 6 Electromagnetic Waves and Geometrical Optics
+where n₁ = refractive index of material 1, n₂ = refractive index of material 2,
+Θ₁ = angle of incidence and Θ₂ = angle of refraction. Remember that angles
+of incidence and refraction are measured from the normal, which is an
+imaginary line perpendicular to the surface.
+Example 6.3
+If a light ray with an angle of incidence of 35° passes from water to air, find
+the angle of refraction using Snell's Law.
+Solution:
+As depicted in Table 6.1, the refractive index is 1.33 for water and about 1
+for air. You are also given the value of the angle of incidence, i.e., 35°. So
+you can use Snell's law to find the value for the angle of refraction.
+n₁sin Θ₁ = Θ₂
+1.33 X sin 35° = 1 Θ₂
+sin Θ₂ = 1.33 X 0.57 = 0.763
+Θ₂ = (0.763) = 49.7°
+In this example, since the light ray passes from a medium of high refractive
+index to a medium of low refractive index, the light ray is bent away from
+the normal.
+Total internal reflection
+Exercise 6.14
+What happens to
+When light passes from a dense medium (larger index of refraction) to a
+the refracted ray
+less dense medium (smaller index of refraction), for example, from water
+when the angle
+to air, the refracted ray bends away from the normal, as in Figure 6.10 (a).
+of incidence is
+As the angle of incidence increases, the angle of refraction also increases.
+increased?
+When the angle of incidence reaches a certain value, called the critical
+angle Θc, the angle of refraction is 90°. Then, the refracted ray points along
+the surface, as shown in Figure 6.12 (b). When the angle of incidence
+exceeds the critical angle, as in Figure 6.12 (c), there is no refracted light.
+All the incident light is reflected back into the medium from which it came,
+6.4 Laws of reflection & refraction
+197
+Refracted
+O₂
+ray
+Air (n₂=1)
+n₂
+Θ₂ = 90°
+n₂
+Water
+n₁
+(n₁=1.3)
+n₁
+Incident
+Θ
+Θc
+Θc
+Θ₁
+Θc
+Incident
+ray
+Incident
+Total
+Reflected
+ray
+internal
+ray
+ray
+reflection
+(a)
+(b)
+(c)
+Figure 6.12 The critical angle and total internal reflection.
+a phenomenon called total internal reflection.
+For total internal reflection to take place, the following two conditions
+must be satisfied.
+Light must travel from an optically denser medium (i.e., a medium
+having a high refractive index) to an optically rarer medium (i.e., a
+medium having a lower refractive index). It does not occur when
+light propagates from a less dense to a denser medium, for example,
+from air to water.
+The angle of incidence in the denser medium must be greater than
+the critical angle.
+Now you shall learn how to derive the value of the critical angle for two
+given media. The process is fairly simple and involves just the use of Snell's
+Law that you have already studied. To recap, Snell's Law states:
+n₁sinΘ₁=n₂sinΘ₂
+(6.7)
+For total internal reflection, you know that the angle of incidence is the
+critical angle (i.e., Θ₁ = Θᶜ). You also know that the angle of refraction at
+the critical angle is 90° (i.e., Θc = 90° ). You can then write Snell's law as:
+n₁sin Θc = n₂ 90°
+198
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Solving for Θc gives:
+Total internal reflection is a powerful tool since it can be used to confine
+light. One of the most common applications of total internal reflection is
+in fibre optics. Optical fibres are usually thinner than a human hair. The
+construction of a single optical fibre is shown in Figure 6.13. When light
+is incident on one end of the fibre at a small angle, it undergoes multiple
+total internal reflections along the fibre. The light finally emerges with
+undiminished intensity at the other end. Even if the fibre is bent, this
+process is not affected.
+Cladding
+n₂
+O2
+Cladding
+n=1
+Core
+Core
+E
+n₂
+Cladding
+(a) A light in glass fiber pipe
+(b) Light emerging from a bundle of glass fibers.
+Figure 6.13 Light is guided along a fibre by multiple internal reflec-
+tions.
+Optical fibres are most common in telecommunications, because informa-
+tion can be transported over long distances with minimal loss of data. The
+minimized loss of data gives optical fibres' an advantage over conventional
+cables. Data is transmitted from one end of the fibre to another in the form
+of laser pulses.
+Optic fibres are also used in medicine in endoscopes. The main part of
+an endoscope is the optical fibre. Endoscopes are used to examine the
+inside of a patient's stomach by inserting the endoscope down the patient's
+throat. Other medical applications of optical fibres' are in neurosurgery
+and the study of the bronchi.
+6.4 Laws of reflection & refraction
+199
+Example 6.4
+A particular glass has an index of refraction of n = 1.52. What is the critical
+angle for total internal reflection for light leaving the glass and entering air
+for which n = 1.00?
+Solution:
+You are given n₁ = 1.52 and n₂ = 1.00.
+Using the expression for Θᶜ,
+The Dispersion of Light: Prisms and Rainbows
+Before discussing the dispersion of light, let us first go back to the refraction
+Exercise 6.15
+of light through a prism. The inclined refracting surfaces of a glass prism
+How could the
+show exciting phenomena. Let us find it out through the following activity.
+white light of the
+Activity 6.2
+sun give us vari-
+jer Take a thick sheet of cardboard and make a small hole or narrow
+ous colors of the
+slit in its middle.
+rainbow?
+Allow sunlight to fall on the narrow slit. This gives a narrow beam
+of white light.
+Now, take a glass prism and allow the light from the slit to fall on
+one of its faces as shown in Figure 6.14.
+Turn the prism slowly until the light that comes out of it appears
+on a nearby screen.
+Key Concept
+What do you observe? You will find a beautiful band of colors.
+The prism can
+Why does this happen?
+split the incident
+white light into a
+Notice the colors that appear at the two ends of the color band. What is
+band of colors.
+the sequence of colors that you see on the screen? The various colors seen
+are Violet, Indigo, Blue, Green, Yellow, Orange and Red as shown in Figure
+6.14. The acronym VIBGYOR will help you to remember the sequence of
+colors.
+200
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Red
+Orange
+Yellow
+White light
+Green
+Blue
+Indigo
+Violet
+Glass Prism
+Figure 6.14 Dispersion of white light by a glass prism.
+The band of colored components in a light beam is called its spectrum.
+The splitting of light into its component colors is called dispersion. You
+have seen that white light is dispersed into its seven color components
+by a prism. Why do you have these colors? Different colors of light bend
+at different angles with respect to the incident ray, as they pass through
+a prism. The red light refracts the least, while the violet light refracts the
+most. Thus, the rays of each color emerge along different paths and thus
+become distinct. It is the band of distinct colors that you see in a spectrum.
+Figure 6.15 Rainbow in the sky.
+6.4 Laws of reflection & refraction
+201
+The rainbow is a familiar example of dispersion, in this case the dispersion
+of sunlight. A rainbow is a natural spectrum appearing in the sky after a
+rain shower (Figure 6.15). It is caused by the dispersion of sunlight by tiny
+water droplets present in the atmosphere. A rainbow is always formed in
+a direction opposite to that of the Sun. The water droplets act like small
+prisms. They refract and disperse the incident sunlight, then reflect it
+internally, and finally refract it again when it comes out of the raindrop.
+Due to the dispersion of light and internal reflection, different colors reach
+the observer's eye.
+Section summary
+1. Light rays reflect off surfaces. The incident ray shines in on
+the surface and the reflected ray is the one that bounces off
+the surface. The surface normal is the perpendicular line to
+the surface where the light strikes the surface.
+2. The angle of incidence is the angle between the incident ray
+and the surface normal, and the angle of reflection is the angle
+between the reflected ray and the surface normal.
+3. The law of reflection states the angle of incidence is equal to
+the angle of reflection and that the incident, the reflected and
+the normal lie in the same plane.
+4. Specular reflection takes place when parallel rays fall on a
+surface and they leave the object as parallel rays.
+5. Diffuse reflection takes place when parallel rays are reflected
+in different directions.
+6. Refraction is the bending of light that occurs because light
+travels at different speeds in different materials. It obeys the
+laws of refraction.
+7. Refractive index is a material property that describes how the
+material affects the speed of light traveling through it.
+202
+Unit 6 Electromagnetic Waves and Geometrical Optics
+8. Total internal reflection takes place when light is reflected
+back into the medium because the angle of incidence is
+greater than the critical angle. The critical angle is the an-
+gle of incidence where the angle of reflection is 90°. The light
+must shine from a dense to a less dense medium.
+9. A prism can be used to split the incident white light into a
+band of visible colors.
+Review questions
+1. A ray of light strikes a surface at 25° to the surface. Draw a ray
+diagram showing the incident ray, reflected ray, and surface
+normal. Find the angle of reflection.
+2. State the law of reflection.
+3. Explain how light is reflected from rough and smooth surfaces.
+4. State Snell's Law.
+5. Describe what is meant by the refractive index of a medium.
+6. A ray of light strikes the interface between air and diamond. If
+the incident ray makes an angle of 30° with the interface, cal-
+culate the angle made by the refracted ray with the interface.
+7. A ray of light traveling in air enters obliquely into water. Does
+the light ray bend towards the normal or away from the nor-
+mal? Why?
+8. You are given kerosene, turpentine and water. In which of
+these does the light travel fastest? Use the information given
+in table 6.1.
+9. A ray of light travels from silicon to water. If the ray of light in
+the water makes an angle of 69° to the surface normal, what
+is the angle of incidence in the silicon?
+6.5 Mirrors and lenses
+203
+10. What are the conditions that must be satisfied for total inter-
+nal reflection to occur?
+11. Define what is meant by the critical angle when referring to
+total internal reflection. Include a ray diagram to explain the
+concept.
+12. Why a Diamond Sparkles?
+13. Will light traveling from diamond to silicon ever undergo total
+internal reflection?
+14. When white light strikes a prism, which color of light is re-
+fracted the most and which is refracted the least?
+6.5 Mirrors and lenses
+By the end of this section, you should be able to:
+apply the laws of reflection and refraction;
+describe image formation as a consequence of reflection and refrac-
+tion;
+perform calculations based on the law of reflection and refraction;
+distinguish between real and virtual images;
+Exercise 6.16
+Did you glance in
+In this section, you shall study about the different types of mirrors and
+the mirror before
+lenses. You will use the laws of reflection to understand how mirrors form
+leaving for school
+images while you will use the laws of refraction to understand the images
+this morning?
+formed by lenses.
+Mirror
+A mirror is a reflective surface that does not allow the passage of light
+and instead bounces it off, thus producing an image. Plane and spherical
+204
+Unit 6 Electromagnetic Waves and Geometrical Optics
+mirrors are the two types of mirrors.
+Plane Mirrors
+Exercise 6.17
+A mirror that has a flat reflective surface is called a plane mirror.
+How does a plane
+mirror form an
+Image formation by a plane mirror
+image?
+If you place a candle in front of a plane mirror, you will see two candles.
+The actual, physical candle is called the object and the picture you see
+in the mirror is called the image. The object is the source of the incident
+rays. The image is the picture that is formed by the reflected rays. In a
+plane mirror, your image looks much the same as it would in a photograph.
+In order to understand how a plane mirror forms an image, let us do the
+following activity.
+Activity 6.3
+1. Stand one step away from a large mirror.
+2. What do you observe in the mirror? This is called your image.
+3. What size is your image? Bigger, smaller or the same size as
+your actual size?
+4. How far is your image from you? How far is your image from
+the mirror?
+5. Is your image upright or upside down?
+6. Take one step backwards. What does your image do? How far
+are you from your image?
+7. Lift your left arm. Which arm does your image lift?
+What did you notice from the above activity? The formation of an image
+by a plane mirror is illustrated in the Figure 6.16. The object is the blue
+6.5 Mirrors and lenses
+205
+arrow, and you locate the image by finding the position where at least two
+rays intersect after leaving the same point on the object (arrow head) and
+reflecting off the mirror.
+Mirror
+The rays that originate from the arrow head are labeled A and B, while the
+A
+A'
+reflected rays are labeled A' and B'. Ray A that leaves the arrow head and
+B
+hits the mirror at an angle of incidence of zero reflects directly back (ray A').
+Θ
+Ray B hits the mirror at an angle and is reflected at an angle of reflection
+Object
+Θ
+Image
+that is equal to the angle of incidence (law of reflection); the reflected ray
+B
+is labeled B'. Notice that the reflected rays A' and B' do not converge, but
+diverge (spread apart after reflection). In this case, the image is found
+Figure 6.16 Image formation in
+the plane mirror.
+by extending the reflected rays back to find the point where they appear
+to come from. The point where they intersect is then the location of the
+image of the arrow head (shown in yellow), as shown in Figure 6.16. This
+type of image is called a virtual image.
+Key Concept
+Thus, the image of an object in a plane mirror appears to be behind the
+The image formed
+mirror. You also find that the virtual image is located at the same distance
+by a plane mirror
+behind the mirror as the object distance. Also the height of the image is
+is:
+identical to the height of the object and is upright. The image size is the
+virtual.
+same as the object size and is upright. Although mirrors do not produce
+the same dis-
+an inverted image, left and right are inverted. The image of a right hand is
+tance behind the
+a left hand.
+mirror as the ob-
+ject is in front of
+Number of images formed by two plane mirrors inclined to
+the mirror.
+laterally in-
+each other
+verted. This
+If two plane mirrors are placed inclined to each other at an angle Θ, the
+means that the
+number of images formed by mirrors is
+image is inverted
+from side to side.
+360° Θ if (360°) is an even integer.
+the same size
+as the object.
+upright.
+≈ (360), if Θ is an odd integer.
+206
+Unit 6 Electromagnetic Waves and Geometrical Optics
+For example, 5 images are formed by two mirrors at a 60° angle. Two
+mirrors inclined to each other at different angles may provide the same
+number of images. Fore example, for any value of Θ between 90° and 120°,
+the number of maximum images formed is n = 3. This in turn implies that
+if Θ is given, n is unique but if n is given, Θ is not unique.
+On the other hand, the number of images seen may be different from the
+number of images formed and depends on the position of the observer
+relative to the object and mirrors. For instance, if Θ= 120°, the maximum
+number of images formed will be 3 but the number of images seen may be
+1, 2 or 3 depending on the position of the observer.
+Uses of plane mirrors
+A plane mirror is used
+in looking glasses,
+in construction of kaleidoscope, telescope, sextant, and periscope,
+for seeing round the corners,
+as deflector of light, etc.
+Spherical Mirrors
+Some mirrors are not flat. A spherical mirror is formed by the inside
+(concave) or outside (convex) surfaces of a sphere. Thus, a concave mirror
+has a surface that is curved inward, like the bowl of a spoon. Unlike plane
+mirrors, concave mirrors cause light rays to come together, or converge. A
+convex mirror, on the other hand, has a surface that curves outward, like
+the back of a spoon. Convex mirrors cause light waves to spread out, or
+diverge. Examples of a concave and a convex mirror are shown in Figure
+6.17.
+The following are some of the few important terms used to describe spher-
+ical mirrors.
+6.5 Mirrors and lenses
+207
+Principal axis
+Principal axis
+P
+C
+P
+F
+F
+C
+(a)
+(b)
+Figure 6.17 Spherical mirrors.
+The center of the sphere, of which the mirror is apart is called the
+center of curvature (C) of the mirror and the radius of this sphere
+defines its radius of curvature (R).
+The middle point P of the reflecting surface of the mirror is called its
+pole.
+The straight line passing through the center of curvature and the
+pole is said to be the principal axis of the mirror.
+The circular outline (or periphery) of the mirror is called its aperture.
+Aperture is a measure of the size of the mirror.
+A beam of light incident on a spherical mirror parallel to the prin-
+cipal axis converges to or appears to diverge from a common point
+after reflection. This point is known as principal focus (F) of the
+mirror.
+The distance between the pole and the principal focus gives the focal
+length (f) of the mirror.
+For spherical mirrors of small apertures, the radius of curvature is
+found to be equal to twice the focal length. You put this as R = 2f.
+This implies that the principal focus of a spherical mirror lies midway
+between the pole and center of curvature.
+208
+Unit 6 Electromagnetic Waves and Geometrical Optics
+1
+2
+Ray diagrams used to form images by spherical mirrors
+4
+You can study the formation of images by spherical mirrors by drawing ray
+3
+diagrams. Consider an extended object, of finite size, placed in front of a
+C
+4
+spherical mirror. In order to locate the image of an object, any two of the
+2
+3
+following rays can be considered for locating the image.
+1
+1. Ray striking the pole: A ray of light striking the pole of the mirror at
+Figure 6.18 Rays used to form
+an angle is reflected back at the same angle on the other side of the
+image by concave mirror.
+principal axis (Ray number 1 in Figures 6.18 and 6.19).
+2
+2. Parallel ray: For a concave mirror, the ray parallel to the principal
+2
+axis is reflected in such a way that after reflection it passes through
+3
+3
+the principal focus (Ray number 2 in Figure 6.18). But for a convex
+mirror, the parallel ray is so reflected that it appears to come from
+C
+4
+the principal focus (Ray number 2 in Figure 6.19).
+4
+3. Ray through center of curvature: A ray passing through the center
+Figure 6.19 Rays used to form
+of curvature hits the mirror along the direction of the normal to
+image by convex mirror.
+the mirror at that point and retraces its path after reflection (Ray
+number 3 in Figures 6.18 and 6.19).
+Exercise 6.18
+4. Ray through focus: A ray of light heading towards the focus or inci-
+dent on the mirror after passing through the focus returns parallel
+How can you lo-
+to the principal axis (Ray number 4 in Figures 6.18 and 6.19).
+cate the image
+formed by a con-
+Remember that in all the above cases, the laws of reflection are followed.
+cave mirror for
+At the point of incidence, the incident ray is reflected in such a way that
+different positions
+the angle of reflection equals the angle of incidence.
+of the object? Are
+the images real or
+virtual? Are they
+a) Image formation by a concave mirror
+enlarged, dimin-
+ished or have the
+The intersection of at least two of the above four reflected rays gives the
+same size?
+position of the image of the object. Thus, any two of the above rays can be
+considered for locating the image. Using the above rules of ray diagrams,
+the image formed for the different positions of an object is given in Figure
+6.20.
+6.5 Mirrors and lenses
+209
+ImageF
+P
+P
+C
+F
+Object
+C
+Object
+Object at infinity
+Object beyond C
+Object
+Object
+€
+P
+C
+F
+Image
+F
+Image
+Object at C
+Object between F and P
+Object
+Object
+C.
+Image
+C
+P
+F
+Object between C and F
+Object at F
+Figure 6.20 Formation of an image by a concave mirror.
+Table 6.2 Image formation by a concave mirror for different positions of the
+object
+Position of the
+Position of the
+Size of the im-
+Nature of the im-
+object
+image
+age
+age
+At infinity
+At the focus F
+Highly
+dimin-
+Real and inverted
+ished,
+point-
+sized
+Beyond C
+Between F and
+Diminished
+Real and inverted
+C
+At C
+At C
+Same size
+Real and inverted
+Between C and
+Beyond C
+Enlarged
+Real and inverted
+F
+At F
+At infinity
+Highly enlarged
+Real and inverted
+Between P and
+Behind the mir-
+Enlarged
+Virtual and erect
+F
+ror
+210
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Activity 6.4
+Draw neat ray diagrams for each position of the object shown
+in Figure 6.20.
+You may choose any two of the rays mentioned in the previous
+Key Concept
+sub section for locating the image.
+JV
+The proper-
+ties of the image
+Compare your diagram with those given in Figure 6.20.
+produced by a
+Describe the nature, position, and relative size of the image
+concave mirror
+formed in each case.
+depend on the
+location of the
+Tabulate the results in a convenient format.
+object.
+Uses of concave mirrors
+Exercise 6.19
+Explain why
+Concave mirrors are commonly used in torches, search-lights and vehicles
+concave mir-
+headlights to get powerful parallel beams of light. They are often used as
+rors are used
+shaving mirrors to see a larger image of the face. The dentists use concave
+in flash lights
+mirrors to see large images of the teeth of their patients. Large concave
+and automobile
+mirrors are used to concentrate sunlight to produce heat in solar furnaces.
+headlights.
+b) Image formation by convex mirror
+You studied the formation of the image using a concave mirror. Now you
+shall study the formation of images by a convex mirror. Let us first illustrate
+this using an activity.
+6.5 Mirrors and lenses
+211
+Activity 6.5
+Take a convex mirror. Hold it in one hand.
+Hold a pencil in the upright position in the other hand.
+Observe the image of the pencil in the mirror. Is the image
+erect or inverted? Is it diminished or enlarged?
+Move the pencil away from the mirror slowly. Does the image
+become smaller or larger?
+Repeat this activity carefully. State whether the image will
+move closer to or farther away from the focus as the object is
+moved away from the mirror.
+What did you noticed from this activity? Consider two positions of the
+object when studying the image formed by a convex mirror. The first
+position is when the object is at infinity and the second is when the object
+is at a finite distance from the mirror. The ray diagrams for the formation
+of an image by a convex mirror for these two positions of the object are
+shown in Figure 6.21 (a) and (b), respectively. The results are summarized
+in table 6.3.
+P
+F
+C
+Object between
+P
+Image
+infinity and the pole
+F
+C
+Object at
+infinity
+Figure 6.21 Formation of an image by a convex mirror.
+212
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Table 6.3 Nature, position and relative size of the image formed by a convex
+mirror
+Position of the object
+Position of the image
+Size of the image
+Nature of the image
+At infinity
+At the focus F, behind
+Highly
+dimin-
+Virtual and erect
+the mirror
+ished,
+point-
+sized
+Between infinity and Between P and F, be- Diminished
+Virtual and erect
+the pole P of the mir-
+hind the mirror
+ror
+Uses of convex mirrors
+Convex mirrors are commonly used as rear-view (wing) mirrors in vehicles.
+These mirrors are fitted on the sides of the vehicle enabling the driver to
+see traffic behind him or her to facilitate safe driving. Convex mirrors are
+preferred because they always give an erect, though diminished, image.
+Also, they have a wider field of view as they are curved outwards. Thus,
+convex mirrors enable the driver to view a much larger area than would be
+possible with a plane mirror.
+Mirror Formula and Magnification
+In spherical mirrors, the distance of the object from its pole is called the
+object distance (u). The distance of the image from the pole of the mirror
+is called the image distance (v). You already know that the distance of the
+principal focus from the pole is called the focal length (f).
+There is a relationship between these three quantities given by the mirror
+formula, which is expressed as
+v+1=1
+(6.8)
+6.5 Mirrors and lenses
+213
+R
+Mirror
+h
+C
+Image
+Object
+F
+h'
+V
+u
+Figure 6.22 u, v, f, h and h' for a mirror.
+On the other hand, the magnification produced by a spherical mirror gives
+the relative extent to which the image of an object is magnified with respect
+to the object's size. Thus, the magnification m produced by a spherical
+mirror is given by
+m = height height of ofthe the image object (h') (h) = h' h
+(6.9)
+The magnification m is also related to the object distance (u) and image
+distance (v). It can be expressed as
+Magnification (m) =-=-- h' h u V
+(6.10)
+These formulas are valid for spherical mirrors in all positions of the object.
+While substituting the numerical values for u, v, f, and R in the mirror
+formula for solving problems, you must use the sign convention indicated
+in Table 6.4.
+214
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Table 6.4 Sign conventions for spherical mirrors
+Quantity
+Positive when
+Negative when
+Object location, u
+object is in front of mirror
+object is in back of
+(real object)
+mirror (virtual object)
+Image location, v
+image is in front of mirror
+image is in back of
+(real image)
+mirror (virtual image)
+Image height, h'
+image is upright
+image is inverted
+Focal length, f
+mirror is concave
+mirror is convex
+Magnification, m
+image is upright
+image is inverted
+Example 6.5
+A convex mirror used for rear-view on an automobile has a radius of cur-
+vature of 3.00 T. If a bus is located at 5.00 m from this mirror, find the
+position, nature and size of the image.
+Solution:
+You are given radius of curvature, R = 3.00 m and object distance, u=+ =
+5.00 m; The focal length is f = R/21 = 3.00 2 = - 1.50m (as the principal focus
+of a convex mirror is behind the mirror).
+You want to find the value for the image distance, v and height of the image,
+h'.
+Using the mirror equation,
+1 1 1
+v+u f'
+1
+1
+1
+1
+1
+-5.00
+-
+1.50
+=
+=
+=
+v
+ƒ
+u
+1.50
++5.00
+7.50
+.`. v = -7.50 6.50 = -1.15m
+Therefore, the image is 1.15 m at the back of the mirror.
+a (-1.15m)
+The image is thus virtual, erect and smaller in size by a factor of 0.23.
+6.5 Mirrors and lenses
+215
+Example 6.6
+An object, 6.0 cm in size, is placed at 25.0 cm in front of a concave mirror
+of 15.0 cm focal length. At what distance from the mirror should a screen
+be placed in order to obtain a sharp image? Determine the nature and the
+size of the image.
+Solution:
+The given quantities are object size, h = + 6.0 cm, object distance, и = + 25.0
+cm and focal length, and f = + 15.0 cT.
+You are asked to find the image distance, v and image size, h'.
+Since 1+1=1,
+1
+1
+1
+1
+1
+5.00 - 3.00
+=
+=
+=
+v ƒ u 15.0 25.0 75
+.`. v = 37.5 m
+The screen should be placed at 37.5 cm in front of the mirror. The image is
+real. Also,
+Magnification
+Solving for h' gives
+h' = u = (37.5 (25.0cm) (6.0 cm) = 6.0 cm
+Thus, the height of the image is - 6.0 cT. The negative sign implies that the
+image is inverted and enlarged.
+Lenses
+Exercise 6.20
+If you have ever used a microscope, telescope, binoculars, or a camera,
+What is a lens?
+you have worked with one or more lenses. A lens is a curved piece of
+How does it bend
+transparent material that is smooth and regularly shaped so that when
+light rays?
+light strikes it, the light refracts in a predictable and useful way.
+A transparent material bound by two surfaces of which one or both are
+spherical forms a lens. This means that a lens is bound by at least one
+spherical surface. In such lenses, the other surface would be plane. A lens
+216
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Exercise 6.21
+Have you ever
+may have two spherical surfaces bulging outwards. Such a lens is called
+touched the
+a double convex lens. It is simply called a convex lens. It is thicker at the
+surface of a mag-
+middle as compared to the edges. Convex lenses converge light rays, as
+nifying glass with
+shown in Figure 6.23 (a). Hence, convex lenses are also called converging
+your hand? Is
+lenses. Similarly, a double concave lens is bounded by two inwardly curved
+it plane surface
+spherical surfaces. It is thicker in the edges than at the middle. Such lenses
+or curved? Is it
+diverge light rays as shown in Figure 6.23 (b) and are also called diverging
+thicker in the
+lenses. A double concave lens is simply called a concave lens.
+middle or at the
+edges?
+F
+F
+Axis
+F
+Key Concept
+f
+Concave lenses,
+f
+cause light to di-
+Figure 6.23 (a) Converging action of a convex lens, (b) diverging
+verge, and convex
+action of a concave lens.
+lenses cause light
+A lens, either a convex lens or a concave lens, has two spherical surfaces.
+to converge.
+Each of these surfaces forms a part of a sphere. The centers of these
+spheres are called the centers of curvature (C) of the lens. Since there
+are two centers of curvature, you may represent them as C₁ and C₂. An
+imaginary straight line passing through the two centers of curvature of
+a lens is called its principal axis. The central point of a lens is its optical
+Exercise 6.22
+center (O). A ray of light through the optical center of a lens passes without
+What happens
+suffering any deviation. The effective diameter of the circular outline of a
+when parallel
+spherical lens is called its aperture.
+rays of light are
+incident on a
+In order to look for the phenomenon that happens when parallel rays of
+lens?
+light are incident on a lens, try to do the following activity.
+6.5 Mirrors and lenses
+217
+Activity 6.6
+Hold a convex lens in your hand. Direct it towards the Sun.
+Focus the light from the Sun on a sheet of paper. Obtain a
+sharp bright image of the Sun.
+Hold the paper and the lens in the same position for a while.
+Keep observing the paper. What happened? Why?
+Caution: Do not look directly at the Sun or through a lens while
+performing this activity as it may cause damage to your eyes.
+The paper begins to burn producing a smoke. It may even catch fire after a
+while. Why does this happen? The light from the Sun constitutes parallel
+rays of light. These rays were converged by the lens at the sharp bright
+spot formed on the paper. This caused the paper to burn.
+In Figure 6.23 (a), several rays of light traveling parallel to the principal
+axis are falling on a convex lens. These rays, after refraction from the lens,
+are converging to a point on the principal axis. This point on the principal
+axis is called the principal focus of the lens. On the other hand, in Figure
+6.23 (b), several rays of light parallel to the principal axis are falling on a
+concave lens. These rays, after refraction from the lens, are appearing to
+diverge from a point on the principal axis. This point on the principal axis
+is called the principal focus of the concave lens.
+If you pass parallel rays from the opposite surface of the lens, you get
+another principal focus on the opposite side. The letter F is usually used to
+represent the principal focus. However, a lens has two principal foci. They
+are represented by F₁ and F₂. The distance of the principal focus from the
+optical center of a lens is called its focal length (f).
+218
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Ray diagrams used to form image in lenses
+You can represent image formation by lenses using ray diagrams. Ray
+diagrams will also help us to study the nature, position and relative size of
+the image formed by lenses. For drawing ray diagrams in lenses, like those
+of spherical mirrors, you consider any two of the following rays:
+1. A ray of light from the object, parallel to the principal axis, after
+refraction from a convex lens, passes through the principal focus on
+the other side of the lens as shown in Figure 6.24 (a). In the case of
+a concave lens, the ray appears to diverge from the principal focus
+located on the same side of the lens as shown in Figure 6.24 (b).
+2. A ray of light passing through a principal focus, after refraction from
+a convex lens, will emerge parallel to the principal axis. This is shown
+in Figure 6.24 (a). A ray of light appearing to meet at the principal
+focus of a concave lens, after refraction, will emerge parallel to the
+principal axis. This is shown in Figure 6.24 (b).
+3. A ray of light passing through the optical center of a lens will emerge
+without any deviation. This is illustrated in Figure 6.24 (a) and Figure
+6.24 (b).
+1
+3
+Image
+Object
+F
+2
+F
+(a)
+1
+2
+3
+Object
+Image
+F
+(b)
+Figure 6.24 Ray diagram for (a) Convex lens (b) Concave lens.
+6.5 Mirrors and lenses
+219
+(a) Image formation by convex lenses
+Lenses form images by refracting light. Let us study this for a convex lens
+Exercise 6.23
+first by doing the following activity.
+How do lenses
+form images?
+Activity 6.7
+What is their
+Take a convex lens of some focal length.
+nature?
+Draw five parallel straight lines, using chalk, on a long table
+such that the distance between the successive lines is equal
+to the focal length of the lens.
+Place the lens on a lens stand. Place it on the central line such
+that the optical center of the lens lies just over the line.
+The two lines on either side of the lens correspond to F and
+2F of the lens, respectively. Mark them with the appropriate
+letters, for example, 2F₁, F₁, F₂ and 2F₂ respectively.
+Place a burning candle, far beyond 2F₁ to the left. Obtain a
+clear sharp image on the opposite side of the lens on a screen.
+Note down the nature, position and relative size of the image.
+Repeat this activity by placing the object just behind 2F₁, be-
+tween F₁ and 2F₁ at F₁, between F₁ and O. Note down and
+tabulate your observations.
+What did you notice? Have you noticed that the nature, position, and
+relative size of the image depend on the location of the object? The ray
+diagrams for the image formation in a convex lens for a few positions of the
+object are shown in Figure 6.25. Table 6.5 summarizes the nature, position,
+and relative size of the image formed by a convex lens for various positions
+of the object.
+220
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Object
+F2
+2F₂
+2F₁
+F₁
+o
+F2
+2F₂
+2F₁
+F₁
+Image
+Object
+Object at infinity
+Object beyond 2F
+Object
+O
+F2
+Object
+2F₂
+O
+F₂
+2F₂
+2F₁
+F1
+2F₁
+F₁
+Image
+Image
+Object between F and 2F
+Object at 2F
+Object
+O
+Object
+2F₁
+F1
+2F2
+2F₁
+F1
+F2
+2F₂
+Object at F
+Object between 0 and F
+Figure 6.25 The position, size and nature of the image formed by a convex lens
+for various positions of the object.
+Table 6.5 Nature, position and relative size of the image formed by a convex
+lens for various positions of the object
+Position of the object
+Position of the image
+Size of the image
+Nature of the image
+At infinity
+At the focus F₂
+Highly
+dimin-
+Real and inverted
+ished,
+point-
+sized
+Beyond 2F₁
+Between F₂ and 2F₂
+Diminished
+Real and inverted
+At 2F₂
+At 2F₂
+Same size
+Real and inverted
+Between F₁ and 2F₁
+Beyond 2F₂
+Enlarged
+Real and inverted
+At Focus F₁
+At infinity
+Infinitely large
+Real and inverted
+or Highly en-
+larged
+Between focus F₁
+On the same side of
+Enlarged
+Virtual and erect
+and optical center O
+the lens as the object
+6.5 Mirrors and lenses
+221
+(b) Image formation by concave lenses
+Let us now do an activity to study the nature, position and relative size of
+the image formed by a concave lens.
+Activity 6.8
+Take a concave lens. Place it on a lens stand.
+Place a burning candle on one side of the lens.
+Look through the lens from the other side and observe the
+image. Try to get the image on a screen, if possible. If not,
+observe the image directly through the lens.
+Note down the nature, relative size and approximate position
+of the image.
+Move the candle away from the lens. Note the change in the
+size of the image. What happens to the size of the image when
+the candle is placed too far away from the lens?
+What conclusions can you draw from this activity? A concave lens will
+always give a virtual, erect, and diminished image, irrespective of the
+position of the object. The ray diagrams representing the image formation
+in a concave lens for various positions of the object are shown in Figure
+6.26.
+2F,
+F1
+0
+2F,
+object
+F1
+image
+0
+Figure 6.26 Image formed by a concave lens.
+The summary of the above activity is given in table 6.6 below.
+222
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Table 6.6 Nature, position, and relative size of the image formed by a concave
+lens for various positions of the object
+Position of the object
+Position of the image
+Size of the image
+Nature of the image
+At infinity
+At focus F₁
+Highly
+dimin-
+Virtual and erect
+ished, point-sized
+Between infinity and
+Between focus F₁,
+Diminished
+Virtual and erect
+optical center O of
+and optical center O
+the lens
+Lens formula and magnification
+As there is an equation for spherical mirrors, there is also a similar equation
+for lenses. This equation gives the relationship between object distance
+(u), image distance (v) and the focal length (f). It is expressed as
+и 1 + v 1 = f 1
+(6.11)
+h
+O
+Image
+Object
+F
+h'
++
+f
+V
+u
+Figure 6.27 u, v and f in a lens.
+The magnification produced by a lens, similar to that for spherical mirrors,
+is defined as the ratio of the height of the image (h) and the height of the
+object (h). Thus, the magnification (m) produced by the lens is given by,
+m=h' m h
+(6.12)
+6.5 Mirrors and lenses
+223
+Table 6.7 Sign conventions for lenses
+Quantity
+Positive when
+Negative when
+Object location, и
+object is in front of lens
+object is in back of
+(real object)
+lens (virtual object)
+Image location, v
+image is in back of lens
+image is in front of
+(real image)
+lens (virtual image)
+Image height, h'
+image is upright
+image is inverted
+Focal length, f
+converging lens
+diverging lens
+R₁ and R₂
+center of curvature is in
+center of curvature is
+back of lens
+in front of lens
+The magnification produced by a lens is also related to the object distance
+u, and the image distance v. This relationship is given by
+(6.13)
+The above lens and magnification formula are general and is applicable to
+any spherical lens in any situations. While putting numerical values for
+solving problems relating to lenses into the above equations, you need to
+be careful to use the sign conventions indicated in table 6.7.
+Example 6.7
+A concave lens has a focal length of 15 cT. At what distance from the lens
+should the object be placed so that it forms an image at 10 cm from the
+lens? Also, find the magnification produced by the lens.
+Solution:
+In this example, image distance v= 10 cm and focal length f = 15 cT.
+You want to find the value for the object distance, и and magnification, m.
+Since 1+1=1,
+111
+1
+1
+-2+3
+1
+=
+=
+=
+=
+u f v -15.0 -10.0 30 30
+v = 30 cm
+224
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Thus, the object distance is 30 cT.
+Magnification +0.33
+The positive sign shows that the image is erect and virtual. The image is
+one-third the size of the object.
+Thus, a concave lens always forms a virtual, erect image on the same side
+of the object.
+Example 6.8
+A 2.0 cm tall object is placed perpendicular to the principal axis of a convex
+lens of 10 cm focal length. The distance of the object from the lens is 15 cT.
+Find the nature, position, and size of the image. Also find its magnification.
+Solution:
+You are given height of the object, h = + 2.0 cm, focal length, f = + 10 cm
+and object distance, and u=+ 15 cT.
+The required quantity is the value for the image distance, v and height of
+the image, h'.
+Since
+111
+v u =
+1111 13-2
+=
+=
+=
+v f u 10 15 30
+.`. v = +30cm
+The positive sign of v shows that the image is formed at a distance of 30 cm
+6.5 Mirrors and lenses
+225
+on the other side of the optical center. The image is real and inverted.
+Magnification = и = (2) (30) (15) +30 = -6.0cm
+Thus, the magnification is
+The negative signs of m and h' show that the image formed is inverted and
+real. It is formed below the principal axis. Thus, a real, inverted image, 4
+cm tall is formed at a distance of 30 cm on the other side of the lens. The
+image is two times enlarged.
+Section summary
+The image formed by a plane mirror is virtual, erect and of
+the same size as that of the object such that the object and its
+image appear to be equidistant from the mirror.
+A convex mirror is a diverging mirror in which the reflective
+surface bulges towards the light source. The image formed
+by convex mirrors is smaller than the object but gets larger as
+they approach the mirror.
+A concave mirror has a reflective surface that is curved inward
+and away from the light source. The image formed by a con-
+cave mirror shows different image types depending on the
+distance between the object and the mirror.
+The lens which is thick in the middle and thin at the edges
+is called a convex lens whereas the lens which is thin in the
+middle and thick at the edges is called a concave lens.
+Convex lens is also known as a converging lens as it converges
+the parallel rays of light at a point after refraction.
+226
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Concave lens is also known as diverging lens as it diverges the
+parallel beam of light after refraction.
+The type of image formed by a convex lens depends on the
+position of the object that can be placed at different positions
+in front of the lens. However, a concave lens always produces
+a virtual, erect and diminished images.
+The mirror as well as lens equation expresses the quantitative
+relationship between the object distance, the image distance
+and the focal length.
+Review questions
+1. List the five properties of an image created by reflection from
+a plane mirror.
+2. If a stool 0.5 m high is placed 2 m in front of a plane mirror,
+how far behind the plane mirror will the image be and how
+high will the image be?
+3. Find the number of images formed by an object placed be-
+tween two plane mirrors inclined at 30°.
+4. Define the principal focus of a concave mirror.
+5. The radius of curvature of a spherical mirror is 20 cm. What is
+its focal length?
+6. Name a mirror that can give an erect and enlarged image of
+an object.
+7. Why is a convex mirror preferred as a rear-view mirror in
+automobiles?
+8. So far, you have studied the image formation by a plane mirror,
+a concave mirror, and a convex mirror. Which of these mirrors
+will give the full image of a large object?
+6.5 Mirrors and lenses
+227
+9. An object 1 cm high is placed 4 cm from a concave mirror. If
+the focal length of the mirror is 2 cT, find the position and
+size of the image. Is the image real or virtual? Calculate the
+magnification.
+10. An object 2 cm high is placed 4 cm from a convex mirror. If
+the focal length of the mirror is 4 cT, find the position and
+size of the image. Is the image real or virtual? Calculate the
+magnification.
+11. A concave mirror produces a three times magnified (enlarged)
+real image of an object placed 10 cm in front of it. Where is
+the image located?
+12. In each case, state whether a real or virtual image is formed
+by a convex lens:
+(a) Much further than 2F₁
+(b) Just further than 2F₁
+(c) At 2F₁
+(d) Between 2F₁ and F₁
+(e) At F₁
+(f) Between F₁ and O.
+13. An object stands 50 mm away a convex lens (focal length 40
+mm). Use ray diagrams to determine the position of the image.
+Is it enlarged or minimized; upright or inverted?
+14. An object 6 cm high is 10 cm from a concave lens. The image
+formed is 3 cm high. Find the focal length of the lens and the
+distance of the image from the lens.
+15. An object is 20 cm from a concave lens. The virtual image
+formed is three times smaller than the object. Find the focal
+length of the lens.
+228
+Unit 6 Electromagnetic Waves and Geometrical Optics
+6.6 Human eye and optical instruments
+By the end of this section, you should be able to:
+describe the human eye in relation to lenses;
+list simple optical instrument in use in your locality;
+explain the physics behind the operation of optical instruments.
+The human eye
+Exercise 6.24
+How does a hu-
+The human eye is one of the most valuable and sensitive sense organs. It
+enables us to see the wonderful world and the colors around us. Of all the
+man eye form an
+image?
+sense organs, the human eye is the most significant one, as it enables us to
+see the beautiful, colorful world around us.
+Sclera
+Retina
+Iris
+Optic nerve
+Cornea
+Pupil
+Macula
+Lens
+Ciliary body
+Retinal blood
+and muscle
+vessels
+Conjunctiva
+Vitreous body
+Figure 6.28 Basic elements of human eye.
+The human eye is like a camera. Its lens system forms an image on a
+light-sensitive screen called the retina. Light enters the eye through a thin
+membrane called the cornea. It forms the transparent bulge on the front
+surface of the eyeball, as shown in Figure 6.28.
+The eyeball is approximately spherical in shape with a diameter of about
+2.3 cT. Most of the refraction of the light rays entering the eye occurs at
+the outer surface of the cornea. The crystalline lens merely provides the
+6.6 Human eye and optical instruments
+229
+finer adjustment of the focal length required to focus objects at different
+Key Concept
+distances on the retina. You find a structure called the iris behind the
+The human
+cornea. Iris is a dark muscular diaphragm that controls the size of the
+eye consists of a
+pupil. The pupil regulates and controls the amount of light entering the
+lens system that
+eye. The eye lens forms an inverted real image of the object on the retina.
+focuses images
+The retina is a delicate membrane with an enormous number of light-
+on the retina,
+sensitive cells. The light-sensitive cells get activated upon illumination
+where the optic
+and generate electrical signals. These signals are sent to the brain via the
+nerve transfers
+optic nerves. The brain interprets these signals, and, finally, processes the
+the messages to
+information so that you perceive objects as they are.
+the brain.
+Power of accommodation
+Exercise 6.25
+The eye lens is composed of a fibrous, jelly-like material. The ciliary mus-
+If you try to read
+cles can modify to some extent its curvatures. The change in the curvature
+a printed page
+of the eye lens can thus change its focal length. When the muscles are re-
+by holding it very
+laxed, the lens becomes thin. Thus, its focal length increases. This enables
+close to your eyes,
+us to see distant objects clearly. When you are looking at objects closer
+what happens to
+to the eye, the ciliary muscles contract. This increases the curvature of
+the image you
+see?
+the eye lens. The eye's lens then becomes thicker. Consequently, the focal
+length of the eye lens decreases. This enables us to see nearby objects
+Key Concept
+clearly. The ability of the eye's lens to adjust its focal length is called accom-
+The minimum
+modation. However, the focal length of the eye's lens cannot be decreased
+distance, at which
+below a certain minimum limit.
+objects can be
+seen most clearly
+If you try to read a printed page by holding it very close to your eyes, you
+without strain, is
+may see the image being blurred or feel strain in the eye. To see an object
+called the least
+comfortably and distinctly, you must hold it at about 25 cm from the eyes.
+distance of dis-
+For a young adult with normal vision, the near point is about 25 cT. The
+tinct vision. It is
+farthest point up to which the eye can see objects clearly is called the far
+also called the
+point of the eye. It is infinity for a normal eye. You may note here that a
+near point of the
+normal eye can see objects clearly that are between 25 cm and infinity.
+eye.
+230
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Defects of vision and their correction
+Exercise 6.26
+Sometimes, the eye may gradually lose its power of accommodation. In
+Have you encoun-
+such conditions, the person cannot see the objects distinctly and comfort-
+tered peoples who
+ably. The vision becomes blurred due to the refractive defects of the eye.
+have defects in
+There are mainly three common refractive defects of vision.
+their vision?
+(a) Myopia/near-sightedness
+A person with myopia can see nearby objects clearly but cannot see distant
+objects distinctly. A person with this defect has the far point nearer than
+infinity. Such a person may see clearly up to a distance of a few meters.
+In a myopic eye, the image of a distant object is formed in front of the
+retina and not at the retina itself (Figure 6.29 (a)) . This defect may arise
+due to (i) excessive curvature of the eye lens, or (ii) elongation of the
+eyeball. This defect can be corrected by using a concave lens of suitable
+power. A concave lens of suitable power will bring the image back on to
+the retina. This is illustrated in Figure 6.29 (b).
+Relaxed Lens
+Object
+Far point
+Image in
+(a)
+Front of
+retina
+Diverting lens
+Object
+Far point
+Image
+(b)
+at retina
+Figure 6.29 (a) Short-sightedness. (b) Short-sightedness corrected by
+diverging lens.
+6.6 Human eye and optical instruments
+231
+(b) Hypermetropia/far-sightedness
+A person with hypermetropia can see distant objects clearly but cannot see
+nearby objects distinctly. The near point, for the person, is farther away
+from the normal near point (25 cm). Such a person has to keep reading
+material much beyond 25 cm from the eye for comfortable reading. This is
+because the light rays from a close by object are focused at a point behind
+the retina, as shown in Figure 6.30 (a). This defect arises either because (i)
+the focal length of the eye lens is too long, or (ii) the eyeball has become too
+small. This defect can be corrected by using a convex lens of appropriate
+power. Eye glasses with converging lenses provide the additional focusing
+power required for forming the image on the retina. This is illustrated in
+Figure 6.30 (b).
+Contracted Muscle
+Key Concept
+Myopia, hy-
+permetropia and
+presbyopia are
+Near
+Object
+Point
+(a)
+Image behind
+defects of vision.
+retina
+They can be cor-
+Converging
+rected with an
+lens
+appropriate lens.
+Near
+Object
+Image
+Point
+(b)
+at retina
+Relaxed Lens
+Figure 6.30 (a)Long-sightedness. (b) Long-sightedness corrected by
+converging lens.
+(c) Presbyopia
+The power in accommodation of the eye usually decreases with age. For
+most people, the near point gradually recedes. Without corrective eye-
+glasses, they have difficulty seeing nearby objects comfortably and clearly.
+This defect is called presbyopia. It arises due to the gradual weakening of
+232
+Unit 6 Electromagnetic Waves and Geometrical Optics
+the ciliary muscles and diminishing flexibility of the eye lens. Sometimes,
+a person may suffer from both myopia and hypermetropia. Such people
+often require bi-focal lenses. A common type of bi-focal lens consists of
+both concave and convex lenses. The upper portion consists of a concave
+lens. It facilitates distant vision. The lower part is a convex lens. It facili-
+tates near vision. Nowadays, it is possible to correct the refractive defects
+with contact lenses or through surgery.
+Do you know that your eyes can live even after our death? By donating
+your eyes after you die, you can light the life of a blind person.
+Optical instruments
+Activity 6.9
+A number of optical devices and instruments have been designed utilizing
+the reflecting and refracting properties of mirrors and lenses. Periscope,
+In group, please
+kaleidoscope, binoculars, camera, telescopes, and microscopes are some
+try to list the dif-
+examples of optical devices and instruments that are in common use. Our
+ferent types of
+eye is, of course, one of the most important optical devices that the nature
+optical instru-
+has endowed us with. You have already studied the human eye. You now
+ments that you
+go on to describe the principles of operation of the microscope and the
+know.
+telescope.
+Simple microscope
+Exercise 6.27
+A simple magnifier or microscope is a converging lens of small focal length
+(Figure 6.31). In order to use such a lens as a microscope, the lens is held
+What do you
+near the object, one focal length away or less, and the eye is positioned
+think is a simple
+close to the lens on the other side. The idea is to get an erect, magnified
+microscope?
+and virtual image of the object at a distance so that it can be viewed
+comfortably, i.e., at 25 cm or more.
+6.6 Human eye and optical instruments
+233
+Key Concept
+The image
+formed by a mag-
+nifying glass is
+erect, magnified
+and virtual.
+Activity 6.10
+In groups, try to
+discuss how a
+Figure 6.31 A simple microscope.
+compound micro-
+scope magnifies
+Compound microscope
+objects. Infer
+how the image
+A simple microscope has a limited maximum magnification for realistic
+produced by a
+focal lengths. For much larger magnifications, one has to use two lenses,
+compound mi-
+one compounding the effect of the other. This is known as a compound
+croscope would
+microscope.
+be different if
+the eyepiece lens
+A compound microscope has, therefore, more than one objective lens,
+were removed
+from the micro-
+each providing a different magnification. Figure 6.32 shows how a micro-
+scope forms an image. An object, such as an insect, is placed close to a
+scope.
+convex lens called the objective lens. This lens produces an enlarged im-
+Key Concept
+age inside the microscope tube. The light rays from that image then pass
+through a second convex lens called the eyepiece lens. This lens further
+The objec-
+tive lens in a
+magnifies the image formed by the objective lens. By using two lenses, a
+compound micro-
+much larger image is formed than a single lens can produce.
+scope forms an
+enlarged image,
+which is then
+magnified by the
+eyepiece lens.
+234
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Telescopes
+Exercise 6.28
+Have you heard
+Just as microscopes are used to magnify very small objects, telescopes are
+about the func-
+used to examine objects that are very far away. Much of what is known
+tions of a tele-
+about the Moon, the Solar system and the distant universe has come from
+scope?
+images and other information gathered by telescopes.
+Two fundamentally different types of telescopes exist. The first type, the
+refracting telescope, uses a combination of lenses to form an image. The
+simplest refracting telescopes use two convex lenses to form an image of
+a distant object. Just as in a compound microscope, light passes through
+an objective lens that forms an image. That image is then magnified by
+an eyepiece, as shown in Figure 6.33. Like the compound microscope,
+the refracting telescope shown has an objective and an eyepiece. The two
+Exercise 6.29
+lenses are arranged so that the objective forms a real, inverted image of a
+What do you think
+are the differ-
+EYEPIECE
+COARSE
+ADJUSTMENT
+ences between
+a telescope and
+a compound mi-
+BODY TUBE
+croscope? Would
+you please try
+FINE
+to think of how
+ADJUSTMENT
+telescopes make
+distant objects
+OBJECTIVE
+visible?
+LENS
+STAGE
+MIRROR
+JOINT
+Figure 6.32 A compound microscope.
+6.6 Human eye and optical instruments
+235
+distant object very near the focal point of the eyepiece.
+An important difference between a telescope and a microscope is the size
+Key Concept
+of the objective lens. The main purpose of a telescope is not to magnify an
+It
+A refracting
+image. A telescope's main purpose is to gather as much light as possible
+telescope is made
+from distant objects. The larger an objective lens is, the more light that
+from an objec-
+can enter it. This makes images of far away objects look brighter and more
+tive lens and an
+detailed when they are magnified by the eyepiece. With a large enough
+eyepiece. The ob-
+objective lens, it is possible to see stars and galaxies that are many trillions
+jective lens forms
+of kilometers away. Figure 6.33 shows a refracting telescope.
+an image that is
+magnified by the
+The second type, the reflecting telescope, can be made much larger than
+eyepiece.
+refracting telescopes. Reflecting telescopes have a concave mirror instead
+of a concave objective lens to gather the light from distant objects. As
+shown in Figure 6.34, the large concave mirror focuses light onto a sec-
+ondary mirror that directs it to the eyepiece, which magnifies the image.
+Exercise 6.30
+Explain why the
+objective lens
+of a refracting
+telescope is much
+larger than the
+objective lens
+of a compound
+microscope.
+Figure 6.33 Refracting telescope.
+236
+Unit 6 Electromagnetic Waves and Geometrical Optics
+Exercise 6.31
+Explain why the
+concave mirror
+of a reflecting
+telescope can be
+made much larger
+than the objective
+Figure 6.34 Reflecting telescopes gather light by using a concave
+mirror.
+lens of a refracting
+Because only the one reflecting surface on the mirror needs to be made
+telescope.
+carefully and kept clean, telescope mirrors are less expensive to make and
+maintain than lenses of a similar size. Also, mirrors can be supported not
+only at their edges but also on their backsides. They can be made much
+larger without sagging under their own weight.
+Key Concept:
+Section summary
+Light entering
+The simple defects of vision, i.e., long and short sight, are
+the telescope
+attributed to the inability of the eye lens to focus images of
+tube is reflected
+near and far objects on the retina. Simple lenses enable these
+by a concave
+defects to be corrected.
+mirror onto the
+secondary mirror.
+The function of optical instruments is to extend the perfor-
+An eyepiece is
+mance of the human eye in a variety of ways.
+used to magnify
+The magnifying glass creates an enlarged, erect and virtual
+the image formed
+image of an object placed closer to the lens than the focal
+by the concave
+mirror.
+point.
+The compound microscope is an instrument for looking at
+very small objects by using an objective to produce an en-
+larged real intermediate image which is then further enlarged
+6.6 Human eye and optical instruments
+237
+by an eyepiece used as a magnifying glass.
+The telescope is an instrument for looking at distant objects.
+A large objective lens (in the refracting telescope) or concave
+mirror (in the reflecting telescope) collects light from the ob-
+ject to form a reduced real intermediate image at the focus.
+As in the microscope, this image is enlarged by an eyepiece
+acting as a magnifying glass.
+Review questions
+1. What is meant by the power of accommodation of the eye?
+2. A person with a myopic eye cannot see objects beyond 1.2
+m clearly. What should be the type of corrective lens used to
+restore proper vision?
+3. What is the far and near points of the human eye with normal
+vision?
+4. A student has difficulty reading the blackboard while sitting
+in the last row. What could be the defect the child is suffering
+from? How can it be corrected?
+5. List other optical instruments that you are familiar with and
+discuss how they work.
+6. Why is a normal eye not able to clearly see the objects placed
+closer than 25 cm?
+7. What is the difference between simple and compound micro-
+scopes?
+8. Distinguish between the refracting and reflecting telescope.
+9. A person needs a lens of power -5.5 dioptres for correcting
+his distant vision. For correcting his near vision, he needs a
+238
+Unit 6 Electromagnetic Waves and Geometrical Optics
+lens of power +1.5 dioptre. What is the focal length of the lens
+required for correcting (i) distant vision, and (ii) near vision?
+10. What type of telescope is there in Entoto Observatory center?
+What is its purpose?
+6.7 Primary colors of light and human vision
+Exercise 6.32
+By the end of this section, you should be able to:
+Which of the col-
+list the primary colors of light;
+ors of visible light
+describe the relation between primary color and human vision.
+spectrum are
+considered as the
+Light travels into the eye to the retina, located on the back of the eye. The
+primary colors of
+retina is covered with millions of light receptive cells called cones (which
+light?
+are sensitive to color) and rods (which are more sensitive to intensity).
+When these cells detect light, they send signals to the brain. Most people
+have three kinds of cone cells, and every color stimulates more than one
+cone. Their combined response produces a unique signal for each color,
+and millions of different colors can be distinguished this way. These cells,
+Sclera
+Choroid
+Retina
+Cornea
+Light
+Pupil
+Lens
+Optic nerve
+Iris
+Cones
+and Rods
+Ciliary body
+Figure 6.35 Rod and cone cells in the retina of the eye detect light
+and send signals to the brain.
+6.7 Primary colors of light and human vision
+239
+working in combination with connecting nerve cells, give the brain enough
+information to interpret and name colors. You are able to "see" an object
+when light from the object enters your eyes and strikes these photorecep-
+tors.
+Different wavelengths of light are perceived as different colors. For exam-
+Key Concept
+ple, light with a wavelength of about 400 nm is seen as violet, and light with
+Light receptors
+a wavelength of about 700 nm is seen as red. However, it is not typical to
+within the eye
+see light of a single wavelength. You are able to perceive all colors because
+transmit mes-
+there are three sets of cones in your eyes: one set that is most sensitive to
+sages to the brain
+red light, another that is most sensitive to green light, and a third that is
+which produces
+most sensitive to blue light.
+the familiar sensa-
+tions of color.
+The colors of red, green, and blue light are classically considered the pri-
+mary colors because they are fundamental to human vision. All other
+colors of the visible light spectrum can be produced by properly adding
+different combinations of these three colors. Moreover, adding equal
+amounts of red, green, and blue light produces white light and, therefore,
+these colors are also often described as the primary additive colors.
+Key Concept
+Section summary
+Red, green
+Red, green and blue are the primary colors of light.
+and blue are the
+primary colors.
+Rods and cones are the two major types of light-sensing cells
+(photoreceptors) in the retina.
+Review questions
+1. List the three primary colors of light.
+2. What are the two types of photoreceptors found in the retina
+of the human eye called, and which type is sensitive to colors?
+240
+Unit 6 Electromagnetic Waves and Geometrical Optics
+6.8 Color addition of light
+Exercise 6.33
+By the end of this section, you should be able to:
+What do you think
+recognize how additive colors affect the color of light;
+is the definition of
+add primary colors.
+color addition?
+The additive color system reproduces colors by adding the primary col-
+Yellow
+ors of light: red, green, and blue. All the colors that can be produced by
+a three-color additive system are combinations of these three primary
+Red
+Green
+colors. When mixed together in various proportions, the additive color
+White
+primaries of red, green, and blue give us the range of colors that you see.
+So red, green and blue are therefore called the additive primary colors.
+Magenta
+Blue
+Cyan
+The addition of the primary colors of light can be demonstrated using a
+light box. The light box illuminates a screen with the three primary col-
+Figure 6.36 The different com-
+binations of colors produced by
+ors: red, green and blue. The lights are often in the shape of circles. The
+the primary colors of light.
+result of adding two primary colors of light is easily seen by viewing the
+overlap of the two or more circles of primary light. The different combi-
+nations of colors produced by red, green and blue are shown in Figure 6.36.
+Key Concept
+In the areas where two primary colors overlap, a secondary color appears.
+Combinations
+When overlapped, green and blue create cyan. Blue and red produce
+of two of the pri-
+magenta. Red and green produce yellow. Thus,
+mary colors follow
+the rules of addi-
+Red + Green = Yellow
+tive color mixing
+Red+ Blue = Magenta
+so as to produce
+Blue + Green = Cyan
+the secondary
+colors of light:
+Yellow, magenta and cyan are sometimes referred to as secondary colors
+cyan, magenta,
+of light since they can be produced by the addition of equal intensities of
+and yellow.
+two primary colors of light. When added in equal proportions, red, green,
+and blue result in white light. The absence of all three colors results in
+black.
+6.9 Color subtraction of light using filters
+241
+The addition of these three primary colors of light with varying degrees
+of intensity will result in the countless other colors that you are familiar
+(or unfamiliar) with. So, all the other colors can be produced by different
+combinations of red, green and blue.
+Color addition principles have important applications to color television,
+color computer monitors and on-stage lighting at the theaters. A digital
+projector also works using the additive systems. Each of these applications
+involves the mixing or addition of colors of light to produce a desired ap-
+pearance.
+Section summary
+The combination of the three primary colors of light with
+equal proportions produce white light.
+All the other colors of light can be produced by different com-
+binations of red, green and blue.
+Review questions
+1. What colors did you get when you added red and blue, red
+and green, green and blue lights?
+2. What type of applications did color addition of light have?
+6.9 Color subtraction of light using filters
+Exercise 6.34
+By the end of this section, you should be able to:
+What do you think
+is the definition of
+describe color subtraction of light using filters.
+color subtraction?
+The previous lesson focused on the principle of color addition. In this
+section, you will learn about color subtraction. The colors that are ab-
+sorbed are 'subtracted' from the reflected light that is seen by the eye. A
+black objects absorbs all colors where as a white object reflects all colors.
+242
+Unit 6 Electromagnetic Waves and Geometrical Optics
+A blue objects reflects blue and absorbs all other colors. The primary and
+secondary colors of light for the substractive colors are opposite to the
+colors addition as shown in Figure 6.37. The following illustrates color
+subtraction.
+Yellow
+Cyan - Blue = (Green + Blue) - Blue = Green
+Yellow - Green = (Red + Green) - Green = Red
+Red
+Green
+Magneta - Red = (Red + Blue) - Red = Blue
+Black
+Magenta
+Yellow, magenta and cyan are considered as the subtractive primary colors
+Cyan
+Blue
+while red, green and blue are the secondary subtractive colors. On the
+other hand, the complimentary colors are the colors that are absorbed by
+the subtractive primaries. Cyan's complement is red; magenta's comple-
+Figure 6.37 Color subtraction.
+ment is green; and yellow's compliment is blue.
+Pigments are substances which give an object its color by absorbing certain
+frequencies of light and reflecting other frequencies. For example, a red
+pigment absorbs all colors of light except red which it reflects. Paints and
+inks contain pigments which give the paints and inks different colors. A
+filter is also defined as a substance or device that prevents certain things
+from passing through it while allowing certain other things to pass. Color
+Key Concept
+filters allow only certain colors of light to pass through them by absorbing
+all the rest. When white light shines on a red filter, for example, the orange,
+It The subtractive
+yellow, green, blue, and violet components of the light are absorbed by the
+primary colors
+filter allowing only the red component of the light to pass through to the
+are obtained by
+other side of the filter.
+subtracting one of
+the three additive
+primary colors
+The following shows the color subtraction of light using filters or pigments.
+from white light.
+i. Yellow filter (or a pigment) absorbs blue light and transmits red and
+green light. Red and green light together are seen as yellow.
+6.9 Color subtraction of light using filters
+243
+red
+red
+blue
+White Light
+Yellow Light
+green
+green
+Yellow filter
+Figure 6.38 Color subtraction using yellow filter.
+ii. Magenta filter (or a pigment) absorbs green light and transmits red
+and blue light. Blue and red light together are seen as magenta.
+red
+red
+blue
+blue
+White Light
+Magenta Light
+green
+Magenta filter
+Figure 6.39 Color subtraction using magneta filter.
+iii. Cyan filter (or pigment) absorbs red light and transmits blue and
+green light. Blue and green light together are seen as cyan.
+red
+blue
+blue
+White Light
+=
+Cyan Light
+green
+green
+Cyan filter
+Figure 6.40 Color subtraction using cyan filter.
+iv. Yellow filter (or a pigment) absorbs blue and Magenta filter (or a
+pigment) absorbs green and reflect the red light.
+244
+Unit 6 Electromagnetic Waves and Geometrical Optics
+red
+red
+blue
+Red Light
+White Light
+green
+green
+Yellow filter
+Magenta filter
+Figure 6.41 Color subtraction using yellow and magneta filters.
+V. Yellow filter (or a pigment) absorbs blue and cyan filter (or a pigment)
+absorbs red and reflect the green light.
+red
+red
+blue
+Green Light
+White Light
+green
+green
+Yellow filter
+Cyan filter
+Figure 6.42 Color subtraction using yellow and cyan filters.
+vi. Magenta filter (or a pigment) absorbs green and cyan filter (or a
+pigment) absorbs red and reflect the blue light.
+red
+red
+Blue Light
+blue
+blue
+White Light
+green
+Magenta filter
+Cyan filter
+Figure 6.43 Subtraction using magneta and cyan filters.
+When you mix colors using paint, or through the printing process, you are
+using the subtractive color method. Subtractive color mixing means that
+one begins with white and ends with black; as one adds color, the result
+gets darker and tends to black.
+6.9 Color subtraction of light using filters
+245
+Section summary
+Subtractive primary colors filter out all light when combined.
+Review questions
+1. What colors of light are absorbed by a green pigment?
+2. Which combination of colors of light gives magenta?
+3. Which combination of colors of light gives cyan?
+4. If yellow light falls on an object whose pigment absorbs green
+light, what color will the object appear?
+5. If yellow light falls on a blue pigment, what color will appear?
+Virtual Labs
+On the soft copy of the book, click on the following link to per-
+form virtual experiments on electromagnetic waves and geomet-
+rical optics unit under the guidance of your teacher.
+1. Geometric Optics PhET Experiment.
+2. Bending Light PhET Experiment.
+3. Color Vision PhET Experiment.
+4. Radio Waves & Electromagnetic Fields PhET Experiment.
+Unit summary
+The ray model of light describes the path of light as straight
+lines.
+The speed of light in a vacuum is 2.99792458 X 10⁸ ml s = 3.00 X
+246
+Unit 6 Electromagnetic Waves and Geometrical Optics
+10⁸ m/s. The speed of light is different in different materials.
+Like all forms of electromagnetic waves, light can travel
+through vacuum as well as through matter.
+EM spectrum, the entire distribution of EM radiation accord-
+ing to frequency or wavelength. The entire EM spectrum, from
+the lowest to the highest frequency (longest to shortest wave-
+length), includes all radio waves (e.g., commercial radio and
+television, microwaves, radar), infrared radiation, visible light,
+ultraviolet radiation, X-rays, and gamma rays.
+Reflecting surfaces obey the laws of reflection. The refracting
+surfaces obey the laws of refraction.
+A light ray travelling obliquely from a denser medium to a
+rarer medium bends away from the normal. A light ray bends
+towards the normal when it travels obliquely from a rarer to a
+denser medium.
+The refractive index of a transparent medium is the ratio of
+the speed of light in a vacuum to that in the medium.
+Mirrors and lenses form images of objects. Images can be
+either real or virtual, depending on the position of the object.
+The focal length of a spherical mirror is equal to half its radius
+of curvature.
+A compound microscope uses a convex objective lens to form
+an enlarged image that is further enlarged by an eyepiece.
+A refracting telescope uses a large objective lens and an eye-
+piece lens to form an image of a distant object.
+A reflecting telescope uses a large concave mirror that gathers
+light and an eyepiece lens to form an image of a distant object.
+6.9 Color subtraction of light using filters
+247
+The human eye mainly senses red, green and blue, and the
+brain interprets combinations of these into all the colors you
+see.
+The most common set of primary colors is red, green and blue.
+When red, green and blue light are mixed or added together
+with the proper intensity, white light is obtained.
+Additive color synthesis occurs when three light zones (red,
+green, and blue) are mixed with optimum intensity and then
+white light is generated. Additive color synthesis: green + red
+= yellow, blue + red = magenta, blue + green = cyan.
+Subtractive synthesis occurs by mixing the basic material col-
+ors (cyan, magenta and yellow). If all three colors are mixed, a
+black color is created. They are mixed with: yellow + magenta
+= red, yellow + cyan = green, magenta + cyan = blue.
+End Unit questions
+1. You are looking at a burning candle. Draw the path of light
+that enables you to see that candle.
+2. Explain why you need to protect yourselves from ultraviolet
+radiation from the Sun.
+3. List some advantages and disadvantages of using X-rays.
+4. Write a short essay on a type of electromagnetic waves. You
+should look at the uses, advantages and disadvantages of your
+chosen radiation.
+5. List the EM spectrum in order of increasing wavelength.
+6. Do the reflected rays that contribute to forming the image
+from a plane mirror obey the law of reflection?
+248
+Unit 6 Electromagnetic Waves and Geometrical Optics
+7. Copy and complete the following concept map.
+Light
+is an
+is reflected by
+is refracted by
+that can
+that can
+that can
+travel in
+be
+be
+8. The image formed by a concave mirror is observed to be vir-
+tual, erect and larger than the object. Where should be the
+position of the object?
+9. You wish to obtain an erect image of an object, using a concave
+mirror of 15 cm focal length. What should be the range of
+distance of the object from the mirror? What is the nature
+of the image? Is the image larger or smaller than the object?
+Draw a ray diagram to show the image formation in this case.
+10. Name the type of mirror used in the following situations.
+(a) Headlights of a car.
+(b) Side/rear-view mirror of an automobile.
+(c) Solar furnace. Support your answer with reason.
+11. A concave lens of focal length 15 cm forms an image 10 cm
+from the lens. How far is the object placed from the lens?
+Draw the ray diagram.
+12. An object is placed at a distance of 10 cm from a convex mirror
+of 15 cm focal length. Find the position and nature of the
+image.
+13. The magnification produced by a plane mirror is +1. What
+does this mean?
+6.9 Color subtraction of light using filters
+249
+14. An object 5.0 cm in length is placed at a distance of 20 cm in
+front of a convex mirror of radius of curvature 30 cT. Find the
+position of the image, its nature, and its size.
+15. An object of size 7.0 cm is placed at 27 cm in front of a concave
+mirror of 18 cm focal length. At what distance from the mirror
+should a screen be placed, so that a sharp focused image can
+be obtained? Find the size and the nature of the image.
+16. One-half of a convex lens is covered with a black paper. Will
+this lens produce a complete image of the object? Verify your
+answer experimentally. Explain your observations.
+17. An object 5 cm in length is held 25 cm away from a converging
+lens of focal length 10 cT. Draw the ray diagram and find the
+position, size and nature of the image formed.
+18. A convex lens produces a virtual image which is four times
+larger than the object. The image is 15 cm from the lens. What
+is the focal length of the lens?
+19. Compare and contrast primary light colors and primary pig-
+ment colors.
+20. Determine the colors that are reflected from an object that
+appears black.
+21. What color do the following shirts appear to the human eye
+when the lights in a room are turned off and the room is com-
+pletely dark? A) red shirt B) blue shirt C) green shirt.
+22. The cover of a book appears to have a magenta color. What
+colors of light does it reflect and what colors does it absorb?

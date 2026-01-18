@@ -1,0 +1,2250 @@
+Unit 4
+Static and Current Electricity
+Introduction
+Physical phenomenon associated with the presence and flow of electric
+charge is known as electricity. In Ethiopia and elsewhere around the world,
+people depend on electricity to provide power for most appliances in the
+home, at work and out in the world in general. For example, lights, electric
+heating and electric stoves that you use in your home all depend on elec-
+Brain storm-
+tricity to work. To realize just how big impact electricity has on our daily
+ing question
+lives, just think about what happens when there is a power failure. Thus,
+What constitutes
+electricity has an important place in modern society. It is a controllable
+electricity?
+and convenient form of energy for a variety of uses in homes, schools,
+industries and so on. In this unit, you will learn topics related to electricity.
+By the end of this unit, you should be able to:
+understand the basic properties of electric charge;
+explain the charging and discharging processes;
+have a conceptual understanding of an electrical force;
+understand the concept of an electric field;
+understand the relationship among voltage, current and resistance;
+describe arrangement of resistors in a circuit;
+apply the concept of electricity in solving real life problems.
+91
+92
+Unit 4 Static and Current Electricity
+4.1 Charges in Nature
+By the end of this section, you should be able to:
+distinguish between the two types of electric charges;
+show that the total electric charge in an isolated system is conserved;
+use conservation of charge to calculate quantities of charge trans-
+ferred between objects.
+Objects surrounding us (including people) contain large amounts of elec-
+tric charge. There are two types of electric charge: positive charge and
+negative charge. Protons have a positive charge, and electrons have a
+negative charge. If the same amounts of negative and positive charge are
+brought together, they neutralize each other and there is no net charge.
+Positive and negative charges are present in neutral objects, but their num-
+bers are equal. However, if there is a little bit more of one type of charge
+than the other, then the object is said to be electrically charged.
+Exercise 4.1
+When do you
+Unit of Charge
+say that a body
+The SI unit of electric charge is Coulomb (C). One coulomb (1 C) of charge
+is charged posi-
+is carried by 6.25 X 10¹⁸ electrons. An electron possesses a negative charge
+tively?
+of 1.6 X 10⁻¹⁹ C. In electrostatics, you often work with charge in micro
+Coulombs = X 10⁻⁶ C) and nano coulombs (1nC = 1 X 10⁻⁹ C).
+Key Concept
+Conservation of Charge
+It If an object
+gains electrons,
+During electrification, electric charges are neither created nor destroyed,
+it becomes nega-
+but are transferred from one material to another. This is called the law
+tively charged; if
+of conservation of charge. There are some practical examples of charge
+it loses electrons,
+transfer from one material to another. For example, have you ever seen
+it becomes posi-
+the old comb and hair trick where your hair rises and sticks to the comb?
+tively charged.
+This arises because of the simple conservation of charge, i.e., the transfer
+of charge either from the comb to the hair or vice versa. Thus, the total
+4.1 Charges in Nature
+93
+charge in an isolated system never changes. By isolated, you mean that no
+particles are allowed to cross the boundary of the system.
+Exercise 4.2
+Quantization of charge
+A conductor
+The smallest charge that is possible to obtain is that of an electron or
+possesses a pos-
+itive charge of
+proton. The magnitude of this charge is denoted by e. Charge is said to
+3.2
+X
+10⁻¹⁹ C.
+be quantized when it occurs as the integral multiples of e. This is true for
+How many elec-
+both negative and positive charges and is expressed as;
+trons does it
+have in excess
+q = ne where n is positive or negative integer.
+(4.1)
+or deficit (use:
+e = 1.60 X 10⁻¹⁹
+Section summary
+C)?
+There are two types of electric charges: positive and negative.
+Neutral objects have equal number of positive and negative
+charges.
+The total electric charge in an isolated system, that is, the
+algebraic sum of the positive and negative charges present at
+any time, does not change.
+Electric charges are quantized, occurring only in discrete
+amounts.
+Review questions
+1. What are the different types of charges that exist in nature?
+2. When do you say that a body is negatively charged?
+3. What does the law of conservation of charges say?
+4. What does it mean by quantization of a charge?
+5. Write the properties of electric charges.
+94
+Unit 4 Static and Current Electricity
+4.2 Methods of Charging a Body
+By the end of this section, you should be able to:
+demonstrate different charging processes;
+explain the results of different charging processes.
+In the previous section, you discussed that charges are transferred from
+one body to another by a process known as charging. Charging is the
+process of electrifying bodies, by removing or adding charges.
+Activity 4.1
+The following are the different methods of charging a body:
+In groups, try
+i Charging by rubbing
+to think of the
+different ways of
+ii Charging by conduction
+charging a body?
+iii Charging by induction
+Charging by rubbing
+Charging by rubbing occurs when two different neutral materials are
+rubbed together and electric charges are transferred from one object to
+(a)
+the other. Some materials, such as silk are more likely to attract extra
+electrons and become negatively charged, where as others, such as glass
+and ebonite rod, are more likely to give electrons and become positively
+(b)
+charged. This is because some kinds of atoms are more strongly attracted
+Figure 4.1 (a) The comb and
+to electrons than others. For example, in Figure 4.1 (a), the hair and the
+the hair are both neutral. (b) Af-
+comb are both neutral. When they are rubbed together, the atoms in the
+ter being rubbed together, the
+comb gain electrons and the atoms in the hair lose electrons (Figure 4.1
+comb is negatively charged and
+the hair is positively charged.
+(b)). Due to this, the comb attracts tiny pieces of paper.
+4.2 Methods of Charging a Body
+95
+Activity 4.2
+Exercise 4.3
+Tear a piece of paper into several small pieces. Charge a plastic pen
+Charge an object
+and two other objects by rubbing them on your hair or on some
+by friction and
+fabric. Bring each charged object near the pieces of paper.
+bring it near a
+(a) Describe what you observe, listing the three materials you
+stream of smoke
+charged.
+rising from a
+(b) Why are the pieces of paper attracted to the charged object?
+wooden splint.
+(c) Why do some pieces of paper fall off your charged objects after a
+What do you see?
+short while?
+Explain why it
+(d) When using a conducting sphere with a large charge, the paper
+happens.
+"jumps" off instead of falling. Explain why this happens.
+Key Concept
+Charging by
+Charging by Conduction
+rubbing leaves the
+two bodies with
+Charging by conduction occurs when a charged object make contact with a
+an opposite sign
+neutral object. Figure 4.2 depicts the use of a positively charged aluminum
+of charges.
+plate being touched by a neutral metal sphere. A positively charged alu-
+minum plate has an excess of protons. When looked at from an electron
+perspective, a positively charged aluminum plate has a shortage of elec-
+trons. So when the positively charged aluminum plate is touched to the
+neutral metal sphere (Figure 4.2 (b)), countless electrons on the metal
+sphere migrate towards the aluminum plate. There is a mass migration of
+Key Concept
+electrons until the positive charge on the aluminum plate-metal sphere
+system becomes redistributed. Having lost electrons to the positively
+Charging
+charged aluminum plate, there is a shortage of electrons on the sphere
+by conduction
+leaves the charged
+body and the
+uncharged body
++
+with the same
+sign of charge but
+a weaker strength
+(i)
+(ii)
+(iii)
+than the original
+object.
+Figure 4.2 Charging by conduction.
+96
+Unit 4 Static and Current Electricity
+and an overall positive charge as shown in Figure 4.2 (c). The aluminum
+plate is still charged positively; only it now has less excess positive charge
+than it had before the charging process began. This process is called
+charging by conduction, or "by contact" and the two rods end up with the
+same sign on charge.
+Charging by Induction
+Charging by induction is a process where the charged object is held near to
+an uncharged conductive material that is grounded on a neutrally charged
+material. When a charge flows between two objects and the uncharged
+conductive material develops a charge with the opposite polarity.
+Ebonite rod
+Metal
+sphere
+Grounding
++
+wire
+Insulated
+stand
+(a)
+(b)
+Connecting to
+(c)
+the ground
+Figure 4.3 Charging by induction.
+In Figure 4.3, a negatively charged ebonite rod is brought close to, but does
+not touch a neutral metal sphere. In the sphere, the free electrons closest
+to the rod move to the other side, as part (a) of the drawing indicates.
+Key Concept
+As a result, the part of the sphere closer to the rod becomes positively
+Charging by in-
+charged and the opposite part becomes negatively charged. If the rod were
+duction leaves the
+removed, the free electrons would return to their original places, and the
+charged body and
+charged regions would disappear. Under most conditions the earth is a
+the uncharged
+good electrical conductor. So when a metal wire is attached between the
+body with the
+sphere and the ground, as in Figure 4.3 (b), some of the free electrons leave
+opposite sign of
+the sphere and distribute themselves over the much larger earth. If the
+charge.
+grounding wire is then removed, followed by the ebonite rod, the sphere is
+left with a positive net charge, as part (c) of the picture shows.
+4.3 The electroscope
+97
+Section summary
+Charging is the process of supplying the electric charge (elec-
+trons) to an object or losing the electric charge (electrons)
+from an object.
+An uncharged object can be charged in different ways: charg-
+ing by rubbing, conduction and induction.
+Review questions
+1. State the three methods of charging a body.
+2. Describe how uncharged objects can be charged by contact
+and rubbing.
+4.3 The electroscope
+By the end of this section, you should be able to:
+Exercise 4.4
+describe the function of an electroscope;
+What do you
+think about the
+use a simple electroscope to detect charges;
+purpose of an
+make a simple electroscope out of locally available materials.
+electroscope?
+The electroscope is a very sensitive instrument which can be used to de-
+Key Concept
+tect the type of electric charge, to identify whether an object is charged
+For detecting
+or not, to measure the quantity of charge and to know whether an object
+the presence of
+is conductor or insulator. It consists of a glass container with a metal rod
+a charge on the
+inside that has two thin pieces of gold foil attached. The other end of the
+body, you use
+metal rod has a metal plate attached to it outside the glass container. A
+the collapsing
+diagram of a gold leaf electroscope is shown in Figure 4.4.
+or diverging of
+the leaf of the
+When a charged object, like the positively charged rod in Figure 4.4 is
+electroscope.
+brought close to (but not touching), the neutral metal plate of the elec-
+98
+Unit 4 Static and Current Electricity
+Metal pan
++
++
++
++
++
++
++
+Metal rod
+Plastic or glass
+Glass
++
++
+Foil
++
++
+Plastic or glass
+Neutral electroscope
+Electroscope
+Electroscope
+Approached with a
+Approached with a
+negative rod like
+positive rod like
+charge foils repel
+charge foils repel
+Figure 4.4 Charging an electroscope.
+troscope, the negative charge in the gold foil, metal rod, and metal plate
+would be attracted to the positively charged rod. The charge can move
+freely from the foil up the metal rod and onto the metal plate because the
+metal (gold is a metal too) is a conductor. There is now more negative
+charge on the plate and more positive charge on the gold foil leaves. This
+is called inducing a charge on the metal plate. It is important to remember
+that the electroscope is still neutral; the charges have just been induced to
+move to different parts of the instrument. The induced positive charge on
+the gold leaves forces them apart since like charges repel. This is how you
+can tell that the rod is charged.
+When the rod is now moved away from the metal plate, the charge in the
+electroscope spreads out evenly again, and the leaves will fall down again
+because there is no longer an induced charge on them.
+4.4 Electrical Discharge
+99
+Activity 4.3
+Section summary
+Based on what
+An electroscope is a device that is used to detect the presence
+you have learnt
+of an electric charge on a body.
+here, try to design
+or construct a sim-
+Review questions
+ple electroscope
+in groups using
+1. What is the function of an electroscope?
+easily available
+2. How do you know that whether or not an electroscope is
+materials.
+charged?
+Exercise 4.5
+Can a charged
+4.4 Electrical Discharge
+object become
+neutral again?
+By the end of this section, you should be able to:
+explain the nature of electric discharge;
+describe how lightning happens;
+Key Concept
+list the importance of grounding.
+it
+Once an ob-
+ject is charged,
+So far, you have learnt about the techniques of charging a material. There is
+the charges are
+also a technique for removing the excess electric charges from the charged
+trapped on it
+objects. This process of removing electric charges from a charged body
+until they are
+is called discharging. A charged body can be made to lose its charges
+given a path to
+by touching it with a conductor. When a body is discharged, it becomes
+escape. When
+neutral.
+electric charges
+are transferred
+Lightning
+very quickly, the
+process is called
+Lightning is a very large electrical discharge caused by induction. In a
+an electrical dis-
+thunderstorm, a charged area, usually negative, builds up at the base of a
+charge. Sparks
+cloud (Figure 4.5 (a)). The negative charge at the base of the cloud creates
+are an example
+a temporary positively charged area on the ground through the induc-
+of electrical dis-
+tion process (Figure 4.5 (b)). When enough charge has built up, a path of
+charge.
+charged particles is formed (Figure 4.5 (c)). The cloud then discharges its
+100
+Unit 4 Static and Current Electricity
+excess electrons along the temporary path to the ground, creating a huge
+spark (Figure 4.5 (d)). This discharge also causes a rapid expansion of the
+air around it, causing thunder.
+Activity 4.4
+Air is normally an insulator. If it were not, lightning would occur every
+time that cloud formed. For lightning to happen, charges in the clouds
+Lightning are a
+must build up to the point where the air cannot keep them separated from
+common expe-
+the ground. Then, the air stops being an insulator and becomes a fair
+rience during
+rainy season. But,
+conductor, resulting in a lightning strike.
+how it is formed?
+Discuss in groups.
+One way to avoid the damage caused by electric discharges is to make
+the excess charges flow harmlessly into the Earth's surface. The Earth is a
+donator or receiver of charge and is so large that, overall it is not affected
+by the electron transfer of huge lightning strikes. So, it can absorb an
+Activity 4.5
+enormous quantity of excess charge. As a result, the ground is always
+considered neutral.
+In your commu-
+nity, what did
+The process of providing a pathway to drain excess charge into the earth
+people do when
+they encountered
+is called grounding. The pathway is usually a conductor such as a wire
+a person struck by
+or a pipe. You might have noticed lightning rods at the top of buildings
+lightning? Have
+and towers. A lightning conductor is often fitted to the top of a building
+you observed
+that they bury
+some parts of the
+person's (usually
+below the neck) i
+the ground?
+electron
+electron
+Figure 4.5 Lightning is an atmospheric electrical discharge.
+4.4 Electrical Discharge
+101
+to help discharge the clouds safely. These rods are made of metal and are
+connected to metal cables that conduct electric charge into the ground if
+the rod is struck by lightning. The idea is that it should get struck before
+Exercise 4.6
+the building and conduct the surge of charge harmlessly into the Earth's
+Have you ever
+surface.
+heard of someone
+being killed by
+Most lightning deaths and injuries occur outdoors. If you are outside and
+lightning?
+can see lightning or hear thunder, take shelter indoors immediately. If you
+cannot go indoors, you should take these precautions: avoid high places
+and open fields; stay away from tall objects such as trees, flag poles, or light
+towers; and avoid objects that conduct current such as bodies of water,
+metal fences, picnic shelters, and metal bleachers.
+It is very rare that people are struck by lightning, and certainly you will
+Exercise 4.7
+not be struck while you are inside a car or in an airplane. The metal shell
+Would you please
+around you would divert charges away.
+add any other
+mechanisms that
+Section summary
+you know to make
+peoples safe from
+Lightning is a gigantic (very large) discharge between clouds
+lightning?
+and the earth, or between the charges in the atmosphere and
+the earth.
+Review questions
+1. Describe the terms "charging" and "discharging".
+2. Explain what causes the lightning that is associated with a
+thunderstorm.
+3. What is grounding?
+102
+Unit 4 Static and Current Electricity
+Exercise 4.8
+4.5 Coulomb's law of electrostatics
+You might already
+By the end of this section, you should be able to:
+know that like
+charges repel
+state Coulomb's laws of electrostatics;
+each other and
+find the magnitude of electric force between two charges using
+unlike charges
+Coulomb's law.
+attract each other.
+But have you
+The magnitude of the forces between charged spheres was first investi-
+taken a minute
+gated quantitatively in 1785 by Charles Coulomb (1736-1806), a French
+to wonder how
+scientist. He observed that the electrostatic force between the two charges
+strong these
+is proportional to the product of the charges and is inversely proportional
+forces are?
+to the square of their distance apart.
++F
+Coulomb's law can be stated in mathematical terms as
+-F
+q₁
++
+q₂
+r
+(a)
+F α | q₁|q₂|,
+F x 1/2
+(4.2)
+-F
++
+q₁
+q₂
++F
++
+r
+(b)
+F x Fα 91/92
+Figure 4.6 (a) Attractive and
+where F is the magnitude of the electric force between the two charges q₁
+(b) repulsive electrostatic force
+and q2, and r is the distance between the two charges.
+between two charges.
+You can convert the above proportionality expression to an equation by
+Key Concept
+writing
+It The electro-
+static force ex-
+F = k r²
+(4.3)
+erted by a point
+where, k = 1 ≈ 9 10⁹ Nm² is the electrostatic constant;
+charge on a test
+= 8.85 X 10 Nm² is called permittivity of free space.
+charge at a dis-
+tance r depends
+The SI unit of force is the Newton. The electrostatic force is directed along
+on the charge of
+the line joining the charges, and it is attractive if the charges have unlike
+both charges, as
+signs and repulsive if the charges have like signs. Figure 4.6 shows the
+well as the dis-
+attractive and repulsive electrostatic forces.
+tance between the
+two.
+4.5 Coulomb's law of electrostatics
+103
+Example 4.1
+Charges q₁ = 5.0µC and q₂ = - 12.0µC are separated by 30 cm on the x-axis.
+What is the magnitude of the force exerted by the two charges?
+Solution:
+You are given q₁ = 5.0µC, q₂ = 12.0µC and r = 30 cm.
+You want to find the magnitude of the force F.
+Using Coulomb's law,
+(0.3m)²
+Since the two charges are of opposite sign, the force between the charges is
+an attractive force.
+Section summary
+The force between two point charges is
+directly proportional to the magnitude of each charge.
+inversely proportional to square of the separation between
+their centers.
+directed along the line joining their centers.
+Review questions
+1. Two charges 1 C and - 4C exist in the air. What is the direction
+of the force between them?
+2. Two charges q₁ = 2 X 10⁻⁶ C and q₁ = -4 X 10⁻³ C are placed
+30 cm apart. Determine the magnitude and direction of the
+force that one charge exerts on the other.
+104
+Unit 4 Static and Current Electricity
+4.6 The electric field
+By the end of this section, you should be able to:
+state the meaning of an electric field;
+distinguish the elements that determine the strength of the electric
+field at a given location;
+Exercise 4.9
+What do you think
+show electric field lines diagrammatically;
+is the definition
+calculate the strength of an electric field.
+for an electric
+field?
+An electric field is a region where an electric charge experiences a force,
+just as a football field is an area where the game is played. Electric field
+lines are an excellent way of visualizing electric fields. They were first
+introduced by Michael Faraday.
+The space around a charge or an arrangement of charges differ from space
+in which no charges are present. You can test whether a space has an
+electric field by bringing a small, point positive charge q₀ into the space. If
+q₀ experiences an electric force, then there is an electric field. If no force
+is experienced, then there is no electric field. For this reason, the small
+charge is called a test charge: it tests for the existence of electric fields. It
+has to be small so that its presence does not disturb the electric field it is
+Key Concept
+trying to detect. Figure 4.7 shows the electric field lines of a positively and
+negatively charged body.
+It A test charge is
+a positive electric
+charge whose
+charge is so small
+that it does not
+significantly dis-
+turb the charges
+that create the
+electric field.
+Figure 4.7 Electric field lines from positive and negative charges.
+4.6 The electric field
+105
+(a)
+(b)
+Figure 4.8 Electric field lines between (a) similar charges (b) opposite charges.
+Properties of electric field lines
+The field lines never intersect or cross each other.
+The field lines are perpendicular to the surface of the charge.
+The magnitude of the charge and the number of field lines are pro-
+portional to each other.
+Field lines originate at a positive charge and terminate at a negative
+charge.
+The lines of force bend together when particles with unlike charges
+attract each other. The lines bend apart when particles with like
+Key Concept
+charges repel each other. This is clearly indicated in Figure 4.8
+The magnitude
+of È is the force
+per unit charge
+Electric Field Strength
+and its direction
+is that of È (i.e.,
+The strength of the electric field, E, at any point in space is equal to the
+the direction of
+force per unit charge exerted on a positive test charge. Mathematically,
+the force which
+acts on a positive
+E=F E F / q F q or F = Eq
+(4.4)
+charge).
+106
+Unit 4 Static and Current Electricity
+Thus, È is a vector. If q is positive, the electric field È has the same direction
+as the force acting on the charge. If q is negative, the direction of È is
+opposite to that of the force F. On the other hand, the SI unit of electric
+field is Newton per Coulomb (C).
+Electric field strength due to a point charge
+In order to measure the electric field in a given region, you introduce a test
+charge and measure the force on it. However, you should realize that the
+test charge q₀ exerts forces on the charge that produce the field, so it may
+change the configuration of the charges.
++q
++q₀
+Since the electric field is force per unit charge, you divide the force by the
+F
++
++
+charge q₀ to obtain the field due to q at the location of q₀. That is
+r
+Figure 4.9 Electric field at a
+q₀ where F=k9oq
+(4.5)
+distance r from a charge.
+The above equation gives the field arising due to the charge q at any
+Exercise 4.10
+location which is at a distance r from q. The direction of the field is taken
+as the direction of the force that is exerted on the positive charge. Thus,
+It
+What is the
+direction of the
+the electric field extends radially from a positive charge and inwards from
+electric field due
+a negative point charge.
+to a positive pont
+charge?
+Example 4.2
+Calculate the strength and direction of the electric field E due to a point
+charge of 2.0 nC at a distance of 5.0 mm from the charge.
+Solution:
+In this example q = 2.00 X 10⁻⁹ C and r = 5.00 X 10⁻³ m.
+You want to find the magnitude and direction of the electric field.
+You can find the electric field created by a point charge using the equation
+E = k
+4.7 Electric circuits
+107
+Substituting those values into the above equation gives
+This electric field strength is the same at any point 5.00 mm away from the
+charge q that creates the field. It is positive, meaning that it has a direction
+pointing away from the charge q.
+Section summary
+A test charge is a positive electric charge whose charge is so
+small that it does not significantly disturb the charges that
+create the electric field.
+Electric field lines are directed radially outward from a positive
+charge and directed radially inward towards a negative charge.
+Review questions
+1. What is an electric field line?
+2. What is the magnitude and direction of the force exerted on a
+3.50µ C charge by a 250 N/C electric field that points due East?
+3. Calculate the magnitude of the electric field 2.00 m from a
+point charge of 5.00 mC.
+4.7 Electric circuits
+Activity 4.6
+What do you think
+By the end of this section, you should be able to:
+are the differences
+define what an electric circuit is;
+between an open
+and closed cir-
+describe the components of a simple circuit;
+cuits? Discuss in
+sketch an electric circuit diagram.
+groups.
+108
+Unit 4 Static and Current Electricity
+When a wire connects the terminals of the battery to the light bulb, as
+shown in Figure 4.10, charges built up on one terminal of the battery have
+a path to follow to reach the opposite charges on the other terminal. The
+charge that flows around a circuit is carried by electrons. The charges
+moving through the wire cause the filament to heat up and then give off
+light.
+Together, the bulb, battery, switch, and wire form an electric circuit. Thus,
+an electric circuit is a path through which charges can flow. A schematic
+diagram for a circuit is sometimes called a circuit diagram.
+Light bulb
+Switch
+wire
+Any element or group of elements in a circuit that dissipates energy is
+BATTERY
+called a load. A simple circuit consists of a source of potential difference
+and electrical energy, such as a battery, and a load like a bulb or group of
+Figure 4.10 Simple electric
+bulbs. Because the connecting wire and switch have negligible resistance,
+circuit.
+you will not consider these elements as part of the load.
+For the simple circuit shown in Figure 4.11 (a), a closed path is formed by
+wires connected to a light bulb and to a battery. As long as there is a closed
+path for electrons to follow, electrons can flow in a circuit. They move away
+from the negative battery terminal and toward the positive terminal. Thus,
+electric charge flows in the circuit as long as none of the wires, including
+(a)
+(b)
+the glowing filament wire in the light bulb, are disconnected or broken.
+Figure 4.11 (a) Closed circuit
+Such a circuit is called a closed circuit.
+(b) open circuit.
+If the circuit is broken anywhere (or the switch is turned off), the charge
+Key Concept
+stops flowing and the bulb does not glow. Thus, without a complete path,
+A physical cir-
+there is no charge flow and therefore no current. This situation is an open
+cuit is the electric
+circuit. If the switch in Figure 4.11 were open, as shown in Figure 4.11(b),
+circuit you create
+the circuit would be open, the current would be zero, and the bulb would
+with real compo-
+not light up.
+nents. It consists
+of a battery, wire,
+Electric circuits are incorporated into our lives in many different ways.
+switch, and load.
+They are used in nearly every type of item that uses electricity, from a
+4.7 Electric circuits
+109
+phone to a lamp.
+Components of electrical circuits
+As you studied earlier, some common elements (components) that can be
+found in electrical circuits include light bulbs, batteries, connecting wires,
+switches, resistors, voltmeters, and ammeters. You will learn more about
+these items in later sections, but it is important to know what their symbols
+are and how to represent them in circuit diagrams. Table 4.1 summarizes
+the symbols of electrical components.
+Exercise 4.11
+Table 4.1 Names of electrical components and their circuit symbols
+What would hap-
+pen to the lamp if
+Components
+Symbol
+Usage
+the circuit is bro-
+ken somewhere?
+Bulb or lump
+bulb glows when charge moves
+through it
++
+Battery
+provides energy for charge to
+move
+Open
+Switch
+Closed
+allows a circuit to be open or
+closed
+Resistor
+resists the flow of charge
+V
+Voltmeter
+measures potential difference
+A
+Ammeter
+measures current in a circuit
+connecting lead
+connects circuit elements to-
+gether
+110
+Unit 4 Static and Current Electricity
+Section summary
+The simplest electric circuit contains a source of electrical
+energy (such as a battery), an electric conductor (such as a
+wire connected to the battery) and a load (like lamps). Charges
+flow through a circuit.
+A closed path, or closed circuit, is needed for making electric
+charge to flow through the circuit.
+Review questions
+1. What does an electric circuit mean?
+2. What is the name of the unbroken path that current follows?
+3. What is the difference between an open electric circuit and a
+closed electric circuit?
+4.8 Current, Voltage, and Ohm's Law
+By the end of this section, you should be able to:
+define current, voltage, and resistance;
+state Ohm's Law;
+calculate current, and solve problems involving Ohm's Law.
+Exercise 4.12
+Dear students, if the electric charge flows through a conductor (for exam-
+How would you
+ple, through a metallic wire), you say that there is an electric current in the
+explain what an
+conductor. In a torch, you know that the cells (or a battery, when placed in
+electric current is?
+proper order) provide flow of charges or an electric current that makes the
+torch bulb to glow.
+The flow of charge particles or the rate of flow of electric charge through
+a point in a conducting medium is called electric current. The charge
+4.8 Current, Voltage, and Ohm's Law
+111
+particles can be negative or positive. Since electrons were not known at
+the time when the phenomenon of electricity was first observed, electric
+current was assumed to be the flow of positively charged particles. The
+current produced due to the flow of positively charged particles is called
+conventional current (or simply current) and it flows out from the positive
+terminal of the battery into the negative terminal. This was the convention
+chosen during the discovery of electricity. But this assumption was found
+to be wrong once the electron was discovered. So, in practice, the electric
+current is the flow of electrons (negatively charged particles). Electron cur-
+rent is the flow of negatively charged particles from the negative terminal
+of the battery to the positive terminal, as shown in Figure 4.12. However,
+the direction of the current does not affect the properties of the circuit as
+long as you keep it consistent. Therefore, the conventional current is taken
+as the standard current direction.
+If a net charge Q, flows across any cross-section of a conductor in time
+Key Concept
+t, then the current I, through the cross-section is
+Electric cur-
+I=AQ
+rent is defined as
+(4.6)
+the rate at which
+electric charges
+The SI unit for electric current is the ampere (A), named after the French
+flow.
+scientist Andre-Marie Ampere (1775-1836). One ampere is constituted
+by the flow of one coulomb of charge per second, that is, 1 A = 1 C/s. Small
+quantities of current are expressed in milliampere (1mA = 10⁻³ A) or in
+Conventional current
+Switch
+Light bulb
+Electron current
+wire
+BATTERY
++
+Figure 4.12 Conventional current and electron current.
+112
+Unit 4 Static and Current Electricity
+microampere (1µA = 10⁻⁶ A). An instrument used to measure electric
+current is called the ammeter.
+Example 4.3
+A current of 0.5 A is drawn by a filament of an electric bulb for 10 minutes.
+Find the amount of electric charge that flows through the circuit.
+Solution:
+You are given I = 0.5 A, and t = 10 minutes = 600 s.
+You want to find the net charge, Q.
+From the equation for current, you have
+QQ = I X = 0.5 A X 600 s = 300 C
+Potential Difference
+Exercise 4.13
+Charges do not flow in a copper wire by themselves, just as water in a
+What makes elec-
+perfectly horizontal tube does not flow. If one end of the tube is connected
+tric charges to
+to a tank of water kept at a higher level, such that there is a pressure differ-
+flow?
+ence between the two ends of the tube, water flows out of the other end
+of the tube. Thus, in a water circuit, a pump increases the gravitational
+potential energy of the water by raising the water from a lower level to a
+higher level.
+For the flow of charges in a conducting metallic wire, the electrons move
+only if there is a difference of electric pressure called the potential differ-
+ence along the conductor. This difference of potential may be produced
+by a battery, consisting of one or more electric cells. A battery supplies
+energy to an electric circuit. When the positive and negative terminals of
+a battery are connected in a circuit, the electric potential energy of the
+electrons in the circuit is increased. As these electrons move toward the
+positive battery terminal, this electric potential energy is transformed into
+4.8 Current, Voltage, and Ohm's Law
+113
+other forms of energy, just as gravitational potential energy is converted
+into kinetic energy as water falls.
+A battery supplies energy to an electric circuit by converting chemical
+Key Concept
+energy to electric potential energy. The chemical action within a cell gen-
+The voltage or
+erates the potential difference across the terminals of the cell, even when
+potential differ-
+no current is drawn from it. When the cell is connected to a conducting
+ence in a circuit is
+circuit element, the potential difference sets the charges in motion in the
+a measure of the
+conductor and produces an electric current. In order to maintain the cur-
+electrical poten-
+rent in a given electric circuit, the cell has to expend its chemical energy
+tial energy of the
+stored in it.
+electrons in the
+circuit. A battery
+The electric potential difference (V) between two points in an electric
+supplies energy
+circuit carrying some current is defined as the work done to move a unit
+to an electric cir-
+charge from one point to the other.
+cuit by increasing
+the electric po-
+V= Work Charge done (Q) (W) W Q
+tential energy of
+electrons in the
+circuit.
+The SI unit of electric potential difference is the volt (V), named after
+Alessandro Volta (1745-1827), an Italian physicist. One volt (1 V) is the
+potential difference between two points in a current-carrying conductor
+when 1 Joule (1 J) of work is done to move a charge of 1 coulomb (1 C) from
+one point to the other. Therefore, 1 V = 1 On the other hand, potential
+difference is measured by means of an instrument called the voltmeter.
+You might have seen birds sitting and even running along electric line
+Exercise 4.14
+wires high in the air. There are times when these wires can be filled with
+How can birds
+dozens of birds. Since birds are not good conductors, that is one reason
+sit on those wires
+they don't get shocked when they sit on electrical wires. The energy by-
+in Figure 4.13 and
+passes the birds and keeps flowing along the wire instead.
+not get an electric
+shock?
+There is another reason why birds can sit on a wire without getting shocked.
+There is no voltage difference on a single wire. There must be a difference
+114
+Unit 4 Static and Current Electricity
+Figure 4.13 Birds on an electric cable.
+in electrical potential for electrons to move. For example, energy flows
+from areas of high voltage to areas of low voltage. If it flows through a
+Activity 4.7
+single power line at 35,000 volts, it will continue along the path of least
+resistance. That means it will bypass birds because there is no difference
+Would you be
+in electrical potential.
+harmed if you
+touch one of the
+wires of a high-
+It would be a different story if a bird is connected to the ground through
+voltage transmis-
+some means (like a tree) while sitting on the wire. That would cause it to
+sion line just like
+get shocked. This would also happen if a bird touched another wire with a
+birds without
+different voltage. In these cases, the bird's body would become a path for
+having contact
+electricity. It would move through the bird to reach either the ground or
+with the ground?
+another place with a different voltage. This is why power lines tend to be
+If yes, then how
+high in the air with plenty of space between the wires.
+can birds not die
+when they sit on
+Example 4.4
+such lines?
+How much work is done in moving a charge of 2 C across two points having
+a potential difference 12 V?
+4.8 Current, Voltage, and Ohm's Law
+115
+Solution:
+In this example, you are given with V = 12 V and q = 2C.
+What you want to find is the work done.
+The amount of work W, done in moving the charge is
+W=VQ=12 V x2 C =24J
+Ohm's Law
+In an electric circuit, charges do not flow freely. So the electrical current in
+Exercise 4.15
+a wire can be reduced by many factors including impurities in the metal of
+Is there a rela-
+the wire that increases the resistance of the wire or collisions between the
+tionship between
+electrons and nuclei in the material. These factors create a resistance to
+the potential dif-
+the electrical current. Resistance is a description of how much a wire or
+ference across
+other electrical component opposes the flow of charge through it.
+a conductor
+and the current
+In the 19th century, the German physicist Georg Simon Ohm (1787-1854)
+through it?
+found experimentally that current through a conductor is proportional to
+the voltage drop across a current-carrying conductor.
+In other words,
+V α I
+In an equation form,
+Exercise 4.16
+V I = R or V = IR
+(4.7)
+Describe how
+the current in a
+This relationship is called Ohm's law. It can be viewed as a cause-and-
+circuit changes
+effect relationship, with voltage being the cause and the current being the
+if the resistance
+effect. Ohm's law is an empirical law like that for friction, which means
+increases and the
+that it is an experimentally observed phenomenon.
+voltage remains
+constant.
+In the above expression, R is a constant for the given metallic wire at a
+116
+Unit 4 Static and Current Electricity
+given temperature and is called its resistance. It is the property of a conduc-
+tor to resist the flow of charges through it. Thus, the motion of electrons
+through a conductor is retarded by its resistance. The units of resistance
+are volts per ampere, or V/A. You call a V/A an "ohm", which is represented by
+the uppercase Greek letter omega (Ω). Thus, 1 Ω = 1 V/A.
+In many practical cases, it is necessary to increase or decrease the current
+in an electric circuit. In an electric circuit, a device called a rheostat is
+Key Concept
+often used to change the resistance in the circuit.
+It Resistance
+Ohm's law is an empirical relationship valid only for certain materials.
+is a measure of
+how difficult it is
+Materials that obey Ohm's law and hence have a constant resistance over
+for electrons to
+a wide range of voltage, are said to be ohmic materials. Ohmic materi-
+flow through a
+als include good conductors like copper, aluminum, and silver. Ohmic
+material.
+materials have a linear current-voltage relationship over a large range of
+applied voltages (Figure 4.14 (a)). Non-ohmic materials have a nonlinear
+current-voltage relationship (Figure 4.14 (b)).
+I
+I
+V
+Exercise 4.17
+V
+(a)
+(b)
+Would you please
+Figure 4.14 The current-voltage characteristics of (a) ohmic materi-
+think of an anal-
+als and (b) non-ohmic materials.
+ogy for current,
+The magnitude of the electric current depends on the material of the
+voltage and resis-
+wire, length of the wire, area of cross section, and etc. The resistance of
+tance?
+an ohmic conductor increases with length, which makes sense because
+the electrons going through it must undergo more collisions in a longer
+conductor. A smaller cross-sectional area also increases the resistance of a
+conductor, just as a smaller pipe slows the fluid moving through it. The
+4.8 Current, Voltage, and Ohm's Law
+117
+resistance, then, is proportional to the conductor's length, and is inversely
+proportional to its cross sectional area A. Thus,
+R α L/A
+R=p- =
+(4.8)
+A = area
+L = length
+P = resistivity
+Figure 4.15 A uniform conductor of length L, and cross-sectional
+area A.
+Exercise 4.18
+where the constant of proportionality, p, is called the resistivity of the ma-
+For the same
+terial. Resistivity is the electrical resistance of a conducting material per
+crossection of
+unit length. In other words, it is the degree to which a conductor opposes
+a wire, describe
+the flow of electricity through itself, instead allowing the energy to flow
+how the electric
+out of the electrical circuit, most often as heat. The SI unit of resistivity is
+resistance of a
+Ωm. It is a characteristic property of the material.
+wire changes as
+the wire becomes
+On the other hand, conductivity is resistivity's reciprocal. So a high resis-
+longer. How does
+tivity means a low conductivity, and a low resistivity means a high conduc-
+the resistance
+tivity.
+change as the
+wire becomes
+thicker for the
+Example 4.5
+same length of a
+How much current will an electric bulb draw from a 220 V source, if the
+wire?
+resistance of the bulb filament is 1200 Ω?
+Solution:
+You are given V = 220 V and R = 1200 Ω.
+You want to find the value for the current, I.
+118
+Unit 4 Static and Current Electricity
+From Ohm's law, current can be calculated by:
+I 1200 0.18 A
+Example 4.6
+The potential difference between the terminals of an electric heater is 60 V
+when it draws a current of 4A from the source. What current will the heater
+draw if the potential difference is increased to 120 V?
+Solution:
+You are given V = 60 V and I = 4 A.
+What you want to find is the resistance, R.
+According to Ohm's law,
+R=V=60V=15Ω Ω
+When the potential difference is increased to 120 V, the current is given by
+15 Ω 8A
+The current through the heater becomes 8 A.
+Example 4.7
+The resistance of a metal wire of length 1 m is 26 Ω at 20 °C. If the diam-
+eter of the wire is 0.3 mm, what will be the resistivity of the metal at that
+temperature?
+Solution:
+You are given the resistance R of the wire = 26 Ω, Ω, the diameter d = 0.3 mm =
+3 X 10⁻⁴ m, and the length L of the wire = 1 m. You want to find the resistivity.
+4.8 Current, Voltage, and Ohm's Law
+119
+From the expression of the resistance, the resistivity of the given metallic
+wire is
+THE
+Substitution of values in the above expression gives
+The resistivity of the metal at 20 °C is 1.84 X 10⁻⁶ Ωm. This is the resistivity
+of manganese.
+Section summary
+Resistance is a property that resists the flow of electrons in a
+conductor. It controls the magnitude of the current. The SI
+unit of resistance is ohm (Ω).
+The potential difference, also referred to as voltage difference
+between two given points is the work in joules required to
+move one coulomb of charge from one point to the other.
+According to Ohm's law, the potential difference across the
+ends of a resistor is directly proportional to the current
+through it, provided its temperature remains the same.
+The resistance of a conductor depends directly on its length,
+inversely to its cross-sectional area, and also on the material
+of the conductor.
+Review questions
+1. What is the term used to state the flow of an electric charge
+per unit time?
+2. What is the relationship among voltage, current, and resis-
+tance in a circuit?
+120
+Unit 4 Static and Current Electricity
+3. What is meant by the potential difference between two points
+is 1 V?
+4. What are the factors that determine the resistance of a con-
+ductor?
+5. Will current flow more easily through a thick wire or a thin wire
+of the same material, when connected to the same source?
+Why ?
+6. Let the resistance of an electrical component remains con-
+stant while the potential difference across the two ends of the
+component decreases to half of its former value. What change
+will occur in the current through it?
+Exercise 4.19
+4.9
+Combination of resistors in a circuit
+How many dif-
+By the end of this section, you should be able to:
+ferent paths can
+electric current
+draw a diagram that shows series and parallel connections of resis-
+follow in a series
+tors;
+circuit?
+describe what happens to the current and potential difference when
+the resistors are connected in series and in parallel;
+Exercise 4.20
+If a series cir-
+calculate the equivalent resistance for a circuit of resistors in series
+cuit containing
+or in parallel;
+mini-light bulbs is
+opened and some
+calculate the current and potential difference across resistors con-
+of the light bulbs
+nected in series and parallel.
+are removed,
+what happens
+In this section, you consider simple circuits containing only resistors and
+when the circuit is
+batteries. Such circuits often contain a number of resistors connected in
+closed?
+series or in parallel.
+4.9 Combination of resistors in a circuit
+121
+Resistors in Series
+Key Concept
+Students, what if you wanted to watch TV and had to turn on all the lights,
+$ A series dcir-
+a refrigerator, and every other electrical appliance in the house to do so?
+cuit describes two
+That is what it would be like if all the electrical appliances in your house
+or more compo-
+were connected in a series circuit.
+nents of a circuit
+that provide a
+A series circuit is a circuit that has only one path for the electric current to
+single path for
+follow, as shown in Figure 4.16. If this path is broken, then the current will
+current.
+no longer flow and all the devices in the circuit will stop working. As an
+example, if the entire string of lights went out when only one bulb burned
+out, then the lights in the string were wired as a series circuit.
+Exercise 4.21
+R₁
+I₁
+What happens
+A
+A
+to the value
+V₁
++
+of the current
+AV
+V2
+R₂
++
+V
+Req
+V3
+when a number
+B
+I₂
+of resistors are
+I₃
+B
+R₃
+(a) Three resistors in a serious
+(b) Equivalent resistance has same current
+connected in
+series circuit?
+Figure 4.16 Series connection of three resistors.
+What would be
+Since charge is conserved, charges cannot build up or disappear at one
+their equivalent
+point. As there is only one path for a charge to flow, the amount of charge
+resistance?
+entering and exiting the first resistor must equal the amount of charge that
+enters and exits the second resistor in the same time interval. Because the
+Key Concept
+current is the amount of charge moving past a point per unit of time, the
+In a series
+current in the first resistor must equal the current in the second resistor.
+combination of
+This is true for any number of resistors arranged in series. When many
+resistors, the cur-
+resistors are connected in series, the current in each resistor is the same.
+rent is the same
+in every part of
+The potential difference across the battery, V, must equal the sum of the
+the circuit or the
+potential differences across the load, V₁ + V₂ + V₃, where V₁, V₂, and V₃
+same current
+are the potential differences across R₁, R₂, and R₃ respectively. That is,
+through each
+resistor.
+V = V₁ + V₂ + V₃
+(4.9)
+122
+Unit 4 Static and Current Electricity
+Let I be the current through the circuit. The current through each resistor
+is also I. It is possible to replace the three resistors joined in series by an
+equivalent single resistor of resistance Rₑ₉ such that the potential differ-
+ence V across it, and the current I through the circuit remain the same.
+Applying Ohm's law to the entire circuit, you have
+V = IRₑq
+By making use of equation 4.9,
+Since V₁ = IR₁,V₂ = IR₂, V₃ = IR₃,
+Key Concept
+IRₑq= IR₁ + IR₂+ IR₃
+JET The equivalent
+resistance in a
+series circuit is
+(4.10)
+the sum of the cir-
+cuit's resistances.
+Thus, when several resistors are joined in series, the resistance of the
+combination Rₑ₉ equals the sum of their individual resistances, R₁, R₂, R₃,
+and is thus greater than any individual resistance.
+Resistors in Parallel
+Exercise 4.22
+As discussed above, when a single bulb in a series light set burns out, the
+Explain why build-
+entire string of lights goes dark because the circuit is no longer closed. A
+ings are wired
+wiring arrangement that provides alternative pathways for the movement
+using parallel cir-
+of a charge is a parallel circuit. A parallel circuit is a circuit that has more
+cuits rather than
+than one path for the electric current to follow, as shown in Figure 4.17.
+series circuits.
+The figure shows the arrangement of three resistors joined in parallel with
+a combination of cells (or a battery). The current branches so that elec-
+trons flow through each of the paths.
+The bulbs of the decorative light set that you use in your home are arranged
+in parallel with each other. Thus, if one path is broken, electrons continue
+4.9 Combination of resistors in a circuit
+123
+to flow through the other paths. Adding or removing additional devices in
+one branch does not break the current path in the other branches, so the
+devices on those branches continue to work normally. Houses, schools,
+and other buildings are wired using parallel circuits.
+I
+A
+A
+I
+Exercise 4.23
+AV
+R₁
+R₂
+R3
+V
+Req
+How does con-
+I₁
+I2
+II₃
+B
+B
+necting devices in
+(a) Three resistors in a parallel
+(b) Equivalent resistance has same current
+parallel affect the
+electric current in
+Figure 4.17 Parallel connections of three resistors.
+a circuit?
+Because charge is conserved, the sum of the currents in each bulb equals
+the current I delivered by the battery. This is true for all resistors in parallel.
+I = I₁ + I₂ +
+(4.11)
+Key Concept
+JF
+Parallel de-
+Therefore, the total current I is equal to the sum of the separate currents
+scribes two or
+through each branch of the combination.
+more components
+of a circuit that
+Let Rₑ₉ be the equivalent resistance of the parallel combination of resistors.
+provide sepa-
+By applying Ohm's law to the parallel combination of resistors, you have
+rate conducting
+paths for cur-
+I V V
+rent because the
+components are
+Since I = I₁ + I₂ + I₃, applying Ohm's law to each resistor gives you
+connected across
+common points
+Rₑ₉ V = R₁ V₁ + R₂ V₂ + R₃ V₃
+or junctions. A
+parallel circuit
+has more than
+Because the potential difference across each bulb in a parallel arrangement
+one path for the
+equals the terminal voltage V = V₁ = V₂ = V₃, you can divide each side of
+current to follow.
+the equation by V to get the following equation.
+11
+124
+Unit 4 Static and Current Electricity
+Thus, the reciprocal of the equivalent resistance of a group of resistances
+joined in parallel is equal to the sum of the reciprocals of the individual
+resistances. An extension of this analysis shows that the equivalent re-
+sistance of two or more resistors connected in parallel can be calculated
+using the following equation.
+(4.12)
+Example 4.8
+In the circuit shown in Figure 4.18, find:
+a) the equivalent resistance,
+b) the current through each resistor.
+Solution:
+You are given R₁ = 12 Ω, Ω, R₂ = 3.0 Ω, R₃ = 4.0 Ω, Ω, R₄ = 5.0 Ω and V = 12 V.
+The required quantities are Rₑ₉ and I.
+5Ω
+12Ω
+3Ω
+4Ω
+a) Since all the four resistors are in series combination,
+I]
+I
+Rₑ₉ = R₁ + R₂ + R₃ + R₄ = 12 Ω + 3.0 Ω + 4.0 Ω + 4.0 Ω = 24 Ω.
+12v
+b) The current through all resistors in a series circuit is the same. Thus,
+Figure 4.18 Circuit diagram
+using Ohm's law,
+for four resistors connected in
+series.
+Example 4.9
+12v
+6Ω
+12Ω
+120
+In the circuit shown in Figure 4.19, find:
+a) the equivalent resistance,
+Figure 4.19 Circuit diagram for
+b) the current through the battery and each resistor.
+three resistors connected in
+parallel.
+Solution:
+The given quantities are R₁ = 12 Ω, R₂ = 12 Ω, R₃ = 6.0 Ω and V = 12 V.
+4.9 Combination of resistors in a circuit
+125
+The required quantities are Rₑ₉ and I.
+a) The three resistors are in a parallel combination. So
+Rₑ₉ 1 = R₁ 1 + R₂ 1 + R₃ 1 = 12 Ω 1 + 12 Ω 1 + 6.0 Ω 1 = 3.0 Ω 1
+Rₑ₉ = 3.0Ω
+Therefore, the equivalent resistance should be less than the smallest resis-
+tance as expected.
+b) From Ohm's law,
+3.0 Ω
+Since the voltage is constant in a parallel connection,
+12 Ω
+6.0 Ω A
+On the other hand, resistors in a circuit may be connected in a variety of
+series-parallel combinations. The general procedure for analyzing circuits
+with different series-parallel combinations of resistors is to find the voltage
+across and the current through the various resistors as follows:
+Start from the resistor combination farthest from the voltage source,
+find the equivalent series and parallel resistances.
+Reduce the current until there is a single loop with one total equiva-
+lent resistance.
+Find the total current delivered to the reduced circuit using Ohm's
+law.
+126
+Unit 4 Static and Current Electricity
+Expand the reduced circuit in the reverse order of the above steps to
+find the currents and voltages for the resistors in each step.
+Example 4.10
+Find the equivalent resistance and the current across the 4.0 Ω resistor
+shown in Figure 4.20.
+Solution:
+You are given R₁ = 4.0 Ω, Ω, R₂ = 5.0 Ω, R₃ = 9.0 Ω, and V = 6 V.
+You want to find the value for Rₑ₉ and I.
+5.0 Ω
+Since the 5.0 Ω and 9.0 Ω resistors are connected in parallel,
+4.0 Ω
+1 = 1 + 1 = 1 + 1 = 14
+Rparallel R₂ R₃ 5Ω 9Ω 45 Ω Ω
+9.0 Ω
+Rparallel = 3.21 Ω
+6.0 V
+Now the 4.0 Ω and Rparallel resistors are connected in parallel. Therefore,
+Figure 4.20 Circuit diagram for
+Rₑ₉ = 4.0 Ω + Rparallel = 4.0 Ω + 3.21 Ω = 7.21 Ω.
+series-parallel combination of
+resistors.
+The current through the circuit can be calculated by
+I = V R = Rₑ₉ V = 7.21 Ω 6V = 0.830 A.
+This is equivalent to the value of the current across the 4.0 Ω resistor as
+the 4.0 Ω resistor is connected in parallel with Rparallel.
+Section summary
+The formulae made about both series and parallel circuits are
+summarized in Table 4.2.
+4.9 Combination of resistors in a circuit
+127
+Table 4.2 Summary for a series and parallel circuits
+Resistors in
+Series
+Parallel
+Current
+I = I₁ = I₂ = I₃ = = same I = I₁ + I₂ + I₃ + sum of
+for each resistor
+currents.
+Potential
+V = V₁ + V₂ + V₃ + = sum
+=
+difference
+of potential differences
+same for each resistor.
+Equivalent
+Rₑ₉ = R₂ + R₃ = sum
+resistance
+of individual resistances
+reciprocal sum of resis-
+tances.
+Review questions
+1. Which type of circuit has more than one path for electrons to
+follow?
+2. A 4.0 Ω resistor, an 8.0 Ω resistor, and a 12.0 Ω resistor are
+connected in series with a 24.0 V battery.
+a. Calculate the equivalent resistance.
+b. Calculate the current in the circuit.
+c. What is the current in each resistors?
+3. A length of wire is cut into five equal pieces. The five pieces
+are then connected in parallel, with the resulting resistance
+being 2.00 Ω. What was the resistance of the original length of
+wire before it was cut up?
+4. How can you tell that the headlights of the car are wired in
+parallel rather than in series? How would the brightness of the
+bulbs differ if they were wired in series across the same 12 V
+battery instead of in parallel?
+128
+Unit 4 Static and Current Electricity
+4.10 Voltmeter and ammeter connection in a cir-
+cuit
+By the end of this section, you should be able to:
+list the devices used for measuring current and voltage;
+use voltmeter and ammeter to measure the voltage and current in
+an electric circuit, respectively;
+explain why an ammeter is connected in series and voltmeter is
+connected in parallel.
+As you have seen in previous sections, an electric circuit is made up of
+a number of different components such as batteries, resistors and light
+bulbs. There are devices that are used to measure the properties of these
+components. These devices are called meters. Meters are of two types:
+analog and digital. Analog meters have a needle that swivels to point at
+numbers on a scale as opposed to digital meters, which have numerical
+readouts similar to a hand-held calculator.
+Battery
+Voltmeter
+Ammeter
+<
+Switch
+A
+R
+Voltmeter
+Ammeter
+Light bulb
+@@@@@@@@@@
+Resistor
+(a)
+(b)
+Figure 4.21 (a) Ammeter and voltmeter connection in a circuit. (b) Circuit
+diagram with ammeter and voltmeter.
+4.10 Voltmeter and ammeter connection in a circuit
+129
+Voltmeter
+A voltmeter is a device that is used to measure potential differences across
+a resistor or any other component of a circuit that has a voltage drop. In
+Key Concept
+analogy with a water circuit, a voltmeter is like a meter designed to mea-
+Voltmeters
+sure pressure differences.
+are connected
+in parallel with
+To measure the potential difference between two points in a circuit, a
+whatever device's
+voltmeter must be connected in parallel with the portion of the circuit on
+voltage is to be
+which the measurement is made. A parallel connection is used because
+measured.
+objects in parallel experience the same potential difference. Since the
+resistance of a voltmeter is high, it draws minimum current from the main
+circuit and, thus, the potential difference of the component that is going
+to be measured is not affected. If a voltmeter is connected in series, it
+would increase the equivalence resistance of the circuit and no current
+Exercise 4.24
+would flow through it. Hence, it should be connected in parallel. Figure
+4.21 shows a voltmeter is connected in parallel with a resistor. One lead of
+How do we con-
+the voltmeter is connected to one end of the battery and the other lead is
+nect the ammeter
+and voltmeter
+connected to the opposite end.
+in an electrical
+circuit? Draw a
+VOLTS
+8
+12.00
+VOLTMETER
+circuit diagram
+-5472-
+in order to jus-
+V
+tify your answer.
+What will be
+happening if the
+(a)
+(b)
+(c)
+positions of these
+instruments are
+Figure 4.22 (a) Analog voltmeter (b) Digital voltmeter (c) Voltmeter
+symbol.
+interchanged?
+Specify the rea-
+Ammeter
+sons.
+An ammeter is a device that is used to measure the the flow of electric
+current in amperes. To measure the current of a circuit, the ammeter
+shown in Figure 4.23 is connected in series in the circuit so that the same
+current that is in the circuit flows through it and gets measured. Ammeter
+130
+Unit 4 Static and Current Electricity
+has low (nearly zero) resistance because you do not want to change the
+current that is flowing through the circuit. So its inclusion in series in the
+circuit does not change the resistance and hence the main current in the
+circuit. A series connection is used because objects in a series have the
+same current passing through them. All of the current in this circuit flows
+through the meter.
+DIGITAL AMMETER
+A
+(b)
+(c)
+(a)
+Figure 4.23 (a) Analog ammeter (b) A digital ammeter (c) Ammeter
+symbol.
+If an ammeter is connected in parallel, it would draw most of the current
+and get damaged. Hence, it must be connected in series.
+Key Concept
+Table 4.3 summarizes the use of each measuring instrument that you
+discussed and the way it should be connected to a circuit component.
+It
+Ammeters are
+connected in se-
+Table 4.3 Summary of the use and connection of an ammeter and a voltmeter
+ries with whatever
+device's current is
+Instrument
+Measured Quantity
+Proper Connection
+to be measured.
+Voltmeter
+Voltage
+In Parallel
+Ammeter
+Current
+In Series
+On the other hand, multimeter is a measuring instrument that can mea-
+sure multiple electrical properties. Figure 4.24 shows a digital multimeter,
+a convenient device with a digital readout that can be used to measure
+voltage, current, or resistance.
+4.10 Voltmeter and ammeter connection in a circuit
+131
+09.38
+Figure 4.24 Multimeter used for measuring electrical properties.
+Section summary
+Voltmeters measure voltage and ammeters measures current.
+Voltmeter is connected in parallel with the voltage source to
+receive full voltage and must have a large resistance to limit
+its effect on the circuit.
+An ammeter is connected in series to get the full current flow-
+ing through a branch and must have a small resistance to limit
+its effect on the circuit.
+Review questions
+1. Explain why a voltmeter is connected in parallel with a resis-
+tor.
+2. Explain why an ammeter is connected in series with a resistor.
+3. What will happen when you connect an ammeter in parallel
+and a voltmeter in a series circuit?
+3
+4
++
+4. In Figure 4.25, there are four positions available for the place-
+1
+2
+ment of meters.
+Figure 4.25 Ammeter and volt-
+a) Which position(s) would be appropriate for placement of
+meter connection in a circuit.
+an ammeter?
+b) Which position(s) would be appropriate for placement of a
+voltmeter?
+132
+Unit 4 Static and Current Electricity
+c) Which position could hold an ammeter that would read the
+total current through the circuit?
+d) Which position could hold a voltmeter that would read the
+total voltage drop through the circuit?
+5. Suppose you are using a multimeter to measure current in a
+circuit and you inadvertently leave it in voltmeter mode. What
+effect will the meter have on the circuit? What would happen
+if you were measuring voltage but accidentally put the meter
+in ammeter mode?
+Exercise 4.25
+4.11 Electrical safety in general and local context
+Have you ever had
+By the end of this section, you should be able to:
+a mild electric
+shock?
+state the safety measures to be taken to protect us from electrical
+accidents or shocks.
+Key Concept
+You probably felt only a mild tingling sensation from the electric shock,
+JE The first pre-
+but electricity can have much more dangerous effects. In some ways your
+caution to take for
+body is like a piece of insulated wire. The fluids inside your body are good
+personal safety
+conductors of current. The electrical resistance of dry skin is much higher.
+is to avoid com-
+Skin insulates the body like the plastic insulation around a copper wire.
+ing into contact
+with an electrical
+conductor that
+Your skin helps keep electric current from entering your body. A current
+might cause a
+can enter your body when you accidentally become part of an electric
+voltage across a
+circuit. If direct body contact is made with an electrically energized part
+human body or
+while a similar contact is made simultaneously with another conductive
+part of it, thus
+surface that is maintained at a different electrical potential, a current will
+causing a current
+flow, entering the body at one contact point, traversing the body, and then
+through the body
+exiting at the other contact point, usually the ground.
+that could be
+dangerous.
+A person can be electrocuted by touching a live wire while in contact with
+4.11 Electrical safety in general and local context
+133
+the ground. Such a hazard is often due to frayed insulation that exposes
+the conducting wire. The ground contact might be made by touching a
+water pipe (which is normally at ground potential) or by standing on the
+Exercise 4.26
+ground with wet feet because impure water is a good conductor. Obviously,
+Try to identify
+such situations should be avoided at all costs.
+what determines
+the damage
+Electric shock can result in fatal burns or cause the muscles of vital organs,
+caused to the
+such as the heart, to malfunction. The degree of damage to the body
+human body by
+depends on the magnitude of the current, the length of time it acts, and
+an electric shock.
+the part of the body through which it passes. Currents of 5 mA or less can
+cause a sensation of shock, but ordinarily do little or no damage. If the
+current is larger than about 10 mA, the hand muscles contract, and the
+person may be unable to let go of the live wire. If a current of about 100 mA
+passes through the body for just a few seconds, it can be fatal. Such large
+currents paralyze the respiratory muscles. The current that flows through
+the wires connected to a 60 W light bulb is about 0.5 A. This amount of
+current entering your body could be deadly. In some cases, currents of
+about 1 A through the body produce serious (and sometimes fatal) burns.
+A fuse is the cheapest protection device in an electrical circuit against short
+circuits and overloading of circuits. A fuse is a metal wire or thin metal
+strip that has the property of having low melting point which is inserted
+Figure 4.26 A Fuse.
+into the electrical circuit as protective device. A fuse provides protection
+against excessive currents which can flow in circuit during short circuits.
+Under normal working conditions, the current flowing through the circuit
+is within safe limits, but when fault occurs, such as a short circuit occurs,
+or when load greater than the circuit capacity is connected to it, the cur-
+rent exceeds the limiting value, resulting in a fuse wire that gets heated up,
+AVR-1000VA
+melts, and breaks the current. Thus, fuse protects the machine or electrical
+FULL
+AUTOMATIC
+equipment against excessive currents. An automatic voltage regulator or
+stabilizer device that you use in your home uses a fuse to operate.
+As an additional safety feature for consumers, electrical equipment man-
+Figure 4.27 Voltage stabilizer.
+ufacturers now use electrical cords that have a third wire, called a case
+134
+Unit 4 Static and Current Electricity
+ground. To understand how this works, consider the drill being used in
+Figure 4.28. A two-wire device that has one wire, called the "phase" (or
+"hot" or "live") wire is connected to the high-potential (220 V) side of the
+input power line, and the second wire is connected to ground (0 V). If the
+high-voltage wire comes in contact with the case of the drill (Figure 4.28
+(a)), a short circuit occurs. In this undesirable circumstance, the pathway
+for the current is from the high-voltage wire through the person holding
+the drill and to Earth, a pathway that can be fatal. Protection is provided by
+a third wire, connected to the case of the drill (Figure 4.28 (b)). In this case,
+if a short occurs, the path of least resistance for the current is from the
+"Ouch!"
+Motor
+"Neutral"
+120 V
+I
+Wall
+Circuit
+outlet
+breaker
+"Live"
+I
+Ground
+(a)
+"Neutral"
+Motor
+"Ground"
+I
+I
+120 V
+3-wire
+Circuit
+outlet
+breaker
+"Live"
+I
+Ground
+(b)
+Figure 4.28 The "phase" wire, at 220 V, always includes a circuit breaker for
+safety. (a) When the drill is operated with two wires, the normal current path
+is from the "phase" wire, through the motor connections, and back to ground
+through the "neutral" wire. (b) Shock can be prevented by a third wire running
+from the drill case to the ground.
+4.11 Electrical safety in general and local context
+135
+high-voltage wire through the case and back to ground through the third
+wire. The resulting high current will blow a fuse or trip a circuit breaker
+before the consumer is injured.
+Note: The color of wires represents electrical standards. In Ethiopia,
+the "phase" wire is red, yellow, or blue, and the ground wire is greenish-
+yellowish, and the neutral wire is black.
+Key Concept
+A grounding
+Special power outlets called ground-fault interrupters (GFIs) or residual
+plug (a three-
+current devices (RCDs) are now being used in kitchens, bathrooms, base-
+prong plug) uses a
+ments, and other hazardous areas of new homes. They are designed to
+dedicated ground-
+protect people from electrical shock by sensing small currents (approx-
+ing wire to ground
+imately 5 mA and greater) leaking to ground. When current above this
+objects that may
+level is detected, the device shuts off (interrupts) the current in less than a
+become conduc-
+millisecond.
+tors and thus
+dangerous. A
+In addition to these, the following are important safety tips to prevent
+polarized plug
+electrical accidents or shocks.
+identifies the
+ground side of the
+Never use appliances with frayed or damaged electric cords.
+line for use as a
+grounding safety
+Unplug appliances before working on them, such as when prying
+feature.
+toast out of a jammed toaster.
+Avoid all water when using plugged-in appliances.
+Never touch power lines with anything, including kite string and
+ladders.
+Always respect warning signs and labels.
+136
+Unit 4 Static and Current Electricity
+Section summary
+Safety of an electrical installation could be ensured by proper
+insulation, good earthling system and adopting adequate pro-
+tection and control systems.
+Electrical hazards can cause burns, shocks and electrocution
+(death). You should follow proper rules and regulations to
+avoid accident.
+Qualified electricians are recommended to inspect electrical
+equipments. In damp locations, inspect electric cords and
+equipment in order to ensure they are in good condition; use
+a ground-fault circuit interrupter (GFCI).
+Review questions
+1. Identify the factors that determine the damage caused to the
+human body by an electric shock.
+2. You are often advised not to flick electric switches with wet
+hands; you have to dry your hands first. You are also advised
+to never throw water on an electric fire. Why is this so?
+4.12 Electric projects
+By the end of this section, you should be able to:
+draw an electric circuit diagram consisting of a battery, connecting
+wires, resistors, a switch, and a bulb using their symbols;
+construct an electric circuit using wires, resistors, switch and bulb.
+You use electricity every day, but the electronic devices around you (like
+electric motors that move things including lifts and escalators, washing
+machines, food mixers and other home appliances) largely operate with-
+4.12 Electric projects
+137
+out your being aware of how they do so. The "how" of these electronic
+devices working is answered by electrical circuits.
+As you already discussed in the previous sections, electrical circuits allow
+Exercise 4.27
+current to flow through our electronic devices to produce light, sound,
+Did you remem-
+and a variety of other effects. Of course, that is an easy statement to make
+ber any electrical
+but one that is much harder to explain or demonstrate. That is where
+projects that you
+classroom projects and lessons come in.
+have undertaken?
+Is there any tips
+Thus, the best way to learn about circuits is through hands-on projects in
+that you can share
+which circuits are built and used. In this section, you will try to perform
+us from your
+some simple electrical projects using the concepts that you have learnt
+experience?
+earlier.
+Project 4.1: A series lamp circuit
+As you discussed earlier, in a series connection, components are connected
+end to end, so that current flows first through one lamp and then through
+the other. The lamps are strung together, end to end.
+One drawback of series connections is that if one component fails in a
+way that results in an open circuit, the entire circuit is broken and none
+of the components will work. So, if either one of the lamps in the series
+circuit burns out, neither lamp will work. That is because current must
+flow through both lamps for the circuit to be complete.
+In this project, you will build a simple circuit that connects two lamps
+in series, like the one shown in Figure 4.29. The lamps are powered by a
+pair of AA batteries. Then, you will use your multimeter to measure the
+voltages at various points in the circuit.
+Equipment and materials:
+A small head screw driver
+138
+Unit 4 Static and Current Electricity
+Bulb
+Bulb
+Bulb
+Bulb
+ON
+Switch
+Battery
+OFF
+Battery
++
+H
++
+Figure 4.29 (a) Series circuit (b) Series circuit diagram.
+Wire cutters
+Wire strippers
+A multimeter
+Two AA batteries
+One battery holder
+Two lamp holders
+Two 3 V flashlight lamps
+One 6-inch length of 22-gauge stranded wires.
+Steps
+1. Cut a 6 inch length of wire and strip 0.5 inch of insulation from each
+end.
+2. Attach the red lead from the battery holder to one end of the termi-
+nals on one of the lamp holders.
+4.12 Electric projects
+139
+3. Attach the black lead to one of the terminals on the other lamp
+holder.
+4. Use the 6 inch wire to connect the unused terminal of the first lamp
+holder to the unused terminal of the second lamp holder.
+5. Insert the batteries. This makes both lamps to lit. Notice that the
+lamps are dim. This is because in a series circuit made with two
+identical lamps, each of the two lamps sees only half the total voltage.
+6. Remove one of the lamps from its holder. This makes the other lamp
+goes out. This is because in a series circuit, a failure in any one
+component breaks the circuit so that none of the other components
+will work.
+7. Replace the lamp you removed in step 6.
+8. Set your multimeter to a DC voltage range that can read at least 3 V.
+Note that you can measure the voltage seen by any component in a
+circuit by setting your multimeter to an appropriate voltage range
+and then touching the leads to both sides of the component.
+9. Touch the leads to the two terminals on the first lamp holder. The
+mutlimeter should read approximately 1.5 V (If you are using an
+analog meter and the needle moves backwards, just reverse the
+leads).
+10. Touch the leads to the terminals on the other lamp holder. Again the
+multimeter should read approximately 1.5 V.
+11. Touch the red lead of the meter to the terminal that the red lead from
+the battery is connected to and touch the black meter lead to the
+terminal that the black battery lead is connected to. This measure
+the voltage across both lamps combined. The meter will indicate 3
+V.
+140
+Unit 4 Static and Current Electricity
+Project 4.2: A parallel lamp circuit
+In the parallel connection, each lamp has its own direct connection to the
+battery. This arrangement avoids the if one fails they all fail nature of series
+connections. In a parallel connection, the components do not depend on
+each other for their connection to the battery. Thus, if one lamp burns out,
+the other will continue to light.
+In this project, you will build a circuit that connects two lamps in parallel
+like the one shown in Figure 4.30. The lamps are powered by a pair of
+AA batteries. You will use your multimeter to measure voltages at various
+points in the circuit.
+Equipments and materials:
+A small head screw driver
+Wire cutters
+Wire strippers
+Bulb
+Bulb
+Bulb
+Bulb
+ON
+Switch
+Switch
+OFF
+Battery
+Battery
+H
++
++
+(b)
+(a)
+Figure 4.30 a) Parallel Circuit b) Parallel circuit diagram.
+4.12 Electric projects
+141
+A multimeter
+Two AA batteries
+One battery holder
+Two lamp holders
+Two 3 V flashlight lamps
+Two 6 inch length 22-gauge stranded wires
+Steps:
+1. Cut two 6 inch lengths of wire and strip of 0.5 inch of insulation from
+each end.
+2. Attach the red lead from the battery holder to one end of the termi-
+nals on the first lamp holder.
+3. Attach the black lead to the other terminals on the first lamp holder.
+4. Use the two wires to connect each of the terminals on the first lamp
+holder to the terminals on the second lamp holder. This wiring
+connects the two lamp holders in parallel.
+5. Insert the batteries. This makes the lamps light brighter than when
+you connected them in series in Project 4.1.
+6. Remove one end of the lamps. Notice that the other lamp remains
+lit.
+7. Replace the lamp you removed in step 6.
+8. Set your multimeter to a DC voltage range that can read at least 3 V.
+9. Touch the leads of your multimeter to the two terminals on the first
+lamp holder. Make sure you touch the red meter lead to the terminal
+that the red battery lead is connected to and the black meter lead to
+the terminal that the black battery lead is attached to. Note that the
+voltage reads a full 3 V.
+142
+Unit 4 Static and Current Electricity
+10. Touch the meter, which leads to the terminals on the second lamp
+stand. Note that the voltage again reads 3 V. When components
+are connected in parallel, the voltage is not divided among them.
+Instead, each component sees the same voltage. That is why the
+lamps light at full intensity in the parallel circuit.
+Project 4.3: Electric house project
+In this project, in groups, you will construct and wire a model house
+according to the requirements given below. You can use materials that are
+available in your area.
+The Building:
+Your group will design and construct an electric house with separate
+series, parallel, and complex circuits.
+The house you build will contain at least the following areas: one
+bedroom, one bathroom, a kitchen, a front door, and a living room/-
+dining room area.
+Each individual room will be illuminated by its own light.
+Decorating
+Your building is to be decorated neatly and should reflect the purpose of
+the room.
+Wiring:
+To earn a full point, each circuit below must be completed. Each house
+will be wired with 4-hour different circuits as follows:
+A single outside light with a switch.
+The living room area must have a "chandelier" with at least two
+lights in a series circuit with a switch.
+4.12 Electric projects
+143
+The house must have one parallel circuit consisting of a switch and
+at least three lights.
+The house must have one combination circuit consisting of two
+switches and at least three lights.
+Specifics:
+Switches can be made from brads and paper clips.
+Your house will be powered by AAA, AA, D, or 9 V batteries, so make
+two obvious leads to attach your battery to during testing if you do
+not supply your own batteries. You will need to use the AA, D, and 9
+V in at least one circuit of your house. (You may not use the same
+battery for every circuit in your house.)
+Each circuit must be able to work independently from the others.
+Insulated wire and lights will be provided.
+You will have access to scissors, wire cutters and wire strippers.
+The Circuit Diagram:
+You must provide one diagram for the complete circuit in your building. It
+must:
+be labeled and be complete including all electrical parts for each
+circuit;
+use accurate circuit symbols;
+be neat and drawn with a straight edge ruler;
+fill an entire piece of paper.
+144
+Unit 4 Static and Current Electricity
+Virtual Labs
+On the soft copy of the book, click on the following link to per-
+form virtual experiments on static and current electricity unit
+under the guidance of your teacher.
+1. Coulomb's Law PhET Experiment.
+2. Circuit Construction Kit: DC - Virtual Lab PhET Experiment.
+3. Circuit Construction Kit: DC PhET Experiment.
+4. Charges and Fields PhET Experiment.
+5. Balloons and Static Electricity PhET Experiment.
+6. Ohm's Law PhET Experiment.
+7. Resistance in a Wire PhET Experiment.
+End of unit summary
+There are two types of charges in nature and they are called
+positive and negative charges.
+Charges with the same sign repel each other. Charges with
+opposite signs attract each other.
+Charging is the process of electrifying bodies, that is removing
+from or adding charges to a body.
+Electric charges can neither be created nor destroyed, but can
+be transferred from one material to the other.
+Charging by rubbing, charging by conduction, and charging
+by induction are the different methods of charging a body.
+An electroscope is a simple device used to study the properties
+of electric charges. It enables us to determine both the sign
+4.12 Electric projects
+145
+of the charge and the magnitude of the charge on a body.
+It can also be used to identify whether a given material is a
+conductor or an insulator.
+Lightning is formed when charged water drops of one sign
+(positive or negative) collect in one part of the cloud. There
+is electrostatic discharge (in the form of sparks) which jumps
+often from one cloud region to another, but sometimes from
+the cloud to earth.
+The magnitude of the force between two charges is given
+by Coulomb's law, which states that the force between two
+point charges is directly proportional to the product of the
+two charges and inversely proportional to the square of the
+distance between the two.
+The electric field defines the force per unit charge in the space
+around a charge distribution.
+Electric field lines start at positive charges and point away
+from positive charges. They end in negative charges and point
+toward negative charges.
+Electric field lines never cross each other.
+Open circuits do not allow an electrical current to flow through
+the circuit. Closed circuits are complete and allow electricity
+to flow through them.
+The current through a given area of a conductor is the net
+charge passing per unit time through the area.
+To maintain a constant current, you must have a closed circuit
+in which an external force moves electric charge from lower
+to higher potential energy. The work done per unit charge by
+the source in taking the charge from lower to higher potential
+146
+Unit 4 Static and Current Electricity
+energy (i.e., from one terminal of the source to the other) is
+called the voltage difference between the two terminals of a
+source in a closed circuit.
+Ohm's law: The electric current I flowing through a substance
+is proportional to the voltage V across its ends, i.e., VαI or
+V = RI, where R is called the resistance of the substance.
+The resistance R of a conductor depends on its length L and
+cross-sectional area A through the relation, R = p¹₄; where
+p called resistivity which is a property of the material and
+depends on temperature and pressure.
+The equivalent resistance R of n resistors connected in series
+is given by R=R₁+R₂+...+Rₙ
+The equivalent resistance R of n resistors connected in parallel
+is given +
+An ammeter is a device used to measure the current in a cir-
+cuit. It is connected in series to the element through which
+the current flows.
+A voltmeter is a device used to measure the potential differ-
+ence in the circuit. It is connected in parallel to the element
+through which potential drop is to be measured.
+Precaution must be taken when working near electricity or
+electrical equipments.
+End of unit questions and problems
+1. Describe how you can know charged bodies attract or repel
+each other.
+2. Why the inside of a car or building is a safe place to shelter
+during storm?
+4.12 Electric projects
+147
+3. State Coulomb's law.
+4. What are essential parts of an electroscope? Draw an electro-
+scope and label it.
+5. State the law of conservation of charge
+6. Explain about the different methods of charging a body.
+7. List electric safety rules.
+8. Two charges q₁ = 2 µC and q₂ = -4 µC are placed 20 cm apart.
+Determine the magnitude and direction of the force that one
+charge exerts over the other.
+9. Two spheres; 4.0 cm apart, attract each other with a force of
+1.2 X 10⁹ N. Determine the magnitude of the charge on each
+to see if one has twice the charge (of the opposite sign) as the
+other.
+10. Two equal charges of magnitude 1.1 X 10⁷ C experience an
+electrostatic force of 4.2 X 10⁴ N. How far apart are the centres
+of the two charges?
+11. Discuss the use of a lightning conductor that is often fitted to
+the top of a building.
+12. Why is not a bird sitting on a high-voltage power line electro-
+cuted? Compare this with the situation in which a large bird
+hits two wires simultaneously with its wings.
+13. How is a voltmeter connected in the circuit to measure the
+potential difference between two points?
+14. List one way electric current is similar to water current and
+one way it is different.
+15. How does the current in a circuit change if the voltage is dou-
+bled and the resistance remains unchanged?
+148
+Unit 4 Static and Current Electricity
+16. A copper wire has diameter 0.5 mm and resistivity of 1.6 X
+10⁻⁸ Ω m. What will be the length of this wire to make its
+resistance 10 Ω? How much does the resistance change if the
+diameter is doubled?
+17. If aluminium and copper wires of the same length have the
+same resistance, which has the larger diameter? Why?
+18. The values of current I flowing in a given resistor for the corre-
+sponding values of potential difference V across the resistor
+are given below.
+I (amperes)
+0.1
+0.2
+0.3
+0.4
+0.5
+V (volts)
+1.5
+3.0
+4.5
+6.0
+7.5
+Plot a graph between V and I, and calculate the resistance of
+that resistor.
+19. When a 12 V battery is connected across an unknown resistor,
+there is a current of 2.5 mA in the circuit. Find the value of the
+resistance of the resistor.
+20. A battery of 9 V is connected in series with resistors of 0.2 Ω,
+0.3 Ω, 0.4 Ω, 0.5 Ω, and 12 Ω. How much current would flow
+through the 12 Ω resistor?
+21. How many 176 Ω, resistors (in parallel) are required to carry 5
+A on a 220 V line?
+22. Show how you would connect three resistors, each having a
+resistance 6 Ω, so that the combination has a resistance of (i)
+9 Ω, (ii) 4 Ω.
+23. Why is the series arrangement not used for domestic circuits?
+24. How does the resistance of a wire vary with its area of cross-
+section?
+4.12 Electric projects
+149
+25. Why copper and aluminium wires are usually employed for
+electricity transmission?
+26. You are often advised to not flick electric switches with wet
+hands, dry your hand first. You are also advised to never throw
+water on an electric fire. Why is this so?
+27. Why is the resistance of wet skin so much smaller than dry, and
+why do blood and other bodily fluids have low resistances?
+28. What determines the severity of a shock? Can you say that a
+certain voltage is hazardous without further information?
+29. In view of the small currents that cause shock hazards and the
+larger currents that circuit breakers and fuses interrupt, how
+do they play a role in preventing shock hazards?
+30. Suppose you plug an electric heater into the wall outlet. As
+soon as you turn it on, all the lights in the room go out. Explain
+what must have happened.
+31. Why is it dangerous to use a fuse that is rated 30 A in a circuit
+calling for a 15 A fuse?
+dio

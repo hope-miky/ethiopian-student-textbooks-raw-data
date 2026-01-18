@@ -1,0 +1,1726 @@
+Unit Outcomes
+By the end of this unit, you will be able to
+Find surface area and volume of pyramids and cones.
+Calculate volume of frustum of pyramids and cones.
+Unit Contents
+6.1 Revision of prisms and cylinders
+6.2 Pyramids, cones and spheres
+6.3 Frustum of pyramids and cones
+6.4 Surface area and volume of composed solids
+6.5 Applications
+Summary
+Review Exercise
+287
+Unit 6 Solid Figures
+Lateral surface
+Slant height
+KEY
+Words
+Prism
+Sphere
+Pyramid
+Total surface Area
+Frustum
+Regular pyramid
+Volume
+Cone
+Cross-section
+Cylinder
+INTRODUCTION
+Recall that solid figures are three-dimensional objects, meaning they have length,
+width and height. Because they have three dimensions, they have depth and take up
+space in our universe. Based on your lower grade lessons, you are familiar with solid
+figures like cylinders, prisms, pyramids and cones. You have also seen the formulas
+to find the surface areas and volumes of these solid figures. In this unit, you will
+learn more about these solid figures. You will study surface areas and volumes of
+spheres, frustum of pyramids, frustum of cones and composite solids.
+6.1 Revision of Prisms and Cylinders
+From previous grades you learned about prisms and cylinders. You also studied the
+formulas for finding their surface areas and volumes.
+Activity 6.1
+1. Complete the blank space for the triangular prism shown in Figure 6.1.
+a. Indicate the bases of the prism.
+b. The region ABED is called
+.
+C. AD, BE and CF are called
+.
+d.
+is the altitude of the prism.
+288
+Unit 6: Solid Figures
+e. If CF were perpendicular to the plane of the
+B
+triangle DEF then the prism
+C
+would be called
+.
+A
+f. The perimeter of the region DEF is the sum
+of
+.
+2. Sketch a right rectangular prism.
+E
+F
+D
+G
+Figure 6.1
+If LSA denotes the lateral surface area, BA denotes the base area and TSA
+denotes the total surface area of a right prism, then
+LSA = ph, where p represents the perimeter of the base region and h
+represents the altitude of the prism,
+TSA = LSA + 2BA.
+The volume Vof any prism equals the product of its base area BA and altitude h.
+That is, V = BAh
+Example 1
+Find the total surface area and the volume of the right
+3cm
+triangular prism shown in figure 6.2.
+5cm
+Solution:
+4cm
+LSA = ph = (4 + 3 + 5) X 6 = 72 cm².
+6cm
+Since the triangle has sides of lengths 3 cm, 4 cm and
+5 cm it is a right-angled triangle with legs 3 cm and 4
+cm and hypotenuse 5 cm.
+Observe also that 3² + 4² = 5².
+Figure 6.2
+289
+Unit 6 Solid Figures
+Therefore,
+BA = 2 1 ab = 2 1 X 3 X 4 = 6 cm²,
+TSA = LSA + 2BA = 84 cm².
+Volume V = BA h = 6 x 6 = 36 cm³.
+Example 2
+Find the total surface area and volume of the rectangular prism shown in figure 6.3.
+Solution:
+LSA = ph = (2x2+2x3) X 4 = 40 cm²,
+BA = lw = 3 x 2 = 6 cm²,
+4cm
+TSA = LSA + 2BA = 52 cm².
+Volume V = BA h = 6 X 4 = 24 cm³.
+3cm
+2cm
+Figure 6.3
+Example 3
+Find the total surface area and volume of the prism shown in figure 6.4.
+6
+7
+1
+6
+14
+Figure 6.4
+Solution:
+The solid in Figure 6.4 is a prism with base as shown by the shaded region in
+figure 6.5. Base area is the sum of areas of the rectangle and the trapezium.
+BA = (7 x 6) + 1/2 (7 + 1) (8) = 74,
+290
+Unit 6: Solid Figures
+Since BD is the hypotenuse of the right-
+A
+6
+B
+C
+angle triangle BCD, the length of
+BD = √6²+8² = 10,
+7
+LSA = ph = (7 + 14 + 1 + 10 + 6) X 6
+D
+1
+= 228,
+G
+6
+F
+8
+E
+TSA = LSA + 2BA = 376.
+V = BA h = 74 X 6 = 444.
+Figure 6.5
+Exercise 6.1
+1. Find the total surface area and volume of the following solid figures.
+a.
+b.
+5 cm
+10 cm
+6 cm
+3 cm
+6 cm
+2 cm
+C.
+5cm
+5cm
+11cm
+8cm
+Figure 6.6
+2. The base of a right prism is an equilateral triangle with a side of 4 cm and its
+height is 10 cm. Find its total surface area and volume.
+3. Find the perimeter of the base of a right prism for which the area of the lateral
+surface is 120 cm² and for which the altitude is 5 cm.
+291
+Unit 6: Solid Figures
+4. Find the total surface area and volume of a cube of edge S in length.
+Activity 6.2
+Complete the blank space for the circular cylinder shown in Figure 6.7.
+a. The region C is called
+.
+b. The regions A₁ and A₂ are called
+.
+C. Are the regions A₁ and A₂ congruent and parallel?
+d. The altitude of the cylinder is
+.
+e. If LM were perpendicular to the plane of the region A₁ then the cylinder
+would be called
+.
+A2
+L
+C
+A1
+M
+N
+Figure 6.7
+The lateral surface area of a right circular cylinder is the product of the
+circumference of the base and altitude of the cylinder. That is,
+LSA = 2πrh where r is the radius of the base and h is the altitude of the
+cylinder.
+The total surface area is the sum of the areas of the bases and the lateral surface
+area. That is,
+TSA = LSA + 2BA
+TSA = 2πrh + 2πr² = 2πr(h + r)
+292
+Unit 6: Solid Figures
+The volume V of a circular cylinder is the product of its base area BA and
+altitude h. That is,
+V = BA h
+V = πr²h, where r is the radius of the base.
+h
+Figure 6.8
+Example 4
+Find the total surface area and volume of a right circular cylinder whose radius is 3
+cm and whose altitude is 5 cm.
+Solution:
+TSA = LSA + 2BA = 2πr(h + r) = (2π X 3) (5 + 3) = 48π cm².
+V = πr²h = 45π cm³.
+Example 5
+Find the total surface area and volume of the solid figure in figure 6.9.
+Solution:
+The bases are annulus regions with inner radius 1cm and outer radius 4cm. Let the
+inner radius be r and the outer radius be R. Then,
+3cm
+BA = Annulus area = πR² - πr² = (R² - r²)
+= π (4² - 1²) = 15π cm².
+6
+cm
+Outer LSA= 2πRh = 2π X 4 X 6 = 48π cm².
+Inner LSA = 2πrh = 2π X 1 X 6 = 12π cm².
+TSA = LSA + 2BA = 60π + 30π = 90π cm².
+Volume = BA h = 15π x 6 = 90π cm³.
+Figure 6.9
+293
+Unit 6: Solid Figures
+Exercise 6.2
+1. The radius of the base of a right circular cylinder is 4 cm and its altitude is 10 cm.
+Find the lateral surface area, the total surface area and the volume of the cylinder.
+2. The diameter of the base of a right circular cylinder is 6 cm and its altitude is 8
+cm. Find the lateral surface area, the total surface area and the volume of the
+cylinder.
+3. A circular hole of radius 5 cm is drilled through the center of a right circular
+cylinder whose base has radius 7 cm and whose altitude is 8 cm. Find the total
+surface area and volume of the resulting solid.
+6.2 Pyramids, Cones and Spheres
+In your former grades, you learnt about the solid figures, pyramids and cones. Can
+you mention their shapes and names? You have learnt that based on the shape of their
+base; pyramids are classified into different types.
+Activity 6.3
+1. Give answer for the following questions.
+K
+F
+H
+G
+A
+B
+C
+Figure 6.10
+294
+Unit 6: Solid Figures
+a. Name the pyramids in Figure 6.10
+b. What is a tetrahedron?
+C. What is a regular tetrahedron?
+d. If the base of figure 6.10B is a rectangle, then the figure is called
+.
+e. The region FGHIJ in figure 6.10C is called
+of the pyramid.
+f. In Figure 6.10C the region KGH is called
+.
+g. KG and KH are called
+.
+h. FG and GH are called
+.
+2. What is altitude of a pyramid?
+3. In Figure 6.10C, if FGHIJ were a circle then the solid would be called
+-
+4. Give two examples of solid figures that have the shape of a circular cone.
+5. What is the shape of the lateral faces of a pyramid?
+6. If the base of a pyramid is octagon, find the number of its lateral faces.
+7. If the base of a pyramid is a decagon, find the number of its lateral faces.
+8. In general, if the base of a pyramid has n sides, find the number of its lateral
+faces.
+Definition 6.1
+A pyramid is a solid figure defined by a polygonal base and a point called an
+apex (vertex) not on the base. It is formed when each point of the polygonal base
+is joined with the vertex.
+295
+Unit 6: Solid Figures
+V
+vertex
+B
+A
+Base
+R.
+C
+D
+Figure 6.11
+Figure 6.11 is a pyramid. The quadrilateral ABCD is the base and point V is the apex
+(vertex). For all points R on the base region, the collection of all line segments VR
+form the solid called a pyramid. The perpendicular line segment from the vertex to
+the plane containing the base is called the height or altitude of a pyramid. In Figure
+6.11, VE is the height or altitude of the pyramid. If E is the center of the base region,
+then the pyramid is called right pyramid, that is, when the altitude meets the base at
+the center. Otherwise, it is called an oblique pyramid. The pyramid in figure 6.11 is
+oblique.
+A regular pyramid is a pyramid whose base is
+N
+a regular polygon and whose lateral edges are
+all equal in length.
+Figure 6.12 is a regular pyramid, because its
+M
+base is a square and the foot O of the altitude
+J
+O
+L
+NO of the pyramid is the center of the base.
+R
+K
+The altitude NR of Д NKL is called slant
+height of the Pyramid.
+Figure 6.12
+296
+Unit 6: Solid Figures
+Definition 6.2
+A pyramid whose base is a circular region is called a circular cone.
+V (vertex)
+B
+Lateral Face
+Altitude
+Slant Height
+Altitude
+Face
+A
+Base
+Base
+C
+OBLIQUE CONE
+RIGHT CIRCULAR CONE
+a
+b
+Figure 6.13
+A right circular cone is a cone with a foot of its altitude at the center of the base
+circle. Figure 6.13b is a right circular cone while Figure 6.13a is an oblique cone.
+The line segment from the vertex to a point on the boundary of the base circle is
+called the slant height of the cone.
+In figure 6.13b, BC is the slant height of the cone. The collection of all line segments
+BC where C is any point on the base circle makes the lateral surface of the cone (See
+figure 6.13b)
+Exercise 6.3
+1. Name the following pyramids.
+a
+b
+c
+Figure 6.14
+297
+Unit 6: Solid Figures
+2. Figure 6.15 shows a circular cone whose base is a circle.
+a. What is PQ called?
+b. What is PR called?
+C. If PQ =4 cm and RQ=3 cm, find the length of PR.
+Q
+R
+Figure 6.15
+3. Determine whether each of the following statements is true or false.
+a. All lateral edges of a pyramid are equal in length.
+b. All lateral edges of a regular pyramid are equal in length.
+C. The length of the slant height of a right circular cone is greater than the length
+of its altitude.
+d. We can take any face of a triangular pyramid as its base.
+e. All faces of a regular pyramid are congruent.
+f. All lateral faces of a regular pyramid are congruent.
+6.2.1 Surface Area of Pyramids and Cones
+The surface area of any given object is the area or region occupied by the surface
+of the object, whereas volume is the amount of space available in an object. In
+geometry, there are different shapes and sizes such as sphere, cube, cuboid, cone,
+cylinder, etc. and each shape has its surface area as well as volume.
+In general, the lateral surface area of a pyramid is the sum of the areas of its lateral
+faces and its total surface area is the sum of the areas of its lateral surface and its
+base.
+If LSA denotes lateral surface area, TSA denotes total surface area and BA
+denotes base area then
+LSA = sum of areas of the lateral faces
+TSA = LSA + BA
+298
+Unit 6: Solid Figures
+Definition 6.3
+A geometry net is a two-dimensional shape that can be folded to form a three-
+dimensional shape or a solid. When the surface of a three-dimensional figure is
+laid out flat showing each face of the figure, the pattern obtained is called the
+net of the figure.
+To find the formula for the lateral surface area of a regular pyramid in terms of its
+base perimeter and its slant height, consider the regular pentagonal pyramid and its
+net.
+V
+V
+E
+S
+D
+S
+r
+V
+a
+E
+S
+C
+B
+A
+C
+S
+B
+V
+a. Regular pentagonal Pyramid
+b. Net of Figure a
+Figure 6.16
+In figure 6.16b, ABCDE is a regular pentagon and it is the base of the pyramid in
+figure 6.16a. Point O is the center, a is the apothem, S is the length of one side, r is
+the radius of the base, AVED is one lateral face and l is the slant height. All the five
+lateral faces are isosceles triangles and are congruent.
+area
+LSA = 5 X area (A VED)
+= 5(1₂sl) = 2 1
+= 1/2 pl 1 where p = 5s is the perimeter of ABCDE.
+299
+Unit 6: Solid Figures
+We can extend this idea for a regular polygon whose base has n sides and generalize
+the surface area of a regular pyramid as follows.
+The lateral surface area LSA of a regular pyramid is equal to half the product of its
+slant height and the perimeter of the base. That is,
+LSA = 1pl, 2 1
+where p = ns denotes the perimeter of the base, and l denotes the slant height.
+The total surface area TSA of a regular pyramid is given by
+TSA = BA + LSA = BA +1/2pl + 2 1
+Example 1
+A regular square pyramid has a base edge of length 4 cm and slant height 5 cm.
+a. Sketch the pyramid and its net.
+b. Find its lateral and total surface area.
+Solution:
+a.
+N
+N
+M
+L
+M
+1=5
+N
+O
+R
+l=5
+N
+J
+S = 4
+O
+R
+4
+J
+K
+S
+K
+N
+Figure 6.17
+b. The base has 4 sides therefore, n = 4 and base perimeter
+p=ns=4x4=16.
+LSA = 2 1 pl = 2 1 X 16 X 5 = 40 cm².
+300
+Unit 6: Solid Figures
+The base is a square. Therefore BA = s² = 4² = 16 cm².
+TSA = LSA + BA = 40 + 16 = 56 cm².
+Example 2
+A regular square pyramid has a base edge 6 cm and lateral edge 7 cm. Find its lateral
+and total surface areas.
+Solution:
+N
+N
+7
+7
+M
+1
+1
+L
+J
+R
+s = 6
+K
+L
+R
+K
+s = 6
+(a)
+(b)
+Figure 6.18
+ANKL in figure 6.18b is one lateral face of the pyramid in Figure 6.18a.
+The lateral edge NK = 7 cm, base edge S = KL = 6 cm and KR = 3 cm. The slant
+height l = NR of the pyramid is the altitude of ANKL.
+Since ANRK is a right-angled triangle,
+l² + (KR)² = (NK)²
+l² + 3² = 7²
+l² = 7² - 3² = 40
+l = 210
+LSA = 2 1 pl = 2 1 X 24 X 210 = 24v10 cm²
+BA = s² = 6² = 36 cm²
+TSA = LSA + BA = 24v10 + 36 = 12(2v10 + 3) cm²
+301
+Unit 6: Solid Figures
+Example 3
+A right pyramid with a rectangular base of length 4 cm and width 2 cm has altitude
+3 cm.
+a. Sketch the pyramid and its net.
+b. Find its lateral and total surface areas.
+Solution:
+a.
+V
+V
+D
+C
+D
+V
+o
+V
+A
+0
+P
+C
+A
+B
+P
+B
+V
+RECTANGULAR PYRAMID
+NET OF RECTANGULAR PYRAMID
+Figure 6.19
+In figure 6.19, h = VO is the height (altitude) of the pyramid, AVBC, AVAD,
+AVAB and AVDC are lateral faces, l₁ = VQ and l₂ = VP are slant heights and they
+are altitudes of VBC and AVAB respectively, and ABCD is the base of the pyramid.
+b. h = vo = 3 cm, 0Q = 2 cm and OP = 1 cm.
+l₁ = VQ and (VO)² + (0Q)² = (VQ)²
+3² + 2² = l₁²
+l₁² = 13
+l₁ = √13
+l₂ = VP and (VO)² + (OP)² = (VP)²
+302
+Unit 6: Solid Figures
+3² + 1² = l₂²
+l₂² = 10
+l₂ = √10
+BC = AD = W = 2 cm and AB = DC = l = 4 cm, where W and l are width and
+length of the base rectangle ABCD
+area of VBC = 2 1 bl₁ = 2 1 X 2 X √13 = √13
+area of VAB = 2 1 ll₂ = 2 1 X 4 X √10 = 210
+VBC ≡ Д VAD and Д VAB ≡ VAC
+LSA = 2 X area (4 VBC) + 2 X area (4 VAB)
+= 2 X √13 + 2 X 10
+= 2(v13 + 210) cm²,
+BA = b x l = 2 x 4 = 8 cm², and
+TSA = LSA + BA = 2(v13 + 210) cm² + 8 cm²
+= 2(v13 + 210 + 4) cm².
+Exercise 6.4
+1. A regular square pyramid has a base edge of length 6 cm and slant height 8 cm.
+a. Sketch the pyramid and its net.
+b. Find its lateral and total surface area.
+2. A right pyramid of 3 m height has a square base whose diagonal is 6 m. Find its
+lateral and total surface areas.
+3. Find the lateral and the total surface areas of the regular hexagonal pyramid of 6
+cm height and a length of 4 cm on one side of the base.
+303
+Unit 6: Solid Figures
+Activity 6.4
+1. A sector of a circle has radius r and central angle Θ as shown
+by Figure 6.20.
+a. Find the length of the arc.
+I
+Θ
+Y
+b. Find the area of the sector.
+0
+2. Find the arc length and area of the sector
+if r = 6 cm and Θ = 30⁰.
+Figure 6.20
+To find the lateral surface area of a right circular cone, cut a right circular cone
+(Figure 6.21a) along the slant height l, open up and flatten it. The resulting surface
+looks like a sector as shown in Figure 6.21c.
+V
+2πr
+A
+B
+h
+A,B
+Θ
+/
+O
+V
+o
+r
+A,B
+RIGHT CIRCULAR CONE
+BASE OF THE CIRCULAR CONE
+NET OF THE LATERAL SURFACE
+a
+b
+c
+Figure 6.21
+In figure 6.21c, length of arc(AB) = 360 Θ (2πl)
+Length of arc(AB) = circumference of the base circle of figure 6.21a = 2πr
+360 Θ (2πl) = 2πr
+304
+Unit 6: Solid Figures
+LSA of the right circular cone = area of sector AVB = 360 360 Θ = π Θ l = πrl.
+LSA = πrl = = ₁ₚₗ, 1 where p = 2πr is perimeter or circumference of the
+base circle.
+The lateral surface area of a right circular cone is:
+LSA = πrl or LSA = 1pl, 1 where p = 2πr
+l = √h² + , where l is the slant height, h is the height (altitude), r
+is the base radius and p is perimeter or circumference.
+The total surface area is the sum of the area of the base and the lateral surface
+area. That is,
+TSA = LSA + BA = πrl + πr² = +
+Example 4
+A right circular cone has a base diameter 8 cm and height 3 cm, see Figure 6.22. Find
+its LSA and TSA.
+Solution:
+3cm
+l = √h² + = + 4² = √25 = 5 cm,
+LSA = πrl = (4) (5) = 20π cm²,
+4cm 0
+BA = πr² = 16π cm²,
+TSA = LSA + BA = 36π cm².
+Figure 6.22
+Exercise 6.5
+1. Find the total surface area of a right circular cone of radius 6 cm and height 12 cm.
+2. The area of the total surface of a right circular cone is 64 m² and its slant height is
+5 times the radius of the base. Find the radius of the base.
+305
+Unit 6: Solid Figures
+3. A conical tent is 6 m high and the radius of its base is 8 m. Find
+a. slant height of the tent.
+b. cost required to make the tent, if the cost of 1 m² canvas is Birr 250.
+Use π = 3.14
+6.2.2 Horizontal cross-section of pyramids and cones
+Definition 6.4
+If a pyramid or a cone is cut by a plane parallel to the plane containing the base,
+the intersection of the plane and the pyramid (or the cone) is called a horizontal
+cross-section of the pyramid (or the cone).
+Horizontal
+Horizontal
+Cross section
+Cross section
+R
+R%
+E'
+Parallel Planes
+E
+Figure 6.23
+In figure 6.23, E is the plane containing the bases of the cone and the pyramid. E' is
+the plane parallel to E and intersects the cone and the pyramid along the regions R
+and R', respectively. The regions R and R' are called horizontal cross-sections.
+Theorem 6.1
+Every horizontal cross-section of a triangular pyramid is a triangular region
+similar to the base.
+306
+Unit 6: Solid Figures
+Proof:
+Let the region of Д ABC be the base of the pyramid lying in the plane E, h be the
+altitude of the pyramid and Д A'B'C' be the cross section at a distance k from the
+vertex. Let D and D' be the points in which the perpendicular line from V to E meets
+E and E', respectively.
+To show that A'B'C' ~ Д ABC,
+ZD'VA' ≡ ZDVA (Common angles)
+ZVD'A' ≡ ZVDA (ZVD'A' = ZVDA = 90°)
+VA'D' ~A VAD by AA similarity.
+Thus, corresponding sides are proportional, that is,
+V
+k
+D'
+A'
+C'
+E'
+B'
+h
+A
+C
+E
+D
+B
+Figure 6.24
+(1)
+Similarly, Д VD'B' ~^ VDB and hence
+(2)
+307
+Unit 6: Solid Figures
+(3) ZA'VB' = ZAVB (Common angle)
+Hence, from (1), (2) and (3) we have
+VA'B' ~^ VAB by the SAS similarity.
+Thus, corresponding sides are proportional, that is,
+(4)
+By using the same argument that leads to (4), we can also show that
+AVB'C' ~ AVBC to get (5)
+(5) BC
+By showing AVA'C' ~ VAC we can get (6)
+(6) AC
+Hence, from (4), (5) and (6) and by the SSS similarity theorem Д A'B'C' ~ Д ABC.
+Theorem 6.2
+Let h be the altitude of a triangular pyramid and let k be the distance from the
+vertex to a horizontal cross-section. Then the ratio of the area of the cross section
+to the area of the base is k2/2
+Proof:
+Let Д ABC be the base, h the altitude of the pyramid and A'B'C' be the horizontal
+cross-section at a distance k from the vertex (see Figure 6.24).
+A
+A'
+a
+a'
+B
+C'
+B
+C
+b'
+b
+Figure 6.25
+308
+Unit 6: Solid Figures
+By theorem 6.1, Д ABC ~ Д A'B'C'
+Note that the ratio between the altitudes of two similar triangles is the same as the
+ratio of their sides. So,
+= (1)
+where a' and a are altitudes and b and b' are bases-in Figure 6.25.
+On the other hand, in Figure 6.24,
+-
+Hence,
+area area of of A'B'C' ABC = 2(ba) = =
+(According to (1))
+-k2/h2 = (According to (2))
+Thus, area of cross-section = -k2/h2
+are a of base
+Example 1
+The area of the base of a triangular pyramid is 270 cm². The altitude of the pyramid
+is 6 cm. Find the area of the horizontal cross-section of the pyramid 4 cm from the
+vertex.
+Solution:
+h = 6 cT, k = 4 cm and base area of the pyramid = 270 cm²
+area of base cross area section = k² h²
+area of cross 270 section 2
+Area of the cross section = 270 X 4/9 4 9 = 120 cm².
+309
+Unit 6: Solid Figures
+Exercise 6.6
+1. In the triangular pyramid shown in Figure 6.26, A'B'C' is a horizontal cross-
+section. Find the values of x and k/n k
+k
+2. The area of the base of a triangular pyramid is
+C
+A'
+B'
+100 cm². The altitude of the pyramid is 5 cm.
+4cm
+h
+Find the area of the horizontal cross-section
+C
+of the pyramid 2 cm from the vertex.
+9cm
+A
+B
+12cm
+Figure 6.26
+Theorem 6.3
+In any pyramid the ratio of a cross-section to the area of the base is k2 where h is
+the altitude of the pyramid and k is the distance from the vertex to the plane of
+the cross section.
+V
+k
+V
+Tk
+B
+A
+C'
+B'
+A
+D'
+D'
+E'
+h
+h
+B
+C
+A
+O
+0
+A
+D
+D
+E
+Area(ABCD)_k² =
+Area(ABCDE)_k² =
+Area (ABCD) h²
+(ABCDE) h²
+a
+b
+Figure 6.27
+310
+Unit 6: Solid Figures
+Example 2
+The altitude of a square pyramid is 10 cm and a side of the base is 5 cm long. Find
+the area of the horizontal cross section of the pyramid 3 cm from the vertex.
+Solution:
+The base is a square of side S = 5 cm, its
+k
+area is A = s² = 25 cm²,
+area of cross section k²
+A
+h
+=
+base area
+area of cross section
+3²
+=
+25
+10²
+area of the cross section = = ÷ cm2 214
+A
+S
+Figure 6.28
+Example 3
+The area of the cross-section of a pyramid at a distance 5 cm from the base is
+36 cm². If the area of the base of the pyramid is 81 cm², find the altitude of the
+pyramid.
+Solution:
+cros s-section bas e area area = h² k² = (5+k)2 k² and from this we have,
+36 81 = (5+k) , where k is the distance from the vertex of the pyramid to the cross
+section,
+6 9 = 5+k k and solving for k gives k = 10 cm.
+Therefore, the altitude of the pyramid is 5 cm + 10 cm = 15 cm.
+311
+Unit 6: Solid Figures
+Theorem 6.4
+If two pyramids have the same base area and the same altitude then cross-
+sections equidistant from the vertices have the same area.
+Proof:
+Let the two pyramids in figure 6.27 have the same base area A and the same altitude
+h. Let A' and A" be the area of the cross sections A'B'C'D' and A'B'C'D'E',
+respectively. Let the distance from the vertices to the cross-sections be k.
+By Theorem 6.3, A' A'' A
+A
+A' = A"
+Exercise 6.7
+1. The base of a pyramid is a rectangle with sides 6 cm and 4 cm. If the altitude of
+the pyramid is 12 cm, find the area of the horizontal cross-section of the pyramid
+4 cm from the vertex.
+2. The area of the horizontal cross-section of a pyramid at a distance 6 cm from the
+base is 90 cm². If the area of the base of the pyramid is 160 cm², find its altitude.
+3. The radius of a horizontal cross-section of a cone at a distance 6 cm from the base
+is 2 cm. If the radius of the base of the cone is 3 cm, find its altitude.
+4. The altitude of a regular hexagonal pyramid is 9 cm and the side of the base is 3
+cm. What is the area of a horizontal cross-section at a distance of 5 cm from the
+base?
+5. Prove Theorem 6.3
+312
+Unit 6: Solid Figures
+6.2.3 Volume of Pyramids and Cones
+CAVALIERI'S PRINCIPLE: If two solids of equal height have equal
+cross-sectional areas at every level parallel to the respective bases, then the two
+solids have equal volume.
+A
+A
+h
+Figure 6.29
+Theorem 6.5
+If two pyramids have equal altitudes and equal base areas, then their volumes are
+equal.
+Proof:
+By theorem 6.4, the two pyramids have equal cross-sectional area at every level
+parallel to the respective bases, then by the Cavalieri's Principle they have equal
+volume.
+313
+Unit 6: Solid Figures
+Theorem 6.6
+The volume of a triangular pyramid is one- third of the product of the height and
+the base area, that is, V = ¹ hB.
+h
+Base
+Figure 6.30
+You know that the volume of a triangular prism is the product of its height and base
+area.
+F
+D
+E
+E
+h
+C
+C
+B
+B
+(a)
+(b)
+Figure 6.31
+Figure 6.31b is a triangular prism. Let the height of the prism be h. Its volume is
+given by
+V = (BA)h
+where, BA is the base area, that is the area of ДАВС.
+Let the triangular pyramid in figure 6.31a have the same base area and height as the
+prism.
+We will show that the triangular prism is the union of three triangular pyramids, each
+314
+Unit 6: Solid Figures
+having the same volume as the triangular pyramid in figure 6.31a. For this, we divide
+the triangular prism into three triangular pyramids as shown in figure 6.32.
+F
+D
+E
+C
+A
+B
+F
+D
+E
+E
+E
+C
+C
+A
+A
+A
+B
+Figure 6.32
+Consider triangular pyramids ADEF and ACEF with base ADF and ACF,
+respectively.
+(1) AF is the diagonal of the parallelogram ADFC, Д ADF ЕД ACF.
+(2) The pyramids have the same base area by (1).
+(3) The pyramids have the same common vertex E.
+(4) They have the same altitude. The altitude is the perpendicular distance from E
+to the parallelogram ADFC.
+Hence by Theorem 6.5 they have the same volume. That is,
+(5) Volume of the triangular pyramid ADEF = volume of triangular pyramid
+ACEF.
+Consider the triangular pyramids ABCE and ACEF with base BCE and CFE
+respectively.
+(6) CE is the diagonal of the parallelogram BCFE, ДВСЕ ЕД FCE.
+(7) The triangles have the same base area by (6).
+(8) The pyramids have the same common vertex A.
+315
+Unit 6: Solid Figures
+(9) They have the same altitude. The altitude is the perpendicular distance from
+A to the parallelogram BCFE.
+Hence by Theorem 6.5 they have the same volume. That is,
+(10) Volume of the triangular pyramid ABCE = Volume of the triangular pyramid
+ACEF.
+(11) Volume of ABCE = Volume of ACEF = Volume of ADEF by (5) and (10).
+Thus, all the three pyramids have the same volume. Since the volume of the prism is,
+(BA)h, the volume of each of the pyramid becomes - 3 1 (BA)h.
+Therefore, the volume of the pyramid in figure 6.31a. is 3 1 (BA)h and this proves
+Theorem 6.6.
+Theorem 6.7
+The volume of a pyramid is one third of the product of its altitude and its base
+area.
+h
+E
+D
+b2
+1
+A
+b₁
+b₃
+C
+B
+Figure 6.33
+Proof:
+Consider any pyramid with base area B and altitude h. Since the base is a polygonal
+region, it can be subdivided into a finite number of triangular regions with areas
+316
+Unit 6: Solid Figures
+b₁,b₂, bₙ. Hence the volume of the given pyramid is the sum of the volumes of
+triangular pyramids which have the same altitude h.
+Hence the volume is,
+=⁺(b₁+b₂+....+b,)h = (BA)
+Theorem 6.8
+The volume V of a circular cone with altitude h and base radius r is,
+Example 1
+A regular square pyramid has a base edge of length 4 cm and altitude 7 cm. Find its
+volume.
+V
+Solution:
+The base of the pyramid is a square
+Lateral Edge
+with base edge of length 4 cm.
+Height h = 7cm
+BA = 4 X 4 = 16 cm²
+B
+= 112 cm³. 3
+A
+C
+D
+Base Edge = 4cm
+Figure 6.34
+Example 2
+A circular cone has a base radius 5 cm and altitude 6 cm. What is its volume?
+317
+Unit 6: Solid Figures
+Solution:
+P
+6cm
+=
+= 50π cm³
+5cm Q
+R
+Figure 6.35
+Exercise 6.8
+1. The altitude of a regular square pyramid is 6 cm. If one edge of the base has
+length 4 cm then find its volume.
+2. A circular cone has an altitude 12 cm and a base radius 10 cm. What is its
+volume?
+3. A right circular cone has height 10 cm and circumference of the base is 12π cm.
+Find its volume.
+4. The lateral edge of a regular tetrahedron is 6 cm. Find its total surface area and its
+volume.
+5. A right circular conical vessel of altitude 20 cm and base radius 10 cm is kept
+with its vertex downwards. If one liter of water is poured into it, how high above
+the vertex will the level of the water be? Use π = 3.14
+6.2.4 Surface Area and Volume of Sphere
+Definition 6.5
+A sphere is a solid bounded by a closed surface every point of which is
+equidistant from a fixed point called the center.
+318
+Unit 6: Solid Figures
+P
+A
+B
+Figure 6.36
+Radius of a sphere is a line segment connecting its center with any point on the
+sphere.
+Diameter of the sphere is a line segment from the surface of the sphere passing
+through the center and ending at the surface.
+In Figure 6.36, O is the center, OP is the radius and AB is the diameter of the sphere.
+Moreover, OA and OB are also the radius of the sphere.
+C
+Figure 6.37
+Great and Small Circles
+Every cross-section made by a plane passed through a sphere is a circle.
+If the plane passes through the center of a sphere, the cross-section formed is a great
+circle; otherwise, the cross-section is a small circle. Clearly any plane through the
+center of the sphere contains a diameter. Hence all great circles of a sphere are equal
+and have for their common center, the center of the sphere and have for their radius,
+319
+Unit 6: Solid Figures
+the radius of the sphere. In Figure 6.37, C' is a small circle and C is a great circle of
+the sphere.
+Hemisphere
+A great circle bisects the surface of a sphere. One of the two equal parts into which
+the sphere is divided by a great circle is called a hemisphere. Figure 6.38 is a
+hemisphere.
+Figure 6.38
+Activity 6.5
+1. Give examples of objects from your surroundings that have spherical shapes.
+2. Give two examples of hemispheres.
+If r is the radius, SA surface area and V volume of a sphere, then
+SA = 4πr²,
+Exercise 6.9
+1. The radius of a sphere is 10 cm. Find its surface area and volume.
+2. The diameter of an iron ball is 6 cm. Find its surface area and volume
+(use π = 3.14).
+3. Find the formula for the surface area and volume of a sphere in terms of its
+diameter d.
+320
+Unit 6: Solid Figures
+6.3 Frustum of Pyramids and Cones
+Activity 6.6
+1. What is a trapezium?
+2. Find the area of a trapezium whose parallel sides are 10 cm and 14 cm and the
+distance between them is 8 cm.
+3. The area of a trapezium is 150 cm² and the distance between its parallel sides
+is 16 cm. If one of the parallel sides is 8 cm,
+find the other.
+4. In Figure 6.39, sector of two concentric
+9cm
+0
+30°
+circles of radii 9 cm and 11 cm are shown.
+11cm
+Find the area of the shaded region in terms of π.
+Figure 6.39
+Definition 6.6
+A frustum of a pyramid is part of the pyramid between the base and the vertex
+formed when the original pyramid is cut off by a plane parallel to the plane of
+the base. That is, the frustum of a pyramid is part of the pyramid between the
+base and a cross-section of the pyramid.
+When a pyramid is cut by a plane parallel to the base, the part of the pyramid
+between the vertex and the cross-section is again a pyramid whereas the other part is
+not a pyramid.
+321
+Unit 6: Solid Figures
+Lateral
+Faces
+Altitude
+Lower Base
+a
+b
+c
+d
+Figure 6.40
+Figure 6.40c is the frustum of a pyramid. The base of the pyramid and the cross-
+section are called the bases of the frustum. The other faces are called lateral faces.
+The lateral surface of the frustum is the sum of the lateral faces. The total surface is
+the sum of the lateral surface and the bases.
+The altitude of a frustum of a pyramid is the perpendicular distance between the
+bases.
+Observations:
+1. The lateral faces of a frustum of a pyramid are trapezium.
+2. The lateral faces of a frustum of a regular pyramid are congruent isosceles
+trapeziums.
+3. The slant height of a frustum of a regular pyramid is the altitude of any one of the
+lateral faces.
+4. The lateral surface area of a frustum of a pyramid is the sum of the areas of the
+lateral faces.
+Definition 6.7
+A frustum of a cone is a part of the cone between the base and the vertex formed
+when the original cone is cut off by a plane parallel to the plane of the base.
+The slant height of a frustum of a right circular cone is the part of the slant height of
+the cone which is included between the bases.
+322
+Unit 6: Solid Figures
+Upper Base
+Slant Height
+Altitude
+Lateral Face
+Lower Base
+Figure 6.41
+Activity 6.7
+Give at least two examples of objects from your surroundings that have the shape
+of frustum of a right circular cone.
+Example 1
+The lower base of the frustum of a regular pyramid is a square of side of length S
+unit and the upper base has a side of length s' unit. If the slant height is l unit long
+then find,
+D'
+a. the lateral surface area of the frustum.
+A'
+C'
+S
+b. the total surface area of the frustum.
+B
+c. Find the values of the lateral surface area and
+D
+the total surface area, when S = 5 cm,
+A
+s' = 3 cm and l = 4 cm.
+C
+S
+Solution:
+B
+The four faces are congruent isosceles trapeziums.
+Figure 6.42
+a. LSA = area (A' ABB') + area(B' BCC') + area (C'CDD') + area 'DAA')
+= 4 X 2 1 (s +
+= 2 1 (4s + 4s') ( Note here that 4s and 4s' are the perimeters of the
+lower and the upper bases, respectively)
+323
+Unit 6: Solid Figures
+= 2l (s +
+b. TSA = LSA + BA = 2l (s + s') + s² + s¹².
+c. LSA = 2(4) (5 + 3) = 64 cm², and
+TSA = 64 + (5² + 3²) = 98 cm².
+The lateral surface area (LSA) of a frustum of a regular pyramid is equal to half
+the product of the slant height l and the sum of the perimeter p of the lower base
+and perimeter p' of the upper base. That is, LSA = ¹(p + p'). 2
+Exercise 6.10
+The lower base of the frustum of a regular pyramid is an
+4cm
+equilateral triangle of side of length 8 cm and the upper base has a
+5cm
+side of length 4 cm. If the slant height is 5 cm, then find
+a. the lateral surface area of the frustum
+b. the total surface area of the frustum
+8cm
+Figure 6.43
+Activity 6.8
+Consider figure 6.44 and find
+2cm
+a. LSA of the bigger cone.
+Tem
+b. LSA of the smaller cone.
+6cm
+C. LSA of the frustum.
+d. The volume of the bigger cone.
+e. The volume of the smaller cone.
+3cm
+f. The volume of the frustum.
+Figure 6.44
+324
+Unit 6: Solid Figures
+Example 2
+From a right circular cone of altitude 8 cm and
+base radius 6 cm a frustum of height 4 cm is
+k
+formed. What is the lateral surface area of the
+8cm
+frustum?
+4cm
+6cm
+Figure 6.45
+Solution:
+In Figure 6.45, let CA denote the cross-section area, k and h are altitudes of the
+smaller cone and the bigger cone, respectively. Assume also that l'and l are slant
+heights of the smaller and the bigger cones, respectively. Then,
+area of the base cross-section area = BA CA = (k) 2 , k = h - 4 = 4 cm
+36π CA = 4' 1 since BA = πr² = 36π
+CA = 36π 4 = 9π cm² ... (*)
+CA = π(r')², where r' is the radius of the cross section
+9π = π(r')², using CA = 9π from (*)
+r' = 3 cm
+l = 2 + h² = + 8² = 10 cm and
+l' = + k² = + 4² = 5 cm
+LSA of the smaller cone = πr'l' = 3 X 5 X π = 15π cm².
+LSA of the bigger cone = πrl = 6 X 10 X π = 60π cm².
+Hence, lateral surface area of the frustum
+= (LSA of the bigger cone) - (LSA the smaller cone)
+= 60π cm² - 15π cm² = 45π cm².
+325
+Unit 6: Solid Figures
+Exercise 6.11
+For the right circular cone in Figure 6.46,
+a. Find the height of the smaller cone.
+x
+b. Find the Lateral Surface Area (LSA) of the frustum using
+Icm
+12cm
+LSA = (LSA of the larger cone)
+- (LSA of the smaller cone).
+Just
+Figure 6.46
+To find the formula for the lateral surface area of a frustum of a right circular cone, in
+terms of its base radii r and r' and its slant height l, let us consider a right circular
+cone and its net as shown by Figure 6.47.
+V
+0',
+A
+V
+L
+L
+/
+A
+A.
+h
+B
+B
+r
+B
+Frustum of Right Circular Cone
+Net of the Frustum
+a
+b
+Figure 6.47
+From Figure 6.47a, as Д vo'. A ~^ VOB we have
+l' r
+(1)
+L
+r
+l' = L - l (2)
+Substituting the value of l' of (2) to the value of l' in (1) and solving for L gives,
+326
+Unit 6: Solid Figures
+L = (3)
+Frustum area = (area of the bigger cone) - (area of the smaller cone)
+= πrL - (4)
+= πrL - πr' (L - l) (Substituting the values of l' from equation (2) to
+equation (4))
+= = π(r - r')L+ nr'l (5)
+= π (r - + πr'l = πrl + πr'l (Substituting the values of L
+from equation (3) to equation (5))
+= πl (r +
+For a frustum of a right circular cone with slant height l, if the radii of the bases
+are r and r', then the lateral surface area of the frustum is given by
+LSA =
+Example 3
+Find the lateral and total surface area of the frustum of a right circular cone of height
+24 cm, base radius 22 cm, and slant height 26 cm. Use π = 3.14.
+Solution:
+Let the larger base radius of the frustum be r = 22 cm and assume that its small
+radius is r'.
+The height of the frustum of the cone is h = 24 cm and its slant height is l = 26 cm.
+Also consider Figure 6.48,
+Po
+A
+r = OB, h = PO = AR = PA and l = AB
+OPAR is a rectangle and PA = OR = r'.
+ARB is right-angled triangle and AB² = AR² + RB²
+O's
+R
+B
+AB² = AR² + (OB - OR)²
+Figure 6.48
+327
+Unit 6: Solid Figures
+l² = h² + (r - r )²
+26² = 24² + (22 - r')², solving for r' from this equation r' = 12 cm.
+LSA = lπ (r + r') = 26π (22 + 12) = 884π cm².
+BA = the area of the two bases = π (r² + r²) = π (22² + 12²) = 628π cm².
+TSA = LSA + BA = 884π + 628π = 1512π cm²
+= 1512 X 3.14 = 4747.68 cm²
+Exercise 6.12
+1. Find the lateral and total surface area of the frustum of a right circular cone of
+height 9 cm and base radii 4 cm and 1 cm.
+2. A right circular cone is cut by a plane parallel to the base at a distance 9 cm from
+the vertex to form a frustum of a cone. If the radii of the bases of the frustum
+formed are 3 cm and 5 cm, then find the altitude and the lateral surface area of the
+frustum.
+To find the volume formula for a frustum of a right circular
+V
+cone in terms of its base radius r and r' and its height h,
+h'
+consider Figure 6.49.
+A
+L
+H
+H = h + h' (1)
+/
+(2)
+H
+O
+B
+Substituting the value of H in (1) to the value of H in (2)
+Figure 6.49
+h + h' h' r (3)
+Solving for h'
+h'= hr'r' . . . (4)
+Volume of the frustum = (volume of the bigger cone) - (volume of the smaller cone)
+328
+Unit 6: Solid Figures
+=
+1
+=
+by (4)
+=
+The volume of a frustum of a right circular cone is
+where r is the radius of the bigger circle, r' is the radius of the smaller circle and
+h is the altitude of the frustum.
+Example 4
+Find the volume of the frustum of a cone whose top and bottom diameters are 6 m
+and 10 m and the height is 12 m. (Use π=3.14)
+Solution:
+Since the diameter of the upper base is 6 m the radius of the upper base becomes 3 m
+and since the diameter of the lower base is 10 m, its radius becomes 5 m. The height
+is 12 m, so
+0'3m
+Volume = ¹ (r² + r² + r')
+12m
+=¹π(12)(3² + 5² + (3)(5))
+5m
+= 196π = 196 X 3.14 = 615.44 m³.
+Figure 6.50
+329
+Unit 6: Solid Figures
+Exercise 6.13
+1. Given the same right circular cone as in Figure 6.46 above,
+a. Calculate the volume of the larger cone.
+b. Calculate the volume of the smaller cone.
+x
+C. Find the volume of the frustum by
+1cm
+12cm
+V = (volume of the larger cone) - (volume of
+the smaller cone).
+d. Find the volume by using the formula,
+Just
+V = 3 1 + + and compare the results. (Fig. 6.46 reproduced)
+2. A right circular cone of altitude 16 m is cut by a plane parallel to the base 4 m
+from the vertex to form a frustum of the cone. If the radius of the base of the right
+circular cone is 12 m, then find
+a. the radius of the other base of the frustum.
+b. the volume of the frustum?
+The volume formula, V = 3 + r'² + can be rewritten as
+=
+where A and A' are base areas and h is the altitude of the frustum.
+The volume of a frustum of a right circular cone is
+where A and A' are base areas and h is the altitude of the cone.
+The volume of a frustum of a pyramid is also, V = 3 1 (A + A' + √AA), where
+A and A' are base areas and h is the altitude of the frustum.
+330
+Unit 6: Solid Figures
+Exercise 6.14
+1. A right circular cone of altitude 9 cm is cut by a plane parallel to the base 7 cm
+from the vertex. If the area of the base of the frustum formed are 81 cm² and
+49 cm² then find the volume of the frustum.
+2. The lower base of a frustum of a regular pyramid is a square of side of length 6
+cm, and the upper base has side length 4 cm. If the slant height is 8 cm, find
+a. its lateral surface area
+b. its total surface area
+C. its volume
+3. What is the lateral area of a regular pyramid whose base is a square 12 cm on a
+side and whose slant height is 10 cm? If a plane is passed parallel to the base and
+4 cm from the vertex, what is the lateral surface area and volume of the frustum?
+4. A frustum of a regular square pyramid has a height of 2 cm. The lateral faces of
+the pyramid are equilateral triangles of side 3√2 cm. Find the volume of the
+frustum.
+5. A cone 12 cm high is cut 8 cm from the vertex to form a frustum with a volume
+of 156 cm³. Find the radius of the bases of the cone.
+6. Show that the volume of a frustum of a pyramid is V = 3
+where A and A' are base areas and h is the altitude of the frustum.
+6.4 Surface Area and Volume of Composed Solids
+A composed solid is a solid that is made up of two or more solids. In order to find the
+volume and surface area of a composed solid, one needs to identify the different parts
+it is made of. This decomposition allows working out the volume and surface area of
+each part independently. The volume of the composed solid is simply the sum of the
+volumes of its parts.
+To find the surface area and volume of a composed solid, you need to know how to
+find the surface area and volume of prisms, pyramids, cones, cylinders, and spheres.
+331
+Unit 6: Solid Figures
+In the preceding sections you learnt how to calculate the surface area and volumes of
+these solids.
+Example 1
+Find the total surface area and volume of the flask shown in figure 6.51.
+Solution:
+4cm
+The total surface area of the flask is the lateral surface area of
+the frustum of the cone, lower base area of the frustum of the
+14cm
+cone and lateral surface area of the cylinder.
+Acm
+Slant height l of the frustum of the cone is:
+l = √4² + 16² = √272 = 4√17 cm,
+16cm
+Lateral surface area of the frustum = lπ(r + r')
+8cm
+= 48V17π cm²,
+Lower base area of the frustum = πr² = 64π cm²,
+Figure 6.51
+Lateral surface area of the cylinder = 2πrh = 112π cm².
+Total surface area = 48V17π cm² + 64π cm² + 112π cm² = 16π(3√17 + 11) cm².
+Total volume of the flask = Volume of the frustum of the cone + volume of the
+cylinder
+= +
+Example 2
+A solid figure is made of a circular cylinder of radius 4 cm at bottom and a right
+circular cone of altitude 3 cm, as shown in Figure 6.52. If the overall height is 10 cm,
+find the total surface area and the volume of the solid.
+Solution:
+332
+Unit 6: Solid Figures
+Figure 6.52 is a composed solid because it is made up of two solids, a cone and a
+cylinder. The total surface area of the solid is the sum of the area of three surfaces.
+These are the lateral surface of the cone, the lateral surface of the cylinder and the
+lower base of the cylinder.
+3cm
+Slant height l of the cone
+4cm
+l = √h² + = √4² + 3² = 5 cm,
+10cm
+LSA of the cone = πrl = 4 x 5 X π = 20π cm², ,
+Height of the cylinder is 7cm,
+LSA of the cylinder = 2πrh = 2π X 4 X 7 = 56π cm²,
+4cm
+Lower base area of the cylinder = πr² = 16π cm²,
+Figure 6.52
+Total surface area of the solid = 20π + 56π + 16π = 92π cm².
+Total volume of the solid = Volume of the cylinder + Volume of the cone
+= πr 2 h + 3 1 = (4²) (7) + 3 1 (3) = 128π cm³.
+Exercise 6.15
+1. Find the total surface area and volume of the following.
+2cm
+5cm
+2cm
+2.5cm
+3cm
+5m
+2.5cm
+2cm
+8cm
+7m
+3cm
+4m
+6cm
+5m
+3cm
+5cm
+12m
+a
+b
+c
+Figure 6.53
+333
+Unit 6: Solid Figures
+2. Hawi bought a new pencil like the one shown in Figure
+6.54 on the right. She used the pencil every day in her
+mathematics class for a week, and now her pencil looks
+like the one shown on the right. How much of the pencil,
+18cm
+in terms of volume did she use?
+76m
+I
+2cm
+Figure 6.54
+Example 3
+A right circular cylinder whose base radius is 10 cm and whose height is 12 cm is
+drilled a triangular prism hole whose base has edge 3 cm, 4 cm and 5 cm as shown in
+Figure 6.55. Find the total surface area and volume of the remaining solid.
+Use π = 3.14.
+Solution:
+The base of the drilled triangular prism is a right-angled
+triangle. Why? The total surface area is the sum of the lateral
+surface areas of the cylinder and prism, and the base area of
+the cylinder minus the base area of the prism.
+TSA = 2πrh + ph + 2πr² - 2 (¹₂ ab), where r is the radius
+and h the height of the cylinder, p perimeter of the triangle, a
+and b are legs of the triangle.
+Figure 6.55
+TSA = 2π(10)(12) + (3 + 4 + 5) (12) + 2π(10)² - 2 1
+=(440π + 132) cm² = ((440 X 3.14) + 132) cm²,
+334
+Unit 6: Solid Figures
+= 1513.6 cm².
+The volume of the resulting solid = (volume of the cylinder) - (volume of the prism)
+= πr²h - ¹₂bh
+= 1200π - 72 = (1200 X 3.14) - 72 = 3696 cm³.
+Exercise 6.16
+1. A cone is contained in a cylinder as shown in Figure 6.56
+so that their base diameter and height have the same
+length x cm. Calculate the volume of the space inside the
+cylinder but outside the cone.
+Figure 6.56
+2. From a hemispherical solid of radius 8 cm, a conical part is removed as shown in
+Figure 6.57a. Find the volume and the total surface area of the resulting figure.
+3. The altitude of a frustum of a right circular cone is 20 cm and the radius of its
+base is 6 cm. A cylindrical hole of diameter 4 cm is drilled through the cone with
+the center of the drill following the axis of the cone, leaving a solid as shown in
+Figure 6.57b. Find the volume and the total surface area of the resulting solid.
+4. Figure 6.57c shows a hemispherical shell. Find the volume and total surface area
+of the solid.
+2cm
+4
+6
+20cm
+r
+6cm
+a
+b
+c
+Figure 6.57
+335
+Unit 6: Solid Figures
+5. A cylindrical piece of wood of radius 8 cm and height
+8cm
+T
+18 cm has a cone of the same radius. scooped out of it
+9cm
+to a depth of 9 cm. Find the ratio of the volume of the
+18cm
+wood scooped out to the volume of the wood which is
+left. (See Figure 6.58)
+8cm
+Figure 6.58
+6.5 Applications
+In daily life, volume and surface area could help
+With travel, knowing how much your container can hold could help you use
+your space most efficiently. For example, the volume of the trunk of a car, a
+bag or a box.
+Without volume, you can't figure out density, or capacitance and many other
+things in science.
+Suppose you're manufacturing an object whose shape is a cone, for example,
+a funnel. You need to know the surface area to determine how much material
+goes into each cone which determines your material cost.
+When you want to rent an apartment/house, you need to know how much
+surface area you are getting for your money. This can be broken down to
+usable space (kitchen, bedrooms, bathrooms), and even storage or extra space
+(like basement and balconies).
+You could use surface area to find out how much cardboard was used to make
+a box, or how much fabric was used to make a pillow.
+Example 1
+The bottom and top diameters of a backet are 10 cm and 13 cm respectively. If the
+slant height is 20 cm,
+336
+Unit 6: Solid Figures
+a. How many liters of water can it hold?
+b. How many square centimeters of material are used to make this bucket ignoring
+the thickness of the backet?
+c. If 100 cm² of the material costs 50 birr then find the total cost of the material.
+Use π = 3.14 and put your answer by rounding it to two decimal places.
+Solution:
+a. The bucket has the shape of frustum of a cone with base radius r' = 10 cm,
+r = 13 cm and slant height l = 20 cm. To find the height h of the bucket
+consider Figure 6.59.
+13cm
+h² + 3² = 20²
+h = √20² - 3² = √391 cm
+20cm
+h
+10cm
+= ³π√³91(13² + (10)² + (13)(10))
+Figure 6.59
+= 1
+10cm
+3cm
+Since 1 liter is equal to 1000 cm³, the bucket can
+hold 1x399πV391 = 8.26209 liters
+h
+20cm
+1000
+8.26209 rounded to 2 decimal places would be 8.26.
+Therefore, the answer is 8.26 liters.
+b. LSA = lπ(r + r') = 20π(13 + 10) = 460π cm²
+Figure 6.60
+Since the bucket is closed from bottom BA = π(r')² = 100π cm²
+TSA = LSA + BA = 560π cm² = 560 X 3.14 = 1758.4 cm²
+c. If 100 cm² of the material costs 50 birr, then 1758.4 cm² of material cost
+1758.4x50
+= 879.2 birr
+100
+337
+Unit 6: Solid Figures
+Example 2
+A construction company wants to make a water tank in the form of a right circular
+cylinder that can hold 100,000 liters of water and has height of length 8 m.
+a. Find the radius of the cylinder that will be constructed.
+b. If the company wants to paint the lateral surface of the cylinder with anti-rust
+paint with thickness 2 cm, find the cost of the anti-rust paint at the rate of 15
+birr per liter ignoring the thickness of the material used to make the water
+tank.
+c. If the company has to pay for a painter only for the lateral surface, find the
+amount in birr that the company has to pay for the painter at the rate of 50 birr
+per m².
+Use π = 3.14 and put your answer by rounding it to two decimal places.
+Solution:
+2cm
+a. Volume of the water tank = 100,000 liters = 100 m³
+Volume of a cylinder = πr²h = 8πr²
+8m
+100 = 8πr²
+Therefore, the base radius of the water tank is 2 m.
+Figure 6.61
+b. 2 cm = 0.02 m, therefore, the radius of the outer circle is 2.02 m and the
+radius of the inner circle is 2 m.
+The volume of the paint = πh(r² - (r')²) = 8π(2.02² - 2²)
+= 2.019648 m³ = 2,019.648 liters
+Since the cost of the paint per liter is 15 birr, the total cost of the anti-rust
+paint is 15 X 2,019.648 = 30,294.72 birr.
+c. LSA = 2πrh = 2π X 2.02 X 8 = 101.48 m²
+The company has to pay 101.48 X 50 = 5,074.24 birr for the painter.
+338
+Unit 6: Solid Figures
+Exercise 6.17
+1. A concrete beam is to rest on two concrete pillars. The beam is a cuboid with
+sides of length 0.6 m, 4 m and 0.5 m. The pillars have diameter 0.5 m and height
+2.5 m. Calculate the total volume of concrete needed to make the beam and the
+pillars. Use π = 3.14 and put your answer by rounding it to two decimal places.
+Figure 6.62
+2. The diagram shows the cross-section of a pipe of length 50 m. The inner diameter
+of the pipe is 20 cm and the outer diameter is 28 cm.
+a. Calculate the volume of metal needed to make the pipe. Use π = 3.14
+b. Calculate the total surface area of the pipe, including the inside surface.
+Use π = 3.14
+Figure 6.63
+3. A lead bar of length 15 cm, width 8 cm and thickness 5 cm is melted down and
+made in five equal spherical ornaments. Find the radius of each ornament. (Use
+π = 3.14)
+339
+Summary and Review Exercise
+Summary
+Prism
+h
+LSA = ph
+TSA = 2BA + LSA
+V = (BA)h
+Figure 6.64
+Right circular cylinder
+LSA = 2πrh
+h
+TSA = 2πr² + 2πrh = 2πr(r + h)
+V = πr²h
+r
+Figure 6.65
+Regular Pyramid
+LSA = 1/2 pl 2 1
+TSA = BA + 1pl 2 1
+h
+/
+V = 3 1 (BA)h
+o
+Figure 6.66
+340
+Summary and Review Exercise
+Right circular cone
+LSA = πrl
+h
+l
+TSA= nr² + nrl = nr(r + l)
+V = ¹ πr²h
+r
+Figure 6.67
+Sphere
+A = 4πr²
+V = ⁴πr³
+Figure 6.68
+Frustum of a pyramid
+Upper Base Area (A')
+LSA = 2 1 + p
+h
+TSA = 2 1 + + A' + A
+Lower Base Area (A)
+Figure 6.69
+341
+Summary and Review Exercise
+Frustum of a cone
+LSA = 2 1 1(2πr + 2πr') = + )
+h
+TSA = 2 1 (2πr + 2πr') + πr² + πr'²
+=
+3
+Figure 6.70
+342
+Summary and Review Exercise
+Review Exercise
+1. Find the lateral surface area and volume of the following figures.
+4
+11
+Figure 6.71
+2. A lateral edge of a right prism is 6 cm and the perimeter of its base is 36 cm. Find
+the area of its lateral surface.
+3. The height of a circular cylinder is equal to the radius of its base. Find its total
+surface area and its volume. Give your answer in terms of its radius.
+4. Find the total surface area of a regular hexagonal pyramid, given that an edge of
+the base is 8 cm and the altitude is 12 cm.
+5. When a lamp of stone is submerged in a rectangular water tank whose base is 20
+cm by 50 cm, the water level rises by 1cm. What is the volume of the stone?
+6. The altitude and base radius of a right circular cone are 5 cm and 8 cm
+respectively. Find the total surface area and volume of the cone.
+7. What is the lateral surface area of a regular square pyramid whose base is 12 cm
+on a side and whose slant height is 10 cm? If a plane is passed parallel to the base
+and 4 cm from the vertex, what is the lateral area of the frustum?
+8. The radii of the internal and external surfaces of a hollow spherical shell are 3 m
+and 5 m respectively. If the same amount of material were formed into a cube
+what would be the length of the edge of the cube?
+343
+Summary and Review Exercise
+9. Find the ratio relation between the volumes and the lateral surface areas of the
+cylinder, sphere and cone, when their heights and diameters are equal.
+10. A solid is made up of a right circular cone, right circular cylinder and
+hemisphere, as shown in Figure 6.72. Find the surface area of the composed
+solid.
+T
+9m
+18m
+6m
+Figure 6.72
+344
+UNIT
+7
+COORDINATE GEOMETRY

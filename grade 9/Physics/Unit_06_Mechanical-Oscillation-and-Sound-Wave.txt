@@ -1,0 +1,987 @@
+Unit 6
+Mechanical Oscillation and
+Sound Wave
+Brainstorming
+Introduction
+Questions
+Many systems oscillate, that is they move back and forth about a fixed point.
+Have you ever
+played a swing,
+All oscillations involve force and energy. For example, you push a child in a
+guitar or kirar? Have
+swing to get the motion started. You put energy into a guitar string when you
+you ever slapped wa-
+pluck it. Some oscillations create waves. A wave is a disturbance that moves
+ter with your hands
+from its source accompanied by transfer of energy. A guitar creates sound
+and observed what
+waves and you can make water waves in a swimming pool by slapping the
+happened? Discuss
+water with your hand. Some, such as water waves, are visible. Some, such as
+such phenomena or
+sound waves, are not. Oscillation is also known as periodic motion. Periodic
+motion.
+motion is a motion that repeats itself. A small object oscillating at the end of
+a spring, a swinging pendulum etc. are examples of periodic motion.
+120
+Unit 6 Mechanical Oscillation and Sound Wave
+At the end of this unit, you should be able to:
+understand the oscillation of strings, pendulum, and a spring-mass sys-
+tem;
+know the propagation of different types of waves;
+distinguish between different types of waves;
+estimate the speed of sound in different media and at different tempera-
+ture.
+6.1 Common Characteristics of Waves
+At the end of this section, you should be able to:
+define the common characteristics of waves such as period, frequency,
+wavelength and amplitude;
+describe terms like crest, trough and wave speed;
+relate wave frequency, period, wavelength, and velocity;
+solve problems involving wave properties.
+There are common terms such as period, frequency, amplitude, wave speed
+and wavelength that are used to explain periodic motion. These are common
+characteristics that all waves share and are discussed below.
+Rest position: Rest position is the undisturbed position of particles when they
+are not vibrating.
+Displacement: Displacement is the distance that a certain point in the medium
+has moved from its rest position.
+Trough: Trough is the lowest point below the rest position.
+Crest: Crest is the highest point above the rest position.
+Period (T): Period, denoted by symbol T, is the time for one complete cycle of the
+periodic motion. It is also defined as the time taken for one complete wave to
+pass a given point.
+Frequency (f): Frequency, denoted by symbol f, of a wave is defined as the num-
+ber of complete waves passing a given point per unit time. The higher the fre-
+6.1 Common Characteristics of Waves
+121
+quency, the greater the number of waves per second. A common unit for fre-
+quency is one cycle per second. This is defined as one Hertz (Hz).
+1Hz=1 cycle/s.
+Amplitude (A): Amplitude is defined as the maximum displacement from equi-
+librium position. Amplitude is denoted by the symbol A and measured in meters
+(m).
+Wave speed (v): Wave speed is defined as the distance the wave travels in one
+second. It is denoted by the symbol V and like all speeds it is measured in meter
+per second.
+Wavelength (A): Wavelength is defined as the distance between identical points
+on adjacent waves. For example, the distance between two adjacent crests or
+troughs of a wave is one wavelength. Wavelength is denoted by Greek letter A
+(lambda).
+displacement
+crest
+amplitude
+X
+motion of
+trough
+the wave
+wavelength
+Figure 6.1 Characteristics of wave.
+Next, we illustrate the relation between period, frequency, wavelength and wave
+speed. We begin with simple question. What does it mean by a wave of frequency
+Key Concept:
+1Hz, 2Hz, 3Hz, etc? If you consider a wave with a frequency of 2 Hz this would
+Period, Frequency,
+mean 2 waves passing a point per second. This implies that each wave would
+Amplitude, Wave
+take 0.5 second to pass the point. Therefore, the period of the wave is 0.5 second.
+speed, and Wave-
+Hence, the period is the reciprocal of the frequency.
+length are common
+characteristics of all
+1
+waves.
+f
+=
+or
+T T=1/f 1
+(6.1)
+In terms of wavelength and frequency, wave speed can be written as,
+122
+Unit 6 Mechanical Oscillation and Sound Wave
+wave speed = frequecy X wavelength
+v=Axf
+(6.2)
+6.2 String, Pendulum and Spring
+Brainstorming
+At the end of this section, you should be able to:
+Question
+calculate the period of simple pendulum of a given length;
+Find a string or
+compute the period of oscillation of a spring mass system on smooth
+rope in your locality.
+horizontal surface;
+Stretch the string or
+rope by fixing one of
+define Hooke's law;
+its ends with a fixed
+pole and holding
+practically measure the periods of simple pendulum of a given length and
+the other end with
+spring mass system in a laboratory or class;
+your hand. We say
+that the string is in
+calculate the value of the acceleration due to gravity in your locality.
+equilibrium. Now,
+flick the string either
+y
+up or down. What
+Pulse
+is
+do you observe?
+x
+Figure 6.2 Pulsed string wave.
+If you flick the string once either up or down, a single traveling disturbance is
+Activity 6.1
+created. This single disturbance propagation is called pulse. The pulse moves
+Poke a stick into
+horizontally along the string while the particles of the string moves up and down
+water contained in
+at right angles to the horizontal motion of the pulse. Wave is comprised of a
+a dish. What do you
+series/train of pulses traveling in a medium.
+observe? Instead
+of poking the stick
+into the water once,
+continuously move
+it in and out. Now
+what do you ob-
+serve? Discuss the
+phenomena with
+your friends and
+your teacher.
+6.2 String, Pendulum and Spring
+123
+Wave Motion
+Particle Motion
+Figure 6.3 Particle and wave motion.
+Periodic motion
+A to-and-fro movement that repeats itself over and over in a fixed time interval
+is referred to as periodic motion. The beating of your heart, the ticking of a
+clock, and the movement of a child on a swing are familiar examples. One of the
+key characteristics of a periodic system is the time required for the completion
+of one cycle of its repetitive motion. A swinging simple pendulum is another
+example of periodic motion. A simple pendulum consists of a point mass (the
+bob) suspended by a massless, un-stretchable string.
+S
+Suspension Point
+Length
+A
+B
+Maximum point
+Maximum point
+Bob
+0
+Equilibrium Point
+Figure 6.4 Schematics of simple pendulum.
+If the pendulum is displaced from equilibrium, it swings back and forth, and
+its motion is periodic.
+A simple pendulum is defined to have an object that has a small mass, also
+known as the pendulum bob, which is suspended from a light wire or string, such
+124
+Unit 6 Mechanical Oscillation and Sound Wave
+as shown in Figure 6.4.
+The period of a simple pendulum is given by
+T = g
+(6.3)
+where, L is the length of the simple pendulum and g is the acceleration due to
+gravity. This result is interesting because of its simplicity. The only parameters
+that affect the period of a simple pendulum are its length and the acceleration
+due to gravity. The period is completely independent of other factors, such as
+mass. If the length of a pendulum is precisely known, it can actually be used to
+measure the acceleration due to gravity.
+Example 6.1
+What is the period of a simple pendulum with length 50 cm? Use the acceleration
+due to gravity g =
+Given: L = 50 cm = 0.5m, g = 9.8m/s²
+Required: T =?
+Solution:
+The period of a simple pendulum is given by
+T =
+Substituting the values of L and g and using π=3.14 we have,
+0.5m 1.42s
+Example 6.2
+A simple pendulum has a length of 100 cm and oscillates periodically with a period
+of 0.65π S at a certain place. What is the value of the acceleration due to gravity at
+that place?
+Given: L = 100 cm = 1m,
+T = 0.65π
+Required: T =?
+6.2 String, Pendulum and Spring
+125
+Solution:
+From the expression of the period of a simple pendulum,
+T=2πV₈
+The acceleration due to gravity at that place is given by
++
+Key Concept:
+The period of a
+simple pendulum
+depends only on
+Activity 6.2
+its length and the
+Use a simple pendulum to determine the acceleration due to gravity
+acceleration due to
+g in your locality. Cut a piece of string that is about 1m long and attach
+gravity. It does not
+depend on the mass
+a metal ball (or any small object of high density) to the end of the string.
+of the bob.
+Starting at an angle of less than 10°, allow the pendulum to swing. Using
+stopwatch, measure the period of the simple pendulum for 10 complete
+oscillations and calculate g. How accurate is this measurement? How
+might it be improved?
+The simple spring
+We are all familiar with a spring. Suppose an object of mass m is attached to one
+end, while the other end of the spring is held fixed. The object has an equilibrium
+position, call it x = 0, and this is the position where the spring is neither stretched
+nor compressed. If the object is displaced away from x = 0 (either stretched or
+compressed) and released, it will undergo a to and fro motion about x = 0. This is
+another example of periodic motion. In this case, X is the distance by which the
+spring is either stretched or compressed and is measured from the equilibrium
+position.
+If the object is displaced form x = 0, the spring pulls (or pushes) it back to the
+equilibrium position (x = 0). Thus, the spring produces a restoring force denoted
+by Fᵣₑₛ. The restoring force is related to the extension of the spring by HookâĂŽs
+law. Thus, HookâĂŽs law is stated as, 'The restoring force (or the force exerted
+by the spring) is directly proportional to the displacement of the object from the
+equilibrium position x'. Mathematically,
+126
+Unit 6 Mechanical Oscillation and Sound Wave
+Frₑₛ = - kx
+(6.4)
+where, k is a proportionality constant called the spring constant (or stiffness)
+of the spring. Its SI unit is N/m (Newton per meter). The negative sign indicates
+that the restoring force always acts opposite to the direction of motion or displace-
+ment of the spring-mass system. The restoring force Fᵣₑₛ is equal in magnitude
+and opposite in direction to the applied force that causes the displacement. That
+is,
+Fapp = Fres = -(-kx),
+Fapp = kx
+(6.5)
+where, Fapp is the applied force on the spring.
+The force exerted by the spring is a restoring force. No matter which way the
+object is displaced from equilibrium, the spring force always acts to return the
+object to equilibrium.
+If k is large, then the spring is stiff and produces a lot of force for a small
+displacement. If k is small, then the spring is said to be loose and doesn't pull
+The object at the free end of the
+spring is in equilibrium when the
+mass
+spring is neither stretched nor
+compressed. We call this x=0
+x
+(a)
+x = 0
+When the spring is stretched ,the
+object is at x > 0.The spring
+mass
+force pulls the object back
+toward equilibrium (Fx<0).
+x
+x
+(b)
+x = 0
+When the spring is compressed,
+È
+the object is at x<0. .Thespring
+mass
+force pushes the object back
+toward equilibrium (Fx>0)
+x
+x
+(c)
+x 0
+Figure 6.5 Demonstration of Hooke's law using displacement of a spring.
+6.2 String, Pendulum and Spring
+127
+back with much force. The spring constant k can be measured by applying a force
+Activity 6.3
+(Fₐₚₚ) and measuring how much the spring stretches (x). Then k = Fapp/x and
+has units of force/distance (N/m).
+Discuss different
+An oscillating object moves repeatedly one way and then in the opposite
+examples of spring
+direction through its equilibrium position. The displacement of the object (i.e.,
+by bringing them to
+class. Which springs
+distance and direction) from equilibrium continually changes during the mo-
+are stiffer and which
+tion. In one full cycle after being released from a non-equilibrium position, the
+ones are loose?
+displacement of the object:
+decreases as it returns to equilibrium
+reverses and increases as it moves away from equilibrium in the opposite
+direction
+decreases as it returns to equilibrium
+increases as it moves away from equilibrium towards its starting position.
+Now, suppose the cart is released from rest at the location x = A. As indicated
+Key Concept:
+in Figure 6.6, the spring exerts a force on the cart to the left, causing the cart to
+The force exerted
+accelerate toward the equilibrium position. When the cart reaches x = 0, the net
+by the spring is
+force acting on it is zero. Its speed is not zero at this point, however, and so it
+a restoring force.
+continues to move to the left. As the cart compresses the spring, it experiences a
+No matter which
+force to the right, causing it to decelerate and finally comes to rest at x = -A. The
+way the object is
+spring continues to exert a force to the right; thus, the cart immediately begins to
+displaced from equi-
+move to the right until it comes to rest again at x = A, completing one oscillation
+librium, the spring
+in the time T.
+force always acts to
+From Figure 6.6:
+return the object to
+equilibrium.
+(a) The mass is at rest position and at its maximum positive value of X. Its veloc-
+ity is zero, and the force on it points to the left with maximum magnitude.
+(b) The mass is at the equilibrium position of the spring. Here the speed has its
+maximum value, and the force exerted by the spring is zero.
+(c) The mass is at its maximum displacement in the negative X direction. The
+velocity is zero here, and the force points to the right with maximum mag-
+nitude.
+(d) The mass is at the equilibrium position of the spring, with zero force acting
+on it and maximum speed.
+128
+Unit 6 Mechanical Oscillation and Sound Wave
+v=0 =
+F
+(a)
+V
+F = 0 =
+(b)
+v=0 =
+(c)
+F = 0 =
+(d)
+v=0
+(e)
+Exercise 6.1
+A block of mass
+4kg is connected
+x = A
+0
+x=A =
+X
+to the free end of
+a spring and un-
+Figure 6.6 A mass attached to a spring undergoes periodic motion about x = 0.
+dergoes periodic
+motion with period
+(e) The mass has completed one cycle of its oscillation about x = 0.
+of π/10 s. Compute the
+spring constant of
+The period of an object of mass m attached to a spring of spring constant k is
+the spring in N/m.
+given by
+T = k
+(6.6)
+Key Concept:
+where, m is the mass of the object and k is the spring constant of the spring. It
+The period of a
+can be seen that the period only depends on the mass and the spring constant (or
+spring mass sys-
+stiffness) of the spring.
+tem oscillating on a
+smooth horizontal
+surface depends
+Example 6.3
+on the mass and
+A block of mass 2kg is connected to the free end of a spring with a spring constant
+the stiffness (spring
+of 200 N/m. Compute the period of the block.
+constant) of the
+Given: m = 2kg,
+K = 200N m
+spring.
+Required: T =?
+6.3 Propagation of Waves and Energy Transmission
+129
+Solution:
+From the period of an object of mass m attached to a spring of spring constant k,
+T=2πVπ
+6.3 Propagation of Waves and Energy Transmission
+At the end of this section, you should be able to:
+differentiate between mechanical, electromagnetic, longitudinal, and
+transverse waves;
+give examples of mechanical, electromagnetic, longitudinal, and trans-
+verse waves;
+describe the propagation of waves practically using string and water.
+A wave is a disturbance propagation in space or in matter. A musician's instru-
+ment creates waves that carry sound to your ears. Dialing a cell phone to call a
+friend sends microwaves from the cell phone antenna; the microwaves carry the
+signal containing your voice to your friend. Similarly, when you throw a stone into
+a pond, the energy of the falling stone creates waves in the water that carry the
+energy to the edge of the pond. Do you think waves require material medium for
+their propagation? In this section we see that some waves need material medium
+for their propagation, while others do not need material medium. Waves that re-
+quire material medium for their propagation are called Mechanical waves. Other
+types of waves known as electromagnetic waves do not need material medium
+for their propagation.
+Mechanical waves travel through a material as a vibration of the particles of
+the material (water, wood, air, etc.). It is these vibrations that form the wave. All
+mechanical waves require a medium to travel through. Examples of mechanical
+waves include sound waves, water waves, waves in strings, etc.
+Electromagnetic waves do not require a medium to travel through. They
+are comprised of vibrating electric and magnetic fields and there are no particle
+130
+Unit 6 Mechanical Oscillation and Sound Wave
+vibrations at all. This means electromagnetic waves are able to travel through a
+vacuum. Examples of electromagnetic waves include light, radio waves, x-rays etc.
+The above discussion of wave propagation is depending on whether the waves
+require a material medium for their propagation or not. It is also possible to
+explain about wave propagation depending on the relation between the direction
+of propagation of the wave and the direction of vibrations of the particles of the
+medium. On this basis, waves can be classified as transverse and longitudinal
+waves.
+Key Concept:
+Transverse and Longitudinal Waves
+All mechanical
+waves require a
+A transverse wave is a wave where the direction of propagation of the wave
+medium to travel
+is perpendicular to the direction of vibrations of particles of the medium. In
+through. Electro-
+other words, in transverse waves, the directions of the particles' vibrations are at
+magnetic waves
+right angles to the direction of energy transfer (wave movement). Examples of
+do not require a
+transverse waves include all electromagnetic waves, waves on strings etc. Figure
+medium to travel
+through.
+6.7 shows a transverse wave on the string. To generate such a wave, start by tying
+one end of a long string or rope to a wall. Pull on the free end with your hand,
+producing a tension in the string, and then move your hand up and down. Note
+that the wave travels in the horizontal direction, even though your hand oscillates
+vertically about one spot. The displacement of particles in a string is at right
+angles to the direction of propagation of the wave.
+Key Concept:
+V
+Wave propagates
+away from
+In a transverse wave,
+source.
+the displacement of
+Vibrate the
+individual particles
+end of string
+to generate a
+is at right angles
+wave.
+to the direction of
+propagation of the
+Figure 6.7 Example of transverse wave on a string.
+wave.
+In longitudinal waves the direction of propagation of the wave (the direction
+of energy transfer) is parallel to (in the same direction as) the direction of vibra-
+tions of particles of the medium. This means, the vibrations are forward and
+backward along the wave. Examples of longitudinal waves include sound waves,
+pressure waves, etc. Propagation of longitudinal waves results in the areas of
+compressions and rarefactions. Compressions refer to regions where the particles
+are pushed together whereas, rarefactions refer to regions where the particles
+6.4 Sound Waves
+131
+move apart (see Figure 6.8). Compressions and rarefactions can be considered
+as the longitudinal version of a crest and a trough, respectively. Moreover, if the
+medium of propagation is gas, compressions and rarefactions can be taught of as
+Key Concept:
+regions of high and low pressures, respectively.
+A transverse wave
+Compression
+Expansion
+is a wave where the
+direction of propa-
+gation of the wave
+Wavelength
+is perpendicular to
+the direction of vi-
+brations of particles
+Figure 6.8 Illustration of longitudinal wave.
+of the medium. In
+longitudinal waves
+6.4 Sound Waves
+the direction of
+propagation of the
+At the end of this section, you should be able to:
+wave is parallel to
+identify sources of sound wave and explain how sound is produced;
+the direction of vi-
+brations of particles
+compare the speed of sound in different materials;
+of the medium.
+determine the speed of sound in air at a given temperature;
+explain reflection, refraction, diffraction, and interference of sound waves.
+Have you ever tried to play a "guitar" or "kirar"? When you strike each string,
+it starts to vibrate and as a result you hear a musical sound. When a tuning fork is
+struck against a hard object, the prongs vibrate (move backward and forwards).
+The vibrations travel away from the tuning fork as a wave called sound wave.
+Sound is one of the most common phenomenon in nature. You hear different
+sounds throughout the day. The sound of cars, barking of dogs, friends chatting, a
+teacher talking and music are some examples of sound. All the above mentioned
+sounds stimulate your ears and make you recognize the sources of sound and the
+messages sent through sound. In this topic, we explain what a sound is, produc-
+tion and propagation of sound, speed of sound in different media, and reflection
+of sound (echo).
+Sound carries energy and loses its energy as it travels. Our ears are designed
+by nature to pick up sound transmitted through different materials. Like other
+waves, sound has the properties of frequency, wavelength, amplitude, and speed.
+132
+Unit 6 Mechanical Oscillation and Sound Wave
+Production and Propagation of Sound
+Sound wave is the most common example of longitudinal waves. They travel
+through any material medium with a speed that depends on the properties of the
+Activity 6.4
+medium. As the wave travels through air, the elements of air vibrate to produce
+Take different ma-
+changes in density and pressure along the direction of motion of the wave. Sound
+terials such as a
+is generated by the series of vibrations of an object. Every source of sound is in a
+whistle, a ruler, a
+state of vibration.
+tuning fork, etc from
+Activity 6.5
+your locality and
+produce a sound
+Tie a pith ball with a thread and suspend it from any height. Bring a
+using them. Explain
+tuning fork and touch the pith ball with it. What do you observe? Strike
+how each material
+the tuning fork with a rubber hammer or on a table edge and touch the
+produces sound.
+pith ball. What do you observe? What does this show?
+How does the sound
+reach your ears?
+When you touch the pith ball with a tuning fork, nothing happens to the pith
+Explain and confirm
+ball. Now strike the tuning fork by the hammer on the prong by holding on its
+that sounds are pro-
+stem. Then touch the pith ball with the fork, you can see the pith ball will fling
+duced by vibrating
+objects.
+away. This shows that the energy on the prong is transferred to the pith ball, and
+the pith ball starts to vibrate.
+All the sounds you hear are produced by a vibrating object. The air near the
+vibrating object is set in motion in all directions. The produced sound travels in
+every direction, in the form of energy and reaches your ear.
+Activity 6.6
+This activity shows the transmission of sound through solids. Two
+students sitting at the two ends of a table will do this activity. Let one
+student from one end scratch the table with his/her finger nail slightly
+while you are sitting on another end of the table and hearing. Have you
+heard the scratch or not? Now let the other student who is sitting place
+his/her ear against the table while you are scratching. Ask the student who
+has placed his/ her ear against the table, what he/she has heard. Can you
+tell the difference? What do you conclude from this activity?
+The material through which the sound travels and reaches your ear is called a
+medium. Sound needs material medium for its transmission. For example, being
+in a classroom you hear the school bell ringing, student shouting in a field, or
+an ambulance siren. All these sounds travel and reach your ear using air as a
+6.4 Sound Waves
+133
+medium.
+Key Concept:
+Speed of Sound
+Sound is generated
+Have you ever compared the speed of sound and light? Exercise 6.2 helps you
+by a series of vibra-
+compare the two.
+tions of particles.
+Every source of
+sound is in a state of
+The speed of sound waves in a medium depends on the compressibility and
+vibration.
+density of the medium. This means that sound has different speed in different
+media. The speed of sound in air is about 331 m/s at 0°C. The speed of sound in
+air, V at any temperature Tc can be calculated as
+Exercise 6.2
+During a thunder-
+= 1+
+(6.7)
+storm you may see
+a distant lightning
+where 331m/s is the speed of sound at 0°C and Tc is the air temperature in de-
+flash some seconds
+gree Celsius. The speed of sound in liquids and solids is not affected significantly
+before you hear
+by the change in temperature, but affected by their body structure.
+the thunder. What
+do you think is the
+reason?
+Example 6.4
+What is the speed of sound in air at 20°C?
+Given: Tc = 20°C
+Exercise 6.3
+Required: v =?
+During rainy season
+Solution:
+it is common to
+The speed of sound at temperature Tc is given by:
+hear thunderstorms.
+Can you estimate
+= 1+ Tc
+the distance to the
+thunderstorm? Hint:
+Count the number
+of seconds between
+seeing the flash of
+lightning and hear-
+The difference in speed of sound in different materials can be easily under-
+ing the thunder and
+stood from the structure of molecules of a substance. The transmission of sound
+use air temperature
+in different substances depends on the structure of the particles in the substances.
+to be approximately
+Since the particles in solids are close together, they easily pass the sound to the
+20°C.
+next particles by collision and the sound moves faster. The particles in liquids
+are close together but not bound. However, in gases, the particles are far apart
+and collision between them takes place rarely. This is why sound travels slower
+134
+Unit 6 Mechanical Oscillation and Sound Wave
+Table 6.1 Speed of sound in various materials.
+S. No
+Material
+Speed of sound in m/s
+1
+Air (0°C)
+331
+2
+Air (0°C)
+343
+3
+Sea water (25°C)
+1533
+4
+Water (25°C)
+1493
+5
+Iron
+5950
+6
+Lead
+1960
+7
+Rubber
+1600
+in liquid than in solids and faster in liquids than in gases. The speed of sound in
+different materials is given in Table 6.1.
+Key Concept:
+Reflection, Refraction, Diffraction and Interference of Sound
+Sound travels slower
+in liquid than in
+Echo is used in SONAR (Sound Navigation and Ranging) to find the depth of seas
+solids and faster in
+or distance of submarines. The principle used here is the fact that time taken for
+liquids than in gases.
+the sound to reach the obstacle from the source is equal to the time taken for it to
+Speed of sound in
+return.
+liquids and solids is
+not affected signifi-
+cantly by the change
+When you shout in an empty hall or in a forest, the sound will bounce back from
+in temperature, but
+the wall or forest and comes towards you. We call this the reflection of sound. The
+affected by their
+reflection of sound from hard surfaces is called an "echo".
+body structure.
+Hard substances such as walls, rocks, hills, metals, wood, buildings, etc. are good
+reflectors of sound since they are polished and hard. But when sound strikes soft
+Exercise 6.4
+surfaces such as wool, cloth, etc. most of the sound energy is absorbed. When
+Discuss with your
+you shout or whistle while you are at some distance away from a tall building or a
+friends the following
+mountain, you may be able to hear the original sound and the reflected sound as
+questions. What
+two separate sounds.
+do you hear if you
+shout in a big empty
+Key Concept:
+hall or in a forest?
+Have you ever used
+The reflection of sound from hard surfaces is called an echo.
+whip to scare birds
+or animals? What is
+the sound that you
+hear back?
+6.4 Sound Waves
+135
+reflected wave
+Sender/
+Object
+Receiver
+original wave
+distance r
+Figure 6.10 Reflection of sound from an object.
+Sound bends (changes its direction) when the parts of the wave fronts travel
+at different speed. This occurs, for example, in uneven winds or when sound is
+Figure 6.9 : Demonstration of reflection of sound (echo).
+136
+Unit 6 Mechanical Oscillation and Sound Wave
+day
+night
+cooler, sound
+warmer, sound
+travers slower
+travers faster
+cooler, sound
+warmer, sound
+travers slower
+travers faster
+Sound waves
+Sound waves
+Ground
+Ground
+Figure 6.11 Reflection of sound during the day and night
+Exercise 6.5
+When do we hear
+travelling through an air of uneven temperature. Such bending or change in the
+sounds clearly? Is
+direction of sound wave due to change in its speed is called refraction. During a
+it during the day or
+day, the air near the ground is warmer than the rest of the air. This means that
+at night? Discuss
+this phenomena in
+the speed of sound near the ground increases making them bend away from the
+groups.
+ground. However, during the night time, the air near the ground is colder than
+the rest of the air and the speed of sound near the ground decreases. This makes
+sound waves bend towards the ground.
+Sound wave also changes its direction or spreads out. Such a change in the
+direction or spreading out of sound wave as it passes through an opening or
+around a barrier in its path is known as diffraction. Diffraction is a phenomenon
+that we experience in our day to day life. It is because of diffraction of sound wave
+that we can hear others who are speaking to us from adjacent rooms. Diffraction
+is more pronounced with waves of longer wavelength. It means that we will be
+able to hear low frequencies around obstacles better than frequencies which are
+higher. The long wavelength waves can bend around obstacles and reach our
+ears from sources situated at distant places. This principle is also used while
+soundproofing a room. A superior quality sound proofing means that there are
+no openings present, as even a small aperture can let the sound spread in the
+whole area and cause disturbance by the process of diffraction.
+6.5 Superposition of Waves
+137
+6.5
+Superposition of Waves
+At the end of this section, you should be able to:
+define superposition principle;
+explain how standing waves are formed;
+define interference of waves.
+When two or more waves pass through a single point at the same time the re-
+sultant instantaneous displacement at that point is the sum of the displacements
+that would be created separately by each wave, taking signs in to account. This
+principle is said to be the superposition principle.
+Superposition is also known as Interference. Interference can be either con-
+structive or destructive depending on the phase between the interfering waves.
+Two waves are said to be in phase when corresponding points of each wave reach
+maximum or minimum displacements at the same time. When two periodic
+Key Concept:
+waves with the same frequency and wavelength travel in the same direction in
+phase, their resultant wave is more amplified and we can say that the two waves
+Superposition oc-
+interfere constructively.
+curs when two or
+If two periodic waves with the same frequency and wavelength travel in the
+more waves pass
+through a single
+same direction, but out of phase, the resulting wave is diminished (or may be
+point at the same
+zero) in amplitude. In such a case the two waves interfere destructively.
+time.
+Standing Waves
+The superposition of two identical waves travelling in opposite directions in the
+same medium gives standing (stationary) wave. If you have ever plucked a guitar
+string, or blown across the mouth of a pop bottle to create a tone, you have
+generated standing waves. In general, a standing wave is one that oscillates with
+time, but remains fixed in its location. It is in this sense that the wave is said to be
+"standing."
+The positions in the medium at which maximum displacement occurs are
+called antinodes (A) and those positions with zero displacement are called nodes
+(N). Note that:
+The distance between adjacent antinodes is equal to 1/2
+The distance between adjacent nodes is equal to 1/2
+138
+Unit 6 Mechanical Oscillation and Sound Wave
+A
+A
+2A
+A
+A
+Incident periodic wave
+resulting standing wave
+reflected periodic wave
+A = displacement amplitude
+Figure 6.12 Superposition of two identical waves results in a standing wave.
+The distance between a node and an adjacent antinode is 1/4
+Key Concept:
+6.6 Characteristics of Sound Waves
+The superposition
+of two identical
+At the end of this section, you should be able to:
+waves travelling in
+opposite directions
+define terms like loudness, pitch, and timbre (quality);
+in the same medium
+identify sound pollution issues in the surrounding and justify problems
+gives standing (sta-
+identified in relation to sound standards.
+tionary) wave.
+Sound cannot travel through a vacuum. The movement of molecules of a
+medium is essential for the propagation of sound waves. The characteristics of
+sound are:
+Pitch: The pitch of a sound depends on the frequency of the sound wave. The
+higher the frequency of the sound waves, the higher their pitch. In higher pitch
+sounds, the particles vibrate more often past their equilibrium position per sec-
+6.6 Characteristics of Sound Waves
+139
+ond.
+Loudness: The loudness of a sound depends on the amplitude of the sound wave.
+Exercise 6.6
+If the amplitude is greater, the sound is louder. In louder sounds, the particles
+What is the dif-
+move further from their equilibrium position. The loudness of a sound is mea-
+ference between
+sured in decibel (dB). Exposure to elevated sound that may lead to adverse effects
+louder and quieter
+in humans or other living organisms is called sound pollution. Some of the ad-
+sounds, or higher
+verse effects include hypertension, hearing loss, sleep disturbances, etc. A noise
+pitch and lower
+becomes harmful when it exceeds 75 dB and painful above 120 dB.
+pitch sounds? Why
+does the same note
+sound different
+Timbre (Quality): The same note played on different instruments sounds dis-
+from a violin to a
+tinctly different. Timber or quality is the property of tone that distinguishes it
+piano? Discuss in
+from another tone of the same pitch and intensity but produced by different
+groups and with
+sources. Quality does not mean good or bad, it just refers to the difference in
+your teacher.
+sound.
+Key Concept:
+Pitch refers to the highness or lowness of a sound. Loudness or intensity
+Activity 6.7
+describes your perception of the energy of the sound. The loudness of
+What do you think
+a sound is measured in decibel (dB). Timbre is a general term for the
+are the causes of
+distinguishable characteristics of a tone.
+sound pollution in
+your locality? Dis-
+cuss in groups and
+suggest possible
+Virtual Laboratory
+solutions to avoid
+some of them.
+Click on the following links to perform virtual laboratory on mechani-
+cal oscillation and sound wave under the guidance of your teacher.
+1. Pendulum Lab PhET Experiment
+2. Masses and Springs PhET Experiment
+3. Wave on a String PhET Experiment
+4. Wave Interference PhET Experiment
+140
+Unit 6 Mechanical Oscillation and Sound Wave
+Unit Summary
+Oscillation, also known as periodic motion is a to and fro motion
+about a fixed point called equilibrium position.
+Wave is a disturbance that propagates from source carrying energy.
+Waves that require material medium for their propagation are called
+mechanical waves; and those which do not require medium for their
+propagation are known as electromagnetic waves.
+Transverse waves are waves in which their direction of propagation
+is perpendicular to the direction of vibrations of the particles of the
+medium. However, the direction of movement of some waves is
+parallel to the direction of vibrations of particles of the medium.
+Such waves are called longitudinal waves.
+Sound waves are the most common example of longitudinal waves.
+They travel through any material medium with a speed that depends
+on the properties (density) of the medium.
+When two or more waves pass through a single point at the same
+time the resultant instantaneous displacement at that point is the
+sum of the displacements that would be created separately by each
+wave, taking signs in to account. This principle is said to be the
+superposition principle. The superposition of two identical waves
+travelling in opposite directions in the same medium gives standing
+(stationary) wave.
+End of Unit Questions and Problems
+Part I: Conceptual questions and workout problems
+1. Calculate the period of a simple pendulum of length 4m.
+2. An object of mass 2kg is attached to one end of a spring of spring
+constant 800N/m. If the object is undergoing periodic motion on a
+smooth horizontal surface, what is the period of oscillation?
+3. Explain the difference in the speed of sound:
+(a) between solids, liquids and gases
+6.6 Characteristics of Sound Waves
+141
+(b) between warm air and cold air
+4. In which type of wave are the vibrations parallel to the direction of
+wave propagation? Give at least two examples for such type of wave.
+5. An electromagnetic wave has a wavelength of 10 nm. Calculate its
+frequency.
+6. Draw diagrams to illustrate the difference between constructive and
+destructive interference.
+7. Two identical waves of amplitude 4cm meet. What will be the ampli-
+tude of the combined wave at a point where:
+(a) they interfere constructively?
+(b) They interfere destructively?
+8. Imagine you are sitting in a room and someone is playing kirar
+outside and next to your room. You may be able to hear the sound
+of the kirar through the open doorway, though you cannot see the
+kirarist. Explain why?
+9. Sound travels along a steel rod of length 4m in a time of 0.0008 S.
+What is the speed of sound in the steel?
+10. Calculate the speed of sound in air at 30 degree celsius.
+11. Suppose a man stands at a distance from a cliff and claps his hands.
+He receives an echo from the cliff after 2 seconds. Calculate the
+distance between the man and the cliff. Take the speed of sound to
+be 343 m/s.
+12. A ship is sailing in a part of the sea where seabed is 500m below the
+ship. The ship uses sonar to detect the seabed. How long will it take
+a pulse of sound to travel to the seabed and return to the ship. Use
+speed of sound in sea water to be 1500m/s.
+Part II: Multiple Choice Questions
+13. With reference to waves, a disturbance is:
+142
+Unit 6 Mechanical Oscillation and Sound Wave
+(a) an oscillation produced by some energy that creates a wave.
+(b) the resistance produced by some particles of a material.
+(c) the number of oscillations per unit time
+(d) the constructive or destructive interference of waves.
+14. What is the period of a wave with a frequency of 2 Hz?
+(a) 1 S
+(b) 4s
+(c) 0.5 S
+(d) 2 S
+15. What kind of interference occurs between two identical waves mov-
+ing in opposite directions?
+(a) Constructive interference
+(b) Destructive interference
+(c) Both constructive and destructive interference
+(d) Neither constructive nor destructive interference
+16. Diffraction is
+(a) The constructive interference of two waves of the same fre-
+quency travelling in the same direction
+(b) The change in direction of waves as they pass through an open-
+ing or around a barrier in their path
+(c) The change in the direction of waves as they pass from one
+medium to another
+(d) The a change in the direction of waves when they bounce off a
+barrier
+17. A closed organ pipe has
+(a) a node at the closed end and an antinode at the open end
+(b) an antinode at the closed end and a node at the open end
+(c) a node at each end
+6.6 Characteristics of Sound Waves
+143
+(d) an antinode at each end
+18. The loudness (or intensity) of a sound wave is related to its
+(a) frequency
+(b) wavelength
+(c) amplitude
+(d) period

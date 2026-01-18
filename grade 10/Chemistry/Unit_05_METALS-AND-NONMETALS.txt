@@ -1,0 +1,1609 @@
+Unit Outcomes
+At the end of this unit, you will be able to
+describe the general properties of metals and nonmetals;
+describe the extraction, chemical properties and uses of aluminium, iron,
+copper, nitrogen, phosphorus, oxygen, sulphur, and chlorine;
+demonstrate scientific inquiry skills: observing, classifying, communicating, and
+asking questions, applying concepts and problem solving.
+Metals and Nonmetals
+Start-up Activity
+Discuss in your group and explain your ideas to the
+class.
+1. What properties did you consider when classifying
+elements as metalic or non metalic? How are this
+properties related to the uses of the elements?
+2. Which elements, metals or non metals, are
+a. mostly used in electrical wires, cooking utensils,
+and boilers?
+b. used for breathing, purifying water, and
+fertilizers?
+3. List at least eight metals and eight non metals
+used in our daily lives?
+4. How do metals and nonmetals exist in nature?
+5.1
+Introduction
+By the end of this unit, you will be able to
+describe the source of metals and non-metals;
+explain the natural occurrence of metals and nonmetals.
+Natural resources are resources that exist without any actions of human kind such
+as sunlight, land, fossil fuels (crude oil, coal, and natural gas), crops, water and air.
+Natural resources can be classified as renewable and non-renewable resources.
+Renewable resources are resources that can be replenished (replaced) by natural
+processes. Examples are water, air and plant materials (biomass). Non-renewable
+resources are resources that are found in a fixed amount in nature and cannot be
+replenished. Fossil fuels, nuclear energy, metallic and non metallic minerals are
+examples of non-renewable resources. Metallic minerals are minerals which contain
+one or more metallic elements. Non-metallic minerals are the minerals that do not
+contain metals. Metallic minerals occur in rare, naturally formed concentrations known
+as mineral deposits.
+The principal source of metallic and nonmetallic minerals is the planet Earth. The
+majority of metals and non-metals are extracted from their minerals. Minerals such
+as iron haematite (Fe₂O₃) or aluminum bauxite (AI₂O₃.2H₂O), sulphides such as zinc
+blende (ZnS), or carbonates such as malachite (Cu(OH),.CuCO₃) are examples of
+metallic minerals. Diamond, gravel, and mica are examples of nonmetallic minerals.
+Metals and non-metals can also be found in seawater. Some non-metallic elements,
+such as oxygen and nitrogen, are found in the atmosphere.
+199
+Chemistry Grade 10
+5.2 General Properties of Metals and Production of Some
+Metals
+At the end of this section, students should be able to
+mention general properties of metals;
+describe the uses of some common metals.
+In this section, you will study the general characteristics and extraction of metals, uses
+of some common metals, alloys and production of Aluminium, Copper and Iron.
+5.2.1 Properties and Extraction of Metals
+Discuss in your group the following metal properties
+using an example and present your conclusion to the
+class.
+a. A metal which is liquid at room temperature. Is
+?
+there any metal that exists in the gaseous state at
+room temperature?
+b. A metal which is the best conductor of heat
+C. A metal which is the poorest conductor of heat
+d. A metal which can be cut with a knife
+Activity 5.1
+About 80 % of the known elements are metals. These metals have some common
+properties
+A. Some physical properties of metals
+They have a shining appearance( lustrous) and can be polished. Gold is shining
+yellow and copper is brown. Iron, aluminum, zinc and silver are lustrous grey or
+silvery.
+They are malleable, (can be beaten into thin sheets). Aluminum foils, which are
+used to wrap cigarettes, medicines, etc., gold and silver ornaments of different
+designs, are due to the malleability of these metals.
+They are ductile, i.e. they can be drawn into wires. For example copper, gold, iron
+and silver are ductile.
+They are hard and have tensile strength except lithium, potassium, sodium.
+They generally have a high density except lithium, potassium, sodium.
+They are usually sonorous-produce metallic sound when struck (e.g. school bell)
+B. Chemical properties of metals
+Metals possess positive valency and have a tendency to lose electrons.
+M(g)
+Mⁿ⁺(g) + ne⁻
+200
+Metals and Nonmetals
+They have 1, 2, or 3 valence electrons.
+They are oxidized by losing electrons and act as reducing agents
+They mostly form basic oxides and some amphoteric oxides ( refer to Unit 3)
+They form chlorides that are true salts and electrovalent.
+They form hydrides which are ionic, unstable and reactive.
+They usually replace hydrogen from dilute non-oxidising acids like HCI and H₂SO₄.
+Exceptions are copper, silver and gold.
+C. Reactivity series of metals
+If we take solution of different metals and place other metals in these solutions, we
+can compare the reactivity of metals with respect to each other. The arrangement
+of metals in the decreasing order of their activity is known as activity or reactivity
+series. The most active metal is at the top and the least active metal is at the bottom
+of the reactivity series. The hydrogen, a nonmetal, has been included in the series
+only for the comparison of the activity of the metals. The metals above hydrogen like
+potassium, sodium, calcium and magnesium in the reactivity series liberate hydrogen
+gas when treated with dilute acids. The metals below hydrogen in the reactivity series
+like copper, silver, and gold do not liberate hydrogen when treated with dilute acids.
+A less reactive metal (low in reactivity series) can be displaced from its compound
+or from its salt solution by a more reactive metal (high in reactivity series). Thus,
+potassium can displace all the metals from their salt solution
+(Most active metal)
+Potasium (K)
+Sodium (Na)
+Calcium (Ca)
+Magnesium (Mg)
+These metal are
+Aluminum (Al)
+more reactive
+Zine (Zn)
+Decreasing
+than hydrogen
+Iron (Fe)
+chemical
+Tin (Sn)
+reactivity
+Lead (Pb)
+[Hydrogen] [H] (nonmetal)
+Copper (Cu)
+These metal are
+less reactive
+Mercury (Hg)
+than hydrogen
+Silver (Ag)
+Gold (Au)
+(Least active metal)
+Figure 5.1 Reactivity series of metals.
+Metals at the top of the reactivity series are strong reducing agents. Metals at the
+bottom in the reactivity series are weak reducing agents. Hence, potassium is the
+strongest reducing agent whereas gold is the weakest reducing agent in the above
+reactivity series.
+201
+Chemistry Grade 10
+D. Natural occurrence and extraction of metals
+Noble metals Ag, Au, Bi, Cu, Pd, Pt exist in nature as uncombined or free state. More
+active metals like alkali and alkaline earth metals never exist in uncombined state.
+They always exist in compounds. Active metals may exist in the form of carbonates,
+halides, oxides, phosphates, silicates, sulphides and sulphates.
+The constituents of the earth's crust which contain these metals or their compounds are
+known as minerals. For example, sodium exist as the mineral halite (NaCI), potasium
+as sylvite (KCI), magnesium as magnesite (MgCO₃), calcium as lime stone (CaCO₃).
+At some places minerals contain a high percentage of particular metals and the metal
+can be profitably extracted from it, such minerals are called ores. An ore taken out
+from the earth contains a lot of impurities in the form of sand and other undesirable
+materials called gangue. In fact, metals exist in these ores in the form of compounds.
+The science and technology of extracting metals from their ores and of compounding
+alloys is called metallurgy.
+The three principal steps in the extraction of a metal from its ore are (1) preparation
+(concentration) of the ore, example : oil floatation, magnetic separation, (2) production
+of the metal. Example: roasting, calcination, and (3) purification of the metal ( last
+step), example: chemical reduction, electrolytic reduction, as shown in Figure 5.2.
+Metal ore
+Concentration of ore
+Metals of high reactivity Metals of medium reactivity Metals of low reactivity
+Electrolysis
+carbonate ore
+sulphide ore
+Sulphide ores
+of pure molten ore
+calcination
+roasting
+Roasting
+Pure metal
+Oxides of metals
+Metal
+Reduction to metals
+Metal refining
+Purification of metal
+Figure 5.2 General metallurgical processes of metals.
+The most active metals such as K, Na, Ca. Mg are extracted from their compounds
+only by electrolysis because there is no economic reducing agent that can reduce them
+from their compounds. It is only using electricity (electrolysis) that these metals are
+extracted or reduced.
+202
+Metals and Nonmetals
+Project
+Read from a reliable source about the uses of some common metals (sodium, potasium,
+magnsium, calcium and tantalum) and their common compounds. Submit to your teacher
+and discuss in class.
+5.2.2 Alloys
+Alloys are mixtures of two or more metals or metals and nonmetals when molten and
+do not separate when solidified. The constituent elements are melted together and
+then allowed to cool to form a solid material called alloy.
+The different sized atoms of
+other metals stop the layers
+sliding over one another.
+Pure metal
+Alloy
+Force
+Force
+In a pure metal the layers
+The addition of the second
+can slide over one another
+atom makes this sliding difficult
+Pure metal atom
+Second element
+Figure 5.3 Arrangement of metal atoms in pure metal and alloy.
+Alloying of metals increases the hardness and strength, modify the color and melting
+point, decreases the electrical conductivity and increase the resistance to corrosion of
+metals. For example, amalgam is an alloy of mercury and another metal. Gun metal
+is an alloy of copper (87 %), tin ( 10 %) and zinc (3 %).
+Solder is called fuse metal. Its composition is 67 % tin and 33% lead. It melts at 183
+°C which is lower than the melting points of tin (Sn melts at 232 °C). Solder is used to
+join wires and electrical resistances, etc.
+Gold alloys: Gold is a very soft metal and therefore hardened by alloying it with
+copper and silver. The quantity of gold in an alloy is called its gold content. The gold
+content of the alloy is expressed either in carats or as mass percent. A carat is equal
+to the mass unit of gold in 24 mass units of the alloy. Thus, 24 carat represents pure
+gold. It doesn't contain any other metal.
+22 carat gold contains 22 parts of pure gold by mass in 24 carats of the alloy.
+203
+Chemistry Grade 10
+Nowadays 22 carat gold is used to make jewelry. 18 carat contains 18 parts of pure
+gold by mass in 24 parts of alloy. Thus, the mass percent of gold in different types of
+alloys can be calculated as follows:
+Mass % of gold in 24 carat gold = 24 X 100/24 = 100.00 (pure gold, no Cu or Ag)
+Mass % of gold in 22 carat gold = 22 X 100/24 = 91.67 (alloy, 8.33 % Cu or Ag)
+5.2.3 Production of Aluminum, Iron and Copper
+At the end of this section, students should be able to
+explain Occurrence and extraction of Aluminum, Iron and Copper;
+describe the the applications of Aluminum, Iron and Copper.
+A. Aluminum
+At the end of this section, students should be able to
+explain properties, Occurrence and extraction of Aluminum;
+describe the the applications of Aluminum.
+Occurrence and extraction
+Aluminum is the most abundant metal in the earth's crust and the third abundant element
+after oxygen and silicon. Approximately eight percent of the earth's crust is aluminum.
+In terms of consumption, it is the second most important metal after iron. Aluminum
+does not occur in uncombined or free metal state in nature. Its main mineral is bauxite
+(AI₂O₃.2H₂O). Other minerals containing aluminum are orthoclase (KAISi₃O₈), cryolite
+(Na₃AIF₆), corundum (AI₂O₃), beryl (Be₃Al₂Si₆O) and china clay (AI₂Si₂O₂.,2H₂O).
+1. What properties of aluminum make it useful for
+packaging cigarettes and medicines?
+2. Steel-cored aluminum cables are used for conducting
+high-voltage electricity over long distances.
+a. give two reasons why aluminum is used for these
+cables.
+?
+b. what is the purpose of the steel core?
+3. Can you mention materials, in your home or outside,
+that are made of aluminum? What are their
+properties for example weight, rusting, shape etc.?
+Discuss in groups and give presentation to the class
+Activity 5.2
+Industrially, aluminum is extracted from bauxite, AI₂O₃ 2H₂O, mainly by the Hall-
+Héroult process or simply the Hall process. In this process, the bauxite must be purified
+first, because it is often contaminated by silicon dioxide (SiO₂), iron oxide, and titanium
+(IV) oxide. To separate the pure AI2O3 from the bauxite, the powdered ore is first
+heated with a sodium hydroxide solution to convert the silica to soluble silicate.
+204
+Metals and Nonmetals
+SiO₂ (s) + 2NaOH (aq)
+Na2SiO3 (aq) + H2O (I)
+Insoluble
+soluble
+At the same time aluminum oxide is converted to soluble sodium aluminate.
+AI2O3 (s) + 2NaOH (aq)
+NaAlO₂ (aq) + H2O (I)
+Insoluble
+soluble
+The impurities like iron oxides and titanium (IV) oxide remain unaffected by the base
+and are filtered off. Why they are not affected?
+Then the solution is treated with acid to precipitate aluminium hydroxide.
+AlO²⁻ (aq) + H₃O⁺ (aq)
+AI(OH)3 (s)
+Aluminum hydroxide is collected by filtration, washed, dried, and then heated strongly
+in a furnace to get AI2O₃.
+2AI(OH)₃ (s) Heat AI2O3 (s) + 3H2O (g)
+Pure aluminum oxide is mixed with some cryolite, Na₃AIF₆, and then melted. Cryolite
+is added to AI2O₃ to reduce its melting point from 2045°C to 1000°C. The molten
+cryolite also provides a good conducting medium for the electrolysis process. The
+molten mixture is then electrolyzed to obtain pure aluminum. The electrolytic cell, in
+which the molten mass is electrolyzed, contains graphite electrodes as both anode and
+cathode (See Figure 5.4).
+e:
++
+Anodes (Graphite)
+e-
+Cathode
+(Graphite lining)
+Steel tank
+Mixture of
+alumina, cryolite
+and fluorspar
+Molten
+aluminium
+Outlet for
+molten
+aluminium
+Figure 5.4 Electrolytic reduction of aluminum based on the Hall's process.
+AI2O₃ is converted to Al, by electrolysis. The reactions at the graphite (carbon)
+electrodes are:
+Anode reaction:
+3C(s) (graphite electrode) + 60²-
+3CO2(g) + 12e
+Cathode reaction:
+4AI³⁺(I) + 12e
+4AI(I)
+Over all reaction:
+4AI³⁺(I) + 60²⁻(I) + 3C(s)
+4AI(I) + 3CO2(g)
+Or
+2AI₂O₃(I) + 3C(s)
+4AI(I) + 3CO2(g)
+205
+Chemistry Grade 10
+Note that under the prevailing conditions in the electrolytic cell, the anode (graphite
+electrode) will gradually oxidize to carbon dioxide and must be replaced regularly.
+Molten aluminum is siphoned or drawn from the bottom of the electrolytic cell. We do
+not use reducing agents for reduction of aluminum from aluminum oxide; why do you
+think?
+Physical Properties: Aluminum is a soft silvery-white and light metal having a density
+of 2.7 g/cm³. It melts at 660°C. It can be shaped into wires, rolled, pressed or cast
+into different shapes. It is a good conductor of heat and electricity.
+Chemical Properties: Aluminum is a reactive metal, even though its reactions are not
+vigorous in comparison with those of sodium, potassium, calcium and other metals of
+group IA and IIA. It undergoes the following reactions:
+i. Reaction with Oxygen
+Aluminum has affinity for oxygen and reacts with atmospheric oxygen to form a thin
+film of aluminum oxide on its surface.
+4AI (s) + 302 (g)
+2AI2O3 (s)
+This thin film of oxide inhibits further reaction with oxygen. The thin film can be removed
+by rubbing with mercury or mercury (II) chloride solution. What type of oxide is AI2O3?
+ii. Aluminum burns in Nitrogen gas to form Aluminum Nitride.
+2AI (s) + N2 (g)
+2AIN (s)
+iii. Reaction with dilute acids
+Aluminum reacts with dilute acids like HCI and H2SO4, forming salts and liberating
+hydrogen gas.
+2AI (s) + 3H2SO₄ (aq)
+AI₂(SO₄)₃ (aq) + 3H2 (g)
+2AI (s) + 6HCI (aq)
+2AICI₃ (s) + 3H2 (g)
+Aluminum does not react with dilute or concentrated HNO3 due to the formation of a
+protective oxide layer on its surface. Therefore, materials made of Al may be used
+to transport HNO3.
+iv. Aluminum burns in chlorine gas to form aluminum chloride
+2AI (s) + 3CI₂ (g)
+2AICI₃ (s)
+V. Aluminum reacts with sodium hydroxide solution
+2AI (s) + 2NaOH (aq) + 6H2O (I)
+2NaAI(OH)₄ (aq) + 3H2 (g)
+206
+Metals and Nonmetals
+Uses of Aluminum
+Discuss in your group and present your conclusion to
+?
+class.
+1. Why should the food containing iron salts are not
+cooked in aluminum utensils?
+2. Aluminum is a highly reactive metal, however, still it
+Activity 5.3
+is used to make utensils for cooking.
+Aluminum is a lightweight metal and resistant to corrosion, which is why it is used to
+make the light alloys, such as duralumin (a mixture of AI, Cu, and Mg). Aluminum
+alloy is widely used in the transportation industry to make airplanes, ships, and
+automobiles. Due to its high thermal conductivity and corrosion resistance, it is used
+to make household cookwares. It is also used in the manufacture of door and window
+frames and building roofs, as a packaging material in the food industry, and for
+power transmission lines. Al is also used in the thermite welding process.
+Thermite Welding
+Thermite welding is useful in welding rails, propeller shaft and other steel parts of
+machinery that are difficult to repair by any other method. The process is explained
+as follows:
+Aluminum is more reactive than iron, therefore it displaces iron from iron oxide. In the
+thermite welding process, powdered aluminum when mixed with iron (III) oxide and
+ignited, produces a temperature of about 3000°C. This temperature is quite sufficient
+for welding metals. The reaction in this process is as follows:
+2AI (s) +
+Fe2O3 (s)
+2Fe (I) +
+AI2O3 (s)
+Aluminum
+Iron oxide
+Iron
+Aluminum oxide
+The mixture of powdered aluminum and iron oxide is called thermite. Similar reactions
+are used to insulate other metals such as Chromium:
+Al(s)
++
+Cr2O3
+2
+Cr
+(I)
++
+AI2O3 (s)
+Exercise 5.1
+1. Aluminum is the most abundant metal but it is of the secondary importance
+next to iron, in terms of consumption. Why?
+2. Cryolite, Na₃AIF₆ is added to AI2O3 to reduce its melting point from 2045°C
+to 1000°C. Explain why it is required to reduce the melting point of AI2O3?
+207
+Chemistry Grade 10
+3. Write the balanced chemical equation for the dissociation of AI2O3 in the
+molten state.
+4. Identify the ions that move to the cathode and the anode during the electrolysis
+of molten aluminum oxide? Write the half-reactions at the anode, cathode
+and overall cell reactions
+5. At which electrode will aluminum be produced during the process?
+6. Why aluminum is preferred to copper for high voltage wires such as the line
+from Koka Dam to Addis Ababa?
+Project
+Perform the following project activities referring to reliable resources and submit to
+your teacher.
+1. Make a list of materials made of aluminum you encounter at home, and in the
+city or town where you live.
+2. What property of aluminum makes it useful in the construction of cook wares?
+3. Regarding the manufacturing of aluminum by electrolysis, answer the following
+questions.
+A. The electrolyte does not need heating to keep it in its molten state; why?
+B. The graphite anode gradually disappears during the electrolysis. How? (Think
+about the product that is given off at the anode).
+Present your findings to the class
+B. Iron
+1. Iron is the cheapest among all metals. Give reasons
+for this.
+?
+2. What is the difference between stainless steel and
+wrought iron?
+3. What do you understand by the term alloy? Is
+stainless steel an alloy?
+Discuss in groups and give a presentation to the class.
+Activity 5.4
+Occurrence and Extraction
+At the end of this section, students should be able to
+explain properties ,Occurrence and extraction of Iron;
+describe the the applications of Iron.
+Iron is the second most abundant metal in the earth's crust after aluminum, and the
+fourth most abundant element. It accounts for about 4.7% of the weight of the earth's
+208
+Metals and Nonmetals
+crust. It has never been found as a free metal in nature. It exists only in the form of
+compounds in nature, such as oxides, carbonates and sulphides. The chief ores of iron
+are hematite (Fe₂O₃), limonite (Fe₂O₃.H₂O), magnetite (Fe₃O₄), and siderite (FeCO₃).
+It is also found in the form of iron pyrites (FeS₂) which is commonly called fool's gold.
+Iron is generally extracted from hematite (Fe₂O₃), magnetite (Fe₃O₄) and siderite
+(FeCO₃).
+Producing pig iron (impure iron)
+The extraction of iron from its ores is carried out in a blast furnace. The raw materials
+for the extraction of iron are iron ore, coke, limestone and hot air. The furnace is
+charged with a mixture of iron ore, limestone and coke at the top and a blast of hot
+air is blown at the bottom. The coke burns to form carbon dioxide and the temperature
+approaches 2000°C near the bottom. As the carbon dioxide rises up, the coke reduces
+it to carbon monoxide. The carbon monoxide then reduces the iron oxide to iron metal.
+The reactions taking place in the blast furnace can be summarized as follows:
+i. Oxidation of coke to carbon dioxide:
+C (s) + O2 (g)
+CO2 (g) + Heat
+ii. Reduction of carbon dioxide to carbon monoxide: CO2 (g) + C (s)
+2CO (g)
+iii. Reduction of iron oxides to metallic iron by carbon monoxide:
+3Fe2O₃ (s) + CO (g)
+2Fe3O₄ (s) + CO₂(g)
+Fe3O₄ (s) + CO (g)
+3FeO (s) + CO2 (g)
+FeO (s) + CO (g)
+Fe (I) + CO₂(g)
+iv. Decomposition of the limestone by heat in the blast furnace serves as a flux to
+remove impurities: CaCO3 (s)
+CaO (s) + CO2 (g)
+The Blast Furnace
+Charge: Iron ore, coke, limestone
+Hot waste gases
+Hot waste gases
+250°C
+Reducing iron ore:
+700°C
+3CO(g) + Fe₂O₃(g)
+2Fe(I) + 3CO₂(g)
+Carbon dioxide reacts with
+coke:
+Limestone decomposes and
+CO₂(g) + 2C(s)
+2CO(g)
+slag forms:
+850°C
+CaCO₃(s)
+CaO(s) + CO₂(g)
+Hot air reacts with coke:
+CaO(s) + SiO₂(s)
+CaSiO₃(I)
+C(s) + O₂(g)
+CO2 (g)
+1500°C
+Sand
+Slag
+Hot air blast
+Hot air blast
+Molten
+slag
+Molten iron
+Figure 5.5 Production of pig iron from iron ore in the blast furnace.
+209
+Chemistry Grade 10
+v.
+Calcium oxide (CaO) removes the impurities like sand or silica (SiO₂) to form
+calcium silicate which is a glass-like material called slag.
+CaO
++
+SiO₂
+CaSiO3
+Lime
++
+sand
+calcium silicate
+(Flux)
+(Impurity)
+(Slag)
+The molten slag is lighter than the molten metal. Therefore, it floats over the molten
+metal and thus the two can be easily separated. The slag is used mostly for the
+manufacture of cement.
+The iron obtained directly from the blast furnace is called pig iron. It is impure and
+contains about 2 % silicon, up to 1% phosphorus and manganese, and traces of
+sulphur. These impurities make pig iron brittle. Pig iron, also known as crude iron, is an
+intermediate product of the iron industry in the production of steel. When pig iron is
+re-melted with scrap iron and cast in to moulds, it forms cast iron. Pig iron contains at
+least 92% Fe and has very high carbon content, typically 3.5 - 4.5%. Along with silica
+and other constituents of dross, which makes it very brittle and not useful directly as a
+material except for limited applications.
+1. Explain the principle of blast furnace
+?
+2. Why calcium carbonate is used in the blast furnace
+in the production of pig iron ?
+3. What is the composition and uses of slag?
+Discuss in your group and present your conclusions to
+the class.
+Activity 5.5
+The purest form of commercial iron is called wrought iron. It is obtained by removing
+most of the impurities from pig iron. It is manufactured by heating impure iron with
+hematite and limestone in a furnace. This increases the purity of the iron to 99.5%.
+Wrought iron is a tough, malleable and ductile form of iron.
+Steel making from pig iron (purification of pig iron)
+The relatively high carbon-content of the iron recovered from the blast furnace (pig
+iron) makes it very hard and brittle. The conversion of pig iron to steel is essentially
+a purification process in which impurities are eliminated through oxidation. This
+purification process is carried out in a furnace at high temperatures. Three distinctive
+techniques are used to convert pig iron into steel. These are the Bessemer converter,
+Open-hearth Furnace and the Basic Oxygen Process.
+i. The Bessemer Converter: In the process of converting pig iron to steel, molten
+pig iron from the blast furnace is transferred to a cylindrical vessel containing a
+refractory lining of MgCO₃ and CaCO₃. A blast of hot air is blown through the
+210
+Metals and Nonmetals
+molten metal from a set of small holes at the bottom of the vessel. The oxygen
+passing through the molten metal converts silicon, phosphorus and sulphur to their
+oxides, which then react with the lining to form a slag. The carbon in the pig
+iron is also oxidized to carbon monoxide, so its concentration is also reduced.
+The conversion of the pig iron to steel by this process requires only 15 minutes.
+However, the reaction is difficult to control and the quality of the steel produced
+can be quite variable.
+ii. The Open-hearth Furnace: It has a large, shallow hearth, which is usually lined
+with a basic oxide refractory (MgO and CaO). The furnace is charged with a
+mixture of pig iron, Fe2O₃, scrap iron and limestone. A blast of hot air and burning
+fuel is directed over the surface of the charge to maintain it in the molten state.
+Impurities in the pig iron are oxidized by the Fe2O₃ and air. Carbon dioxide, and
+sulphur dioxide formed by the oxidation of the carbon and sulphur, respectively,
+in the pig iron bubble out of the mixture as waste gases.
+The SiO₂ and other acidic oxides like P₄O₁₀ combine with CaO (from limestone) and
+the refractory lining to form a slag.
+The impurities in pig iron are oxidized in the following way:
+C +
+CO2
+S
++
+2
+SO2
+12P
++
+3
+3P₄O₁₀
+20Fe
+2
+3Si + 2Fe2O3
+3SiO₂ + 4Fe
+Calcium oxide, formed by the decomposition of limestone, reacts with oxides of silicon
+and phosphorus to form slag.
+P4O10 + 6CaO
+2Ca₃(PO₄)₂
+SiO₂ + CaO
+CaSiO3
+Impurities manganese and silicon form
+respective oxides and removed asslag.
+2C + 2
+2CO
+2Mn + 2
+2MnO
+Carbon
+Carbon monoxide
+Manganese
+Manganese dioxide
+Si + O2
+SiO₂
+Silcon
+Silcon dioxide
+2MnO + SiO₂
+MnSiO
+(slag)
+slag
+molten tray
+tuyeres
+(a)
+air in
+211
+Chemistry Grade 10
+Gas liquid fuel
+Burner
+Alternate
+Molten metal
+burner
+Hearth
+Tap hole
+Checker
+Slag
+Steel
+Checker
+Chamber
+pot
+ladle
+Chamber
+(b)
+Figure 5.6 Bessemer converter (a) and Open-hearth furnace (b)
+This entire process takes 8 to 10 hours to complete and the quality of the steel is much
+more easily controlled. A calculated amount of various elements can be added to the
+steel to form steel alloys with desired properties
+iii. Basic Oxygen Process: This newer procedure has largely replaced the open
+hearth, because of its high speed. It involves forcing a mixture of powdered
+calcium oxide, CaO, and oxygen gas directly into the surface of the molten pig
+iron. The oxygen reacts exothermically with carbon, sulphur, silicon, phosphorus and
+impurity metals. Carbon and sulphur are oxidized to CO2 and SO₂, respectively,
+and are released as exhaust gases. The oxides of silicon (SiO₂), phosphorus,
+(P₄O₁₀) and impurity metals combine with lime (CaO), forming slag. The charge
+in the converter is maintained in the molten state by the energy released in these
+oxidation reactions. The converter is tilted to remove the slag. After a second blow
+of oxygen, the converter is tilted once again and the molten steel is poured out.
+This process takes only about 20 to 25 minutes.
+Molten iron (70 -75% +
+steel scrapes (25 - 30%) +
+lime dolmite
+Refractory lining
+Oxygen
+lance
+Tap hole
+Pure O2
+Slag
+Steel
+Steel
+Slag
+Figure 5.7 The basic oxygen converter
+212
+Metals and Nonmetals
+Tempering of steel: is a process by which steel is conditioned to a desired hardness
+by heating and controlled rate of cooling. Some of the carbon, in steel is present as a
+compound called cementite (FeC₃). It reduces the hardness of steel. Cementite can be
+removed by tempering which is difficult to remove by the above methods.
+?
+1. Which form of iron is the purest: wrought iron, pig
+iron, steel?
+2. Prepare a list of materials which are made of steel
+and describe their uses. Discuss in groups and give
+Activity 5.6
+a presentation to the class.
+Physical Properties of Iron
+Do you remember physical properties of iron? Can you mention some of them?
+Iron is a gray lustrous, malleable and ductile metal. It is a good conductor of heat and
+electricity. It has a high melting point (1580°C) and a high density (7.87 g/cm³). It is
+a ferromagnetic metal, which means it can be permanently magnetized.
+Chemical Properties of Iron
+Have you ever noticed the formation of a reddish thin film on the surface of an iron
+object? Do you know the chemical nature of this thin film? From your observations,
+what do you conclude about the reactivity of iron?
+Iron is a reactive metal. Its reactivity is very slow, compared to group IA and IIA metals.
+Iron rusts in the presence of air and moisture to form hydrated iron (III) oxide.
+Moisture
+4Fe(s)
++
+302(g)
+2Fe₂O₃.xH₂O(s)(rust)
+Iron reacts with dilute acids, like HCI and H2SO₄, forming iron (II) salts and liberating
+hydrogen gas
+Fe (s) + 2HCI (aq)
+FeCl₂ (aq) + H2 (g)
+Fe (s) + H2SO4 (aq)
+FeSO₄ (aq) + H2 (g)
+Like other transition metals, iron also exhibits different oxidation states. It commonly
+exists as the ferrous (Fe²⁺) and ferric (Fe⁺³) ions. Iron (II) and iron (III) compounds are
+coloured.
+Aqueous solutions of iron (II) compounds are pale-green and solutions of iron (III)
+compounds are yellowish brown.
+Aqueous solutions of some iron (II) compounds are rapidly oxidized to the corresponding
+iron (III) compounds. For example, iron (II) hydroxide, Fe(OH)₂, on exposure to air,
+oxidizes to iron (III) hydroxide
+213
+Chemistry Grade 10
+4Fe(OH)₂ (s) + O2 (g) + 2H2O (I)
+4Fe(OH)3 (s)
+Heated iron reacts with hydrogen chloride gas, forming iron (II) chloride and hydrogen
+gas.
+Fe (s) + 2HCI (g)
+FeCl₂ (g) + H2 (g)
+Heated iron reacts with chlorine and sulphur to form the chloride and sulphide,
+respectively
+2Fe (s) + 3CI₂ (g)
+2FeCI₃ (s)
+Fe (s) + S (s)
+FeS (s)
+Iron has the ability to displace less active metals from solutions of their salts. For
+example, when a piece of iron is placed in a solution of CuSO₄, it is oxidized to Fe²⁺
+and a reddish brown deposit of copper metal forms on the surface of the iron.
+Fe (s) + Cu²⁺ (aq)
+Fe2⁺ (aq) + Cu (s)
+Uses of Iron
+Iron is the most widely used metal and takes first position in worldwide consumption.
+It is used as a structural metal in the construction of buildings and bridges. In the
+form of pig iron, it is used to make domestic boilers, hot-water radiators, railings,
+water pipes, castings, and moldings. As wrought iron, it is used in making nails, sheets,
+horseshoes, ornamental gates, door knockers, farm machinery etc. Iron is also used in
+the manufacture of alloys such as carbon steels and alloy steels.
+Table 5.1 Types and uses of carbon steels.
+Type
+% of carbon
+Use
+Mild steel
+Up to 0.2
+Making screws, motors, car batteries, railway
+lines, ships, nuts and bolts
+Medium steel
+0.3 - 0.6
+Making springs and chains
+High carbon steel
+0.6 - 1.5
+Making drill bits, knives, hammers and chisels
+Stainless steel
+Fe = 73, C = =1,
+For making knife blades, kitchen pots, pans,
+Cr = 18, Ni = 8
+food machinery, automobile parts, laundry
+machines
+Alloy Steel: contains iron and a relatively higher percentage of other metals. For
+example, stainless steel contains chromium (14 -18%) and nickel (7 - 9%). Tool steels
+include tungsten steel and manganese steel. These metals give the alloy hardness,
+toughness and heat resistance. They are used in rock drills, cutting edges and parts of
+machinery that are subjected to heavy wear.
+214
+Metals and Nonmetals
+C. Copper
+Discuss in a group the subsequent questions and
+present your response to the class.
+1. What common items are made of copper?
+2. Copper is used in electrical appliances. Give
+two reasons based on its physical properties
+?
+3. A solution of copper sulphate cannot be stored
+in a vessel made of iron. Give a reason and
+justify it by a balanced ionic equation.
+4. Why is copper so important in our technological
+Activity 5.7
+society?
+Occurrence and Extraction
+At the end of this section, students should be able to
+explain properties, occurrence and extraction of Copper;
+describe the the applications of Copper.
+Copper is occasionally found as native copper. However, it is found mainly in compounds
+such as sulphides, oxides and the carbonates. The most important sulphide ores are
+chalcopyrite (CuFeS₂), chalcocite (Cu₂S), covellite (CuS) and bornite (Cu₅FeS₄). The
+principal oxide ores are cuprite (Cu₂O) and tenorite (CuO). In the carbonate form, it
+exists as malachite (CuCO₃.Cu(OH)₂).
+Copper is principally extracted from chalcopyrite. Since the amount of copper in the
+ore is very small, the crushed and ground sulphide ore is first concentrated by froth
+flotation. This treatment changes the concentration of the ore from 2% copper to as
+high as 30% copper. The concentrated ore is then roasted with a limited supply of air
+(oxygen).
+2CuFeS₂ (s) + 402 (g)
+Cu2S (s) + 2FeO(s) + 3SO2 (g)
+The roasted mixture is smelted by adding limestone and sand to form a molten slag
+that removes many of the impurities. FeO present in the roasted mixture can also be
+removed as slag in the form of iron silicate (FeSiO₃), and silica in the form of calcium
+silicate (CaSiO₃).
+CaCO3 (s) + SiO₂ (s)
+CaSiO3 (I) + CO2 (g)
+FeO (s) + SiO₂ (s)
+FeSiO3 (I)
+The Cu₂S obtained by roasting chalcopyrite is then reduced by heating it in a limited
+supply of oxygen.
+Cu2S (s) + O2 (g)
+2Cu (I) + SO2 (g)
+215
+Chemistry Grade 10
+The copper produced by the above process is called blister copper and it has 98.5
+- 99.5 % purity. Blister copper contains iron, silver, gold and sometimes zinc as
+impurities. So it is refined further by electrolysis as shown in Figure 5.8.
+Electrolytic refining of copper
+The main parts of the electrolytic cell are:
+Anode: A thick block of impure copper
+Cathode: A thin strip of pure copper
+Electrolyte: An aqueous solution of copper sulphate, Small quantity of dilute sulphuric
+acid is also added to the salt solution to prevent hydrolysis.
+When electric current is passed, the copper of the anode is oxidized to Cu²⁺ ions. The
+Cu²⁺ ions pass in to solution.
+Cu (impure metal)
+Cu²⁺(aq) + 2e
+oxidation at anode
+At the same time an equal number of Cu²⁺ ions of the solution move towards cathode
+where they are reduced and deposited as metallic copper.
+Cu²⁺(aq) + 2e
+Cu ( metal)
+reduction at cathode
+The process of oxidation at anode and reduction at cathode continues as long as
+current is passed. Thus, the cathode becomes thicker and the anode becomes thinner.
+Pure copper deposited at cathode is removed and used. Copper obtained by
+electrolytic refining is 99.99% pure.
+Battrey
++
+Anode
+Cathode
+(impure copper)
+(pure copper)
+Cu2+
+CuSO
+solution
+Cu²⁺
+Anode
+mud
+Cu
+Cu²⁺+2e
+Cu²⁺+2e
+Cu
+Figure 5.8 Electrolytic refining /purification/ of copper.
+Physical Properties of Copper
+Copper is a soft, ductile, malleable, reddish-brown metal with a density of 8.96 g/
+cm³. It is second to silver in electrical conductivity. It melts at 1086°C and boils at
+2310°C.
+216
+Metals and Nonmetals
+Chemical Properties of Copper
+Copper is less reactive metal that is why it is found in the native state. Although it is not
+very reactive, it undergoes the following reactions:
+Powdered copper, when heated in air forms a black powder of copper (II) oxide,
+CuO.
+2Cu (s) + O2 (g)
+2CuO (s)
+Copper does not react with dilute acids like HCI and H₂SO₄. It cannot displace
+hydrogen from acids. However, it can be oxidized by oxidizing acids such as dilute
+and concentrated nitric acid and hot concentrated sulphuric acid, H₂SO₄.
+dilute
+3Cu(s) + 8HNO3 (aq)
+3Cu(NO)₃)₂ (aq) + 2NO (g) + 4H2O (I)
+concentrated
+Cu(s) + 8HNO3 (aq)
+Cu(NO)₃)₂ (aq) + 2NO2 (g) + 2H2O (I)
+Hot and concentrated
+Cu(s) + 2H2SO₄ (aq)
+CuSO₄(aq) + SO₂ (g) + 2H2O (I)
+Copper corrodes in moist air over a long period of time as a result of oxidation
+caused by a mixture of water, oxygen and carbon dioxide. It turns green, due to the
+formation of verdigris: a basic copper carbonate (CuCO₃.Cu(OH)₂) or Cu2(OH)₂CO₃.
+2Cu (s) + H2O (I) + O2 (g) + CO2 (g)
+CuCO3.Cu(OH)2
+Basic copper carbonate is responsible for the green layer that forms on the surface of
+copper and bronze objects. This layer adheres to the surface and protects the metal
+from further corrosion. Copper is a transition metal and exhibits different oxidation
+states. It exists as cuprous (Cu+) and cupric (Cu²⁺) ions. Compounds containing copper
+in the +2 oxidation state are stable. Cu¹⁺ is unstable and cannot exist in aqueous
+solution since it reduces and oxidizes (disproportionates) itself as follows:
+2Cu+ (aq)
+Cu²⁺ (aq) + Cu (s)
+Soluble compounds containing Cu+, such as CuCl, Cul and CuBr, are all colourless solids.
+The most stable oxidation state of copper is +2. Aqueous solutions of many copper
+(II) compounds are blue, thus copper forms coloured compounds in the oxidation state
+of +2. For example, hydrated copper sulphate, CuSO .5H2O, consists of blue crystals,
+and its aqueous solution is also blue.
+Uses of Copper
+Copper is used to manufacture alloys. For example, bronze is an alloy of copper and
+tin, and it is used to make coins, medals, bells, machinery parts, etc. Brass is an alloy of
+copper and zinc, and it is used for hardware tops, terminals and pipes. Copper is
+widely used in the electrical industry in the form of electric wires, cables etc. Copper
+217
+Chemistry Grade 10
+compounds, such as copper chloride, copper carbonate and copper hydroxide, are
+used as pesticides
+Exercise 5.2
+1. Classify the following as naturally available and made by humans: water,
+sunlight, land, minerals, statues, concrete, plastics, buildings, fossil fuels (crude
+oil, coal, and natural gas)
+2. Categorize the following as renewable and nonrenewable resources: rocks,
+metal ores, soil, wood, air, water, crops, fossil fuels, biofuels
+3. Describe the occurrence and extraction of the following metals; aluminium,
+iron, and copper.
+4. Which of the three metals, Al, Fe and Cu is produced by electrochemical
+reduction?
+5. Explain how Al, Fe and Cu behave in dry air, moisture and acidic solutions.
+6. Why is limestone used in steel?
+7. Discuss the main areas of applications of Al, Fe and Cu in home and industry.
+8. The kitchen utensils used for cooking foods are made of metals like aluminum,
+iron, copper or the alloys of some metals. Give a reason.
+9. Why are wires employed in electrical appliances made of copper and (or)
+aluminum?
+5.3 Production of Some Important Nonmetals
+5.3.1 General Properties of Nonmetals and Common Uses of Some
+Nonmetallic Compounds
+At the end of this section, students should be able to
+mention the general properties of non-metals and their uses;
+describe some common uses of compounds of nonmetals such as CO2, Na2CO₃,
+NH3, HNO3, H3PO4, Ca₃(PO₄)₂, SO₂ & H2SO4 i
+describe the occurrence, extraction and uses of nitrogen, phosphorous, oxygen,
+sulphur and chlorine.
+Nonmetals have opposite characteristics to that of metals.
+A. Physical properties
+Nonmetals are
+Solids, liquids, gases
+Non-lustrous
+218
+Metals and Nonmetals
+Nonmalleable and non-ductile
+Varying hardness and have low density
+Low melting and boiling points
+do not show any metallic luster.
+are soft in comparison to metals
+are non-sonorous
+Poor conductors of heat and electricity
+B. Chemical properties of non-metals
+Nonmetals react with oxygen on heating or burning to form their oxides
+Do not displace hydrogen on reaction with dilute acids
+React with oxygen to form acidic or neutral oxides
+Combine with hydrogen to form stable hydrides
+Do not react with water
+Electronegative i.e for negative ions by gaining electrons
+Oxidizing agents
+5.3.2 Production of Nitrogen, Phosphorous, Oxygen, Sulphur and
+Chlorine
+A. Nitrogen
+At the end of this section, students should be able to
+explain properties ,Occurrence and extraction of Nitrogen;
+describe the the applications of Nitrogen.
+Discuss in group and give a presentation to the class.
+1. Draw the structure of a nitrogen molecule. How
+many bonds are present in it?
+2. Why does nitrogen form triple bond?
+3. Which form of nitrogen is absorbed by green
+Activity 5.8
+plants?
+Occurrence and Production
+Nitrogen occurs in nature in the elemental form. It also exists in the form of compounds.
+In the elemental state, it exists as a diatomic molecule, N2, in atmospheric air. It
+constitutes about 80% by volume of the atmosphere. In the form of compounds, it
+exists as sodium nitrate (Chile salt peter, NaNO₃) and potassium nitrate (KNO₃) also
+called saltpetre. It is also found in DNA molecules and proteins of all living things.
+In the industrial production of nitrogen, the first step is to remove impurities like dust
+and other particles from air. The air is then compressed under high pressure and
+low temperature to remove carbon dioxide and water vapor since they solidify at a
+219
+Chemistry Grade 10
+relatively high temperature compared to nitrogen and oxygen. As the temperature
+continues to decrease, the air containing mainly nitrogen and oxygen condenses to
+give a pale-blue liquid. Nitrogen is thus separated on an industrial scale by fractional
+distillation of liquid air. When liquid air is fractionally distilled, nitrogen is collected
+and stored in steel cylinders under pressure.
+The second fraction consists of argon, which distills off the mixture at -186°C, leaving
+behind a blue liquid of oxygen that boils at -183°C. In the laboratory, nitrogen is
+prepared by warming an aqueous solution containing ammonium chloride and sodium
+nitrite
+NH₄CI (aq) + NaNO₂ (aq)
+NaCl (aq) + N2 (g) + 2H2O (I)
+Physical Properties of Nitrogen
+Nitrogen is colorless, odorless and tasteless gas. It is inert under ordinary conditions,
+and that is why it is found in atmospheric air as N2. The inertness of nitrogen at low
+temperatures is directly related to the strength of the triple bond, which requires high
+energy to break.
+Chemical Properties of Nitrogen
+Discuss in group and give a presentation to the class.
+?
+1. Why nitrogen is the most abundant gas in the
+atmosphere?
+2. Why nitrogen exists mostly in the elemental state?
+3. What is the purpose of running a reaction under
+Activity 5.9
+an inert atmosphere such as nitrogen gas?
+Though nitrogen is inert at low temperatures, it reacts with metals of group IA and
+IIA as well as oxygen at higher temperatures. When heated with reactive metals like
+lithium, calcium and magnesium, it forms compounds, known as nitrides.
+6Li (s) + N2 (g)
+2Li3N (s)
+3Ca (s) + N2 (g)
+Ca3N2 (s)
+3Mg (s) + N2 (g)
+Mg3N₂ (s)
+Nitrogen combines with oxygen at elevated temperatures or in an electric arc to form
+oxides.
+N2 (g) + O2 (g)
+2NO (g)
+N2 (g) + 202 (g)
+2NO2 (g)
+Nitric oxide, also called nitrogen monoxide, NO, is a colorless and reactive gas. It
+forms nitrogen dioxide (NO₂), a reddish brown gas, when it comes into contact with
+oxygen. This reddish brown gas dimerizes at low temperatures to give a colorless gas
+of dinitrogen tetraoxide, N₂O₄.
+220
+Metals and Nonmetals
+2NO2 (g)
+N2O4 (g)
+Nitrogen also forms oxides, like dinitrogen monoxide, N₂O, (commonly called laughing
+gas), dinitrogen trioxide (N₂O₃) and dinitrogen pentoxide (N₂O₅). Nitrogen reacts
+directly with hydrogen in the Haber process to form ammonia. In this process, a mixture
+of N2 and H2 gas, at a pressure of 200 - 300 atm and a temperature of 400 - 600°C,
+is passed over a catalyst of finely divided iron.
+Fe/200 - 300atm
+N₂(g) + 3H₂(g)
+2NH₃(g)
+400-600°C
+The ammonia produced by this method is primarily used in the manufacture of
+fertilizers. It is also used for the production of nitric acid (HNO₃).
+Uses of Nitrogen
+Nitrogen is used in food packaging to prevent oxidation, and to create an inert
+atmosphere in the production of semiconductors. Liquid nitrogen is used as a refrigerant
+to preserve bulls' semen and blood. Its major use is in the production of ammonia.
+B. Phosphorus
+?
+Discuss in group and give a presentation to the class.
+Have you ever observed glowing worms? Why do they
+glow? Anyone who has observed them should explain
+to the class.
+Activity 5.10
+Occurrence and Extraction
+At the end of this section, students should be able to
+explain properties ,Occurrence and extraction of Phosphorous;
+describe the the applications of Phosphorous.
+Does phosphorus exist in the pure form (elemental state) as does nitrogen? If not,
+why? Phosphorus is a relatively abundant element, ranking 12th in the earth's crust.
+It exists naturally only in the combined state, such as in rock phosphate, Ca₃(PO₄)₂,
+fluoroapatite, Ca₁₀(PO₄)₆F₂ or 3Ca₃(PO₄),,CaF₂. It is also found in teeth, bones and
+DNA.
+What is allotropy? What are the two common allotropes of phosphorus?
+Allotropes are different forms of the same element with the same physical state but
+with different physical properties. This is due to the difference in the arrangement of
+atoms. The two common allotropic forms of phosphorus are white phosphorus and red
+phosphorus.
+221
+Chemistry Grade 10
+Physical Properties of Phosphorus
+White phosphorus is a very poisonous, white waxy-looking substance that melts at
+44.1°C and boils at 287°C. Its density is 1.8 g/cm³. It consists of individual tetra-
+atomic (P₄) molecules and is an unstable form of phosphorus
+Red phosphorus is denser (2.16 g/cm³) and is much less reactive than white phosphorus
+at normal temperatures. It consists of P₄ molecules linked together to form a polymer
+(large molecule) as shown below.
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+The white phosphorus molecule The arrangement of atoms in red phosphorus
+Industrially, white phosphorus is manufactured by heating a mixture of crushed rock
+phosphate, Ca₃(PO₄),, silica, SiO₂, and coke in an electric furnace. The reaction in the
+furnace is:
+2Ca₃(PO₄)₂ (s) + 6SiO2 (s) + 10C (s)
+6CaSiO 3 (I) + P₄(g) + 10CO (g)
+The vaporized phosphorus (P₄) is condensed, collected and stored under water. Red
+phosphorus is prepared by heating white phosphorus in sunlight for several days.
+White phosphorus is stored under water because it spontaneously ignites (bursts into
+flames) in the presence of oxygen. Red phosphorus is much less reactive than white
+phosphorus and does not need to be stored under water. Although red phosphorous
+is insoluble in water, it is very soluble in carbon disulphide. Solutions of P₄ in CS2 are
+reasonably stable. As soon as CS2 evaporates, however, the phosphorous bursts in to
+flame.
+?
+Discuss in group and give a presentation to the class.
+Use reference books available in your school library
+and write down the main properties of white and red
+phosphorus.
+Activity 5.11
+Chemical Properties of Phosphorus
+Phosphorus exhibits the following common chemical reactions. Phosphorus reacts with
+limited and excess supplies of oxygen to form tetraphosphorus hexoxide (P₄O₆) and
+tetraphosphorus decoxide (P₄O₁₀) respectively
+P4 (s) + 302 (g)
+P₄O₆(s)
+P4 (s) + 502 (g)
+P₄O₁₀(s)
+222
+Metals and Nonmetals
+P₄O₆ and P₄O₁₀ dissolve in water to form phosphorous acid, H3PO3, an orthophsophoric
+acid, H3PO4 respectively.
+P₄O₆ (s) + 6H2O (I)
+4H3PO3 (aq)
+P4O10 (s) + 6H2O (I)
+4H3PO4 (aq)
+Phosphorus also reacts with limited and excess supplies of chlorine to form phosphorus
+(III) chloride (PCI₃) and phosphorus (V) chloride (PCI₅) respectively
+P4 (s) + 6CI2 (g)
+4PCI₃ (s)
+P4 (s) + 10Cl2 (g)
+4PCI₅ (s)
+Uses of Phosphorus
+Red phosphorous is used to make matches. Most of the white phosphorous produced
+is used to make phosphoric acid or other phosphorous compounds. Phosphorous is also
+used in making fireworks, smoke bombs, rat-poisons, and tracer bullets. Phosphorous is
+essential for plant growth. Large quantities of phosphorous compounds are converted
+into acids and salts to be used as fertilizers, in baking powder in the chemical industries.
+C. Oxygen
+Discuss the following questions in groups and give a
+presentation to the class.
+?
+1. Write the chemical reactions for photosynthesis
+and respiration. What are the products formed in
+photosynthesis and respiration?
+2. What are the uses of oxygen in hospitals?
+Activity 5.12
+3. How do astronauts breathe while in space?
+Occurrence and Production
+At the end of this section, students should be able to
+explain properties ,Occurrence and extraction of Oxygen;
+describe the the applications of Oxygen.
+Oxygen is the most abundant element on earth. It constitutes about 46.6% by weight
+of the earth's crust in the form of compounds such as oxides, silicates, carbonates,
+phosphates etc. It exists in nature in the elemental state in atmospheric air constituting
+about 20% by volume. Oxygen is manufactured industrially by the fractional
+distillation of liquid air in a way similar to that of nitrogen. Oxygen has two allotropic
+forms, diatomic (O₂) and triatomic (O₃), ozone.
+223
+Chemistry Grade 10
++
++
+Ö
+:O:
+Structure of O2 molecule
+Resonance structures of O₃ molecule
+Ozone is naturally produced in the stratosphere by a two- step reactive process. In
+the first step, solar ultraviolet radiation (sunlight) breaks apart an oxygen molecule
+to form two separate oxygen atoms. In the overall process, three oxygen molecules
+plus sunlight react to form two ozone molecules according to the equation:
+30₂ UV - light 203
+Occurrence of this process in the upper atmosphere removes radiation that would be
+harmful to life on the surface of the Earth.
+Physical Properties
+Oxygen is a colorless, odorless, tasteless gas. It changes from a gas to a liquid at a
+temperature of -182.96°C. The liquid formed has a slightly bluish color to it. Liquid
+oxygen can then be solidified or frozen at a temperature of -218.4°C. The density of
+oxygen is 1.429 grams per liter. By comparison, It is denser than air. The density of
+air is about 1.29 grams per liter
+Chemical Properties of Oxygen
+Oxygen is relatively reactive and combines directly with most elements to form oxides.
+Oxygen combines with metal to form metal oxides (basic oxides). For example,
+2Mg (s) + O2 (g)
+MgO (s)
+2Ca (s) + O2 (s)
+2CaO (s)
+Oxygen combines with non-metals to form acidic oxides; for example:
+S₈ (s) + 802 (g)
+8SO2 (g)
+P4 (s) + 502 (g)
+P₄O₁₀ (g)
+Oxygen supports combustion and is necessary for the burning of substances like
+charcoal, hydrocarbon fuel, etc.
+C (s) + O2 (g)
+CO2 (g)
+CH₄ (g) + 202 (g)
+CO2 (g) + 2H2O (g)
+224
+Metals and Nonmetals
+D. Sulphur
+?
+Discuss the following in groups and give a presentation
+to the class.
+Have you observed the color of sulphur? What is the
+use of sulphur in your area?
+Activity 5.13
+Occurrence and Extraction
+At the end of this section, students should be able to
+explain properties, occurrence and extraction of Sulphur;
+describe the the applications of Sulphur.
+Sulphur is found in nature and in the form of compounds such as galena (PbS), pyrites
+(FeS₂) (fool's gold ), cinnabar (HgS), sphalerite (ZnS), gypsum (CaSO₄.2H₂O), barite
+(BaSO₄), and as hydrogen sulphide (H₂S) in natural gas and crude oil.
+Sulphur is extracted from underground deposits of elemental sulphur by the Frasch
+process (Figure 5.9). In this process, three concentric pipes are sent down to the sulphur
+deposit.
+Compressed air
+Aerated molten sulphur
+Super - heated water
+Crap rock
+Hot water
+Melted sulphur
+Solid sulphur
+Figure 5.9 Frasch process- extraction of sulphur.
+Superheated water at about 170°C is pumped through the outermost pipes. Hot air
+is compressed in the innermost tube. A froth of sulphur, air and water come out to
+the surface of the earth forced by hot compressed air in the middle tube. The molten
+sulphur is then cooled and solidified.
+225
+Chemistry Grade 10
+Uses of Sulphur
+Nearly one-half of the sulphur needed by chemical industries is obtained as a waste
+product of other industrial processes. For example, sulphur can be obtained in the form
+of hydrogen sulphide (H₂S) from natural gas and during the purification of crude oil. It
+can also be obtained in the form of sulphur dioxide from the roasting of sulphide ores
+during the manufacture of metals. The use of sulphur obtained from waste products of
+other industries reduces the demand for the element from natural deposits. This also
+reduces the pollution of atmospheric air and the formation of acid rain.
+Allotropic Forms of Sulphur
+Sulphur exhibits allotropy. The most important allotropes of sulphur are rhombic and
+monoclinic sulphur. Rhombic sulphur is the most stable form of sulphur consisting of S₈
+molecules.
+S
+S
+S
+S
+S
+S
+S
+S
+Crown shape of S₈ molecules
+Rhombic Sulphur (α-sulphur): rhombic sulphur is crystalline in nature and has
+octahedral shape. On heating the solution of roll sulphur in CS2 we get rhombic sulphur.
+It is yellow with a melting point of 385.8K and specific gravity 2.06. Rhombic sulphur
+cannot be dissolved in water but can be dissolved in benzene, ether, alcohol etc.
+Rhombic sulphur is the most stable form of sulphur consisting of S₈ molecules.
+Monoclinic Sulphur (ß-sulphur): ß-Sulphur is a yellow solid with a monoclinic crystal
+form and is less dense than α-sulphur. Like the α- form it contains puckered S₈ rings and
+only differs from it in the way the rings are packed in the crystal. It is unusual because
+it is only stable above 95.3 °C; below this temperature it converts to α-sulphur.
+Physical Properties of Sulphur
+Pure sulphur is a tasteless, odourless, brittle solid that is pale yellow in colour, a poor
+conductor of electricity, and insoluble in water
+Chemical Properties of Sulphur
+Sulphur is relatively stable and unreactive at room temperature. However, it reacts
+with metals and non-metals when heated.
+Sulphur combines with metals when heated to form sulphides.
+8Fe (s) + S₈ (s)
+8FeS (s)
+Sulphur burns in oxygen to form oxides.
+S₈ (s) + 802 (g)
+8SO2 (g)
+Sulphur is the raw material for the production of sulphuric acid (H₂SO₄) by the Contact
+Process. This process of sulphuric acid production involves the following steps
+226
+Metals and Nonmetals
+Step 1: Sulphur is first oxidized to produce sulphur dioxide:
+S₈ (s) + 802 (g)
+8SO2 (g)
+Step 2: Sulphur dioxide is converted to sulphur trioxide at high temperatures in the
+presence of a catalyst:
+2SO2 (g) + O2
+2SO3 (g)
+Step 3: Sulphur trioxide is absorbed into concentrated sulphuric acid to produce oleum
+(H₂S₂O₇).
+SO₃ (g) + H2SO4 (I)
+H₂S₂O₇(I)
+Step 4: The oleum is then diluted with water to produce the desired concentration of
+sulphuric acid. Commercially used concentrated sulphuric acid is 98% H2SO ₄.
+H2S2O7 (I) + H2O (I)
+2H2SO₄ (aq)
+E. Chlorine
+Discuss the following in groups and give a presentation
+to the class.
+1. When we turn on the water tap, the water coming
+out of the tap sometimes appears white and turns
+?
+normal after a few minutes. Many people say that
+the white colour we see is due to chlorine. Do you
+agree? Discuss in group and present your opinion
+to the class.
+2. What is the purpose of adding chlorine to drinking
+Activity 5.14
+water?
+Occurrence and Extraction
+At the end of this section, students should be able to
+explain properties, occurrence and extraction of Chlorine;
+describe the the applications of Chlorine.
+Chlorine belongs to group VIIA, known as the halogens. It is the most abundant element
+among the halogens. It is found in nature in the form of compounds only. Chlorine is
+found in nature chiefly in the form of chlorides of sodium, potassium, calcium and
+magnesium. Sodium chloride is the chief source of chlorine, and it is obtained from
+seawater or as deposits of rock salt. Commercially, chlorine is manufactured by the
+electrolysis of a concentrated aqueous solution of sodium chloride. During electrolysis
+of the concentrated solution, chlorine is formed at the anode and the reduction of
+water occurs at the cathode, producing hydrogen gas and hydroxide ions (OH⁻). The
+electrode and the overall cell reactions are as follows;
+227
+Chemistry Grade 10
+Oxidation at anode:
+2CI- (aq)
+CI2 (g) + 2e⁻
+Reduction at cathode:
+2H2O (I) + 2e⁻
+H2 (g) + 20H- (aq)
+Cell reaction:
+2NaCl (aq) + 2H2O (I)
+2NaOH (aq) + Cl2 (g) + H2 (g)
+Although NaOH forms at the cathode compartment and Cl₂ at the anode, the two
+substances must be kept apart from one another. This is because, if they come into
+contact with each other, they can react according to the following equation.
+NaOH (aq) + Cl2 (g)
+NaOCI (aq) + HCI (aq)
+What is the oxidation number of chlorine in NaOCl?
+Physical Properties of Chlorine
+?
+Discuss the following in groups and give a presentation
+to the class.
+In urban area, tap water possesses a peculiar smell,
+which disappears after a few minutes. Many people
+say that the smell is due to chlorine. Do you agree?
+Activity 5.15
+Some of its physical properties are the following:
+Chlorine is a greenish-yellow gas at room temperature.
+It melts at -102°C and boils at -34°C.
+It is fairly soluble in water.
+It is extremely poisonous, causing inflammation of the lungs and mucous membranes
+if inhaled, even in very small amounts. It is fatal if inhaled in higher amounts.
+Chemical Properties of Chlorine
+Chlorine is a highly reactive non-metal. It reacts directly with almost all elements
+except the noble gases, carbon and nitrogen.
+It is a powerful oxidizing agent and oxidizes most of the elements with which it reacts.
+The following are the main reactions of chlorine.
+Chlorine reacts with heated metals to form chloride salts
+2Fe (s) + 3CI₂ (g)
+2FeCl₃ (s)
+2AI (s) + 3CI₂ (g)
+2AICI₃ (s)
+Chlorine reacts smoothly with hydrogen, in the presence of a charcoal as a catalyst,
+at room temperature to form hydrogen chloride.
+H2 (g) + CI2 (g)
+2HCI (g)
+Chlorine displaces less reactive halogens (Br₂ and I₂) from aqueous solutions of their
+compounds.
+228
+Metals and Nonmetals
+CI2 (g) + 2KBr (aq)
+2KCI (aq) + Br₂ (I)
+CI2 (g) + 2KI (aq)
+2KCI (aq) + I2 (aq)
+Can bromine displace chlorine in a chemical reaction?
+Chlorine dissolves in water and reacts with it, forming an acidic solution containing
+hydrochloric acid (HCI) and hypochlorous acid (HOCI).
+CI2 (g) + H2O (I)
+HCI (aq) + HOCI (aq)
+This type of reaction is called a disproportionation reaction, where chlorine is itself
+reduced and oxidized.
+Uses of Chlorine
+Chlorine is commercially used as a bleaching agent and disinfectant (kills germs). As
+elemental chlorine or as chlorine water, it is strong enough to oxidize dyes and to
+bleach coloured materials. For example, it can be used to remove yellow or brown
+colors from wood pulp, paper and cotton.
+Exercise 5.3
+1. What are the main natural sources of N, P, O, S, and Cl?
+2. Describe the main processes involved in the production (extraction) of N, P, O,
+S and Cl.
+3. How do N, P, and S behave when heated in air?
+4. Write an equation for the reaction of chlorine with water.
+5. Describe and discuss the common uses of CO2, Na2CO₃, NH3, HNO3, H3PO4,
+Ca₃(PO₄), SO₂, H2SO4
+A Checklist for Review
+Allotrope
+Contact process
+Ore
+Alloy
+Electrolytic reduction
+Open - hearth fumace
+Basic - oxygen process
+Fractional distillation
+Red phosphorus
+Bauxite
+Flotation
+Roasting
+Bessmer converter
+Fluoroapatite
+Rock phosphate
+Blast furnace
+Frasch process
+Sulphur
+Blister coppe
+Haber process
+Slag
+Cryolite
+Hall process
+Steel
+Chlorine
+Mineral
+Thermite process
+Cacination
+Metallurgy
+White phosphorus
+Chemical reduction
+Nitrogen
+229
+Chemistry Grade 10
+Unit Summary
+About 80% of the elements are metals. They have common physical and chemical
+properties. Metals are ductile, malleable, sonorous, conductors of heat and
+electricity. Metals are reducing agents and mostly form basic oxides. The specific
+properties of metals vary widely from one metal to the other. Active metals always
+occur in compounds in the form of minerals. The most active metals are extracted
+from their compounds only by electrolysis because there is no stronger reducing
+agent that can reduce them from their compounds. The reactivity series is a useful
+guide to predict the relative reactivity of metals.
+Aluminum is the most abundant metal in the earth's crust. It is manufactured by the
+electrolysis of molten aluminum oxide mixed with cryolite using the Hall's process.
+Aluminum is used to make light-weight alloys that can be used for aircraft and
+similar constructions. Aluminum resists corrosion due to the formation of a thin film
+of an oxide on its surface.
+Iron is the second-most abundant metal in the earth's crust. Iron is extracted in a
+blast furnace. The furnace is charged with iron ore, coke and limestone, and hot
+air is blown up from the bottom. Limestone is used in the blast furnace to remove
+impurities like sand (silica) in the form of slag. The type of iron obtained directly
+from the blast furnace is called pig iron and it is impure. Wrought iron is the purest
+form of iron obtained from pig-iron by removing most of the impurities. Steel
+is an alloy of iron containing definite amounts of carbon and other metals like
+chromium, nickel, tungsten, vanadium, manganese etc. Steel is manufactured from
+the pig iron by the Bessemer converter, Open-Hearth Furnace and Basic Oxygen
+Processes.
+Copper is extracted by roasting chalcopyrites (CuFeS₂). Copper that is obtained
+by roasting chalcopyrites is called blister copper. It is impure, and it is refined
+further by electrolysis. Copper is malleable and ductile, a good conductor of heat
+and electricity and is used to make electric wires and in the manufacture of alloys.
+The properties of nonmetals are opposite to that of metals. Some examples of
+nonmetals are nitrogen, oxygen, phosphorous and chlorine.
+Nitrogen constitutes about 80% by volume of atmospheric air. Nitrogen is
+manufactured by the fractional distillation of liquefied air. Nitrogen is relatively
+inert. However, its reactivity increases when heated and combined with metals of
+group IA and IIA to form nitrides and with oxygen to form oxides like NO and
+NO₂.
+Phosphorus is manufactured by heating a mixture of rock phosphate, coke (carbon)
+and silica in an electric furnace. Phosphorus has two common allotropes, white and
+red phosphorus. White phosphorus is highly reactive, while red phosphorous is
+230
+Metals and Nonmetals
+relatively stable. White phosphorus is stored under water. Phosphorus reacts with
+oxygen and chlorine.
+Oxygen makes up about 20% by volume of air. It is manufactured by the fractional
+distillation of liquid air. Oxygen is the most abundant element in the earth's crust.
+Sulphur exists in the elemental state in underground deposits from which it is
+extracted by the Frasch process. Sulphur reacts with oxygen to form sulphur
+dioxide and sulphur trioxide. Sulphur is used for the manufacture of sulphuric acid
+by the Contact Process.
+Chlorine is manufactured by the electrolysis of brine. Chlorine is a powerful
+oxidizing agent and reacts with heated metals to form chlorides. Chlorine and
+chlorine water are used to bleach colored materials and as disinfectant.
+Review Exercises
+Part I: Multiple choice questions. Choose the best answer from the given
+alternatives
+1.
+Which one of the following metals is the most ductile?
+a.
+Aluminum
+b. Copper
+C.
+Gold
+d. Silver
+2.
+Which one of the following is the least dense?
+a. Mercury
+b. Gold
+C. Sodium
+d. Aluminum
+3.
+Which one of the following metals will not liberate hydrogen gas when treated
+with dilute hydrochloric acid ?
+a. Magnesium
+b. Zinc
+C. Copper
+d. Iron
+4.
+Which one of the following metallic elements is most likely to be found as the
+free metal in nature ?
+a.
+Ca
+b. Au
+C.
+Al
+d.
+Fe
+5.
+What is the purpose of a converter in steel production?
+a.
+to reduce the iron in the ore to elemental iron
+b.
+to allow the addition of nitrogen for increased strength
+C.
+to allow slow solidification of the molten metal so it will purify as it
+crystallizes
+d.
+to remove impurity elements by oxidation
+6.
+Which of the following is a non-renewable resource:
+a.
+soil
+C.
+petroleum
+b.
+water
+d. plants
+7.
+Which of the following elements possess allotropes?
+a. carbon
+b. phosphorus
+C. sulphur
+d. all
+8.
+Which one is used as anode in the electrolytic refining of copper?
+a.
+Pure copper
+C.
+Impure copper
+b.
+Graphite rod
+d.
+Pure iron rod
+231
+Chemistry Grade 10
+9.
+Which of the following is not a use of nitrogen:
+a.
+making matches
+C.
+making fertilizers
+b. production of ammonia
+d.
+as a refrigerant
+10. The most abundant element in the earth's crust is:
+a. Silicon
+b. Iron
+C. Oxygen
+d. Aluminium
+11. Which of the following elements is not found as a free element in nature:
+a. Sulphur
+b. Oxygen
+C. Copper
+d. Chlorine
+12. Which of the statements about the extraction of iron in the blast furnace is true?
+a.
+limestone is added to combine with excess carbon dioxide
+b.
+a slag of iron oxide forms at the bottom of the furnace
+C.
+hot air is blown in at the top of the furnace
+d.
+carbon monoxide reduces iron (III) oxide to iron
+13. Calcium oxide is added to a steel making furnace to:
+a. oxidize basic oxides
+b.
+oxidize carbon to carbon dioxide
+C.
+react with acid impurities
+d.
+react with silicon to form silicon dioxide
+Part II: Short answer questions.
+Answer the following appropriately
+14. You are given, a hammer, a battery, wires, bulb and a switch.
+a.
+How will you use them to distinguish between samples of metals and non-
+metals
+b.
+Assess the usefulness of these tests to distinguish between metals and
+nonmetals
+15. In the electrolytic refining of a metal M what would you take as cathode, as the
+anode and as the electrolyte ?
+16. State two ways to prevent the rusting of iron.
+17. Give reason for the following:
+a.
+Aluminum is a highly reactive metal, yet it is used for making cooking utensils
+b.
+You must have seen tarnished copper vessels being cleaned with lemon or
+tarmarind juice
+18. Explain why I₂ is solid, Br₂ is liquid, CI₂ and F2 are both gases at room temperature?
+19. Which one of Cu, Ag and Au is most malleable?
+20. Which one of Fe, Ag and Pb is the best conductor of heat?
+21. Name a metal and a nonmetal existing in liquid state at room temperature
+22. Why is limestone added to the blast furnace?
+23. Compare and contrast the Bessemer and open hearth processes.
+24. Describe the advantages of using steel alloys instead of pure iron.
+232
+Metals and Nonmetals
+25. Write balanced chemical equations for the given reactions, which take place in
+the blast furnace during the extraction of iron:
+a.
+The reaction of iron (III) oxide with carbon monoxide.
+b.
+The reaction of calcium oxide with silicon (IV) oxide
+Part III: Fill in the blank spaces
+26. Gold can be hammered in to sheets. Therefore, it is
+. (malleable/
+ductile)
+27. Copper is used in electrical appliances because it is good conductor of electricity
+and
+. (ductile/brittle)
+28. Copper can displace
+from its salt solution. (Zinc/silver/iron)
+29. The purest form of iron is known as
+30. Aluminum metal is extracted by electrolysis from the mineral
+233
+UNIT
+6
+HYDROCARBONS AND THEIR NATURAL SOURCES

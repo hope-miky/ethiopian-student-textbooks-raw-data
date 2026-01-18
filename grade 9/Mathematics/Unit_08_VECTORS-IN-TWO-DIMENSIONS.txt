@@ -1,0 +1,1058 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+4
+Conceptualize vectors in the sense of direction and magnitude
+symbolically.
+Perform operations on vectors.
+Unit Contents
+8.1 Vector and Scalar Quantities
+8.2 Representation of a Vector
+8.3 Vectors Operations
+8.4 Position Vector
+8.5 Applications of Vectors in Two Dimensions
+Summary
+Review Exercise
+277
+Unit 8: Vectors in Two Dimensions
+triangle law of vector addition
+KEY
+Words
+parallelogram law of vector addition
+scalar quantities
+direction of a vector
+subtraction of vectors
+equality of vectors
+vector quantities
+parallel vectors
+magnitude of a vector
+addition of vectors
+position vector
+INTRODUCTION
+In your day to day activities, you have an experience of measurements of different
+physical quantities. In the process of measuring physical quantities, you may express
+what you measure by using real numbers with appropriate unit. For example, the
+dimension of your class room may be 6 meter by 8 meter, the average speed of a car
+is 45 km/hr, the area of a football field is 5,000 m², the average annual temperature
+of Dallol is 34.6° C, the amount of water a bottle contains 1.5 Liter, etc. In each of
+these measurements of quantities, direction is not involved.
+On the other hand, there are physical quantities which need the direction with its
+magnitude. For example: A boy is riding a bike with a velocity of 30 km/hr in the
+north-east direction. Here if we want to define the velocity, we need two things, that
+is, the magnitude of the velocity (30 km/hr) and its direction (north-east).
+In this unit, you will learn scalar and vector quantities, representation of vectors,
+addition and subtraction of vectors, scar multiplication of vectors and some
+application of vectors in two dimensions.
+Activity 8.1
+a. List at least 6 physical quantities.
+b. What common property and difference you observed among them?
+278
+Unit 8: Vectors in Two Dimensions
+8.1 Vector and Scalar Quantities
+Definition 8.1
+Scalars are quantities that are fully described by a magnitude (or numerical
+value) alone.
+Example 1
+The mass of a stone is 10 kg. Here, the mass is represented by a single number (10)
+with appropriate measuring unit(kg) . No direction is needed to represent mass of an
+object. Hence, mass is a scalar quantity.
+Example 2
+'The density of pure water is 1 g/cm³ 6 Density is represented by a single number
+so that it is a scalar quantity.
+Example 3
+' Temprature of a room is 27°C Temprature is a scalar quantity.
+Definition 8.2
+Vectors are quantities that are fully described by both a magnitude and a direction.
+There are many engineering applications where vectors are important. Force,
+acceleration, velocity, electric and magnetic fields are vector quantities and all are
+described by vectors.
+If a projectile is projected up in the atmosphere, its position is described by a vector.
+Furthermore, computer software is used to control the position of a robot, and in this
+case the position is also described by a vector.
+Example 4
+The force action causes an object to move or speed up. When the object shown in
+figure 8.1 is moved by applying a force, we achieve different effects depending on
+279
+Unit 8: Vectors in Two Dimensions
+the direction of the force.
+Figure 8.1
+In order to specify the force completely, we must state not only its magnitude (its
+'strength') but also the direction in which the force acts. For example, we might state
+that 'a force of 10 Newton's is applied vertically upward (Figure 8.1 of the second
+part). Clearly this force would have a different effect from one applied horizontally
+(Figure 8.1 of the first part). The direction in which the force acts is crucial. This
+indicates that force is a vector quantity.
+Example 5
+Displacement and distance are related quantities which people use interchangeably.
+However, in more precise language, they are not the same. Distance is a scalar
+whereas displacement is 'directed distance', that is, distance together with a specified
+direction so that it is a vector.
+A
+B
+Figure 8.2
+So, referring to figure 8.2. Suppose AB = 20 meters. We can state that the distance
+moved is 20 meters, but the displacement is 20 meters in the direction from A to B.
+Example 6
+Explain the vectors in the following figures
+10N
+20N
+60°
+(a)
+(b)
+Figure 8.3
+280
+Unit 8: Vectors in Two Dimensions
+Solution:
+a. The figure 8.3 (a) shows an object is pulled by a force of 20N horizontally.
+It is represented by a vector with magnitude 20 N to the left.
+b. The figure 8.3 (b) shows an object is pulled by a force of 10 N at an angle
+of 60° with the horizontal.
+Exercise 8.1
+1. Which statement describes a vector?
+A. It has direction but no magnitude
+B. It has constant magnitude but no
+direction
+C. It has magnitude but no direction
+D. It has both magnitude and
+direction
+2. Scalar quantities are completely described by their
+.
+A. area
+B. unit
+C. magnitude
+D. direction
+3. Consider the following quantities and identify whether each is a scalar
+quantity or a vector quantity.
+i)
+Amount of rainfall in mm
+v) The speed of a car
+ii) Temperature in a room
+vi) Velocity of the boat
+iii) Acceleration of a car
+vii) The height of a building
+iv) Area of a rectangle
+viii) The weight of the body
+8.2 Representation of a Vector
+In this sub unit, we consider the vector represented by a directed line segment on a
+plane. This is called a vector on a plane.
+How do we represent a vector?
+A vector can be represented by either algebraically or geometrically. A vector is
+represented geometrically by a directed line segment (a line segment with direction).
+281
+Unit 8: Vectors in Two Dimensions
+In figure 8.4, the vector is represented by a
+Terminal Point
+B
+directed line segment and we denote this by an
+arrow as AB. In this case, the point A is called
+a
+the initial and the point B is called the terminal
+A
+Initial Point
+A vector also represented by using letters with an arrow bar
+Figure 8.4
+over it such as à,u,v or a bold small letters like a,u,v etc. Hence, the above
+vector AB can also be represented by й.
+Equality of vectors
+Two vectors are said to be equal if and only if they have the same magnitude and
+direction.
+In figure 8.5, the two vectors have the same magnitude (length) and the same
+direction.
+Hence, they are equal vectors. In this case we can write this as AB = CD, or a = b
+y
+B
+a
+D
+A
+b
+C
+x
+Figure 8.5
+Opposite of a vector
+The vector which has the same magnitude as that of a vector AB, but opposite in
+direction is called oppositve vector of AB and is denoted by - -AB. From figure 8.6,
+you can observe that one vector is the negative of the other. Thus, a = - -(-a) as
+282
+Unit 8: Vectors in Two Dimensions
+shown in the first part of figure 8.6 and AB = -CD as shown in the second part of
+figure 8.6.
+y
+B
+B
+-a
+C
+a
+A
+A
+D
+x
+Parallel vectors
+Figure 8.6
+Vectors that have the same or opposite direction are called parallel vectors.
+Example
+]
+Identify parallel, equal and opposite vectors from figure 8.7 below.
+(a)
+(b)
+y
+M
+H
+B
+F
+G
+D
+O
+A
+E
+P
+C
+x
+Q
+Solution::
+Figure 8.7
+a. AB and EF are in the same direction, DC is in opposite direction to AB and EF.
+Hence, these vectors AB , EF and DC are parallel to each other.
+There is no equal and opposite of a vector in the given figure.
+b. PO and PQ are in opposite directions but on the same line, so they are parallel.
+283
+Unit 8: Vectors in Two Dimensions
+Vectors GH and GM are also parallel since they are vectors in the same direction.
+There is no vector which is opposite of another in the given figure. GH = HM
+since they have the same direction and equal length( use a ruler to check equality
+of length).
+Exercise 8.2
+1. In the figure 8.8, identify the following with reference to a.
+a. Equal vector to à
+b. Opposite to à
+c
+a
+c. Parallel to à
+b
+d
+e
+Figure 8.8
+2. Write true if the statement is correct and false otherwise.
+a. Two parallel vectors may have common point.
+b. Parallel vectors have the same magnitude.
+C. The magnitude of a vector does not depend on its direction.
+Column vector in two dimension
+B
+Any vector a can be represented by a column vector a = (x), x
+where x is the horizontal and y is the vertical component
+a
+3
+of a. For example, in the figure 8.9 alongside, the illustrated
+vector (3) is denoted by a or à
+A
+2
+We write a = (3) or à = (²).
+Figure 8.9
+284
+Unit 8: Vectors in Two Dimensions
+Magnitude of a vector
+The magnitude of a given vector AB or a as shown in figure 8.9 is the length of the
+line segment from its initial point A to terminal point B. It is denoted by as AB
+or
+|a|.
+Example 1]
+Find the magnitude of the vector й = (4).
+Solution:
+B
+|u|² = 4² + 3² (Pythagoras theorem)
+и
+= 16+9
+3
+= 25
+A
+4
+Therefore, |ū|=||u| = √25.
+Hence, the magnitude of the vector |ū| is 5 unit.
+Figure 8.10
+Note
+If a vector is represented on a plane sheet of paper, we can determine its
+magnitude (length) by measuring its length using a ruler and express it with
+appropriate unit.
+Any vector a = (x) has a magnitude (length) |a| = √x² + y².
+Example 2]
+Find the magnitude of each of the following vectors on the coordinate system.
+Solution:
+How do we get the magnitude of each vector on the coordinate system? We use
+distance formula. Therefore,
+285
+Unit 8: Vectors in Two Dimensions
+where P = (x₁,y₁), and Q = (x₂, V₂) are points on
+y
+the coordinate system. There are three vectors
+F (2,10)
+AB,CD,EF in figure 8.11. So, using this distance
+(3,7)
+B
+formula,
+E
+(5,5)
+(2,5)
+D
+AB = √(3 - 2)2 + (7 - 2)2
+A
+= √1 + 25
+(2,2)
+C
+(10,1)
+x
+= √26.
+Figure 8.11
+= √25 + 16
+= √41.
+Similarly,
+= √25
+= 5
+Exercise 8.3
+1. Answer each of the following questions about vectors a, b and c in the figure
+8.12. ( Hint: count square grids)
+a. Express each vector in column vector form.
+b. Find the magnitude of each vector.
+a
+C
+Figure 8.12
+2. Find the magnitude of a, b and c in the figure 8.13.
+286
+Unit 8: Vectors in Two Dimensions
+y
+(5,8)
+(3,5)
+c
+a
+(7,3)
+(1,2)
+b
+(3,1)
+(6,1)
+x
+Figure 8.13
+Direction of vectors
+On a plane, the direction of a vector is given by the angle that the vector makes with
+a reference direction, often an angle with the horizontal or with the vertical.
+Expressing vector direction always starts from north/south then angle measure finally
+east/west.
+Example
+The direction of the vector AB from the horizontal axis
+y
+is as shown in figure 8.14.
+B
+Let y-axis is North; and x-axis is East, the complement
+angle of 37° is 53°.
+53°
+37°
+Thus, we can say the direction of B is N 53° E.
+x
+A
+Figure 8.14
+Exercise 8.4
+1. Locate the vector on the coordinate system whose initial point is A = (1,1) and
+its terminal point is B = (5,5).
+a. Find the magnitude of AB.
+b. Using protractor check that the angle between AB and the horizontal line
+287
+Unit 8: Vectors in Two Dimensions
+passing through A is 45°.
+c. What is the direction of AB?
+2. Locate each of the following on the coordinate system.
+a. AB where point A = (1,2), has length 3 cm in the direction N 60° E.
+b. OR where 0 is the origin and it is 5 cm to the North.
+c. os whose initial is at the origin and has a length 4 cm in the direction
+S 30° E .
+8.3 Vector Operations
+In section 8.1 and section 8.2, you have studied the definition of a vector, different
+types of vectors and its representation. In this section, you will learn about operations
+on vectors.
+8.3.1 Addition of vectors
+Activity 8.2
+1. Consider the following vectors
+a. Is it possible to add vectors like a and e ?
+a
+и
+b. Can you subtract e from f?
+e
+2. Suppose a student start walking from her home to school which is located at
+a distance of 800 m to the East. Then she went to the market 400 m far from
+the school to the North. Finally, she returned to her home.
+a. Discuss the student's journey using vector representation.
+b. What is the total distance covered by the student?
+Your discussion in the activity leads you to the importance of addition and
+subtraction of vectors. There are two laws of addition of vectors:
+288
+Unit 8: Vectors in Two Dimensions
+i) Triangle law of addition of vectors
+Consider two vectors as given in figure 8.15.
+Now we need to add these two vectors и and v. To
+V
+get their sum, v is translated, keeping its direction
+и
+and length unchanged, until its initial coincides with
+the terminal point of u.
+Then, the sum of u+ v is defined by the vector represented
+Figure 8.15
+by the third side of the completed triangle, that is W
+as shown in figure 8.16.
+v
+v
+Note that, from figure 8.16, we can write w = u +
+и
+w
+v since going along vector и and then along vector
+v is equivalent to going along vector W.
+Figure 8.16
+Definition 8.3 Triangle law of vector addition
+Consider two vectors AB = й and BC = v in a coordinate system. The sum of
+AB + BC = й + v is a directed line segment connecting A to C say w = AC
+such that AB + BC = AC or й + v = w . Such a vector AC is called a
+resultant vector.
+B
+v
+C
+и
+w=u+v
+A
+Addition of vectors can be done graphically, and addition of vector can be done using
+components. Now, we will find the sum of vectors by graphical method. The second
+method will be presented after section 8.4.
+289
+Unit 8: Vectors in Two Dimensions
+Example
+By using figure 8.17, determine each of the following.
+a. FH + HG
+E
+b. Compare EF + FG and GH + HE
+Solution:
+a. FH + HG = FG
+F
+b. EF + FG = EG and GH + HE = GÉ,
+H
+the two vectors are parallel and
+opposite.
+G
+Figure 8.17
+Exercise 8.5
+1. Draw the vectors a + b using the triangle law.
+(a)
+(b)
+a
+b
+b
+a
+ii) Parallelogram law of vector addition:
+For two or more free vectors with different initial points, you have learned how to
+determine the resultant vector (sum of two vectors) by joining the initial point of the
+first vector to the terminal point of the second. But, there are co-initial vectors where
+you may be asked to determine their sum.
+290
+Unit 8: Vectors in Two Dimensions
+Activity 8.3
+1. What is a parallelogram?
+B
+C
+2. What are the properties of corresponding sides of
+parallelogram?
+A
+D
+Let us consider two vectors with the same initial
+B
+point (A) and make a non-zero angle between
+them as shown in figure 8.18.
+a
+A
+b
+C
+Figure 8.18
+do
+Can you construct a parallelogram using these two intersecting vectors?
+Recall, the definition of equal vectors. Construct a broken line passing through B and
+parallel to vector b. Similarly construct a broken line through C and parallel to
+vector à. The two broken lines intersect at a point, say D, as shown in figure 8.19.
+B
+D
+a
+A
+b
+C
+Figure 8.19
+Did you observe a parallelogram and two pairs of equal vectors in this figure?
+AB & CD, AC & BD are equal vectors. By triangle law of vector addition, the
+resultant vector will be AB + BD = AC + CD = AD That is, a + b = AD This
+method of determining the sum of vectors is called parallelogram law of vector
+addition.
+291
+Unit 8: Vectors in Two Dimensions
+Note
+If two vectors have different initial points, you need to bring the two initial points
+placed at a point by construction before applying parallelogram method.
+Subtraction of vectors
+How do you subtract a vector from another vector?
+Subtraction of vectors can be treated as addition of vector and a negative vector.
+Consider two vectors which are to be subtracted as shown in figure 8.20. To
+determine the resultant vector (the difference of the two vectors) , we follow the
+following procedures.
+a
+b
+r = a-b
+-b
+a
+Figure 8.20
+The first vector is drown with proper scale and in a given direction.
+Then, from the terminal point of the first vector (d), a vector is drown with
+the same scale and in the opposite direction of the second vector (-b).
+Then, the vector joining the initial point of the first vector and the terminal
+pint of the second vector represent the resultant vector (r) with direction and
+magnitude.
+Exercise 8.6
+1. Draw the vectors a + b and a - b using the parallelogram law or the triangle law
+of vector addition.
+292
+Unit 8: Vectors in Two Dimensions
+(a)
+(b)
+a
+Addition and subtraction of column vectors
+For two vectors in component form (a) and (ₛ) , we have
+and
+Example 1] 1
+Consider column vectors a=(-3) a = (-4) and b = (5) 5 .Then find
+a) a + b
+b) a - b
+Solution:
+a. (-3) (5) This can also be observed from the
+following figure 8.21.
+a
+a+b
+b
+Figure 8.21
+293
+Unit 8: Vectors in Two Dimensions
+b. a - b = (-4) - (5) 0 5 = 5) = (-3) as shown in figure 8.22.
+a-b
+a
+-b
+Figure 8.22
+Example 2_
+Consider the quadrilateral as shown in the following
+D
+figure 8. 23. Given that AB = a, DC = b and DB = c,
+C
+then find the following in terms of a, b and c.
+i) AC
+ii) AB
+iii) BC
+A
+B
+Figure 8.23
+Solution:
+i. From the figure AC = a +
+ii. AB = a + c
+iii. BC = b c
+Exercise 8.7
+1. For the vectors a = (₃) (²₁) and c = ( (⁻⁴, 5 find
+a) a + b
+b) a - b
+c) a+c
+d) b - c
+e) a+b+c
+2. ABCD is a rhombus, Д DBC,A ABD and Д BCE are equilateral triangles.
+Suppose AD = a, AB = b and BD = C.
+294
+Unit 8: Vectors in Two Dimensions
+Find each in terms of a, b and c
+D
+C
+i) AC
+ii) ED
+a
+c
+iii) BC
+iv) CE
+A
+E
+b
+B
+Figure 8.24
+3. Using the following figure 8.25,
+B
+a. Write AC as a sum of two vector.
+A
+C
+->>>>>>
+b. Describe BD as a difference of two vectors.
+-))))
+c. What is the sum of AB , BC and CD ?
+D
+Figure 8.25
+4. Given ABDC is a parallelogram
+a. By construction show that AB - AC = CB.
+b. Construct the diagonals of the parallelogram and show that these vectors are
+the sum and difference of the adjacent side vectors of the parallelogram
+B
+D
+A
+C
+Figure 8.26
+8.3.2 Multiplication of a vector by a scalar
+In the previous section, you have studied how to get the sum and difference of
+vectors geometrically. In this section, you will learn scalar multiplication of vectors
+295
+Unit 8: Vectors in Two Dimensions
+Activity 8.4
+Using figure 8.27 below, express vectors v, m, n and p in terms of a vector и.
+n
+и
+p
+m
+v
+Figure 8.27
+What do you conclude from your activity? All the given vectors are parallel and
+you can express the length of each vector interms of the length of и For example, v
+is in the same direction as и and its magntude is 3 times that of length of и .Hence,
+it is possible to write V = Зи.
+Definition 8.4
+Let AB be any given vector and k be any real number. The scalar multiple vector
+kAB is the vector whose magnitude (length) is k times the magnitude of AB and
+i. the direction of kAB is the same as the direction of AB , if k >0,
+ii. the direction of kAB is the opposite of AB , if k < 0.
+Example
+Given a vector AB as shown in Figure 8.28 Draw a vector 2AB, 1/AB 2 1 , 2AB and
+2B.
+296
+Unit 8: Vectors in Two Dimensions
+A
+B
+Solution:
+Figure 8.28
+Using definition 8.4, we can draw the required vectors as follows.
+A
+B
+2 AB
+1
+AB
+2
+3
+AB
+2
+Figure 8.29
+Note
+Two vectors are said to be parallel if one can be written as a scalar multiple of the
+other. If b is parallel to a , then it can be expressed as b = kã. =
+Exercise 8.8
+1. Given AB as shown in figure 8.30, draw vector
+a. 2AB
+b. ¹² 2 1
+C. -3AB
+297
+Unit 8: Vectors in Two Dimensions
+A
+B
+Figure 8.30
+Example 2]
+Consider column vector a = (2) Then find
+Solution:
+For the vector in component form (b),
+k (b) = (kb) where k is a scalar.
+a
+1
+a
+So that for a = (2) , -a=-1 (2) = (-2) ,
+2a
+2
+-a
+is
+illustrated in the following Figure 8.31. From the
+figure, you can observe that
+Figure 8.31
+a,-a,2a are parallel to each other.
+Exercise 8.9
+1. Given vectors a = (-1) and b = (3) Then find
+a. 4a b. -3a c.¹₃b C. 3 d.-1b
+2. Write true if the statement is correct and false otherwise.
+a. A vector is a scalar multiple of its opposite vector.
+b. For a given vector й and scalar k, ku has larger magnitude than й for k >0.
+298
+Unit 8: Vectors in Two Dimensions
+C. If the magnitude of two vectors is the same, then they have the same
+direction.
+d. A vector is parallel to itself.
+-))))
+3. From the following figure 8.32, describe vectors AC, AD, AF and AG, each
+vector as a scalar multiple of AB.
+G
+B
+C
+Figure 8.32
+8.4 Position Vector
+In the previous 3 sections you practiced how to represent vectors geometrically and
+vector operations. In this section you will discuss representing a vector with a fixed
+initial point and the use of component of a vector to determine its magnitude and
+position.
+Activity 8.5
+1. On the coordinate system, there are different vectors as shown in figure 8.33.
+a. What can you say about the two vectors q and p?
+b. What can you say about vectors v and W ?
+C. Is it possible to bring (move) the initial of r to the initial of v ?
+d. What makes vectors v and W differ from other vectors?
+299
+Unit 8: Vectors in Two Dimensions
+y
+и
+v
+x
+w
+Figure 8.33
+2. Suppose AB be a vector with initial point at A = (1,2) and the terminal point
+B = (3,5). If the initial point moves to the point 0 = (0,0).
+a. What will be the location of the terminal point (say, point C)?
+b. What is the relationship between AB and OC ?
+From your discussion in the activity, you have seen how to move the initial point of a
+vector to the origin (a point on a plane with order pair O = (0,0)).
+Now, let us define what a position vectors mean.
+Definition 8.5
+Vectors that start at the origin (O) are called position vectors.
+The position vectors are also said to be vectors which are written in the standard
+form. These are used to determine the position of a point with reference to the origin.
+How can we determine the position vector of any vector with initial point
+A = (x₁,y₁) and terminal point B = (x₂,y₂)?
+300
+Unit 8: Vectors in Two Dimensions
+To find the position vector corresponding to vector AB, subtract the corresponding
+components of A from B as (x₂ - x₁, Y₂ - y₁). Let this point be P = (x, y). Now,
+we have two equal vectors AB and OP with the same component, where OP is the
+position vector of AB.
+Let (x₂ - x₁, y₂ - y₁) = (x,y), so that OP has components x and y as shown in the
+following figure 8.34.
+B
+2,
+)
+y₂
+y₁
+y₁
+x2
+X₁
+p(x,y)
+y
+x
+O
+x
+Figure 8.34
+Notation
+A position vector OP can be represented by OP = й = (x) , й is expressed as a
+sum of two vectors x and y as й = x + y from triangle or parallelogram law where
+x = xi and y = yj The vectors i = (¹) and j = (1) are vectors with 1 unit long
+in the x and y directions, respectively. Hence, the given vector й can be written as
+й = xi + yj, in this case x and y are called components of й.
+The magnitude of the position vector |й| = √x² + y²
+Example ]
+Consider the position vector й = (3).
+a. Draw this vector on the coordinate plane.
+301
+Unit 8: Vectors in Two Dimensions
+b. Find |ū|.
+c. Determine the direction of й.
+Solution:
+a. Since this is a position vector, it starts
+y
+from the origin to its terminal point
+(3,4). It can be written as й = 3i + 4].
+(3,4)
+This is to mean, move 3 units to the
+и
+right and then 4 units up as shown in
+Θ
+figure 8.34.
+x
+b. The magnitude of the vector is
++ 4² = √25 = 5.
+Figure 8.35
+c. By definition tan Θ = 4. = From trigonometric table, we can read that Θ ≈ 53°.
+Exercise 8.10
+1. Draw the following vector on a coordinate plane. Then, find the magnitude.
+a. й = (3)
+b. v = (⁻¹)
+c. w = (-3)
+d. n = (-1)
+Example ]
+Determine the position vector formed by the given initial and terminal point.
+a. Initial point (1,3), terminal pint (2,2).
+y
+b. Initial point (-1,-2), terminal point (3,1).
+Solution:
+(1,3)
+a. The position vector formed by the given
+initial point (1,3) and terminal point (1,2)
+(2,2)
+is (2 - 1,2 - 3) = (1,-1) This position
+x
+O
+vector can be written as й = 1ᵢ- 1] which
+(1, 1)
+Figure 8.36 (a)
+302
+Unit 8: Vectors in Two Dimensions
+could be represented as й = (1). (See figure 8.36 (a) ).
+b. The position vector formed by the given initial
+y
+point (-1,-2) and terminal point (3,1) will
+be (3+1,1+2) = (4,3). This position vector
+(4,3)
+can be written as й = 4i + 3j which can be
+written as й = (3). (see figure 8.36 (b) ).
+(3,1)
+x
+0
+(-1,-2)
+Figure 8.36 (b)
+Exercise 8.11
+Given points A = (-5,1), B = (1,4), C = (-3,4) and D = (5, -1) be points on
+the coordinate system.
+y
+1. i. Find the position vector whose initial
+C
+B
+point is A and terminal point B.
+ii. Find the position vector whose initial
+A
+point is C and terminal point is D.
+x
+2. Determine the magnitude and direction of
+O
+D
+BC and AB using the components of the
+position vectors corresponding to the given
+vectors.
+8.5 Applications of Vectors in Two Dimensions
+Until now, you have studied vector operation and expressed a vector as a position
+vector and determining its components. In this section, we will see some application
+of vectors in two dimensions.
+303
+Unit 8: Vectors in Two Dimensions
+Example 1
+Suppose a boat start moving on the sea 8 km to the South and then 8 km to the West.
+What is the displacement of the boat from its starting position to its last destination?
+Solution:
+Let the starting point of the boat be A and the first
+N
+destination be B, and its last destination be C as
+A
+E
+shown in figure 8.37.
+α
+The magnitude AC = (AB)² + (BC)²
+= √64 + 64 = 8√2
+and tan α = opposite adjacent = = 1.
+Co
+B
+So that, α = 45°. Hence, the displacement of AC
+Figure 8.37
+is 8√2 km in the S 45° W direction.
+Example 2
+ABCD is a rectangle, point E is midpoint of AB, point F is midpoint of BC, point G is
+midpoint of CD, point H is midpoint of AD. AÉ = a and AH = b as shown in figure 8.38
+below.
+a. Express each of the following interms of a and b
+i) AF
+ii) BD
+F
+B
+C
+iii) EĆ
+E
+G
+b. Show that BD is parallel to EH
+a
+A
+D
+Solution:
+b
+H
+a. i) AF = AB + BF = 2a + b
+Figure 8.38
+ii) AB + BD = AD so that
+BD = AD - AB = 2b 2a
+iii) EC = EB + BC = a - 2b
+304
+Unit 8: Vectors in Two Dimensions
+b. From above part a. (ii) , BD = 2b - 2a AB + EH = AH, so that
+EH = AH - AB = b - BD = 2(b - a) = 2EH.
+Therefore BD is parallel to EH.
+Example 3
+Two forces, one 10 N and the other 10√3 N, are acting on the body. Given that the
+two forces are acting perpendicularly to each other, find the magnitude of the third
+force which would just counter the two forces.
+Solution:
+Let us say, the first force be F₁ = 10 N and the second be F₂ = 10√3 N as shown in
+the following figure 8.39.
+Using parallelogram law, the resultant force
+Ř = F₁ + F₂. Since the two forces are acting
+R
+perpendicularly, the magnitude of the resultant
+force is determined by |Ř| = 2 + F₂ 2 .
+F2
+That is |R| = 10² + (10√3)² 2
+Figure 8.39
+= √400 = 20.
+Hence, the magnitude of the resultant force is 20 N.
+Exercise 8.12
+1. Express each of the following in terms of a, b and c, using the following
+figure 8.40
+a. AC
+b. AD
+b
+g
+e
+c. AE + ED
+d. BD
+c
+a
+Figure 8.40
+305
+Unit 8: Vectors in Two Dimensions
+2. A wagon is being pulled by a rope that makes a 60° with the ground. A person is
+pulling with a force of 100N along the rope. Determine the horizontal and
+vertical components of the vector.
+3. A swimmer heads directly to the north across a river swimming at 1.6 m/s relative
+to still water which moves to the east. She arrives at a point 40 m downstream
+from the point directly across the river, which is 80 m wide. Determine the
+displacement of the swimmer.
+306
+Summary and Review Exercise
+Summary
+1. Scalars are quantities that are fully described by a magnitude (or numerical
+value) alone.
+2. Vectors are quantities that are fully described by both a magnitude and a
+direction.
+3. A vector is represented geometrically by a directed line segment (a line segment
+with direction) denoted by an arrowAB. In this case, the point A is called the
+initial and the point B is called the terminal. A vector also represented by using
+letters with an arrow bar over it such as й, v, à etc.
+4. The magnitude of a given vector AB or и is the length of the line segment from
+its initial point A to its terminal point. It is denoted by absolute value sign as
+|AB|or|u|.
+5. On a plane, the direction of a vector is given by the angle the vector makes with
+a reference direction, often an angle with the horizontal or with the vertical.
+6. Vectors that have the same or opposite direction are called parallel vectors.
+7. Two vectors are said to be equal if they have the same magnitude and the same
+direction.
+8. For any two vectors AB and BC, AB + BC = AC ( the Triangle Law)
+9. A vector that has no magnitude and direction is called a zero vector or null
+vector
+10. The diagonal of a parallelogram is the sum of the side vectors. This is called
+Parallelogram Law.
+11. Any vector can be enlarged or shortened, by multiplying the vector by a scalar.
+If й is a vector and k be a scalar
+a. if |k| > 1, it enlarges the vector
+b. if 0 < |k| < 1, it shortens the vector
+307
+Summary and Review Exercise
+C. if k > 0, a scalar multiple of й (ku) is in the same direction to й.
+d. if k < 0, a scalar multiple of й (ku) is in the opposite direction to й.
+12. A vector that starts from the origin (O) is called a position vector. The position
+vector й can be written as й = xi + yj = (x) where i = (¹) and j = (1)
+are vectors whose magnitude is 1 in the direction of x and y axis respectively,
+x and y are called components of the vector й. The magnitude of й is
+determined by = y².
+13. Let the initial and terminal points of a vector are (x₁,y₁) and (x₂, V₂) then its
+position vector can be calculated as P = (x₂ - x₁,y₂ - y₁) = (x2 - x₁).
+Review Exercise
+1. Define scalar and vector quantities.
+2. List out some scalar and vector quantities.
+3. Find the magnitude of each of the following vectors where each grid is of square
+unit.
+y
+v
+w
+и
+P
+x
+0
+q
+Figure 8.41
+4. Consider the points A = (2,1), B = (10,6), C = (13,4) and D = (16, -2)
+Determine the components form of vector AD, BC, CD and AB.
+308
+Summary and Review Exercise
+5. Simplify ( using Figure 8.42)
+b
+a.c+f
+C. g - f
+d
+R
+e
+b. c+d+e
+d. d+e
+a
+c
+g
+Figure 8.42
+6. Simplify
+a. AB+BD
+b.PQ+QM+MN
+c.LM +MN + NS + SK
+7. Use the figure 8.43 to name the directed line segment
+i. a+b
+b
+g
+ii. a+b+e
+e
+iii. g+e
+c
+iv. c + d
+a
+V. le+f
+d
+Figure 8.43
+8. Suppose A = (0,1), B = (0,3) be points on the coordinate system and й be
+a position vector whose terminal point is (6,8). Compare the magnitude of
+-))))
+AB and ū.
+9. Sketch a vector of length 3cm in the direction of
+a. South
+b. South 30° West
+C. North 45° East
+10. Let A and B be two vectors given by A = 3i - 2j and B = 5i - 1/j 1 then the
+.
+A.
+B. 8i - ²ⱼ
+C.-11-2j
+11.Seven vectors are drawn as shown in the figure below ( figure 8.44), where
+PQRS is a parallelogram and PT = QS. Which one of the following is true
+about these vectors?
+309
+Summary and Review Exercise
+S
+A. PR - QR = QP
+R
+B. PQ - PS = PT
+C. PS - PT = RS
+P
+D. PS - SR = PR
+T
+Figure 8.44
+12. If the position vector V is given by V = 5i +j, then which one of the following
+is equal to V?
+A. EF where E(-1,-2) and (0,3) C. PQ where P(-3, -4) and Q(2,-1)
+B. GH where G(3,-1) and H(2,2) D. RS where R(5,6) and S(10,7)
+13. The vector v has initial point P = (1,0) and terminal point Q that is on the
+y - axis and above the initial point. Find coordinates of terminal point Q such
+that the magnitude of the vector v is √10.
+14.Let à be a standard-position vector with terminal point(-2,-4). Let b be a
+vector with initial point (1,2) and terminal point (-1,4). Find the magnitude of
+-3ã + b - 41
+15. A merchant start to move in a city. He drives to the bookstore which is 17 km to
+the north. Then he moves to the music shop 6 km to east and finally he drives
+5km to south. Find the displacement of the merchant.
+16.A vector й is directed along 30° west of north and another vector v along 75°
+east of south. In which of the direction of the resultant of the two vectors could
+not exist? Justify your answer.
+A. North
+B. North-East
+C. East
+D. South
+17. A plane flies 100 km, N30°W and after a brief stopover flies 150 km, N60°E.
+Determine the plane's displacement.
+310
+UNIT
+9
+STATISTICS AND PROBABILITY

@@ -1,0 +1,1310 @@
+Unit Outcomes
+At the end of this unit, you will be able to
+describe energy changes in chemical reactions;
+describe how a chemical reaction produces electric current and how electricity
+brings about a chemical reaction in electrochemical cells;
+distinguish the difference between metallic conduction and electrolytic
+conduction;
+develop skills in writing the oxidation half-reaction, reduction half-reaction
+and cell reaction for the electrolysis of molten electrolytes that occur in
+electrolytic cells;
+describe the three types of Voltaic cells;
+explain the difference between electrolytic cells and voltaic cells and
+demonstrate scientific inquiry skills: observing, classifying, comparing and
+contrasting, inferring, predicting, communicating, measuring, asking questions,
+interpreting data, drawing conclusion, applying concepts, relating cause and
+effect and problem solving.
+Energy Changes and Electrochemistry
+Start-up Activity
+1. Describe the different types of chemical reactions
+and their characteristics.
+2. Argue for or against this idea "without energy, there
+is no development!"
+3. Describe the energy sources of our country
+Ethiopia? Compare their relative importance to the
+country's development. Which one is the principal
+source? Which one is the most important source that
+is underutilized? What are the different forms of
+energy contained in each of these sources?
+4. Discuss the relevance of hydroelectric dams such
+as the GERD (The Grand Ethiopian Renaissance
+Dam) to the country's development vis-à-vis climate
+change? What energy changes are involved? What
+about batteries? How do they generate electrical
+energy and how light bulbs convert it into light? Can
+you make a battery? Some people do not want to
+think about these types of questions. They just spend
+money to buy one and gratify their needs. But
+others are very curious to learn new things and want
+to create their own device named in honor of their
+names (Made by Mr/Miss "X"). Which category are
+you from?
+4.1 Introduction
+At the end of this section, students will be able to describe energy changes in chemical
+reactions.
+1. We feel warm when we stand in the sunlight.
+Discuss the reason.
+2. Your body sweats when you take a hot shower after
+an intensive physical exercise?
+3. Why do you burn wood, or charcoal at your home?
+?
+What energy change is involved?
+4. The major component of dynamite is nitroglycerin,
+a very unstable material, mixed with diatomaceous
+earth. What type of energy change occurs when
+Activity 4.1
+dynamite explodes?
+167
+Chemistry Grade 10
+You have studied in unit 1 that chemical reactions almost always involve energy
+change. This means, the energy of the reaction mixture is different before and after
+the reaction. For example, coke is mainly carbon, and the combustion of carbon in
+oxygen, which can be represented by the chemical equation
+C(s) + O₂(g)
+CO₂(g)
+results not only in the formation of gaseous carbon dioxide, but also in the release
+of energy in the form of heat and light. During this process, the chemical energy
+contained in fossil fuels is converted into heat and light energy. Similarly, natural gas
+(principally methane, which has the formula CH₄) bums in oxygen
+CH₄(g) + O₂(g)
+CO₂(g) + 2H₂O(g)
+gives not only the gaseous products carbon dioxide and water, but energy in the form
+of heat and light.
+To study the energy change, (ДЕ), involved in chemical reactions like the combustion
+reaction we have just cited, scientists conceptually divide the universe into two: the
+system (the part being studied) and the surroundings (everything else).
+Universe = System + Surrounding
+A system is part of the universe that is being studied. Surrounding is anything else
+than the system in the universe. Each particle in a system under investigation, such as a
+reaction mixture in a test tube, has potential energy and kinetic energy, and the sum
+of all these energies is the internal energy, E of the system.
+Internal energy of a system is the sum of potential energy and kinetic energies of the
+components of the system.
+(Internal Energy) system = (potential energy + kinetic energy) system
+Potential energy is stored energy. It is stored in chemical bonds. Kinetic energy is the
+energy due to motion. It causes work to be done through movement.
+When the reactants in a chemical system change to products, the system's internal
+energy is changed. This change, E, is the difference between the internal energy
+after the change (Efinal) and before the change (Eᵢnᵢₜᵢₐ|):
+Where A (Greek delta) means "change (or difference) in" and refers to the final state
+minus the initial state. Thus, E is the final quantity of energy of the system minus the
+initial quantity.
+168
+Energy Changes and Electrochemistry
+Note that the total energy of the universe remains constant. When the system loses
+a certain amount of energy, the surrounding gains the same amount of energy. This
+means, energy is simply being exchanged between the two components of the universe
+keeping the total energy of the universe constant (Figure 4.1).
+Surroundings
+Surroundings
+System
+Heat
+Exothermic
+Temperature
+System
+Heat
+Endothermic
+Temperature
+Figure 4.1 Energy exchange between system and surrounding.
+Energy transferred from system to surroundings or vice versa appears in two forms:
+heat and work. For instance, the various chemicals that make up gasoline contain a
+large amount of chemical (potential) energy that is released when the gasoline is
+burned in a controlled way in the engine of the car. The release of that energy does
+two things: some of the potential energy is transformed into work, which is used to
+move a car; at the same time, some of the potential energy is converted to heat and
+makes the car's engine very hot. Therefore, the energy changes of a system occur as
+either heat (q) or work (w), or some combination of both.
+AE=q+w
+4.1.1 Exothermic and Endothermic Chemical Reactions
+At the end of this section, students will be able to
+define endothermic reaction;
+describe endothermic reaction;
+define exothermic reaction;
+describe exothermic reaction;
+elucidate endothermic and exothermic reactions using diagrams;
+do simple experiment to demonstrate exothermic and endothermic reactions.
+169
+Chemistry Grade 10
+1. From your discussion on Activity 4.2, you can
+conclude that reactions that cause the surrounding
+to heat up are called heat releasing reactions and
+the process is exothermic. Reactions that take up
+energy from the surrounding such as the reaction
+flask are called heat absorbing and the process
+is endothermic. Based on this information, discuss
+whether energy (in the form of heat) is released or
+absorbed during
+a. baking of bread (consider the heat of stove before
+and after the cold dough is loaded)
+b. cooking food
+C. burning of wood and then classify each of them as
+exothermic or endothermic.
+What other processes can you cite from your daily life
+?
+experience that either releases heat or absorbs heat?
+2. Is photosynthesis an endothermic or exothermic
+reaction? Write the balanced equation and draw
+an energy diagram indicating all the necessary
+Activity 4.2
+information. Repeat this activity for respiration.
+All of the combustion reactions mentioned in the previous section release energy in the
+form of heat. Such reactions are described as being exothermic (from the Greek exo
+meaning outside and therme meaning heat). One of the examples cited earlier is the
+combustion of coke in oxygen, which obviously results in the release of a considerable
+amount of energy. Similarly, although on a much more modest scale, when NaOH
+dissolves in water, the test-tube becomes warm. In other words, the process results in
+a temperature rise. This observation indicates that the dissolving process for NaOH is
+also exothermic; that is, it is accompanied by the release of energy, which heats up
+the solution.
+NaOH(s)
+Na⁺(aq) + OH (aq)
+The other is the reaction between calcium chloride and water:
+CaCl₂(s) + 2H₂O(1)
+Ca(OH)₂(aq) + 2HCI(g) + heat
+In this case too, heat is released during the reaction, elevating the temperature of the
+reaction mixture, and thus the reaction flask becomes hot. But, when potassium nitrate,
+KNO3, dissolves in water, the mixture gets colder. This process can be represented by
+the following equation:
+KNO₃(s) + Heat H2O K+ (aq) +
+170
+Energy Changes and Electrochemistry
+Reactions like this are described as being endothermic (from the Greek endo meaning
+within).
+To study whether the energy being released or absorbed during a chemical reaction,
+we need to set the temperature and pressure constant. Thus, if a reaction takes place
+at constant temperature and pressure, the heat transferred is called the enthalpy of
+reaction, and this is denoted by the symbol H:
+AH=HProducts - Hreactonts
+reactants
+For an exothermic reaction: H is negative, H < O.
+For an endothermic reaction: H is positive, H > O.
+The relative energies of reactants and products in exothermic and endothermic
+reactions can be represented as shown schematically in Figure 4.1 a and b, respectively.
+Reactants enthalpy level
+(a)
+Products enthalpy level
+(b)
+Reactants
+Products
+Enthalpy
+H < 0
+ДН > 0
+Enthalpy
+Reactants
+Products
+Products enthalpy level
+Reactants enthalpy level
+Reaction progress
+Reaction progress
+Figure 4.1 Enthalpy diagram for (a) exothermic reactions (b) endothermic reactions.
+The device used to measure the heat released (or absorbed) by a chemical reaction
+is called calorimeter. To find the energy change during chemical reaction, we measure
+the change in temperature and determine the quantity of heat released or absorbed
+using the following relation:
+q α AT or
+q = constant X ДТ
+or
+q/4T = constant
+The proportionality constant in the above equation is called heat capacity. Every
+object has its own heat capacity. Heat Capacity of a substance is defined as the
+quantity of heat required to change its temperature by 1 K.
+Heat capacity = q/4T
+The unit of heat capacity is Joule per Kelvin (J/K). Heat capacity is related to a
+substance's ability to retain heat and the rate at which it will heat up or cool down. For
+171
+Chemistry Grade 10
+example, a substance with a low heat capacity, such as iron, will heat and cool quickly,
+while a substance with a high heat capacity, such as water, heats and cools slowly.
+A related property is specific heat capacity (c). Specific heat capacity (c) of a
+substance is defined as the quantity of heat required to change the temperature of 1
+gram of the object by 1 K:
+Specific heat capacity (c) = (Heat capacity)/mass = q/(mass X )
+If we know c of the object being heated (or cooled), we can measure the mass and the
+temperature change and calculate the heat absorbed (or released):
+q = c X mass X ДТ
+Notice that metals have relatively low values of c and water has a very high value: for
+instance, it takes over 30 times as much energy to increase the temperature of a gram
+of water by 1 K as it does a gram of gold. This is one of the properties that make
+water unique and responsible for its use as a coolant in car radiators and in industries
+Exercise 4.1
+1. Where does the energy released during chemical reaction come from?
+2. How is the energy that you get from food stored in your body? How is it
+supplied to the cellular process in your body when needed?
+3. Explain the energy changes involved when
+a. quicklime or calcium oxide (CaO) reacts with water to form slaked lime
+[Ca(OH)₂]?
+CaO(s) + H₂O(I)
+Ca(OH)₂ (aq)
+b. limestone (CaCO₃) decomposes to give quicklime (CaO)
+C. nitroglycerine (major component of dynamite) decomposes
+4C3H₅ (NO₃)₃(I)
+12CO₂(g) + 10H₂O(g) + O2 (g) + 6N2 (g)
+Is it exothermic or endothermic? Explain! Draw an enthalpy diagram for each of
+these three reactions.
+4. On a hot summer day the water in a lake stays cool even though the air above
+it heats quickly, and the water stays warm at night after the air has cooled.
+Can you explain this?
+5. Have you encountered an earthen stove "Injera Mitad" that takes longer time
+to feel hot? Explain why. Which stove stays warm for longer time after the
+heat source is disconnected, the one heats up quickly or slowly?
+6. What property of substance is responsible for the observations in Q1 and
+Q2?
+172
+Energy Changes and Electrochemistry
+4.1.2 Importance of Chemical Changes
+At the end of this section, students will be able to discuss the importance of chemical
+changes in the production of new substances and energy.
+1. Discuss the importance of chemical changes in your
+life process. Consider, for instance, oxidation of glucose
+in your body cells. The photosynthesis and combustion
+?
+reactions, the digestion, etc. Do you think life is possible
+without chemical reactions or chemical changes?
+2. Can you mention some pharmaceuticals and their use?
+How are they made?
+3. What two major uses of chemical reactions or changes
+Activity 4.3
+can you suggest from the above discussion?
+Chemical reactions are the most important types of events in the universe. It's through
+chemical reactions that plants grow, produce fruit, and become compost for new plants.
+It's because of chemical reactions that human beings (and all other animals) reproduce,
+digest, grow, hear, and think. Chemical changes are involved during digestion and
+respiration. You get energy because of respiration. You get food because of the
+chemical change called photosynthesis. Therefore, the two principal advantages of
+chemical changes are production energy and useful substances.
+Experiment 4.1
+Energy Changes in Chemical Reactions
+Objective: To explore the energy changes involved in the reaction between acetic
+acid and baking soda.
+Materials needed: Plastic cup or beaker, vinegar (acetic acid), baking soda
+(NaHCO₃), spatula/teaspoon, thermometer.
+Procedure:
+Pour about 10 mL of vinegar into a small plastic cup. Then, place a thermometer
+into the vinegar. Record the initial temperature (Ti).
+While the thermometer is in the cup, add about ½ teaspoon of baking soda to
+the cup.
+Watch the thermometer for any change in temperature. After it has stopped
+changing, record the final temperature (Tf).
+173
+Chemistry Grade 10
+1. Based on your observations of the baking soda and vinegar reaction, is the
+reaction exothermic or endothermic?
+2. Use energy level diagram to visualize the energy changes
+3. Repeat the above steps using calcium chloride instead of vinegar. Briefly,
+dissolve 1/2 a spoonful of calcium chloride in 20 mL water in a test tube.
+Record your observation. In a second test tube, dissolve equal amount of
+baking soda and record your observation. Allow both solutions to cool to
+equal (room) temperature and record this temperature as Ti. Mix the two
+solutions in a plastic cup/beaker and record the final temperature.
+4. Discuss the endothermic and exothermic processes observed in the above
+procedure.
+5. Write the reaction equation and use energy level diagram to visualize the
+energy changes during reaction of calcium chloride and baking soda.
+4.2 Energy Changes in Electrochemistry
+At the end of this section, students will be able to
+describe electrochemistry;
+define electrical conductivity;
+explain metallic conductivity;
+explain electrolytic conductivity;
+differentiate between metallic conduction and electrolytic conduction.
+4.2.1 Electrochemistry
+1. You know that metals are good conductors of heat and
+electricity. But what is electricity? What are the sources?
+What is the analogy between electricity and water flow
+via tap to your home? How do metals conduct electricity?
+Can you suggest other materials that conduct electricity?
+2. What do substances need to possess in order to
+?
+conduct electricity?
+3. What about batteries such as hand batteries and
+car batteries? What is the energy change involved?
+4. Can you suggest devices that generate electrical
+Activity 4.4
+energy? Discuss the uses of electrical energy?
+174
+Energy Changes and Electrochemistry
+Electrochemistry is a field of chemistry that deals with the interconversion of electrical
+energy and chemical energy. It is concerned with the use of electricity to cause chemical
+reactions (changes) to happen or generating electricity from chemical reactions. Thus,
+electrical energy and chemical energy are inter-convertible.
+4.2.2 Electrical Conductivity
+Why do metals conduct electricity? Do you know any non-metal which conducts
+electricity? Electrical conductivity is the ability of a substance to transmit electricity.
+The materials that allow the passage of electricity through them are called electrical
+conductors. Electricity is constituted by movement of charged particles or charge
+carriers. Electrons carry negative charge whereas ions may carry positive (cations) or
+negative (anions) charges. Depending on the nature of the particles responsible for
+the flow of electric charges through conductors, electrical conductivity can be classified
+as metallic conductivity and electrolytic conductivity.
+a) Metallic conductivity
+Electrical conductivity in metals is a result of the movement of electrically charged
+particles called electrons. The atoms of metal elements are characterized by the
+presence of valence electrons; which are electrons in the outer shell of an atom that
+are free to move about. It is these "free electrons" that allow metals to conduct an
+electric current. Because valence electrons are free to move, they can travel through
+the metallic lattice that forms the physical structure of a metal. Silver is the best
+electrical conductor.
+Metallic lattice can be described as an atmosphere of positive ions in a sea of mobile
+electrons (Figure 4.3). The electrons entering the metal displace (repel) the freely
+moving electrons at the point of entry. The displaced electrons occupy new positions
+by pushing neighboring electrons ahead. This will continue until electrons are forced
+out of the wire at the opposite end. The charge carriers in metallic conduction are
+electrons. Hence, metallic conductivity is also called electronic conductivity.
++
++
++
+Electrons
++
+Electrons
++
++
+in
+out
+Free electron
+Nucleus
+Figure 4.3 Electrical conductivity in metals.
+175
+Chemistry Grade 10
+Non-metals are generally non-conductors of electricity, because they do not have
+freely moving electrons. Graphite is a form of carbon in which the carbon atoms are
+bonded in trigonal planar fashion to the three other carbon atoms, to form inter-
+connected hexagonal rings, as shown in Figure 4.4. Electrons move freely through the
+hexagonal layers, making graphite a good conductor of electricity.
+Covalent bonds
+1.42A
+Van der waals forces
+3.35A
+Figure 4.4 Structure of graphite.
+b) Electrolytic conductivity
+Electrolytes are substances that transmit electricity in a molten state or in aqueous
+solution. Unlike metallic conductivity, the conductivity of electrolytic solutions depends
+on the type and concentration of ions in solution. Based on their degree of ionization
+or the extent to which they produce anions and cations, electrolytes can be classified
+as strong electrolytes or weak electrolytes. Recall from unit 2 that many ionic
+compounds such as NaCl dissociate completely in water and are therefore called
+strong electrolytes.
+NaCl (aq)
+Na+ (aq) + CIT (aq)
+When electrical potential is applied through an electrolyte solution, the positive ions
+(cations) move in one direction and the negative ions (anions) move in the opposite
+direction. This movement of ions through the electrolyte, brought about by the
+application of electricity, is called electrolytic conductivity. Hence, the charge-carriers
+in electrolytic conductivity are ions (anions and cations). That is electrolytic conductors
+are also called ionic conductors.
+Difference between metallic conduction and electrolytic conduction
+Metallic Conduction
+Electrolytic Conduction
+Conduction through metals is due to
+Conduction through electrolytes is due to
+the movement of electrons.
+the movement of ions.
+No change in the chemical properties
+It may cause chemical decomposition of
+of the conductors is observed.
+the electrolytes.
+176
+Energy Changes and Electrochemistry
+It does not involve any transfer of
+It involves the transfer of matter as ions.
+matter.
+The resistance of metals is due to
+The resistance of electrolytic solutions is
+obstacles of vibrating kernels of
+due to factors like concentration inter-ionic
+metal atoms.
+attractions, the viscosity of solvent etc.
+It decreases with the increase in
+It increases with the increase in
+temperature.
+temperature.
+Note that metallic conduction is a physical process, but electrolytic conduction is
+accompanied by chemical changes that occur on the surface of the electrodes.
+Experiment 4.2
+Conductivity of Materials
+Objectives: To test the conductivity of substances and classify them as strong,
+weak or non-conductors of electricity.
+Apparatus: Copper wire, light bulb, power supply (DC) or dry cells, scotch tape,
+distilled water, 1M NaCl solution, 1 M HCI, 1 M acetic acid solution, 1 M sugar
+solution, pencil graphite, wood, magnesium ribbon and an iron nail.
+Procedure:
+1. Arrange the conductivity apparatus as shown in Figure 4.5.
+Beaker
+Test metal
+Coper wire
+Bulb
+Bulb
+DC source or
+Battery
+Aqueous
+solution
++
+DC source or
+A
+B
+Battery
+Figure 4.5 Conductivity apparatus for (A) metals and (B) electrolytic solution
+2. Pour some distilled water in the beaker (as illustrated in Figure 4.5B), dip the
+electrodes into the water and turn the switch on. Set-up the experiments to
+test the conductivity of pencil graphite, magnesium ribbon, wood or an iron
+nail as illustrated in Figure 4.5A.
+177
+Chemistry Grade 10
+3. Repeat the experiment with separate solutions of table salt, copper sulphate,
+hydrochloric acid, sodium hydroxide, acetic acid, ammonia solution, molten
+lead bromide and sugar solution. (use 1.0 M solutions of each).
+Observations and Analysis:
+a. Does the bulb glow when the switch is turned on?
+b. Solutions of which substances make the bulb glow and not glow, when you turn
+on the switch?
+c. Solutions of which substances make the bulb to glow with a: i) bright light? ii)
+dim light?
+d. Classify the substances used in this experiment as strong conductors, weak
+conductors and non-conductors by completing the table below:
+Strong Conductors
+Weak Conductors
+Non-conductors
+e. Which substances in the experiment are used as: i strong electrolytes ii weak
+electrolytes
+Repeat the experiment with lemon juice, and orange juice and answer the
+questions.
+Note that if the solution contains ions, current flows through the circuit and the
+light bulb glows. The brightness of the bulb increases with current strength, which
+increases with the number of ions in the solution. Strong electrolytes dissociate
+completely and produce more ions in solutions brighter light than weak electrolytes
+that dissociate slightly.
+f. In your experiment using set-up 4.5 A, what observations did you make?
+In which case did the bulb glow and in which case did not? Pencil graphite,
+magnesium ribbon, wood, or iron nail?
+Write a laboratory report on what you have observed and submit to your teacher.
+Exercise 4.2
+1. Na and Ca metals conduct electricity in solid state but NaCl and CaCl₂
+conduct electricity only when they are dissolved in water or when they are in
+the molten form, but not in the solid state. Why?
+2. Why are solutions of strong electrolytes better conductors of electricity than
+weak electrolytes?
+3. Which of the following substances are capable of conducting electricity?
+Give reason for your answer.
+a. Iron
+C.
+Solid sodium chloride
+b. Sulphur
+d. Molten calcium chloride
+178
+Energy Changes and Electrochemistry
+Electrolytes and Nonelectrolytes
+At the end of this section, students will be able to
+distinguish between strong and weak electrolytes;
+use conductivity apparatus to test conductivity of substances.
+All solutes that dissolve in water fall into one of two categories: electrolytes and
+nonelectrolytes. An electrolyte is a substance that, when dissolved in water, results in a
+solution that can conduct electricity. In order to conduct a current, a substance must
+contain mobile ions. All ionic compounds are electrolytes. When ionic compounds
+dissolve, they dissociate (break apart) into ions, which are then able to conduct a
+current. Thus, we can represent sodium chloride dissolving in water as
+H2O
+NaCl(s)
+Na⁺(aq) + Cl⁻(aq)
+What this equation says is that all the sodium chloride that enters the aqueous solution
+ends up as Na⁺ and Cl⁻ ions; there are no undissociated NaCl units in solution.
+Even insoluble ionic compounds, such as CaCO₃, are considered electrolytes because
+they can conduct a current in the molten (melted) state. Some polar covalent compounds
+such as acetic acid (CH₃COOH) that can, at least partially, dissociate into ions when
+dissolved in water are also classified as electrolytes.
+A nonelectrolyte is a substance that does not conduct an electric current in either
+aqueous solution or in the molten state. Most polar covalent compounds, such as table
+sugar (C₁₂H₂₂O₁₁), and all nonpolar covalent compounds are good examples of
+nonelectrolytes. When these compounds dissolve in water, they do not produce ions.
+An equation can still be written that simply shows the solute going into solution without
+dissociating into ions. For example, the process of dissolving sucrose in water can be
+written as follows:
+C₁₂H₂₂O₁₁(ₛ)
+C₁₂H₂₂O₁₁(aq)
+Individual C₁₂H₂₂O₁₁
+molecules in solution
+C₁₂H₂₂O₁₁
+crystal
+Strong and Weak Electrolytes
+A strong electrolyte is a substance that when dissolved in water dissociates completely
+into its ions. All ionic compounds are strong electrolytes. NaCl is a good example. A
+weak electrolyte is a substance that when dissolved in water dissociates partially into
+its ions. For example, acetic acid (CH₃COOH)- the compound in vinegar and nitrous
+acid (HNO₂) only partially ionizes into respective ions (H⁺ and CH₃COO- or H+ and
+179
+Chemistry Grade 10
+NO₂-) when dissolved in water. Aqueous nitrous acid is composed of only about 5%
+ions and 95% intact (undissociated) nitrous acid molecules. Table 4.1 shows some strong
+and weak electrolytes.
+HNO2(aq)
+1L
+H⁺(aq) + NO2⁻(aq)
+CH₃COOH(aq)
+1L
+H⁺(aq) + CH₃COO⁻(aq)
+Table 4.1: Classification of Solutes in Aqueous Solutions.
+Strong Electrolyte
+Weak Electrolyte
+Nonelectrolyte
+HCI
+CH₃COOH
+(NH₂)₂CO (urea)
+HNO3
+HF
+CH3OH (methanol)
+HCIO₄
+HNO₂
+C2H₅OH (ethanol)
+H2SO₄
+NH₃
+C₆H₁₂O₆ (glucose)
+NaOH
+H2O
+C₁₂H₂₂O₁₁ (sucrose)
+Ba(OH)₂
+lonic compounds
+Experiment 4.3
+The Distinction Between Electrolyte and Nonelectrolyte Solutions
+Objective: To distinguish between electrolyte and nonelectrolyte solutions
+Chemicals: Water, Table salt
+Apparatus: power source, wires, beaker (or water glass) and light bulb
+Procedure
+1. Construct the light bulb experiment as shown in Figure 4.6.
+2. Fill the glass with water as shown in the Figure. Write your observation
+3. Add a tea spoonful of fine NaCl in the water and let it dissolve. Make sure
+the circuit is complete. Write your observation.
+Caution: Bare wires are a hazard! Skin will conduct an electric current and
+will cause a shock. Do not touch the bare part of the wires when the light-bulb
+apparatus is plugged in.
+180
+Energy Changes and Electrochemistry
+Question
+In which case does the light bulb glow? With just water or salt dissolved in it?
+Explain your observations. Try the same experiment using table sugar (sucrose)
+instead of salt. Apply the concept to test whether the drinking water in your
+locality is salty or potable. Note that the brightness of the light bulb depends on
+the concentration of the salt.
+Figure 4.6 Setup for electrolytic conductivity test.
+Exercise 4.3
+1. Classify each of the following as electrolytes or nonelectrolytes:
+a. air
+d. lemon water
+g. ammonia
+b. pure water
+e. sulphuric acid
+solution
+C. saline solution
+f. nitric acid
+2. The diagrams show three compounds (a) AB₂, (b) AC2, and (c) AD₂ dissolved
+in water. Which is the strongest electrolyte and which is the weakest? (For
+simplicity, water molecules are not shown.)
+(a)
+(b)
+(c)
+181
+Chemistry Grade 10
+4.3 Electrochemical Cells
+At the end of this section, students will be able to describe the importance of
+electrochemical cells in daily life (Votic cell and car battery).
+Consider the catabolic biochemical reactions such
+as breakdown of glucose during respiration which
+releases energy (exothermic) and anabolic reactions
+such as joining of amino acids to form proteins
+(endothermic). Where do you think these reactions
+take place in your body? What about photosynthesis
+?
+in plants? Where does it take place? Can you
+draw analogy between the places (setup) where
+biochemical reactions take place in your body to the
+setup for redox reactions to produce electrical energy
+Activity 4.5
+or produce useful compounds?
+An electrochemical cell is a system that incorporates a redox reaction to produce
+or use electrical energy. It consists of two or more electrodes that are dipped into
+an electrolyte (see Figure 4.7 & 4.10) in which a chemical reaction either uses or
+generates an electric current, and the electronic circuitry for controlling and measuring
+the current and the potential. Electrodes are strips of metal or graphite that allow
+electrons to leave or enter the electrolytes. They can be chemically active or inert.
+Active electrodes directly take part in reactions. Examples include zinc and magnesium.
+Inert electrodes do not directly take part in chemical reactions. They only serve to
+transfer electrons. Examples include platinum and graphite.
+Depending on the purpose or the types of reactions taking place, electrochemical cells
+are divided into two. These are Galvanic (Voltaic) cells and Electrolytic cells.
+4.3.1 Galvanic (Voltaic) Cells
+What is a galvanic cell?
+A Galvanic cell or voltaic cell is an electrochemical cell in which chemical energy
+contained in reactants is converted into electrical energy via a spontaneous redox
+reaction. Galvanic cell or voltaic cell was so named after the Italian scientists Luigi
+Galvani and Alessandro Volta, who constructed early versions of the device.
+Examples include the cells we use in our hand batteries (dry cells), flashlight batteries,
+wrist watches, cameras and car batteries. The redox reactions between the chemicals
+in these cells are responsible for the generation of electricity. The reaction proceeds
+on its own and without any external influence. This type of chemical reaction is called
+spontaneous redox reaction. Therefore, Galvanic cells are electrochemical cells in
+182
+Energy Changes and Electrochemistry
+which spontaneous redox reactions generate electricity. Galvanic cells are classified
+into primary cells, secondary cells, and fuel cells. Here, we shall be concerned with
+the primary and secondary cells only. Fuel cells will be discussed in grade 11. Both
+primary and secondary cells are batteries that store electrical energy in the form of
+chemical energy. The chemical energy is converted into electrical energy when we the
+battery is in use.
+Primary Cells (Battery Cells)
+Primary cells or also known as battery cells are galvanic cells that are not rechargeable.
+This is because once the chemicals in the cells that serve as reactants are completely
+used up, it is not possible to recover them by charging the cells. Examples of primary
+cells include Daniell's cell and zinc-carbon (Leclanche) dry cells. The common feature
+of all Galvanic cells is that they contain two electrodes in contact with an electrolyte.
+The electrolyte in a Galvanic cell can be in the form of a solution (Daniell cell) or
+a paste (Leclanche cell). The cells containing electrolytes in the form of solution are
+called wet cells, and those containing electrolytes in the form of paste are called dry
+cells.
+An example of a wet primary cell is the Daniell cell. It consists of a zinc strip placed
+in ZnSO₄ solution in one compartment and a copper strip placed in copper sulphate,
+CuSO₄, solution in another compartment (Figure 4.7).
+Voltmeter
+e⁻
+e⁻
+Zinc
+Copper
+anode
+CI
+K+
+cathode
+The anode (zinc)
+Salt bridge
+The cathode (copper)
+electrode loses its mass
+electrode gains mass
+Cotton
+plugs
+Cu2
+Zn²⁺
+SO2
+ZnSO₄ solution
+CuSO₄ solution
+2e
+2e
+Zn
+Zn2+
+Cu
+Zn is oxidized
+Net reaction
+Cu²⁺ reduced
+to Zn²⁺ at anode.
+to Cu at cathode.
+Zn(s)
+Zn²⁺ (aq) + 2e
+Zn(s)+ Cu²⁺ (aq)
+Zn²⁺ (aq) + Cu(s)
+2e+ Cu²⁺ (aq)
+Cu(s)
+Figure 4.7 The Daniell Cell.
+Each compartment is called a half-cell, and the reactions occurring in each compartment
+are called half-cell reactions. The solutions in the two compartments are linked by a
+183
+Chemistry Grade 10
+salt bridge. The salt bridge consists of a delivery tube filled with warm mixture of
+conc. KCI solution and agar solution, which is then allowed to cool so that it sets in the
+form of a gel.
+In the anode compartment, the zinc atoms from the zinc electrode lose two electrons
+each and become zinc ions, Zn²⁺. The ions enter into the solution, and the electrons
+remain on the electrode and flow through the external wire to the copper electrode
+(see anode half reaction below). This situation causes the zinc electrode to be negative
+and the solution to have an overall positive charge. In the process the anode (zinc)
+electrode loses its mass. That is why the anode of the galvanic cell is sometimes called
+sacrificial electrode. On the other hand, in the compartment containing the copper
+electrode, copper ions, Cu²⁺, from the solution move to the cathode and gain two
+electrons each, to become copper atoms and deposit on the surface of the copper
+electrode (see cathode half reaction below). This condition causes the electrode to
+be positive and the solution to have a negative charge. In addition, the cathode
+continuous to grow in mass as more and more copper deposits on it. The electron flows
+from anode to cathode in the external conductor.
+The half-cell reactions and the cell reaction in Daniell cells are represented as
+Anode reaction: Zn(s)
+Zn²⁺(aq) + 2e-
+Cathode reaction: + 2e-
+Cu(s)
+Overall (cell) reaction: Zn(s) + Cu²⁺(aq)
++ Cu(s)
+Due to the oxidation-reduction reaction in the cell, the Daniell cell generates electricity.
+What is the purpose of the salt bridge in Figure 4.7? From the preceding discussion,
+it is clear that the solution in which the zinc electrode is placed has an overall positive
+charge while the solution in the copper compartment has a negative charge. Unless
+the two solutions are neutral, the cell cannot produce electricity. Thus, the purpose of
+the salt bridge is to maintain electrical neutrality between the two solutions.
+Although, wet cells like the Daniell cell can serve as a source of electricity, they are not
+portable since they contain solutions. Due to this practical problem of using wet cells,
+dry cells were developed. In a dry cell, a moist electrolyte paste is used instead of
+solutions. This cell was invented by Georges Leclanche, a French chemist.
+We commonly use Leclanche cells as convenient, portable sources of energy. Flashlights
+and radios are examples of devices that are often powered by the zinc-carbon,
+or Leclanché, dry cell (Figure 4.8). This voltaic cell has a zinc can as the anode; a
+graphite rod in the center, surrounded by a paste of manganese dioxide, ammonium
+and zinc chlorides, and carbon black, as the cathode. It produces electricity as a result
+of a spontaneous redox reactions:
+Anode reaction: Zn(s)
+Zn²⁺(aq) + 2e-
+Cathode reaction: (aq) + 2MnO₂(s) + 2e
+Mn₂O₃(s) + H₂O(I) + 2NH₃(aq)
+184
+Energy Changes and Electrochemistry
+Overall (cell) reaction:
+Zn(s) + 2NH₄ (aq) + 2MnO₂(s)
+Zn²⁺ (aq) + Mn₂O₃(s) + H₂O(I) + 2NH₃(aq)
+Positive terminal
++
+Air space
+Asphalt seal
+Porous paper
+Paste of MnO₂, ZnCl₂
+NH₄CI, and C
+Graphite rod
+(cathode)
+Zinc can (anode)
+Metal jacket
+Insulator
+Negative terminal
+Figure 4.8 Zinc-carbon dry cell (Leclanche cell).
+A buildup of ammonia gas around the cathode may disrupt the current. However, this is
+prevented by the reaction between Zn²⁺ and NH₃ to form a complex ion, [Zn(NH₃)₂]²⁺
+which crystallizes as a chloride salt through reaction with chloride (spectator ion).
+Zn²⁺(aq) + 2NH₃(aq) + 2Cl⁻(aq)
+Zn(NH₃)2CI₂(s)
+Therefore, the overall reaction occurring in a Leclanche cell is often written as:
+Zn(s) + 2NH₄CI(aq) + 2MnO₂(s)
+The voltage of this dry cell is initially about 1.5 V, but it decreases as current is drawn
+off. The voltage also deteriorates rapidly in cold weather. There are other examples
+of dry cells, such as the alkaline dry cell, silver oxide cell, and copper oxide cell which
+are left for interested students to read.
+Exercise 4.4
+A voltaic cell is constructed from a half-cell in which a cadmium rod is dipped
+into a solution of cadmium nitrate, Cd(NO₃)₂, and another half-cell in which a
+silver rod is dipped into a solution of silver nitrate, AgNO₃. The two half-cells are
+connected by a salt bridge. Silver ion is reduced during operation of the voltaic cell.
+Draw a sketch of the cell.
+Label the anode and cathode, showing the corresponding half reactions at
+these electrodes.
+Indicate the electron flow in the external circuit (with a lightbulb) and the
+signs of the electrodes.
+185
+Chemistry Grade 10
+Project 4.1
+Constructing Simple Galvanic Cells
+Objectives: To construct a simple Galvanic cell.
+Direction: Construct a modified zinc-carbon dry cell (Leclanche cell) using your own
+materials.
+Write a project report and submit to your teacher. Demonstrate the functioning of
+the developed cell in the class. Your report should describe the basic features of the
+developed cell. The equations for the redox reactions involved. The half-reaction
+reactions and where (the electrode) they occur. Compare the performance (light
+intensity) of your cell with the commercially available cells.
+b. Secondary (Rechargeable) Cells
+Unlike primary cells, secondary cells are rechargeable. The electrode reactions can
+be reversed, and the original reactants can be regenerated. This can be achieved by
+passing a direct current through the cell. The process is called charging or recharging.
+A secondary cell needs to be recharged when it stops producing electricity. A lead
+storage battery is an example of a secondary cell. A lead storage battery is the
+common automobile battery that usually delivers either 6 or 12 volts, depending on
+the number of cells used in its construction. The inside of this Voltaic cell consists of
+electrodes of lead alloy grids; one electrode is packed with a spongy lead to form
+the anode, and the other electrode is packed with lead (IV) oxide to form the cathode
+(see Figure 4.9). Both are bathed in an aqueous solution of 35% sulfuric acid, H2SO4.
+A single lead-storage cell delivers 2 volts. Therefore, a 12 V battery contains six cells
+connected in series (Figure 4.9).
+Intercell connectors
+-
+PbO₂
+plates
+Pb plates
+H₂SO₄(aq)
+Intercell connectors
+Figure 4.9 A Lead - Storage Battery. Each cell delivers about 2 V, and a battery
+consisting of six cells in series gives about 12 V
+When a lead-storage battery is in operation (on discharge), the following reactions
+occur at the electrodes:
+186
+Energy Changes and Electrochemistry
+Anode reaction: Pb(s) + SO 4 (aq)
+PbSO (s) + 2e-
+Cathode reaction: PbO₂(s) + 4H⁺(aq) + SO 4 (aq) + 2e-
+PbSO (s) + 2H₂O(I)
+Overall (cell) reaction: Pb(s) + PbO₂(s) + 4H⁺(aq) + 2SO4 (aq)
+2PbSO, (s) + 2H₂O(I)
+From the electrode reactions it can be noticed that PbSO₄ is produced at both
+electrodes. Lead-storage battery, as a secondary cell, is rechargeable when it runs
+down. The electrode reactions can be reversed by applying a potential across the
+electrodes that is slightly larger than that which the battery can deliver. The reaction
+that takes place on recharging a lead storage battery is given by the following
+equation.
+2PbSO (s) + 2H₂O(I)
+Pb(s) + PbO₂(s) + 2H₂SO₄(aq)
+Note: The electrode that served as anode during discharging (use) is forced to behave
+as cathode during recharging. Consequently, the direction of the electron flow that
+was from left (Pb = anode) to right (PbO₂ = cathode) is changed to right (PbO₂ =
+anode) to left (Pb = cathode). Oxidation always takes place at anode and reduction
+at cathode. The direction of electron flow is always from anode to cathode.
+Project 4.2
+Do you know how car batteries are maintained? Your teacher will arrange a visit to
+the nearby car battery maintenance center. Before the trip, prepare the following
+questions for interview.
+Why car battery fails?
+What are the components in the car battery?
+How are they assembled to a self-contained device?
+What is the advantage of car battery over other types of batteries such as dry cells?
+Each dry cell can generate 1.5 V. If we assemble 8 of them in series, we can generate
+12.0 V. So, why can't we use this option?
+How the health or the degree of discharge is tested?
+How is the battery recharged?
+After getting answers for the above questions, and reaching conclusion after discussion
+in group, write a report about what you have learnt during your visit and present it
+to the class.
+4.4
+Electrolysis
+At the end of this section students will be able to
+define the term electrolysis;
+define the terms electrode, anode, cathode, electrolyte, anion, and cation;
+describe electrolytic cell;
+draw labelled diagram of an electrolytic cell;
+define the terms' half-reaction and cell reaction;
+187
+Chemistry Grade 10
+write the oxidation half-reaction, reduction half reaction and cell reaction for the
+electrolysis of molten or fused electrolytes;
+perform an activity to show electrolysis of molten electrolytes.
+1. In the voltaic cells such as primary or secondary
+you have just learnt, chemical reaction generates
+electricity or chemical energy is converted into
+electrical energy. What about the reverse? Which
+of the two types of voltaic cells can be adapted to
+serve as electrolytic cell; the primary or secondary?
+2. Can you infer the meaning of the word "electrolysis"
+by breaking it into 'electro' and 'lysis'? Remember
+that you applied an electrical potential across the
+electrodes to cause the reaction:
+?
+2PbSO₄(s) + 2H₂O(I)
+Pb(s) + PbO₂(s) + 2H2SO₄
+(aq) in secondary cells.
+Now, based on the information from the above analysis
+can you define electrolysis?
+Activity 4.6
+In contrast to spontaneous redox reactions, which result in the conversion of chemical
+energy into electrical energy, electrolysis is a process by which electrical energy is
+used to drive an otherwise nonspontaneous reaction. Electrolysis stands for "electro"
+means electricity and "lysis" means to separate or break. So in terms, electrolysis
+would mean "breakdown via electricity". An electrochemical cell in which electrolysis
+occurs is called electrolytic cell (Figure 4.10). It has two components, electrodes (anode
+and cathode) and electrolyte.
+In electrolytic cell, the electrode connected to the positive terminal of the source (e.g.
+battery) is positively charged and is called the anode. It is the electrode through
+which electrons leave the cell. The electrode connected to the negative terminal of
+the source is negatively charged and is called the cathode. It is the electrode through
+which electrons enter the cell (see Figure 4.10).
+188
+Energy Changes and Electrochemistry
+Current flow
++
+e- flow
++
+-
+Z
+Z
+Anode
+Cathode
+Z⁺ (aq)
+Figure 4.10 A sketch of an electrolytic cell.
+During electrolysis, the ions of the electrolyte migrate to the electrodes of the opposite
+charge. The positive ions are attracted to the cathode and are called cations. Since
+the cathode has excess electrons, the cations will discharge by gaining electrons. This
+process of gaining electrons is called reduction. The negative ions are attracted by
+the positive electrode (anode) and are called anions. These ions are discharged by
+losing electrons (get oxidized) at the anode. This process of losing electrons is called
+oxidation. Thus, the cathode is the electrode at which reduction occurs and the anode
+is the electrode at which oxidation takes place.
+4.4.1 Electrolysis of Molten (Fused) Electrolytes
+lonic solids can melt at elevated temperature. NaCl, for instance, melts at 801 °C. The
+process is called melting or fusion. When ionic solids melt, they dissociate into positive
+and negative ions that are free to move. To understand the chemical reactions that
+occur during electrolysis of molten (fused) electrolytes, consider electrolysis of molten
+NaCl. Figure 4.11 shows a simple electrolytic cell. Wires from a battery are connected
+to electrodes that are dipped into molten sodium chloride. At the electrode connected
+to the negative pole of the battery, globules of sodium metal form; chlorine gas
+evolves from the other electrode. The half-reactions are
+Na⁺(I) + e⁻
+Na(I)
+CI⁻ (I)
+1/2Cl₂(g) + e⁻
+189
+Chemistry Grade 10
+The anion (CI) migrates
+The cation (Na⁺) migrates
+toward the positively charged
+toward the negatively
+anode and get discharged.
+charged cathode and get
++
+Chlorine gas evolves at anode:
+discharged. Sodium metal
+e
+2Cl-(aq)
+Cl₂(g) + e
+forms at cathode:
+e
+e
+Na⁺(aq) +
+e
+Na(s)
+Cathode
+Anode
+e
+e
+e
+Cl:
+TO
+Na+
++
+Molten
+receiving through Battery
+9
+NaCl
+volt
+Electronice leaving through electrode-solution
+Figure 4.11 Electrolysis of molten sodium chloride. Sodium metal is produced
+commercially this way.
+The reduction of Na⁺ to Na occurs at the cathode, and the oxidation of Cl⁻ to CI₂
+occurs at the anode (note the labeling of electrodes in Figure 4.11.
+You obtain the cell reaction by adding the half-reactions.
+Na⁺(I) + e-
+Na(I)
+CI- (I)
+1/2Cl₂(g) + e-
+Na⁺(I) + CI- (I)
+Na(I) + ½ Cl₂(g)
+As you can see from the cell reaction, the electrolysis of molten NaCl is used commercially
+to obtain sodium metal from sodium chloride. A number of other reactive metals are
+obtained by the electrolysis of a molten salt or ionic compound. Lithium, magnesium,
+and calcium metals are all obtained by the electrolysis of the chlorides.
+190
+Energy Changes and Electrochemistry
+Exercise 4.5
+1. A lead-storage buttery is an example of
+a. an electrolytic cell called secondary cell
+b. galvanic cell called secondary cell
+C. rechargeable electrolytic cell called secondary cell
+d. only b and c
+2. How do you know if an electrode is a cathode or an anode in voltaic cells and
+in electrolytic cells?
+3. Can you suggest why positive and negative ions are named as cations and
+anions respectively?
+4. Distinguish between Voltaic cells and electrolytic cells.
+5. During electrolysis of fused PbBr₂,
+a. Which ions are responsible for the conduction of electricity through the
+molten salt?
+b. What half-cell reactions occur at the anode and cathode?
+Experiment 4.4
+Electrolysis of Molten (Fused) Lead Bromide
+Objectives: To observe substances produced at the electrodes during electrolysis.
+Materials required: Stand and clamp, two graphite electrodes, wires, switch,
+light bulb, test tube (bigger in size), Bunsen burner, lead bromide crystals (melting
+point: 373°C).
+Precaution: Bromine causes very severe burn on the skin.
+Procedure:
+1. Assemble the materials as shown in Figure 4.12.
+2. Place small amount of lead bromide crystals in a beaker. Insert the two
+electrodes, as shown in Figure 4.12, until they are in contact with the lead
+bromide crystals. Then turn on the switch. Does the bulb glow?
+3. Heat the lead bromide in a beaker gently, using a Bunsen burner. When the
+lead bromide melts, turn on the switch.
+191
+Chemistry Grade 10
++
+Bulb
+Switch
+Bromine gas
+Molten lead
+Molten lead
+bromide
+Figure 4.12 Electrolysis of Fused Lead Bromide.
+Observations and Analysis:
+1. Does the bulb glow? If yes, what is the reason?
+2. Write the dissociation reaction for PbBr₂.
+3. Identify the ions which migrate to the respective electrodes
+4. Write the products formed at each electrode.
+5. Identify the half reactions as oxidation and reduction.
+6. Write the cell reaction
+Write a laboratory report on your observation and present to the class.
+Consider the text entitled 'Energy and Climate'
+below and answer the following questions!
+1. Discuss the impact of nation's energy demand on
+climate.
+2. Explain the role of youth in controlling climate
+change.
+3. Which type of nations do you think contribute largely
+?
+to climate change, developed or developing?
+4. Discuss how Ethiopia should benefit from large-
+scale tree planting.
+5. Explain the relevance of tree planting in the carbon
+capture and sequestration.
+Activity 4.7
+192
+Energy Changes and Electrochemistry
+Energy and Climate
+Today, no scientific challenge is greater than reversing the climatic effects of our
+increasing dependence on the combustion of fossil fuels-coal, petroleum, and
+natural gas. Because these fuels form so much more slowly than we consume them,
+they are nonrenewable. In contrast, wood and other fuels derived from plant and
+animal matter are renewable.
+All carbon-based fuels release CO2 when burned. The ability of CO2 to absorb
+heat plays a vital temperature-regulating role in the atmosphere. Much of the
+sunlight that shines on Earth is absorbed by the land and oceans and converted to
+heat. Like the glass of a greenhouse, CO2 traps some of the heat radiating back
+from Earth's surface and, thus, warms the atmosphere. This process is called the
+natural greenhouse effect which changes Earth's climate.
+Scientists are trying to develop alternative energy sources that do not release
+greenhouse gases. In addition to developing alternative energy sources to reduce
+fossil-fuel consumption, some researchers are studying carbon capture and
+sequestration, accomplished by large-scale tree planting and by liquefying CO2
+released from coal fired power plants and burying it underground or injecting it
+deep into the oceans.
+The climate change is a concern to the global nations too. In 1997, the United
+Nations Conference on Climate Change in Kyoto, Japan, created an international
+treaty that set legally binding limits on release of greenhouse gases. It was
+ratified by 189 countries, but not by the largest emitter of CO2, the United States.
+The 2005 conference in Montreal, Canada, presented overwhelming scientific
+evidence that confirmed the human impact on climate change, but the 2009
+conference in Copenhagen, Denmark, which was attended by representatives
+from 192 nations, failed to produce a legally binding agreement on emission
+targets. In late 2010, however, the conference in Cancun, Mexico, resulted in some
+financial commitments to help developing countries rely on alternative energy
+sources.
+Exercise 4.6
+1. Write the half-reactions for the electrolysis of the following molten compounds:
+a. KCI; b. KOH.
+2. Is the polarity of the electrodes in Galvanic cells similar to that of the electrodes
+in electrolytic cells? Explain your answer.
+193
+Chemistry Grade 10
+Key Terms of the Unit
+anode
+endothermic reaction
+heat capacity
+cathode
+energy
+internal energy
+conductivity apparatus
+energy change
+kinetic energy
+Daniell cell
+enthalpy
+Leclanche cell
+electrical conductivity
+enthalpy change
+potential energy
+electrochemical cell
+exothermic reaction
+primary cell
+electrochemistry
+galvanic cell
+salt bridge
+electrode
+half - cell
+secondary cell
+electrolysis
+half - reaction
+specific heat capacity
+electrolyte
+heat
+voltaic (galvanic) cell
+electrolytic cell
+heat of reaction
+work
+Unit Summary
+All chemical reactions accompany energy change.
+There are many forms of energy and they are all interconvertible.
+The internal energy of a substance is the sum of its potential energy and kinetic
+energy.
+Potential energy is stored energy.
+Potential energy is stored in chemical bonds and as intermolecular forces.
+Chemical energy is a form of potential energy.
+The energy change occurs when energy transfer takes place between system
+and surrounding.
+Energy transfer takes place in the form of heat or work or both.
+Any chemical reaction that gives off heat to the surroundings is called an
+exothermic reactions; any Chemical reaction that absorbs heat from the
+surroundings is called an endothermic reaction.
+Enthalpy is a measure of energy change of the system of reactant and products.
+Enthalpy change is calculated as enthalpy of products minus enthalpy of
+reactants.
+Enthalpy change is positive for endothermic reactions and negative for
+exothermic reactions.
+Like any other reaction, redox reactions also involve energy change.
+The energy change in redox reactions is dealt in electrochemistry.
+Electrochemistry is a field of chemistry that studies how chemical reactions
+produce electricity and how electricity is used to bring about chemical reactions
+in electrochemical cells.
+Electrical conductivity is the ability of substances to conduct electricity.
+Metallic conductivity is the flow of electricity through metals, and the conduction
+of electricity through metals is due to the presence of freely moving (delocalized)
+valence electrons.
+Electrolytes are substances that conduct electricity in solution or in a molten state.
+The conduction of electricity through electrolytes is due to the movement of
+194
+Energy Changes and Electrochemistry
+anions and cations towards electrodes of opposite charge, and the charge
+carriers in electrolytic conduction are ions.
+Cations carry positive charge whereas anions carry negative charge
+Electrochemical cells include Galvanic (Voltaic) cells and electrolytic cells.
+Galvanic cells convert chemical energy into electrical energy.
+Electrolytic cells convert electrical energy into chemical energy.
+Electrolysis is a process in which electricity is used to bring about an oxidation-
+reduction reaction in an electrolytic cell and produces useful substances.
+Electrolysis is also the process of decomposition of an electrolyte, using electrical
+energy.
+Electrodes are either metal strips or graphite rods.
+Primary cells are voltaic cells that are not rechargeable, and the reactions
+taking place in them are irreversible.
+Secondary cells are voltaic cells that are rechargeable since the reactions taking
+place in them are reversible.
+Unlike electrolytic cells, the anode is negative and the cathode is positive in
+galvanic/voltaic cells.
+In voltaic cells, the polarity (charge) of the electrodes is determined by the
+redox reactions.
+In electrolytic cells the polarity of the electrodes is determined by the external
+power source.
+An anode is the electrode attached to the positive terminal of a direct current
+source in electrolytic cell, at which oxidation (loss of electrons) by anions occurs,
+and electrons leave the cell.
+A cathode is the electrode attached to the negative terminal of a DC source in
+electrolytic cell, the negative electrode at which reduction of cations occurs and
+electrons enter the cell.
+Oxidation always takes place at anode and accompanied by reduction at
+cathode.
+During electrolysis, anions move to the anode and cations move to the cathode.
+The reaction taking place at each electrode (cathode or anode) is said to be a
+half-cell reaction.
+Cell reaction is the reaction that takes place in the entire cell and obtained by
+adding half reactions.
+Review Exercise
+Part I: Choose the correct answer from the suggested options
+1. The energy released during chemical reactions comes from
+a. the bond being formed
+b. the bond being broken
+C. the heat supplied from the surrounding
+d. all
+195
+Chemistry Grade 10
+2. Which of the following is not correct about voltaic cells?
+a. the anode is negative
+b. the cathode is positive
+C. oxidation takes place at the cathode
+d. redox reactions produce electricity in the cell
+3. Which one of the following is used to produce useful compounds?
+a. Voltaic cells
+b. Electrolytic cells
+C. Daniel's cell
+d. Batteries
+4. Electrolysis is not used for the:
+a. purification of metals
+b. production of metals
+C. electroplating of metals
+d. production of electricity
+5. Which substance is not used in the Leclanche cell?
+a. H2SO4
+b. NH₄CI
+C. MnO₂
+d. powdered carbon
+6. Which one of the following is correct about automobile batteries?
+a. the electrodes are graphite electrodes
+b. each cell in the battery delivers 1.5 volts
+C. the electrolyte is aqueous H2SO4 solution
+d. lead (IV) oxide is used as anode
+7. Which of the following occurs during electrolysis of the molten binary salt of a
+metal:
+a. the metal will deposit on the cathode
+b. reduction will take place at the anode
+C. oxidation will take place at the cathode
+d. no current will flow through the molten salt
+8. Two copper electrodes dipped in copper sulphate solution are connected to al 2
+volt battery. The electrode connected to the end of the battery marked with a"-" is:
+a. anion
+C. anode
+b. cathode
+d. cation
+9. The charge-carriers in electrolytic conduction are:
+a. anions only
+C. cations and anions
+b. cations only
+d. delocalized electrons
+10. During the electrolysis of fused lead bromide, the anode half reaction involves:
+a. oxidation of lead atoms to ions
+b. reduction of bromine atoms to give bromide ions
+C. reduction of lead ions to form free metal
+d. oxidation of bromide ions to elemental bromine
+196
+Energy Changes and Electrochemistry
+11. Voltaic cells and electrolytic cells are similar in that:
+a. the anode is positive and cathode is negative in both types of cells
+b. oxidation half-reaction occurs at the cathode in both types of cells
+C. both types of cells contain two electrodes in contact with electrolytes
+d. reduction half-reaction occurs at the anode in both types of cells
+12. Four different solutions of equal volume (1L) were prepared by dissolving one
+mole of each of the following substances. The conduction of electricity is least in
+the solution containing:
+a. HCI
+C. CH₃COOH
+b. HNO₃
+d. KCI
+13. Which of the following is a wet voltaic cell:
+a. Leclanche cell
+b. cells used in mobile telephones
+C. lead-storage cell
+Part II: Give short answers to each of the following questions
+14. Under what condition is the heat of a reaction equal to the enthalpy change of
+the same reaction?
+15. Describe at least two exothermic processes and two endothermic processes.
+16. Decomposition reactions are usually endothermic, whereas combination reactions
+are usually exothermic. Give a qualitative explanation for these trends.
+17. Draw an enthalpy diagram for a general exothermic reaction; label the axis,
+reactants, products, and H with its sign.
+18. Draw an enthalpy diagram for a general endothermic reaction; label the axis,
+reactants, products, and H with its sign.
+19. Consider these changes.
+a. Hg(I)
+Hg(g)
+b.
+30₂(g)
+20₃(g)
+C. CuSO₄.5H₂O(s)
+CuSO (s) + 5H₂O(g)
+d. H₂(g) + F₂(g)
+2HF(g)
+At constant pressure, which of the reactions is exothermic and which is endothermic?
+20. Why are ionic compounds like NaCl, KCI, CaCl₂, PbBr₂, etc. non-conductors in the
+solid state but conductors in aqueous solutions?
+21. Describe the basic features of a galvanic cell. Why are the two components of the
+cell separated from each other?
+22. Explain the differences between a primary galvanic cell-one that is not
+rechargeable-and a storage cell (for example, the lead storage battery), which
+is rechargeable.
+23. During electrolysis of fused CaCl₂,
+a. Which ions are responsible for the conduction of electricity through the molten
+salt?
+b. Which ion migrates towards anode?
+C. Which ion migrates towards cathode?
+d. What half-cell reactions occur at the anode and cathode?
+197
+H.SO.
+HNO
+00000000000
+Lead
+Gold
+5
+Diamond
+Carbon
+UNIT
+Silver
+Copper
+Sulfur
+Phosphorus
+I
+METALS AND NONMETALS

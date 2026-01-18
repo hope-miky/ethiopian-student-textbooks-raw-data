@@ -1,0 +1,1304 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+Explain the symmetrical properties of circles.
+Use the symmetrical properties of circles to solve related problems.
+Write angle properties of circles in their own words.
+Apply angle properties of circles to solve related problems.
+Find perimeters and areas of segments and sectors.
+Unit Contents
+5.1 Symmetrical Properties of Circles
+5.2 Angle Properties of Circles
+5.3 Arc Length, Perimeters and Areas of Segments and Sectors
+5.4 Theorems on Angles and Arcs Determined by Lines Intersecting
+inside, on and outside a Circle
+Summary
+Review Exercise
+251
+Unit 5: Circle
+circumference
+sector
+KEY
+Words
+symmetry
+segment
+perimeter
+quadrilateral
+circle
+ratio
+triangle
+arc
+area
+angle
+Introduction
+You have learnt several concepts and principles in your lower grades. In the present
+unit you will learn more about circles. Perimeter and area of segment and a sector of
+a circle are the major topics covered in this unit.
+5.1 Symmetrical Properties of Circles
+Activity 5.1
+1. What is a circle?
+2. Draw a circle and indicate its center, radius and diameter.
+3. What is line of symmetry?
+4. How many lines of symmetry does an equilateral triangle have?
+A circle is the locus of points (set of points) in a plane each of which is equidistant
+from a fixed point in the plane. The fixed point is called the center of the circle and the
+constant distance is called its radius. Thus, the circle is defined by its center O and
+radius r.
+A circle is also defined by two of its properties such as area and perimeter. Recall that
+area of a circle, A = πr² and perimeter of the circle, P = 2πr.
+Observe that in a symmetrical figure the length of any line segment or the size of any
+angle in one half of the figure is equal to the length of the corresponding line segment
+252
+Unit 5: Circle
+or the size of the corresponding angle in the other half of the figure.
+If in figure 5.1, point P coincides with point Q when the figure is about line AB and
+if PQ intersects line AB at N, then ZPNA coincides with ZQNA and therefore each is
+a right angle with PN = QN. If P and Q are the corresponding points for a line of
+symmetry AB, the perpendicular bisector of PQ is AB.
+A
+Conversely, if AB is the perpendicular bisector of PQ, then
+P and Q are corresponding points for the line of symmetry
+P
+Q
+N
+AB and we say that P is the image of Q and Q is the image of
+P in line segment AB.
+B
+Figure 5.1
+If we fold a circle over any of its diameters, then the parts of the circle on each side of
+the diameter will match up and the parts of the circle on each side of the diameter must
+have the same area. Thus, any diameter of a circle can be considered as a line of
+symmetry for the circle.
+An object can have zero lines of symmetry or it can have infinite lines of symmetry.
+Example 1
+Determine the number of lines of symmetry for the figure 5.2.
+Solution:
+Figure 5.2
+We know that a circle has infinite lines of symmetry but as
+per the given Figure 5.2, a circle has been inscribed in a
+square. A square has 4 lines of symmetry. Therefore, the
+given figure 5.2 has 4 lines of symmetry as shown in figure
+5.3.
+Figure 5.3
+253
+Unit 5: Circle
+Theorem 5.1
+The line segment joining the center of a circle to the midpoint of a chord is
+perpendicular to the chord.
+Proof:
+Given: A circle with center 0 and a chord [PQ whose midpoint is M (see figure 5.4).
+We want to prove that ZOMP is a right angle.
+S
+Draw the diameter ST through point M. Then, the circle is
+symmetric about ST and PM ≡ = QM . So, ST is
+0
+perpendicular bisector of PQ and hence ZOMP is a right
+P
+angle.
+M
+Q
+T
+Figure 5.4
+Exercise 5.1
+1. ABC is an equilateral triangle and circle O is its circumcircle. How many lines
+of symmetry does figure 5.5 have?
+C
+.0
+A
+B
+Figure 5.5
+2. In figure 5.4 above, show that ДОРМ ≡ ДООМ.
+254
+Unit 5: Circle
+Characteristics of Chord (1)
+Theorem 5.2
+The line segment drawn from the center of a circle perpendicular to a chord
+bisects the chord.
+Proof:
+Given: A circle with center 0 and ON is drawn from center 0 perpendicular to the
+chord AB as shown in figure 5.6.
+We want to prove that AN = NB. ≡
+P
+Join OA and OB.
+1. OA = OB ≡
+radii of circle
+2. m(LANO) = m(LBN0)
+both equal to 90°
+O
+3. ON ≡ = ON
+common side
+A
+B
+N
+4. AAON ≡ ABON
+by RHS-criteria of
+congruency
+Q
+5. AN =BN ≡
+by step 4
+Figure 5.6
+Theorem 5.3
+Equal chords of a circle are equidistant from the center of the circle.
+Proof:
+Given: Chords AB and CD are equal in length.
+P
+B
+A
+Construction: Join points A and C with center O and drop
+0
+perpendiculars from 0 to the chords AB and CD (see
+C
+figure 5.7).
+Q
+D
+Figure 5.7
+We want to prove: OP =0Q
+255
+Unit 5: Circle
+Steps
+Statement
+Reason
+1
+AP = AB/2 AB 2 CQ = CD 2 CD 2
+The perpendicular from the center
+bisects the chord
+2
+m (LCQO) = m(LAPO) = 90⁰
+OP I AB and 0Q 1⁻CD
+3
+OA ≡ ≡ 0C
+Radii of the same circle
+4
+AB ≡ E CD
+Given
+5
+ДОРА ≡ 40QC
+RHS postulate of congruency
+6
+OP ≡ -0Q
+From statement 5
+Example 1
+In figure 5.8, a chord of a circle of radius 5 cm is 8 cm long. Find the distance of the
+chord from the center.
+Solution:
+Given: AB = 8cm and OB = 5cm
+A
+M
+B
+OM² + MB² = OB²
+5cm
+OM = √ - MB²
+0
+= √5² - 4²
+= √25 - 16
+= √9 cm = 3cm.
+Figure 5.8
+Exercise 5.2
+In figure 5.9, a chord of a circle of radius 5 cm is 6 cm long. Find the distance of the
+chord from the center.
+A
+6cm
+B
+M
+5cm
+O
+Figure 5.9
+256
+Unit 5: Circle
+Characteristics of Chord (2)
+Theorem 5.4
+If the angles subtended by the chords of a circle are equal in measure, then the
+length of the chords are equal.
+Proof:
+From figure 5.10, consider ДАОВ and APOQ.
+0
+A
+Q
+B
+P
+Figure 5.10
+Steps
+Statement
+Reason
+1
+ÂOB ≡ POQ
+Given
+2
+OA = OB = OP = OQ ≡ ≡
+Radii of the same circle
+3
+ДАОВ ≡ APOQ
+SAS postulate of congruence
+4
+AB ≡ = PQ
+From step 3
+Theorem 5.5
+Chords which are equal in length subtend equal angles at the center of the circle.
+Proof:
+From figure 5.11, consider ДАОВ and APOQ
+o
+We want to prove ZAOB ≡ ZPOQ.
+A
+Q
+B
+P
+Figure 5.11
+257
+Unit 5: Circle
+Statement
+Reason
+1
+AB ≡ PQ
+Given
+2
+OA ≡ OB ≡ OP ≡ 0Q
+Radii of the same circle
+3
+ДАОВ ≡ POQ
+SSS postulate of Congruence
+4
+m(ZAOB) = m(LP0Q)
+From step 3
+Exercise 5.3
+1. A chord of length 20cm is at a distance of 8cm from the center of the circle. Find
+the radius of the circle.
+2. A chord of a circle of radius 8cm is 10cm long. Find the distance of the chord
+from the center of the circle.
+3. AB and CD are equal chords in a circle of radius 10 cm. If each chord is 16 cm,
+find their distance from the center of the circle.
+5.2 Angle Properties of Circles
+Central Angles and Inscribed Angles (1)
+Activity 5.2
+1. Define the following terms: chord, diameter, radius, tangent, secant, arc.
+2. Discuss a major and minor arc.
+A major arc is an arc connecting two endpoints on a circle
+A
+and its measure is greater than180° or π.
+0
+B
+C
+Figure 5.12
+258
+Unit 5: Circle
+Minor arc is an arc connecting two endpoints on a circle
+A
+and its measure is less than 180° or π.
+0
+B
+(See figure 5.13)
+Figure 5.13
+A major arc is usually referred to with three letters and a minor arc is usually
+referred to with only two letters.
+A central angle is an angle formed by two radii with vertex
+at the center of the circle.
+(See figure 5.14)
+Figure 5.14
+An inscribed angle is an angle with vertex on the circle
+formed by two intersecting chords.
+(See figure 5.15)
+o
+Figure 5.15
+Example 1
+In figure 5.16, m(LAOB) is a central angle with an
+intercepted minor arc AB whose measure is 82°, i.e.,
+0
+x = 82°.
+x
+B
+82°
+A
+Figure 5.16
+259
+Unit 5: Circle
+Theorem 5.6
+If an inscribed and a central angle intercept the same arc, then the measure of an
+inscribed angle is half of the measure of a central angle.
+Proof:
+B
+Let's prove Θ = 2a for all Θ and a, where Θ is the central
+a
+angle. These three cases account for all possible situations
+0
+where an inscribed angle and a central angle intercept the same
+C
+Θ
+arc.
+A
+Figure 5.17
+A
+e
+D
+e
+e
+r
+B
+a
+a
+a
+C
+CASE I
+CASE II
+CASE III
+Figure 5.18
+Case I. The diameter lies along one ray of an inscribed angle (see figure 5.19)
+Step 1 Spot the isosceles triangle.
+BC and BD are both radii, so they have the same length.
+02
+So, DBC is an isosceles, which also means that its base
++
+01
+angles are congruent. Then, m(LBCD) = m(LBDC) = a.
+Step 2 Spot the straight angle. So, m(LDBC) = 180° - Θ
+a₂
+a₁
+Step 3 Write an equation and solve for a.
+a + a + (180° - Θ) = 180° which implies 2a - Θ = 0
+Figure 5.19
+which again implies 2a = Θ. Proved.
+260
+Unit 5: Circle
+Case II. The diameter is between the rays of the inscribed angle a (see figure 5.20).
+Step 1 Draw a diameter and using the diameter let's
+A
+break 'a' into a₁ and a₂, and Θ into Θ₁ and Θ₂ as
+Θ
+D
+shown in figure 5.20.
+r
+a
+B
+Step 2 Use what we learned from case I to establish two
+r
+equations
+a
+a₁ + a₁ + (180° - Θ₁) = 180°
+C
+2a₁ - Θ₁ = 0 which implies 2a₁ = Θ₁.
+Figure 5.20
+a₂ + a₂ + (180° - Θ₂) = 180° which implies Θ₂ = 2a₂.
+Step 3 Add the above two equations
+Θ₁ + Θ₂ = 2a₁ + 2a₂ which implies Θ = 2 (a₁ + a₂) = 2a.
+Case III. The diameter is outside the rays of the inscribed angle.
+Step 1 Draw a diameter and using the diameter let's create two new angles
+Θ₂ and a₂ as shown in figure 5.21.
+Step 2 Use what we learned from case I to establish two
+02
+equations.
+Θ
+a₂ + a₂ + (180° - Θ₂) = 180°
+2a₂ - Θ₂ = 0 which implies 2a₂ = Θ₂
+a₂
+a
+a + a₂ + a + a₂ + (180° - Θ₂ - Θ) = 180°
+2a + 2a₂ - Θ₂ - Θ = 0 but 2a₂ = Θ₂
+:. Θ = 2a. We prove that Θ = 2a.
+Figure 5.21
+Example 1
+P
+In the figure 5.22, if 0 is the center of a circle
+with n(LPRQ) = 75° , what is the size of ¿POQ?
+Solution:
+?
+m(POQ) = 2 x m(4PRQ) =
+75°
+= 2 X 75° = 150°.
+Q
+R
+Figure 5.22
+261
+Unit 5: Circle
+Example 2
+In figure 5.23, LABC is an inscribed angle with an intercepted minor arc from A to
+C. Find the value of x.
+Solution:
+B
+LABC is an inscribed angle.
+x
+So, m(ZABC) = 2 1 m(arcAC)
+0
+C
+= - 2 1 (82°) = 41°
+82°
+A
+Figure 5.23
+Exercise 5.4
+1. In the figure 5.24, 0 is the center of a circle. Find the measure of LABC.
+B
+0
+C
+74°
+A
+Figure 5.24
+2. In figure 5.25, O is the center of a circle. Find the measure of LX.
+x
+120°
+0
+O
+140
+x
+a.
+b.
+Figure 5.25
+262
+Unit 5: Circle
+Central Angles and Inscribed Angles (2)
+Theorem 5.7
+Inscribed angles subtended by the same arc have the same measure.
+Proof:
+P
+Q
+In Figure 5.26, m(LAPB) = 2 1 m(LAOB) (By theorem 5.6)
+m(LAQB) = 2 1 m(LAOB) (By theorem 5.6)
+O
+A
+Therefore, m(LAPB) = m(LAQB).
+B
+Figure5.26
+Example 1
+In the figure 5.27, what is the measure of angle CBX?
+Solution:
+Given: m(LADB) = m(LACB) = 32° and LACB ≡ LXCB.
+So, in ДВХС we have (BXC) = 85° and
+B
+A
+?
+m(LXCB) = 32°. By angle sum theorem,
+X
+85°
+m(LCBX) + m(LBXC) + m(LBCX) = 180°.
+32°
+o
+m(LCBX) + 85° + 32° = 180°.
+C
+m(LCBX) = 180° - 117⁰ = 63°.
+D
+Figure 5.27
+Theorem 5.8 Angle in a semicircle (Thales' Theorem)
+An angle inscribed in a semicircle is a right angle.
+Proof:
+263
+Unit 5: Circle
+The given angle APB is subtended by a semicircle as shown in figure 5.28. The
+corresponding central angle which is subtended by arc AB is a straight angle, that is,
+the central angle is 180°. Hence, by theorem 5.6,
+P
+m(LAPB) = 2 1 m(LAOB)
+= 2 1 X 180°
+A
+B
+0
+= 90°
+Figure 5.28
+Example 1
+If AB is the diameter of the circle with center 0 as shown in the figure 5.29, then find
+the measure of LBAC.
+Solution:
+By Thales' Theorem m(LACB) = 90°.
+O
+A
+B
+By angle sum theorem we have,
+55°
+m(ZBAC) + m(LACB) + m(LABC) = 180°,
+m(ZBAC) + 90° + 55° = 180°.
+C
+Hence m(ZBAC) = 35°.
+Figure 5.29
+Exercise 5.5
+In figure 5.30, O is the center of a circle. Find the measure of LX and Ly.
+x
+55
+70°
+x
+0.
+o
+0
+x
+y
+y
+30°
+a.
+b.
+C.
+Figure 5.30
+264
+Unit 5: Circle
+Cyclic Quadrilateral
+Definition 5.1
+A quadrilateral is said to be a cyclic quadrilateral if there is a circle passing
+through all its four vertices.
+Theorem 5.9
+In a cyclic quadrilateral WXYZ in figure 5.31, the sum of either pair of opposite
+angles is 180°.
+Proof:
+Given: A cyclic quadrilateral WXYZ is inscribed in a circle with center O as shown in
+figure 5.31.
+Construction: Join the vertices W and Y with center 0.
+Z
+We want to show: (ZWXY) + m(2 WZY) = 180°.
+Consider arc WXY and arc WZY
+1. ZWOY ≡ 2ZWZY (The angle subtended by same
+0
+arc is half of the angle subtended at the center)
+W
+Y
+2. Reflex angle WOY ≡ 2arcWXY (the angle
+subtended by same arc is half of the angle
+X
+subtended at the center)
+Figure 5.31
+3. m(zWOY) + Reflex m(zWOY) ≡ 360° (Using steps 1 and 2)
+4. n(ZWZY) + 2m(ZWXY) = 360° (Using steps 1 and 2)
+5. 2(m(/WZY) + m(/WXY)) = 360°(Why?)
+6. m(ZWZY) + (WXY) = 180° (Why?)
+Example 1
+If the measures of all four angles of a cyclic quadrilateral are given as (4y + 2),
+(y + 20), (5y - 2), and 7y respectively, find the value of y.
+265
+Unit 5: Circle
+Solution:
+The sum of all four angles of a cyclic quadrilateral is 360°. So, to find the value of y,
+we need to equate the sum of the given four angles to 360°.
+(4y + 2) + (y + 20) + (5y - 2) + 7y = 360°
+17y + 20 = 360°
+17y = 340°.
+Therefore, y = 20.
+Exercise 5.6
+1. In figure 5.32, ABCD is a cyclic quadrilateral drawn
+B
+inside a circle with center 0 and m(ZABC) = 108°.
+108°
+A
+What is the measure of m(ZADC)?
+C
+0
+D
+2. In the figure 5.33, 0 is the center of a circle. Find the
+Figure 5.32
+measure of LX and Ly.
+y
+160°
+0
+3. Find the value of angle x and angle y as shown in figure
+x
+5.34.
+Figure 5.33
+S
+A
+B
+y
+R
+P
+x
+120°
+0
+80°
+D
+Q
+Figure 5.34
+Figure 5.35
+266
+Unit 5: Circle
+4. Given circle with center 0, as shown in the figure 5.35,
+a. Name one minor arc in the circle.
+b. Name one major arc in the circle.
+C. Name the angle subtended by arc BD.
+d. Name the inscribed angle subtended by arc BD.
+e. Name an angle in a semicircle.
+f. Two angles subtended by chord AB.
+5. Given: Circle with center 0 as shown in the Figure 5.36
+B
+D
+with m (ZDOB) = 86°.
+86°
+Calculate:
+O
+a. m (LDAB)
+b. m (LAOB)
+A
+C. m (LABD)
+d. m (LODB)
+E
+e. m (LAEB)
+Figure 5.36
+6. Let V, W, X and Y are points on the circumference of a
+W
+circle with center 0 as shown in figure 5.37. Chords VX
+and WY intersect at a point Z, (ZXVW) = 72° and
+V
+)72°
+Z
+0
+m( ZVXY) = 28⁰. What is the measure of (ZVZW)?
+7. In each of the following figures, 0 is the center of the
+Y
+28
+circle. Calculate the measure of the angles marked
+X
+x,y,p and q.
+Figure 5.37
+48°
+x
+p
+Q
+33
+23
+y
+a.
+b.
+Figure 5.38
+267
+Unit 5: Circle
+5.3 Arc Lengths, Perimeters and Areas of Segments
+and Sectors
+Length of Arc and Chord
+Activity 5.3
+1. Discuss circumference and central angle.
+2. Define a sector.
+Arc length is an important aspect to understand portions of curved lengths. As you
+will learn in this lesson, combining our knowledge of circumference and central
+angle measures, we will find arc length.
+Definition 5.2
+Arc length is the length of an arc which is a portion of the circumference of a
+circle.
+S
+For a circle of radius r subtended by an angle Θ, the length S of
+B
+the corresponding arc is:
+A
+0
+r
+S = 2πr X 360⁰ Θ or πd X 360⁰ Θ
+0
+where d is the diameter of a circle (see figure 5.39).
+Figure 5.39
+Example 1
+Find the arc length that a central angle of 150° subtends in a circle of radius 6 cm as
+shown in figure 5.40.
+Solution:
+150°
+The length S of the corresponding arc is
+0
+6 cm
+S = 2πr X 360⁰ Θ
+Figure 5.40
+268
+Unit 5: Circle
+Given:
+Θ = 150°, r = 6cm.
+arc length= S = 2πr X 360⁰ Θ = 2π X 6 X 360° 150° = 5π cm
+Length of a chord
+Let the midpoint of AB be M, and the length of the chord AB and AM be l and m
+respectively. Using trigonometric ratios on the right-angled triangle OAM,
+m = rsin (⁹)
+A
+Then, l = 2m = 2rsin (⁹)
+M
+0
+B
+In general, the length of a chord is defined as l = 2rsin (⁹, Θ
+O
+r
+where r is the radius of the circle and Θ is the angle
+subtended at the center by the chord.
+Figure 5.41
+A
+Θ
+B
+0
+r
+Figure 5.42
+Example 2
+Find the chord length AB if Θ = 120° when a central angle subtended in a circle of
+radius 8cm as shown in figure 5.43.
+Solution:
+A
+Chord length = 2r sin (⁹) Θ = 2 X 8cm X sin (2) 2
+120
+B
+= 16cm X sin(60°)
+O
+8 cm
+= 16cm X 2 = 8√3cm
+Figure 5.43
+269
+Unit 5: Circle
+Perimeter of a segment
+A segment is part of a circle bounded in between a chord and an arc of a circle.
+A
+Segment
+o
+B
+Arc Segnent Chord
+A
+A
+Chior
+Segment
+Segment
+Chard
+O
+o
+B
+B
+Major Arc
+Minor Arc
+Figure 5.44
+Inside a circle, there can be a minor segment and a major segment as shown in figure
+5.44. A segment has an area and perimeter that measures all the way around the edge
+of the segment.
+When a segment in a circle is bounded by a chord and an arc, the perimeter of
+a segment is given by:
+Perimeter of segment = Length of chord + Length of arc
+Example 1
+Find the perimeter of the segment as shown in figure 5.45. (Use π.)
+Solution:
+A
+Perimeter of segment = 2π X 10 X 360° 160° + 2 X 10 X sin (2)
+10m
+= 20π X 4 9 + 20 X (80°)
+160°
+0
+= 80 9 π + 20 X 0.985
+B
+= (90 9 π + 19.7) m
+Figure 5.45
+270
+Unit 5: Circle
+Exercise 5.7
+1. Name the parts of circles in figure 5.46.
+0'
+σ
+a
+b
+0
+0'
+c
+d
+Figure 5.46
+2. Find the length of arc AB and arc PQR. (Use π.)
+R
+O
+P
+8cm
+0
+B
+225°
+4cm
+A
+Q
+a.
+b.
+3. Find the length of chords AB and CD.
+C
+A
+B
+6cm
+60°
+0
+D
+O
+10 cm
+271
+Unit 5: Circle
+4. Find the perimeter of the shaded segment with radius 8cm. (Use π.)
+A
+120
+0
+B
+8 cm
+Area and Perimeter of Sector
+A
+The sector is basically a portion of a circle enclosed by two
+B
+Sector
+radii and an arc. It divides the circle into two regions, namely
+r
+r
+major and minor Sector
+O
+(see figure 5.47).
+Figure 5.47
+Area of a Sector
+Consider a circle of radius r, centre 0, and
+P
+m(LP0Q) = x = Θ
+r
+0<0
+(in degrees) as shown in figure 5.48. The area of a sector is
+given by:
+r
+Q
+Aₛₑctor = πr 2
+Figure 5.48
+Perimeter of a Sector
+Perimeter of sector = 2 radius + arc length.
+Therefore, the perimeter of sector = 2r + 2πr X 360° Θ
+Example 1
+If the angle of the sector with radius 6 cm is 210°, then find the area and perimeter of
+the sector. (Use π.)
+Solution:
+272
+Unit 5: Circle
+Given: r = 6 cm, Θ = 210°
+Aₛₑctor = πr² (³₆₀) Θ
+210°
+= π X (6) 2 X (360) 210°
+6 cm
+0
+= π X 36 X 12 7
+= 21π cm²
+Pₛₑc = 2r + 2πr X 360° Θ
+= 2 . 6 + 2π . 6 X 210° 360°
+= 12 + 7π
+Thus, the perimeter of the sector is (12 + 7π)cm.
+Area of a Segment
+An arc and two radii of a circle form a sector. These
+A
+two radii and the chord of the segment together form
+Θ
+a triangle. Thus, the area of a segment of a circle is
+B
+0
+obtained by subtracting the area of the triangle from
+the area of the sector. i.e., Area of a segment of
+circle = area of the sector - - area of the triangle.
+Figure 5.49
+Example 2
+Find the area of the shaded region as shown in the figure 5.50.
+Solution:
+A
+Area of segment:
+60°
+B
+= π . 4² X 360° 60° 2 1 X 4² X sin60°
+0
+4 cm
+=
+Figure 5.50
+273
+Unit 5: Circle
+Hence, the area is 8 - 4√3) m².
+Example 3
+If the area of a sector is 100 m² and the area of the enclosed triangle is 78 m², what is
+the area of the segment?
+Solution:
+Area of the segment = area of the sector - area of the triangle
+= 100 - 78
+= 22
+Therefore, the area of the segment is 22 m².
+Figure 5.51
+Exercise 5.8
+1. Find the area and perimeter of the shaded sectors (use π).
+B
+0
+240°
+6cm
+30°
+3cm
+P
+A
+C
+Q
+a.
+b.
+Figure 5.52
+2. Find the area of the segment (use π).
+A
+A
+45°
+120
+B
+0
+4 cm
+B
+0
+6 cm
+a.
+b.
+Figure 5.53
+274
+Unit 5: Circle
+5.4 Theorems on Angles and Arcs Determined by
+Lines Intersecting inside, on and outside a Circle.
+Angles Formed by Chords
+Theorem 5.10
+If two chords intersect inside a circle, then the measure of an angle formed
+between the chords is one half the sum of the measure of the arcs intercepted by
+the angle and its vertical angle.
+In the circle, as shown in figure 5.54, the two chords PR and QS intersect inside the
+circle at point T.
+R
+Q
+m(ZPTQ) = 2 1 [m(arcPQ) + m(arcRS)]
+T
+and m(/QTR) = 2 1 [m(arcQR) + m(arc(PS)]
+o
+S
+P
+Figure 5.54
+Example 1
+In the circle shown in figure 5.55 if m(arcPQ) = 68° and m(arcRS) = 128°, then find
+measure of ZRTS, where PR and QS intersects at T.
+Solution:
+m(LRTS) = 2 1 [m(arcPQ) + m(arcRS)]
+R
+= 2 1 X 196° = 98°
+Q
+T
+O
+Therefore, m(LRTS) = 98°
+S
+P
+Figure 5.55
+275
+Unit 5: Circle
+Exercise 5.9
+1. In figure 5.56, if m(arcAC) = 28° and m(arcBD) = 132°, find x.
+28° A
+C
+x
+B
+O
+132°
+D
+Figure 5.56
+2. Given a circle with center 0, as shown in figure 5.57. If (arc HT) = m(arc JH)
+and m(ZPTH) = 58⁰ , calculate the measure of the remaining angles
+ZPRH, LTHS, TSH, ZHTS and minor arc HT, minor arc TS.
+H
+J
+0
+P
+S
+T
+R
+Figure 5.57
+3. Prove Theorem: The point of intersection separates
+C
+B
+the chord into 2 segments. The product of the lengths
+P
+of the segments for one chord is the same as the
+A
+o
+D
+product for the other chord, i.e., AP PB =CP = PD
+(see figure 5.58).
+Figure 5.58
+276
+Unit 5: Circle
+4. Let's prove theorem 5.10 following the steps below.
+Step 1. Draw four radii OP, 0Q, OR and OS and chord QR.
+R
+Q
+T
+S
+P
+Figure 5.59
+Step 2. Show m(/QRT) = m(<QOP). Similarly, show
+R
+Q
+T
+0
+S
+P
+Figure 5.60
+Step 3. Show m(<QTP) = m(LQRT) + m(ZRQT).
+R
+Q
+T
+S
+P
+Figure 5.61
+Step 4. From step 2 and 3,
+show m (LQTP) = m(LQRT) + m(ZRQT)
+=
+= 1 + m(LROS)]
+= 2 1 m(arcQP + arcRS)
+277
+Unit 5: Circle
+Angles Formed by Secants and Tangents
+Theorem 5.11
+The measure of the angle formed by two secants, two tangents, or a secant and a
+tangent that intersect at a point outside a circle is equal to one-half the positive
+difference of the measures of the intercepted arcs.
+In figure 5.62, we illustrate this result for the angle formed by the intersection of two
+secants, AC and AE
+A
+B
+C
+x
+D
+O
+E
+Figure 5.62
+The minor arc intercepted by the two secants is BD and an arc CE. Hence, by the
+theorem of angles between intersecting secants,
+x = 2 1 [m(arcCE) - m(arcBD)]
+In the same way, we illustrate the result for the intersection of two tangents AB and
+AC as shown in figure 5.63.
+Hence, x = 2 1 [m(arcBDC) - m(arcBC)]
+B
+A
+x
+D
+o
+C
+Figure 5.63
+278
+Unit 5: Circle
+Example 1
+In figure 5.64, if m(arcBD) = 43° and m(arcCE) = 107°, then find m(ZCAE).
+Solution:
+m(ZCAE) = 2 1 (m(arcCE) - m(arcBD))
+B
+C
+A
+x
+= 2 1 (107° - 43°)
+o
+= 2 1 (64°) = 32⁰
+Therefore, m(ZCAE) = 32⁰
+Figure 5.64
+Exercise 5.10
+1. In figure 5.65, RS and RT are tangent lines
+U
+T
+to the circle with center O. If ZSRT) = 40°,
+O
+what is the m(LTUS)?
+40°
+R
+S
+Figure 5.65
+B
+2. Theorem: The measure of an angle
+inscribed in a circle is half of the measure of
+o
+C
+the arc subtending. Prove it (see figure 5.66).
+A
+X
+3. Theorem: An angle inscribed in a semi-circle
+Figure 5.66
+B
+is a right angle (see figure 5.67). The converse
+of this corollary is that a circular arc in which
+A
+C
+a right angle is inscribed must be a semi-
+O
+circle, i.e.,
+m(ZABC) = 2 1 m(arcAXC) = 90°.
+X
+Figure 5.67
+279
+Unit 5: Circle
+4. Discuss a tangent line to a circle and point of tangency.
+5. Prove that if from one external point, two tangents are drawn to a circle then they
+have equal tangent segments.
+6. Let's prove theorem 5.11 following the steps below.
+Step 1. Draw four radii OB, OC, OE and OD.
+A
+B
+C
+x
+Make m(/COE) = a and m(LBOD) = b
+D
+b
+a
+E
+Figure 5.68
+Step 2. Draw two chords BE and DC.
+A
+B
+C
+x
+Then m(LCBE) = 1 = ¹⁻ᵃ. =
+D
+a
+Similarly, m(LBED) = = ¹₂ᵇ. =
+E
+Step 3. Take ДАВЕ. m(ZBAE) + m(ZBEA) = m(LCBE)
+Figure 5.69
+Step 4. From step 3, show x
+Therefore,
+:m(2CAE)='=[m(20E)-m(2BD)
+= |[m(arcCE) 1 - m(arcBD)].
+280
+Summary and Review Exercise
+Summary
+1. A circle is the locus of points (set of points) in a plane each of which is
+equidistant from a fixed point in the plane.
+2. A tangent line to a circle meets the circle in one point and is perpendicular to the
+radius (and diameter) to that point.
+3. The line segment joining the center of a circle to the midpoint of a chord is
+perpendicular to the chord.
+4. A central angle is an angle formed by two radii with vertex at the center of the
+circle.
+5. An inscribed angle is an angle with its vertex on the circle formed by two
+intersecting chords.
+6. A figure has a line of symmetry, if it can be folded so that one half of the figure
+coincides with the other half. A figure that has one line of symmetry is called a
+symmetrical figure.
+7. A diameter perpendicular to a chord bisects the chord.
+8. The perpendicular bisector of a chord passes through the center of the circle.
+9. In the same circle, equal chords are equidistant from the center.
+10. Line segments that are tangents to a circle from an outside point are equal.
+11. If an inscribed and a central angle intercept the same arc, then the measure of
+the inscribed angle is half of the measure of the central angle.
+12. The angle inscribed in a semicircle is a right angle.
+13. The length l of an arc that subtends an angle Θ at the center of the circle with
+radius r is:
+l = 2πr X 360° Θ
+14. The length m of a chord that subtended an angle Θ at the center of the circle
+with radius r is:
+m = 2r sin Θ
+281
+Summary and Review Exercise
+15. The area A of a sector with central angle Θ and radius r is given by:
+A = πr² X 360 πr 360°
+16. The area A of a segment associated with a central angle Θ and radius r is given
+by:
+282
+Summary and Review Exercise
+Review Exercise
+1. Two chords, PQ and RS, of a circle intersect at right angles at a point inside the
+circle and if m (LQPR) = 25°, find m(LPQS).
+2. In figure 5.70, AB and CD are chords of circle O. Line
+P
+B
+segment of OP is perpendicular to AB and line A
+segment of OQ is perpendicular to CD. If the lengths
+0
+of line segment of OP and OQ are equal, prove that
+C
+the lengths of chords of AB and CD are equal.
+Q
+D
+Figure 5.70
+3. Find x and y from figure 5.71.
+A
+30°
+40°
+P
+y + 20
+B
++10
+R
+Figure 5.71
+4. If m(arcPXQ) = 168° and the chord and the tangent
+X
+intersect at the point of tangency as shown in figure 5.72,
+P
+y
+then find y.
+Q
+5. If two chords intersect inside the circle as shown in
+figure 5.73, then find x.
+Figure 5.72
+C
+33°
+A
+0
+B
+55°
+D
+Figure 5.73
+283
+Summary and Review Exercise
+6. If L, M and Nare points on the circumference
+L
+of a circle with center 0 and m(LMON) =
+N
+O
+98°, as shown in figure 5.74, then find
+98°
+m(/MLN)
+M
+Figure 5.74
+7. In the figure 5.75, if m (arc AC) = m (arc CF),
+m (arc AB) = 46°, m(LAGF) = 58°,
+m(LBCD) = 10° and m (LGCF) = 35°.
+Calculate:
+a. m(LABC)
+b. m(arcDG)
+C. m(LDHG)
+B
+D
+A
+O.
+H
+C
+G
+F
+Figure 5.75
+8. Theorem: Prove that sum of the opposite angles of a cyclic quadrilateral is
+180°.
+B
+9. Find the area of the segment shown in figure 5.76 if the
+r
+central angle is 0.6 rad and the radius is 10 m.
+Θ
+A
+r
+Figure 5.76
+284
+Summary and Review Exercise
+10. In figure 5.77, AP is tangent to the circle. Prove that L ACP ≡ LBAP
+A
+P
+C
+B
+Figure 5.77
+11. In figure 5.78, what is the measure of arc ADC If (LABC) = 120°?
+D
+A
+o
+B
+C
+Figure 5.78
+12. In figure 5.79, ABCD is a cyclic parallelogram. Show that it is a rectangle.
+A
+C
+B
+D
+Figure 5.79
+13. In each of the following figures, O is the center and AB is the diameter of the
+circle. Calculate the value of x in each case.
+285
+Summary and Review Exercise
+A
+A
+115°
+34
+B
+0
+x
+O
+63°
+A
+0
+C
+x
+x
+B
+B
+C
+C
+a
+b
+c
+Figure 5.80
+14. In figure 5.81, 0 is the Centre of a circle, m(2 AOB) = 80° and
+m(LPQB) = 70°. Find m (L PBO)
+P
+0
+70°
+80°
+B
+A
+Figure 5.81
+286
+UNIT
+6
+SOLID FIGURES

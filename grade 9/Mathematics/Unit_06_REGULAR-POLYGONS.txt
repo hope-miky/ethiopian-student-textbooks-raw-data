@@ -1,0 +1,1001 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+Identify regular polygons.
+Solve problems on area and perimeter of regular polygons.
+Find the measure of each interior or exterior angle of a regular polygon.
+Explain properties of regular polygons.
+Unit Contents
+6.1 Sum of Interior Angles of a Convex Polygon
+6.2 Sum of Exterior Angles of a Convex Polygon
+6.3 Measures of Each Interior Angle and Exterior Angle of a
+Regular Polygon
+6.4 Properties of Regular Polygons: Pentagon, Hexagon, Octagon and
+Decagon
+Summary
+Review Exercise
+207
+Unit 6: Regular Polygons
+concave polygon
+area of regular polygon
+KEY
+Words
+convex polygon
+perimeter of regular
+polygon
+in circle
+interior angles
+line of symmetry
+circumcircle
+exterior angles
+regular polygon
+apothem
+central angle
+INTRODUCTION
+In the previous grades, you studied different plane figures like triangles,
+quadrilaterals (rectangles, squares, and rhombus) and circles. You discussed how to
+get area and perimeter of such plane figures. In this unit, you will revise some of the
+basic concepts on polygons and study about regular polygon and their related
+properties.
+6.1 Sum of Interior Angles of a Convex Polygon
+Concave and convex polygons
+Activity 6.1
+Answer each of the following.
+1. How many sides and vertices (corners) does a triangle have?
+2. How many sides and vertices (corners) does a quadrilateral have?
+3. Can you draw a plane figure that has 5 sides and corners?
+In the above activity, you discussed some plane figures. Now let us define a polygon.
+208
+Unit 6: Regular Polygons
+Definition 6.1
+A polygon is a simple closed plane figure formed
+Vertex
+by three or more line segments joined end to end,
+no two of which in succession are collinear. The
+line segments forming the polygon are called
+Interior Angle
+sides. The common end point of any two sides is
+called vertex of the polygon. The angles formed
+inside the polygon are called interior angles.
+For instance:- Triangle (three sides) is the simplest polygon. Other polygons are
+quadrilaterals (four sides), and pentagons (five sides), and so on.
+Common naming of polygon
+In general, if a polygon has n sides, it is named as "n-gon", for instance a polygon
+with 16 sides is called 16-gon. The following table and figure provide the names of
+some polygons.
+Table 6.1 Name of Polygons and Their Number of Sides and Vertices
+Name of polygon
+Number of sides
+Number of vertices
+Triangle
+3
+3
+Quadrilateral
+4
+4
+Pentagon
+5
+5
+Hexagon
+6
+6
+Heptagon
+7
+7
+Octagon
+8
+8
+Nonagon
+9
+9
+Decagon
+10
+10
+209
+Unit 6: Regular Polygons
+Pentagon
+Triangle
+Quadrilateral
+Hexagon
+Figure 6.1 Polygons
+Example
+How many sides and vertices does a hexagon have?
+Solution:
+A hexagon is a polygon with 6 sides and 6 vertices.
+Exercise 6.1
+1. How many sides and vertices does a nonagon have?
+2. What is the name of a polygon with ten sides?
+3. Draw an octagon using a ruler.
+4. When a triangle is cut off from a quadrilateral by a straight line which passes
+through vertices, write down the names of the possible polygons to be formed.
+Definition 6.2
+i.
+A polygon is said to be a convex polygon when the measure of each interior
+angle is less than 180 degrees. The vertices of a convex polygon are always
+outwards.
+ii. A polygon is said to be a concave polygon when there is at least one interior
+angle whose measure is more than 180 degrees. The vertices of a concave
+polygon present inwards and also outwards.
+210
+Unit 6: Regular Polygons
+Definition 6.2 could be easily observed by the following table 6.2.
+Table 6.2
+Quadrilateral
+Pentagon
+Hexagon
+Convex
+219°
+220
+Concave
+225°
+237°
+The following could be another description for the above definitions.
+Note
+If none of the side extensions intersects the polygon, then the polygon is convex;
+otherwise it is concave.
+Example
+Is the quadrilateral in figure 6.1 convex or concave?
+Solution:
+The quadrilateral in figure 6.1 is convex since the measure of each interior angle is
+less than 180°. You can check this by measuring each angle using protractor.
+Exercise 6.2
+1. Is the hexagon in figure 6.1 convex or concave?
+2. Name the following polygons and which of them are convex?
+211
+Unit 6: Regular Polygons
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+Sum of interior angles of a convex polygon
+Activity 6.2
+1. What is the sum of interior angles of a triangle?
+2. What is the sum of interior angles of a quadrilateral?
+3. Does the sum of interior angles of a polygon depend on the number of
+sides of the polygon?
+4. How can you find the sum of interior angles of n-gon?
+A
+From your discussion in the activity and your previous
+a
+grade geometry lessons, you learned that the sum of the
+measure of interior angles of any triangle is 180°.
+For any triangle ABC, note that
+b
+c
+B
+a+b+c=180°.
+C
+Figure 6.2
+Example 1
+Determine the measure of interior angles of a quadrilateral.
+212
+Unit 6: Regular Polygons
+Solution:
+A
+Consider a quadrilateral ABCD as shown below in
+figure 6.3. Draw a line segment from one vertex,
+D
+say A, to its opposite vertex C as shown below. Here,
+the line segment AC is one of the diagonals of the
+B
+C
+given quadrilateral.
+Figure 6.3
+As you see from the figure 6.3 above, the quadrilateral is divided into two triangles
+so that the sum of interior angles of a quadrilateral is two times the sum of interior
+angles of a triangle. Hence, the sum of the measure of interior angles of a
+quadrilateral is 360°. Note that a quadrilateral can be divided into two triangles.
+This is X 180° = 2 X 180°, , where n = 2, the number of triangles forming the
+quadrilateral.
+Example 2
+a. In how many triangles can we divide the pentagon?
+b. What is the sum of the measures of interior angles of a pentagon?
+Solution:
+a. Consider a pentagon (a five-sided polygon). Draw a line segment (diagonal) from
+A to another vertex in the polygon (You do
+A
+not have to draw lines to the adjacent
+E
+vertices since they are already connected by
+a side) as shown in figure 6.4.
+D
+You can easily observe that the pentagon is
+B
+divided into three triangles. So that the sum
+C
+of interior angles of a pentagon is three
+times the sum of interior angles of a triangle.
+Figure 6.4
+Note also that a pentagon can be divided into three triangles.
+213
+Unit 6: Regular Polygons
+b. Sum of the measure of interior angles of a pentagon will be
+n X 180° = 3 X 180° = 540°, where n = 3 is the number of triangles forming
+the pentagon.
+Exercise 6.3
+1. How many triangles can be made for a heptagon?
+2. What is the sum of the measure of interior angles of a heptagon?
+Deriving sum of the interior angles of a polygon
+Can you derive a formula to determine the sum of the interior angles of a
+polygon?
+de
+Can you fill in the blank space of the following table?
+Number of sides
+Name of the
+Number of
+Sum of measure
+of a polygon
+Polygon
+triangles
+of interior angles
+3
+Triangle
+1
+1 X 180°
+4
+Quadrilateral
+2
+2 X 180°
+5
+Pentagon
+3
+3 X 180°
+6
+Hexagon
+.
+.
+.
+n
+n-gon
+(n - 2)
+X 180°
+-
+This indicates as the number of sides of a polygon increases, the number of triangles
+also increases. Furthermore, the sum of measure of interior angles of the polygon
+increases.
+To summarize the above procedure, if n is the number of sides of a polygon, then
+n - 2 non-overlapping triangles are formed. Hence, we conclude the following
+statement:
+214
+Unit 6: Regular Polygons
+Sum of the measure of interior angles of n-sided polygon is equal to
+(n - 2) X 180°.
+Example 1
+Find the sum of the measure of interior angles of hexagon.
+Solution:
+Hexagon is a 6-sided polygon. We use n = 6 in the above formula. Hence, the
+sum of measure of interior angles of a hexagon is equal to
+(n - 2) X 180° = (6 - 2) X 180° = 4 X 180° = 720°.
+Example 2
+The sum of interior angle of a polygon is 1,080°. How many sides does the
+polygon have?
+Solution:
+We need the value of n which satisfies (n - 2) X 180° = 1,080°.
+n - 2 = 1,080° 180° = 6. So, n = 8. The polygon is octagon.
+Exercise 6.4
+1. Find the sum of the measure of interior angles of:
+a. Nonagon
+b. a 12-sided polygon
+2. The sum of interior angles of a polygon is 1,440° How many sides does the
+polygon have?
+3. Find the incomplete measure of interior angle of the given polygons.
+100°
+34
+105°
+50
+45°
+215
+Unit 6: Regular Polygons
+4. An architect design to construct recreation area of a school with a heptagonal
+shape with each interior angle are put in increasing order, each differs from
+the next by 25°. Find the measure of the smallest interior angle of the given
+heptagon to the nearest tenth of degree.
+6.2 Sum of Exterior Angles of a Convex Polygon
+In the previous section, you have studied about convex polygons and how to
+determine the sum of the measure of interior angles of a polygon. In this section, you
+will learn about exterior angles of convex polygons.
+Activity 6.3
+A
+Given triangle ABC as shown in the figure 6.5.
+Construct exterior angles of the triangle at each
+vertex.
+B
+C
+Figure 6.5
+Definition 6.3
+An exterior angle of a convex polygon is an
+angle outside the polygon formed by one of
+Extended side
+Adjacent side
+its sides and the extension of an adjacent
+side.
+Exterior Angle Side
+Example
+Which ones from a to e are the exterior angles of the hexagon as shown in figure
+6.6?
+216
+Unit 6: Regular Polygons
+Solution:
+c
+By the definition, an exterior angle is an angle formed
+b
+outside of the polygon which is formed by extending
+d
+one of the sides with the next side as defined in
+e
+definition 6.3. Hence, a and d are exterior angles,
+whereas e is not an exterior angle since it does not
+satisfy the definition.
+Figure 6.6
+Exercise 6.5
+1. Using a ruler, construct a heptagon and show its exterior angles.
+2. Write true if the statement is correct and false otherwise.
+a. For a triangle, there are 6 exterior angles.
+b. For convex polygon, each exterior angle is less than 180° .
+c. Each exterior angle of a rectangle is 90°.
+d. If the measure of each interior angle of a regular polygon is x°, then the
+measure of each exterior angle of the given regular polygon is (360 - x )°.
+Sum of the exterior angles of a polygon
+What can you say about the sum of exterior angles of a polygon?
+Does the sum depend on the number of sides of the polygon?
+Let us see how to find sum of exterior angles of a polygon.
+Example 1
+Determine the sum of the exterior angles of a triangle.
+α
+A
+Solution:
+a
+Consider a triangle ABC as figure 6.7. You
+will observe that angles α ß and γ are
+r
+B
+b
+c
+exterior angles, and angles a, b and C are
+C
+ß
+Figure 6.7
+217
+Unit 6: Regular Polygons
+interior angles of ДАВС.
+The sum of the interior angles of a triangle is 180°. a+b+c = 180°. Also, we
+note that (a + b + c) + (α+β+γ) = 3 X 180° (measure of three straight lines).
+This leads to α + β + γ = 360°.
+Hence, the sum of the measure of exterior angles of a triangle is 360°.
+Example 2
+Find the sum of the measure of exterior angles of a quadrilateral.
+Solution:
+Consider a quadrilateral ABCD as shown in the
+A
+δ
+D
+figure 6.8 below with exterior angles
+a
+a
+d
+α,ß,γ and δ. Its interior angles are a, b, C and d.
+r
+The sum of interior angles of a quadrilateral is
+c
+b
+C
+(n - 2) X 180° = 2 X 180° = 360°
+B
+ß
+where n is the number of sides of the polygon. For
+our case, we know that n = 4 .
+Figure 6.8
+Hence, a + b + c + d = 360. From the figure we conclude
+that (a + b + C + d) + (α+β+γ+δ) = 4 X 180° = 720° and
+α+ß+y+δ=360°.
+Hence, the measure of the exterior angles of a quadrilateral is 360°.
+Exercise 6.6
+1. Find the sum of the measure of exterior angles of a hexagon.
+2. The exteriors angles of a pentagon are (n + 5)°, (2n + 3)°, (3n + 2)°,
+(4n + 1)° and (5n + 4)° respectively. Find the measure of each angle.
+218
+Unit 6: Regular Polygons
+Sum of the exterior angles of n-sided polygon
+Similarly, if we take an n-sided polygon, the sum of the interior angles of a polygon
+is (n - 2) X 180°.
+For such a polygon, we also have n straight lines. Each one is the sum of interior and
+exterior angle. Therefore, we have:
+The sum of interior and exterior angles of n-sided polygon is n X 180°.
+Using this concept, we can derive the sum of exterior angles of a polygon as follows.
+For an n-sided polygon,
+Sum of interior angles of a polygon + sum of exterior angles of a polygon
+=nx180°
+(i)
+Using (n - 2) X 180° in place of sum of interior angles of a polygon, equation (i)
+will be
+(n - 2) X 180° + sum of exterior angles of a polygon = n X 180°. (ii)
+Using distribution on equation (ii) we get
+n X 180° - 360°+ sum of exterior angles of a polygon = n X 180°. (iii)
+Collecting like terms and rearranging equation (iii) gives us
+Sum of the measure of exterior angles of a polygon = 360°.
+(iv)
+Hence, we can conclude that:
+For any n-sided polygon, the sum of the measure of exterior angles of the
+polygon is 360°.
+Note
+At each vertex of a polygon, the sum of interior and exterior angles is 180°.
+219
+Unit 6: Regular Polygons
+Example
+Consider a triangle whose two interior angles
+are 60° and 40°. Then, find
+Y
+x
+a. the remaining interior angle of the
+α
+triangle.
+40°
+60°
+b. the measure of exterior angle at each
+vertex.
+ß
+Solution:
+Figure 6.9
+a. Consider a triangle with two of its interior angles are 60° and 40° as shown in
+figure 6.9 We know that the sum of the measure of interior angles of a triangle
+is 180°. Assume the degree measure of the remaining interior angle of the
+triangle be x. Since the sum of the measure of interior angles of a triangle is
+180°, then x + 60° + 40° = 180°. x = 180° - (60° + 40°) = 80°.
+b. We also know that a straight line measures 180°, then the exterior angle
+α = 140°, , ß = 120° and γ = 100°.
+JKO
+Is the sum of these exterior angles in Example 1, 360°? Yes,
+100° + 120° + 140° = 360°.
+Exercise 6.7
+1. Given a pentagon with four of its interior angles
+A
+E
+are 120° , 95°, 100° and 70°. Find the measure
+120°
+of exterior angle at each vertex.
+70°
+D
+B
+95°
+100°
+C
+Figure 6.10
+220
+Unit 6: Regular Polygons
+2. Find the measure of angle x and y from the
+following figure 6.11. The dashes on each line
+160°
+x
+are to mean the line segments are equal in
+length.
+Figure 6.11
+6.3 Measures of Each Interior Angle and Exterior
+Angle of a Regular Polygon
+In the previous two subsections you learned how to determine the sum of the interior
+and exterior angles of a polygon. In this section you will see the definition of a
+regular polygon, and how to determine each interior and exterior angle of such
+polygon.
+A summary of Greek mathematics was given by Euclid in about 300 BCE in his work the
+Elements. Euclid taught in Alexandria, Egypt, and wrote a number of mathematical
+treatises. His Elements consists of thirteen books and includes topics on number theory
+and irrationals as well as geometry.
+Euclid gave constructions and proofs for an
+equilateral triangle (Proposition 1 in Book I), the
+square and pentagon (Book IV). He also shows that
+using the triangle and pentagon a 15-sided polygon
+can be constructed; furthermore, by bisecting angles
+further polygons can be constructed from all these,
+e.g. 6-,12-,24-,48-sided n-gons
+Euclid (325 BCE-265 BCE)
+221
+Unit 6: Regular Polygons
+Activity 6.4
+What common property do you observe for the following in figures 6.12?
+Figure 6.12
+For a polygon of the above types, we have the following definition:
+Definition 6.4
+A polygon is said to be regular if it is equiangular (having equal angles) and
+equilateral (having equal sides).
+For example: -Equilateral triangles and squares
+are regular polygons. Students, do you know
+honeycomb? We also have such polygons in
+our day-to-day life. For instance, figure 6.13
+shows a honeycomb which is formed by
+honeybees as regular hexagons.
+Figure 6.13
+JKO
+What is the measure of each interior and exterior angle of n-sided regular
+polygon?
+For n-sided polygon, recall that
+i. The sum of the measure of interior angles is (n - 2) X 180°.
+ii. The sum of the measure of exterior angles is 360°.
+Using this and the definition of regular polygon, the measure of each interior angle of
+n-sided regular polygon is determined by
+(n-2)x180°
+(Since a regular polygon is equiangular)
+n
+222
+Unit 6: Regular Polygons
+and the measure of each exterior angle is 360/n (since there are n exterior angles with
+n
+same measure).
+Example
+Find the measure of each interior and each exterior angle of a regular pentagon.
+Solution:
+Given a regular pentagon which is five-sided (n = 5). So each interior angle degree
+measure is
+(n - 2) n X 180° = (5 2) 5 X 180° = 3 X 5 180° = 108°
+The measure of each exterior angle is 360° 5 = 72°.
+Exercise 6.8
+1. Find the measure of each interior and exterior angle of
+i) a regular hexagon
+ii) a regular octagon
+2. What is the sum of each interior and its corresponding exterior angle of the above
+two regular polygons?
+3. A Mathematics teacher gave a group work for students to construct a convex
+regular polygon with one of the interior angle measures 135°. What is the name
+of this polygon?
+4. For n-sided regular polygon, the measure of each interior angle is 5 times the
+measure of each exterior angle. What is the number of sides of this polygon?
+5. The diagram shows a regular
+hexagon and a regular octagon.
+Calculate the size of the angle
+marked x.
+x
+223
+Unit 6: Regular Polygons
+6.4 Properties of Regular Polygons: Pentagon,
+Hexagon, Octagon and Decagon
+In section 6.3, you studied about regular polygon, interior and exterior angles of such
+polygons. In this section, you will discuss the basic properties of regular polygons.
+Line of symmetry for regular polygons
+You have learned about symmetry of simple polygons in lower grades. You will
+apply the concept of symmetry to do the following activity.
+Activity 6.5
+On a sheet of paper draw an equilateral triangle and isosceles triangle. Then
+cutout the above polygonal region and practice the following (you may need to
+use ruler, protractor and pencil.)
+1. For each of the above polygonal region, how many lines of symmetry can
+you get? (Fold it in different ways till you obtain the folding line which
+serves as a mirror or line of symmetry)
+2. Is there a relation between the number of lines of symmetry and the sides of
+a polygon?
+Now, let us discuss symmetry of regular polygons.
+If two parts of a figure are identical after folding or flipping, then it is said to
+be symmetric. To be symmetrical, one half must be the mirror image of the
+other. If the figure is not symmetrical then it is said to be asymmetrical.
+Line of symmetry is a line through which the two halves of the figure match
+exactly. It is also called mirror line. A figure can have more than one line of
+symmetry. An asymmetrical figure has no line of symmetry.
+224
+Unit 6: Regular Polygons
+Note
+All regular polygons are symmetrical shapes so that we have lines of symmetry
+for each.
+The following figure shows the first four regular polygons with lines of symmetry.
+Figure 6.14: Some regular polygons with lines of symmetry
+From figure 6.14 above, you can observe that
+An equilateral triangle has 3 lines of symmetry.
+A square has 4 lines of symmetry (two horizontal and vertical lines of
+symmetry, as well as two diagonal lines of symmetry).
+A regular pentagon has 5 lines of symmetry.
+A regular hexagon has 6 lines of symmetry.
+The lines of symmetry meet at a point inside the polygon called center of the
+polygon.
+If n is the number of sides of a regular polygon:
+If n is odd, the line of symmetry connect vertex to side.
+If n is even, the line of symmetry connect vertex to vertex and side to side.
+From the above discussion, we can conclude the following: -
+The n -sided regular polygon has n lines of symmetry.
+Example
+How many lines of symmetry does a regular heptagon have?
+225
+Unit 6: Regular Polygons
+Solution:
+A regular heptagon has 7 sides so that it has 7 lines of symmetry. It can be observed
+from the following figure 6.15.
+1
+2
+3
+4
+5
+6
+7
+Figure 6.15
+Exercise 6.9
+1. How many lines of symmetry does a regular octagon have?
+2. For each of the following statements write 'true' if the statement is correct and
+'false' otherwise. If your answer is false give justification why it is false.
+a) If a polygon is not regular, then it is asymmetric.
+b) A right-angled triangle has at most one line of symmetry.
+c) A rhombus has 4 lines of symmetry.
+d) For n-sided regular polygon, the lines of symmetry divide the polygon into 2n
+triangles.
+226
+Unit 6: Regular Polygons
+Inscribed and circumscribed polygon
+Activity 6.6
+1.
+Construct the following plane figures.
+a. A right-angled triangle with sides 6 cm and 8 cm that form the right
+angle.
+b. A square of side 10 cm.
+c. An equilateral triangle of side length 7 cm.
+2. Using each of the above polygons,
+a. Try to draw a circle which passes through all vertices of the polygon.
+b. Try to draw a circle in the polygon where it touches all its sides.
+3. Is it possible to draw such circles for the above polygons? (Identify the type
+of polygon for which such types of circles can be made).
+In the above activity you observe facts about circles which could be made in and out
+of a polygon. Based on the discussion you had, we can study facts based on regular
+polygons. Let us consider n-sided regular polygon where 0 be the center of a circle
+and a polygon. In the figure below AB, BC, CD, are sides of n-sided regular
+polygon, E is the mid-point of BC which is one of the n sides of the polygon. Then
+we have:
+B
+The n-sided polygon is inscribed in the
+S
+s
+E
+bigger circle whose radius is OB. Such
+A
+r
+a
+c
+a circle is called a circumcircle, and it
+r
+connects all vertices (corner points) of
+o
+the polygon.
+S
+The line segment from the center
+perpendicular to the sides of a regular
+D
+Figure 6.16
+227
+Unit 6: Regular Polygons
+polygon is called an apothem of a polygon (for instance a = OE is an
+apothem which is perpendicular bisector of BC).
+The inside circle (the smaller circle) is called an in circle and it just touches
+each side of the polygon at its midpoint. The radius of the incircle is
+the apothem of the polygon. (Not all polygons have these properties, but
+triangles and regular polygons do).
+A circle is inscribed in and circumscribed about any regular polygon.
+Measure of central angles
+The central angle for a regular polygon is an angle formed at the center of a circle by
+two consecutive radii from the vertex of a polygon (see figure 6.16, LBOC is a
+central angle). For n-sided regular polygon, we can obtain n isosceles triangles (see
+also figure 6.16, ДВОС is one of such isosceles triangles). Recall that the sum of
+measures of angles at a point is 360°. Therefore, the sum of the central angles is
+360°
+360°. Hence, the measure of each central angle of n-sided regular polygon is
+n
+(each interior angle of a regular polygon has the same measure).
+Example
+Find the measure of central angle of a regular polygon inscribed in a circle
+which has the given number of sides:
+a. 5
+b.8
+Solution:
+a. The measure of the central angle depends on the number of sides of a
+regular polygon. For =5, the measure of each central angle is
+360° 5 = 72°.
+b. For n = 8, the measure of each central angle is 360 = 45°. 360°
+228
+Unit 6: Regular Polygons
+Exercise 6.10
+1 Determine the measure of each central angle of a regular polygon which is
+a. 10 sided
+b. 15 sided
+2. Find the number of sides of a regular polygon whose measure of central angle is
+12°
+3. Which of the following measure of central angles yields a regular polygon?
+a. 6°
+b. 14°
+c. 80°
+d. 40°
+Perimeter, area and apothem of regular polygons inscribed in
+a circle
+There is a close relationship between the perimeter, area, side length and apothem of
+an n-sided regular polygon which is inscribed in a circle. We discuss a particular
+case as an illustrative example and we develop the formula through the process for
+the general n-sided regular polygon.
+Example
+In figure 6.17, the regular hexagon is inscribed in a circle with center O and radius r.
+Express the side length S, perimeter P, apothem a, and area A of the regular hexagon
+using r.
+D
+Solution:
+E
+C
+Given that ABCDEF is a regular hexagon. It has 6
+sides. Triangle AOB is one of equilateral triangle as
+o
+S
+shown in figure 6.17.
+(since ZAOB = 360° ÷ 6 = 60°,
+a
+F
+r
+B
+ZOAB = ZOBA = (180° - 60°) ÷ 2 = 60°)
+G.
+S
+s
+There are 6 congruent equilateral triangles inside this
+A
+regular hexagon. So that s = r, P = 6s = 6r.
+Figure 6.17
+229
+Unit 6: Regular Polygons
+Draw a perpendicular bisector from O to AB = S. It meets AB at G. OG is the
+apothem a of the hexagon.
+Here AAOG ≡ ABOG (SSS). So that, m (ZAOG) = m (ZBOG) = 60° ÷ 2 = 30°.
+Then, a = r cos 30° = √₃r. 2 The area of ДАОВ = 1/2 AB X OG = 2 1 ar = √3/4 4 r².
+The area of the pentagon ABCDEF = A = 6 X ДАОВ = 6 X √3/4 4 2 = 3/3/2.
+Exercise 6.11
+1. The figure below shows that a square is inscribed
+in a circle with the radius of 4 cm. Find the length
+A
+D
+of the side, the apothem and the perimeter, and the
+area of the square.
+O
+4cm
+a
+B
+G
+C
+2. The figure below shows that an equilateral triangle
+A
+is inscribed in a circle with the radius of r. Show
+the length of the side, the apothem, the perimeter,
+and the area of the triangle in terms of the radius r.
+O
+r
+a
+B
+G
+C
+Example 1
+Suppose a regular polygon (n-gon) is inscribed in a circle with center O and radius r.
+Find the side length s, perimeter P, apothem a, and area A of the regular n-gon. (In
+this case, n -gon is not necessarily a hexagon, but Fig 6.17 may help our
+understanding).
+230
+Unit 6: Regular Polygons
+A regular n-gon is given in the figure. It has n sides. Triangle AOB is one of such
+isosceles triangles as shown in figure 6.16. Moreover, there are n congruent isosceles
+triangles inside this regular n-gon. Triangle AOB is one of such isosceles triangles as
+shown in figure 6.17.
+Draw a perpendicular bisector from O to AB at G.
+OG is the apothem a of the n-gon. Here, AAOG ≡ ABOG (SSS).
+And m (ZAOB) = 360° ÷ = n
+So that, m (ZAOG) = m(ZAOG) = n ÷ 2 = 180° n
+Then, S which implies S = 2r
+and a a = r cos(180). cos
+The area of AAOG = 1/2 AB X OG = 2 sa. So, the area of the n-gon is
+A = n X area of isosceles triangle. This is A = 1 nas, but P = ns, so that
+The above example 1 leads us to state the following theorem.
+Theorem 6.1
+For n-sided regular polygon inscribed in a circle of radius r, length of side S,
+apothem a, perimeter P and area A are determined by
+S = 2r sin (180°)
+a = r cos (180°)
+P = 2nr sin (180°)
+Example 2
+a. Find the length of side of a square inscribed in a circle of radius 5 cm.
+b. Find the apothem of a regular pentagon inscribed in a circle of radius 6 cm.
+c. Find the area of a regular nonagon inscribed in a circle whose radius is 10 cm.
+(Use a calculator or a trigonometric table whenever necessary)
+231
+Unit 6: Regular Polygons
+Solution:
+a. By the formula in the above theorem 6.1, S = 2r sin (180°). Using r = 5 cm
+and n = 4, the length of the side is
+S = 2r sin (180°) = 2(5 sin (180°)
+= 10 cm X n(45°)
+= 10 cm X 1/2/2 = 5√2 cm (rationalizing the denominator)
+b. Given r = 6 cm and n = 5, , we can determine the apothem (a) by using the
+formula a = r cos (180°) , a = 6 cm X cos (180°) = 6cm X cos(36°) . Using
+scientific calculator or trigonometric table cos(36°) ≈ 0.8090.
+Hence, a ≈ 4.854 cm
+c. The area of a regular polygon is determined by
+Using n = 9 and r = 10 cm,
+A = nr² cos (180°) sin (180°) = 9(100 cm²) (20°) sin(20°)
+(Using trigonometric table/Scientific calculator)
+cos(20°) ≈ 0.9397 and sin(20°) ≈ 0.3420, hence, A = 289.240 cm².
+Exercise 6.12
+1. Find the perimeter, area and apothem of a decagon which is inscribed in a
+circle of radius r = 8 cm.
+2. Suppose central angle of a regular polygon is 60°. Then find the radius of a
+circle circumscribing the given polygon if its side is of length 9 cm
+3. One student from your class states that 'the radius of a regular polygon is never
+less than its apothem'. Do you agree? If so provide justification. If not, provide
+a counter example.
+232
+Summary and Review Exercise
+Summary
+1. A polygon is a simple closed plane figure formed by three or more line
+segments joined end to end, no two of which in succession are collinear. The
+line segments forming the polygon are called sides. The common end point of
+any two sides is called vertex of the polygon. The angles formed inside the
+polygon are called interior angles.
+2. i) A polygon is said to be a convex polygon when the measure of each interior
+angle is less than 180°.
+ii) A polygon is said to be a concave polygon when there is at least one interior
+angle whose measure is more than 180 degrees.
+3. The sum of the measure of interior angles of n-sided polygon is determined by
+(n - 2) X 180°.
+4. For any n-sided polygon, the sum of the measure of exterior angles of the
+polygon is 360°.
+5. At each vertex of a polygon, the external and internal angle add up to 180° .
+6. A regular polygon is a convex polygon with all sides equal and all interior
+angles equal.
+7. i) The measure of each interior angle of a regular n-sided polygon is
+(n-2)x180°
+.
+n
+ii) The measure of each exterior angle of a regular n- sided polygon is
+360°n
+n
+360°
+iii) The measure of each central angle of a regular n-sided polygon is
+.
+n
+8. If two parts of a figure are identical after folding through the line of symmetry,
+then it is said to be symmetric. A symmetrical figure has at least one line of
+symmetry. An asymmetrical figure has no line of symmetry.
+9. An n-sided regular polygon has n lines of symmetry.
+233
+Summary and Review Exercise
+10. An inscribed polygon is a polygon in which all vertices lie on a circle. The
+polygon is inscribed in the circle and the circle is circumscribed about the
+polygon.
+11.A circumscribed polygon is a polygon in which each side touches a circle. The
+circle is inscribed in the polygon and the polygon is circumscribed about the
+circle.
+12.A circle can always be inscribed in or circumscribed about any regular
+polygon.
+13.An apothem of a regular polygon is a perpendicular segment from a midpoint
+of a side of a regular polygon to the center of the circle circumscribed about the
+polygon.
+14. Formula for the length of side s, apothem a, perimeter P and area A of the
+regular polygon with n-sides and radius r are given by
+S = 2r sin (180°)
+a = r cos (180°)
+P = 2nr sin (180°)
+A = ¹ ₐP
+234
+Summary and Review Exercise
+Review Exercise
+1. Write true if the statement is correct and false otherwise.
+a. If a polygon is equiangular, then it is equilateral.
+b. Equiangular hexagons are regular.
+C. All symmetric plane figures are polygons.
+d. If a polygon is inscribed in a circle, then the polygon is regular.
+e. Fixing the radius of a polygon inscribed in a circle, increasing the
+number of sides of a regular polygon increases the length of the
+apothem.
+f. If a regular polygon of n sides has every line of symmetry passing
+through a vertex, then n is even.
+2. Find the sizes of the angles marked by letters.
+x
+x
+64°
+3x
+150°
+4x
+125°
+4x
+4x
+4x
+(a)
+(b)
+68°
+81°
+p
+q
+165°
+110°
+(c)
+235
+Summary and Review Exercise
+3. Find the number of sides of a regular polygon if each exterior angle is equal
+to
+i) its adjacent interior angle.
+ii) twice its adjacent interior angle.
+4. Is it possible to construct a polygon whose sum of interior angles is 26 right
+angles? If yes, find the number of sides of the polygon.
+5. One of the interior angles of a polygon is 100° and each of the other angles
+is 110° . Find the number of sides of the polygon.
+6. The interior angles of a polygon are in the ratio 2:3:5:9:11. Find the measure
+of each angle. Is the polygon convex or concave? Why?
+7. Each side of a regular hexagon is 10 units long. What is the area of this
+hexagon?
+A. 27 unit²
+B. 75 unit²
+C. 150√3 unit² D. 54√3 unit²
+8. The area of a regular hexagon is 96√3 cm². What is its perimeter?
+A. 48 cm
+B. 54 cm
+C. 42 cm
+D. 60 cm
+9. Which one of the following statements is correct about a regular octagon?
+A. From one vertex we can draw 4 diagonals only.
+B. The sum of the measures of all its interior angles is 1080° .
+C. The sum of the measures of all its central angles is 180°.
+D. The measure of each exterior angle is 135°.
+10. Which one of the following is not correct about n-sided regular polygon?
+A. It has n lines of symmetry.
+B. The measure of each interior angle is (n-2)x180°
+C. The measure of each central angle and each exterior angle is
+.
+n
+D. The sum of the measure of exterior angles is n X 360°.
+11. If the measure of each exterior angle of a regular polygon is 40°, then how
+many sides does this polygon have?
+236
+Summary and Review Exercise
+A. 7
+B. 9
+C. 8
+D. 10
+12. The perimeter of regular pentagon inscribed in a circle with radius 10 cm is
+equal to :
+(use sin 36° = 0.59, cos 36° = 0.81, sin 72° = 0.95 cos 72° = 0.31)
+A. 81 cm
+B. 50 cm
+C. 91 cm
+D. 59 cm
+13. Is it possible to have a regular polygon with each of whose exterior angle is
+50° ? Give reason to support your answer.
+14. What is the perimeter of a square with a diagonal of 5√2cm?
+15. How many sides does a regular polygon have if the measure of an interior
+angle is 165°?
+16. There are two regular polygons with number of sides equal to (n - 1) and
+(n + 2). Their exterior angles differ by 6°. Find the number of sides of the
+two polygons.
+17. The figure (fig 6. 18) shows two regular pentagons and an equilateral
+triangle(AEDF). Determine the measure of LAEI.
+I
+H
+A
+E
+G
+B
+F
+D
+C
+Figure 6.18
+18.A regular polygon has a perimeter 143 unit and the sides are 11 unit long.
+How many sides does the polygon have?
+19. Suppose an equilateral triangle is inscribed in a circle of radius 8 cm. Find
+the area of the region which is in a circle and outside the triangle.
+( use π ≈ 3.14, √3 ≈ 1.73)
+237
+Summary and Review Exercise
+20. Find the possible measure of minimum interior angles and maximum
+exterior angles in a regular polygon. Give a reason to support your answer.
+21. The school pedagogical center is making a design of a regular octagonal stop
+sign (as shown in fig. 6.19) which will be placed at
+the main gate of the school to prevent car accidents.
+Each side of the sign is 40cm long. What is the area
+STOP
+of the sign? (to the nearest integer)
+Figure 6.19
+22. A gardener has enough material for 660 meters of fence. She knows that a
+circle maximizes the area to perimeterration, but circular fence is difficult to
+construct. So, she wants to simulate a circle by constructing a fence in a
+shape of a regular polygon with as many sides as possible but with more
+than 5 and not more than 15 sides. If she wishes to make each side a length
+of an even meter, and she wishes to have no more than 2 meter left over,
+which regular polygon would you suggest she build, and how long would
+each side be?
+A. Octagon; 83 m B. 13-gon; 51 m C. 15-gon; 44 m
+D.11-gon; 60 m
+238
+UNIT
+7
+CONGRUENCY AND SIMILARITY

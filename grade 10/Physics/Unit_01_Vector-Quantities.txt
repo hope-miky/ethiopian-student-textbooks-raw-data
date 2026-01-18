@@ -1,0 +1,801 @@
+Unit 1
+Vector Quantities
+Introduction
+In science, particularly in physics, you try to make measurements as pre-
+Brainstorming
+cise as possible. Several times in the history of science, precise mea-
+question:
+surements have led to new discoveries or important developments. Any
+List some phys-
+number or sets of numbers used for a quantitative description of a phys-
+ical quantities,
+ical phenomenon is called a physical quantity. Physical quantities can
+and classify them
+generally be divided in two groups: scalars and vectors. Scalars have only
+as scalars and
+magnitudes while vectors have both magnitude and direction. The con-
+vectors.
+cepts of vectors and scalars help us in understanding physics of different
+natural phenomena. You will learn about this topics in this unit.
+By the end of this unit, you should be able to:
+understand the differences between scalar and vector quantities;
+demonstrate vectors representation graphically;
+know how to add and subtract two or more vectors graphically;
+resolve a single vector into its components.
+2
+Unit 1 Vector Quantities
+1.1 Scalars and Vectors
+By the end of this section, you should be able to:
+define scalar and vector quantities;
+Exercise 1.1
+describe the difference between vector and scalar quantities;
+jer
+From what you
+learnt in grade 9,
+list some scalar and vector quantities.
+what do you think
+are the differences
+As discussed in the introduction, physical quantities can be classified into
+between vectors
+two categories. Physical quantities that fall in the first category are those
+and scalars?
+that can be completely specified by a number together with an appropri-
+ate unit of measurement. For instance, it makes perfectly good sense to
+say that the length of an object is 1.42 m or that the mass of an object is
+Key concepts
+12.21 kg. You do not have to add anything to the description of length or
+mass. Similarly, the statement that the density of water is 1000 kg/m³ is a
+JET
+Scalars are
+complete description of density. Quantities that can be specified in this
+quantities that
+have only mag-
+simple and straightforward way are called scalar quantities. Thus, scalar
+nitude whereas
+quantities are physical quantities that can be completely specified by a
+Vectors are quan-
+single number together with an appropriate unit of measurement. Time,
+tities that have
+distance, speed, length, volume, temperature, energy and power are other
+both direction
+examples of scalar quantities.
+and magnitude.
+On the other hand, quantities that fall in the second category are those
+which require both magnitude and direction for their complete description.
+Exercise 1.2
+A simple example is velocity. The statement that the velocity of a train is
+List examples of
+100 km/h does not make much sense unless you also tell the direction in
+scalars and vec-
+which the train is moving. Force is another such quantity. You must specify
+tors other than
+not only the magnitude of the force but also the direction in which the
+those discussed in
+force is applied. Such quantities are called vectors. A vector quantity has
+the textbook.
+both magnitude and direction. Displacement, acceleration, momentum,
+impulse, weight and electric field strength are other examples of vector
+quantities.
+1.2 Vector representations
+3
+Section summary
+In physics, you deal generally with two kinds of quantities:
+scalars and vectors.
+Scalar are quantities that are specified only by their magni-
+tude while vectors are quantities that are specified by their
+magnitude and direction.
+Review questions
+1. Explain how vector quantities differ from scalar quantities
+and give some examples for each.
+2. Which of the following physical quantities are vectors and
+which are not: force, temperature, volume, velocity, age,
+weight?
+1.2 Vector representations
+By the end of this section, you should be able to:
+Exercise 1.3
+identify the magnitude and direction of a vector;
+How can you
+discuss how vectors can be represented algebraically and graphi-
+represent vectors?
+cally;
+discuss about the different types of vectors.
+In the previous section, you learnt that vectors are represented both in mag-
+nitude and direction. On the other hand, vector quantities are represented
+either algebraically or geometrically. Algebraically, they are represented
+by a bold letter as A or with an arrow over the letter, for example, A. For
+example, a displacement can be represented by the expression S = 50 km,
+Southwest. S = 50 km designates only the magnitude of the vector. The
+magnitude is also indicated by placing the absolute value notation around
+4
+Unit 1 Vector Quantities
+the symbol that denotes the vector; so, you can write equivalently that
+S ≡ |S|.
+On the other hand, vectors are represented geometrically by an arrow, or
+an arrow-tipped line segment. Such an arrow having a specified length and
+direction shows the graphical representation of a vector. You will use this
+representation when drawing vector diagrams. The initial point of arrow
+is called tail and the final point of the arrow is the head as it is indicated
+in Figure 1.1. The arrow is drawn to scale so that its length represents the
+magnitude of the vector, and the arrow points in the specified direction of
+the vector. Hence,
+magnitude
+head
+The length of the arrow represents the vector magnitude if it is drawn
+direction,
+in scale.
+tail
+The arrow head represents the vector direction.
+Figure 1.1 Head and tail of a
+vector.
+Thus, in order to draw a vector accurately, you must specify a scale and
+include a reference direction in the diagram. To do this, you need a ruler
+to measure and draw the vectors to the correct length. The length of the
+arrow should be proportional to the magnitude of the quantity being repre-
+sented. So you must decide on a scale for your drawing. For example, you
+might let 1 cm on paper represent 2 N (1 cm represents 2 N), a force of 20
+N towards the East would be represented as an arrow 10 cm long. A scale
+allows us to translate the length of the arrow into the vector's magnitude.
+Key concepts
+The important thing is to choose a scale that produces a diagram of rea-
+sonable size. A reference direction may be a line representing a horizontal
+Vectors are
+surface or the points of a compass.
+represented either
+algebraically or
+geometrically.
+The following are the procedures that you might use for drawing vectors
+graphically.
+1. Decide upon a scale and write it down.
+2. Determine the length of the arrow representing the vector by using
+the scale.
+1.2 Vector representations
+5
+3. Draw the vector as an arrow. Make sure that you fill in the arrow
+Activity 1.1
+head.
+By using a ruler,
+4. Fill in the magnitude of the vector.
+a protractor, and
+a square paper,
+Example 1.1
+graphically draw
+Draw the vector, 16 km East, to scale by indicating the scale that you have
+the following nu-
+used:
+merical vectors.
+Solution
+A) 10 cm, 60°
+First, let us decide upon a scale. Let 1 cm represent 4 km. So if 1 cm = 4 km,
+B) 15 cm , 120°
+then 16 km = 4 cm and the direction is in the East. Using this information,
+C) 3 cm, 30°
+you can draw the vectors as arrows as follows.
+16 km
+Figure 1.2 A scaled diagram for a vector with a magnitude of 16 km.
+On the other hand, the following are some of the different types of vectors.
+1. Zero vector or Null vector: a vector with zero magnitude and no
+direction.
+2. Unit Vector: vector that has magnitude equal to one.
+3. Equal vectors: vectors that have the same magnitude and same
+direction.
+Figure 1.3 Two equal vectors.
+4. Negative of a vector: a vector that have the same magnitude but
+opposite direction with the given vector.
+Section summary
+Algebraically, a vector is represented by a bold face letter or
+an arrow over the letter.
+Geometrically, a vector is represented by an arrow where the
+length of the arrow represents magnitude and the arrow head
+represents the direction for the vector.
+6
+Unit 1 Vector Quantities
+Review questions
+1. Give an example of a vector stating its magnitude, units and
+direction.
+2. Choose your own scale and draw arrows to represent the fol-
+lowing vectors:
+A) À = 40 km North,
+B) B = 32 m/s making an angle of 60° with the horizontal.
+3. Discuss the different types of vectors.
+1.3 Vector addition and subtraction
+By the end of this section, you should be able to:
+Exercise 1.4
+explain how to add and subtract vectors;
+Is it possible to
+add two vectors in
+define the term resultant vector.
+the same way as
+you did in scalars?
+Different mathematical operations can be performed with vectors. You
+Explain.
+need to understand the mathematical properties of vectors, like addition
+and subtraction.
+Addition of Vectors
+The addition of scalar quantities is non problematic, it is a simple arith-
+Key concepts
+metic sum. For example, the total mass of 2 kg plus 3 kg is 5 kg. The
+increase in temperature from 5° C to 12° C is 7°C. However, like scalars,
+Scalars and
+you cannot add two vectors. This is because when two vectors are added,
+vectors can never
+you need to take account of their direction as well as their magnitude. Of
+be added.
+For any two
+course, you should remember that only vectors of the same kind can be
+vectors to be
+added. For example, two forces or two velocities can be added. But a force
+added, they must
+and a velocity cannot be added.
+be of the same
+nature.
+The resultant of a number of vectors is the single vector whose effect is
+the same as the individual vectors acting together. In other words, the
+1.3 Vector addition and subtraction
+7
+individual vectors can be replaced by the resultant where the overall effect
+is the same.
+A+B
+B
+If vectors À and B have a resultant Ř, this can be represented mathemati-
+cally as,
+A
+Ř = A+B
+(1.1)
+Figure 1.4 Addition of vectors À
+and B.
+Subtraction of Vectors
+Vector subtraction is a straight forward extension of vector addition. If
+you want to subtract B from Å, written À - B, you must first define what
+is meant by subtraction. As it is discussed in the previous section, the
+negative of vector B is defined to be - B; that is, graphically the negative of
+B
+any vector has the same magnitude but opposite in direction as shown in
+Figure 1.5. In other words, B has the same length as - B, but points in the
+-B
+opposite direction. Essentially, you just flip the vector so that it points in
+the opposite direction.
+The subtraction of vector B from vector À is then simply defined to be the
+addition of - B to À. That is,
+Figure 1.5 Vector B and the
+negative of Vector B.
+A-B=A+(-B)
+(1.2)
+Note that vector subtraction is the addition of a negative vector. The order
+B
+of subtraction does not affect the results. Hence, as it is indicated in Figure
+1.6, draw vector - B from the tip of À and join the tail of À with the tip of
+-B
+- B, then the resulting vector is the difference (A - B).
+À
+A-B
+Section Summary
+Vector addition is a means of finding the resultant of a number
+Figure 1.6 Subtraction of B
+of vectors.
+from À.
+Subtraction of a vector is addition of the negative of a vector.
+8
+Unit 1 Vector Quantities
+Review questions
+Exercise 1.5
+1. What is meant by subtraction of vector?
+If two vectors
+have equal mag-
+2. What is meant by resultant vector?
+nitude, what are
+the maximum
+and minimum
+1.4 Graphical method of vector addition
+magnitudes of
+their sum?
+By the end of this section, you should be able to:
+describe the graphical method of vector addition;
+use the graphical method of vector addition to solve problems.
+You can add or subtract vectors using the algebraic or graphical method of
+vector addition. You will learn about the algebraic method in your grade
+11 physics. In this section, you will learn about the graphical method of
+vector addition and subtraction.
+As discussed above, one method for adding vectors involves manipulating
+their graphical representations on paper. So using the graphical method of
+vector addition, vectors are drawn to scale and the resultant is determined
+using a ruler and protractor. The following is the discussion of the primary
+graphical techniques: the triangle method, the parallelogram method, and
+the polygon method.
+Key concepts
+Procedure for using graphical method of vector addition
+Graphically, vec-
+Decide on an appropriate scale. Record it on the diagram.
+tors can be added
+Pick a starting point.
+using the triangle,
+parallelogram and
+Draw first vector with appropriate length and in the indicated
+polygon method
+direction.
+of vector addition.
+Draw the second and remaining vectors with appropriate
+1.4 Graphical method of vector addition
+9
+length and direction.
+Draw the resultant based on the specific rule you are using.
+Measure the length of the resultant; use the scale to convert
+to the magnitude of the resultant.
+Use a protractor to measure the vector's direction.
+Triangle method of vector addition
+Triangle law of vector addition is used to find the sum of two vectors. This
+law is used to add two vectors when the first vector's head is joined to
+the tail of the second vector and then joining the tail of the first vector
+to the head of the second vector to form a triangle, and hence obtain the
+resultant sum vector. That's why the triangle law of vector addition is also
+called the head-to-tail method for the addition of vectors.
+Thus, if two vectors acting simultaneously on a body are represented both
+B
+in magnitude and direction by two sides of a triangle taken in an order,
+(a)
+then the resultant vector (both magnitude and direction) of these two
+vectors is given by the third side of that triangle taken in the opposite order.
+A
+This is the statement for the triangle law of vector addition.
+R
+Consider two vectors À and B shown in Figure 1.7 (a). To add these two
+(b)
+B
+vectors using the triangle method, the head of vector À should be joined
+A
+to the tail of vector B. Then, the resultant vector R has its tail at the tail of
+À and its head at the head of B as shown in Figure 1.7 (b). This is written
+Figure 1.7 The triangle rule for
+the addition of two vectors.
+as:
+Ř = A+B
+(1.3)
+10
+Unit 1 Vector Quantities
+NB
+Activity 1.2
+Consider adding two vectors À and B graphically. The two vectors
+are shown in Figure 1.8. Using the above procedure of vector addi-
+Θ
+tion, add these two vectors using the triangle law of vector addition
+if the angle Θ is 30°.
+A = 5 N
+Figure 1.8 Two vectors À and B.
+Parallelogram method of vector addition
+The vector addition may also be understood by the law of parallelogram.
+The parallelogram law of vector addition is used to add two vectors when
+the vectors that are to be added form the two adjacent sides of a parallel-
+ogram by joining the tails of the two vectors. Then, the sum of the two
+vectors is given by the diagonal of the parallelogram.
+(a)
+B
+Thus, if two vectors are represented by the two adjacent sides (both in
+A
+magnitude and direction) of a parallelogram drawn from a point, then
+their resultant vector is represented completely by the diagonal of the
+A
+parallelogram drawn from the same point. This is the statement for the
+B
+(b)
+R-B-A
+B
+parallelogram law of vector addition
+Suppose two vectors À and B are at arbitrary positions as shown in Figure
+A
+1.9 (a). Translate either one of them in parallel to the beginning of the other
+Figure 1.9 The Parallelogram
+vector, so that after the translation, both vectors have their origins at the
+rule for the addition of two
+same point. Now, at the end of vector À you draw a line parallel to vector B
+vectors.
+and at the end of vector B you draw a line parallel to vector À (the dashed
+lines in Figure 1.9 (b)). In this way, you obtain a parallelogram. From
+Activity 1.3
+the origin of the two vectors, you draw a diagonal of the parallelogram as
+Repeat activity 1.2
+shown in (Figure 1.9 (b)). The diagonal is the resultant Ř of the two vectors.
+using the parallel-
+Thus,
+ogram method of
+vector addition.
+R=A+B =
+(1.4)
+1.4 Graphical method of vector addition
+11
+Since vector addition is commutative,
+A+B=B+A
+A
+(1.5)
+B
+Polygon method of vector addition
+TO
+C
+(a)
+This law is used for the addition of more than two vectors. According to
+this law, if you have a large number of vectors, place the tail end of each
+successive vector at the head end of previous one. The resultant of all
+TO
+A
+vectors can be obtained by drawing a vector from the tail end of first to the
+head end of the last vector.
+C
+Suppose you want to draw the resultant vector Ř of four vectors A, B,
+TR
+B
+Č, and D shown in Figure 1.10 (a). You select any one of the vectors as
+(b)
+the first vector and make a parallel translation of a second vector to a
+position where the origin ("tail") of the second vector coincides with the
+Figure 1.10 The polygon rule
+end ("head") of the first vector. Then, you select a third vector and make
+for the addition of vectors.
+a parallel translation of the third vector to a position where the origin of
+the third vector coincides with the end of the second vector. You repeat
+Activity 1.4
+this procedure until all the vectors are in a head-to-tail arrangement like
+Use the polygon
+the one shown in (Figure 1.10 (b)). You draw the resultant vector Ř by
+method of vec-
+connecting the origin ("tail") of the first vector with the end ("head") of the
+tor addition to
+last vector. The end of the resultant vector is at the end of the last vector.
+find the resultant
+vector Ř of the
+Thus, the resultant vector R is an arrow drawn from the tail of vector D
+three vectors:
+to the head of vector B, i.e., Ř = D + À + C + B as shown in Figure 1.10
+À = 25.0m, 49.0⁰
+(b). Because the addition of vectors is associative and commutative, you
+North of East,
+obtain the same resultant vector regardless of which vector you choose to
+B = 23.0m, 15.0°
+be first, second, third, or fourth in this construction.
+North of East and
+C = 32.0m,68.0⁰
+Note: You will follow the same procedure during the subtraction of vectors.
+South of East.
+Let us now consider a few special cases of addition of vectors.
+Choose a reason-
+able scale.
+1. When the two vectors are in the same direction (parallel to each
+other)
+12
+Unit 1 Vector Quantities
+If vectors À and B are parallel, then the magnitude of the resultant
+vector Ř is the sum of the magnitudes of the two vectors. Hence, the
+magnitude of the resultant vector is
+|R|=|A+B|
+(1.6)
+Since the two vectors are in the same direction, the direction of the
+resultant vector is in the direction of one of the two vectors.
+Key concepts
+To determine the resultant of two vectors acting:
+À
+B
++
+tin the same direction, add the given vectors and take the
+(East)
+1R
+(a)
+common direction.
+1R
+rin opposite directions, get the difference and take the direc-
++
+B
+(East)
+tion of the vector with the greater value.
+À
+(b)
+Figure 1.11 Resultant vector Ř
+2. When the two vectors are acting in opposite directions
+of two vectors À and B when
+If vectors À and B are anti-parallel (i.e., in opposite direction), then
+they are (a) same direction and
+the magnitude of the resultant vector Ř is the difference of the mag-
+(b) opposite direction.
+nitudes of the two vectors. Hence, the magnitude of the resultant
+vector is
+|R|=|A-B|
+(1.7)
+Since the two vectors are in opposite directions with one another, the
+direction of the resultant vector is in the direction of the larger vector.
+Note: The resultant of two vectors acting on the same point is maxi-
+mum when the vectors are acting in the same direction and mini-
+mum when they act in opposite directions.
+3. When the two vectors are perpendicular
+If vectors À and B are perpendicular to each other as shown in 1.12,
+then the magnitude of the resultant vector Ř is obtained using the
+1.4 Graphical method of vector addition
+13
+Pythagoras theorem. Hence, the magnitude of the resultant vector is
+|R|= V A² + B²
+(1.8)
+1R
+The direction of the resultant vector is obtained using the trigono-
+B
+metric equation:
+Θ = tan
+(1.9)
+Θ
+Note: You can compare the result you obtain in each of the three
+À
+cases with a ruler and protractor. Surely, you will obtain similar
+Figure 1.12 Two perpendic-
+result.
+ular vectors À and B; and its
+resultant vector Ř.
+Example 1.1
+Exercise 1.6
+Two vectors have magnitudes of 6 units and 3 units. What is the magnitude
+If two vectors À
+of the resultant vector when the two vectors are (a) in the same direction,
+and B are per-
+(b) in opposite direction and (c) perpendicular to each other?
+pendicular, how
+you can find the
+Solution:
+sum of the two
+You are given with two vectors of magnitudes 6 units and 3 units.
+vectors?
+(a) When the two vectors are in the same direction,
+|R| = (6+3) units = 9 units.
+(b) When the two vectors are in the opposite directions,
+|R| = (6 3) units = 3 units.
+(c) When the two vectors are perpendicular to each other,
+|R| = + B² = + units = 6.7 units.
+Please compare the result you obtained here with the value you obtained
+with the direct measurement by a ruler.
+Section Summary
+Two vectors can be added by graphical means using the tri-
+angle and the parallelogram method. But for more than two
+vectors, the polygon method is used.
+14
+Unit 1 Vector Quantities
+Review questions
+1. Two vectors À and B have the same magnitude of 5 units and
+they start from the origin: B points to the North East and À
+points to the South West exactly opposite to vector B. What
+would be the magnitude of the resultant vector? Why?
+2. If two vectors have equal magnitude, what are the maximum
+and minimum magnitudes of their sum?
+3. If three vectors have unequal magnitudes, can their sum be
+zero? Explain.
+4. Consider six vectors that are added tail-to-head, ending up
+where they started from. What is the magnitude of the resul-
+tant vector?
+5. Vector C is 6 m in the x-direction. Vector D is 8 m in the
+y-direction. Use the parallelogram method to work out C + D.
+1.5 Vector resolution
+Exercise 1.7
+By the end of this section, you should be able to:
+What do you
+resolve a vector into horizontal and vertical components;
+think is vector
+find the resultant of two or more vectors using the component
+resolution?
+method.
+In the previous discussion of vector addition, you saw that a number
+of vectors acting together can be combined to give a single vector (the
+resultant). In much the same way, a single vector can be broken down into
+a number of vectors when added give the original vector. These vectors
+which sum to the original are called components of the original vector.
+The process of breaking a vector into its components is called resolving
+into components.
+1.5 Vector resolution
+15
+Placing vectors in a coordinate system that you have chosen makes it
+possible to decompose them into components along each of the chosen
+coordinate axes. In the rectangular coordinate system shown in Figure
+1.13, vector À is broken up or resolved into two component vectors. One,
+Ax, is parallel to the x-axis, and the other, Ay, is parallel to the y-axis.
+The horizontal and vertical components can be found by two methods:
+graphical method and simple trigonometry. Let us look at them one by one.
+Graphical method of vector resolution:
+The following are the steps that you follow to resolve a vector graphically.
+1. Select a scale and draw the vector to scale in the appropriate direc-
+tion.
+y
+2. Extend X- and y-axes from the tail of the vector to the entire length
+of the vector and beyond.
+A
+Ay=A sin Θ
+3. From the arrow head of the vector, construct perpendicular projec-
+tions to the X- and the y-axes.
+Θ
+4. Draw the x-component from the tail of the vector to the intersection
+x
+Aₓ=A cos Θ
+of the perpendicular projection with the x-axis. Label this compo-
+nent as Ax.
+Figure 1.13 The horizontal (Aₓ)
+and vertical (Ay) components
+5. Draw the y-component from the tail of the vector to the intersection
+of vector Ã.
+of the perpendicular projection with the y-axis. Label this compo-
+nent as Ay.
+6. Measure the length of the two components and use the scale to
+determine the magnitude of the components.
+Trigonometric method of vector resolution:
+The trigonometric method of vector resolution relies on an understanding
+of the sine, cosine, and tangent functions. You can find the components
+by using trigonometry. The components are calculated according to these
+16
+Unit 1 Vector Quantities
+equations, where the angle Θ is measured counterclockwise from the posi-
+tive x-axis.
+Aₓ = Acos 0
+(1.10)
+and
+Ay= Asin Θ
+(1.11)
+You can see that the original vector is the sum of the two component
+Key concepts
+vectors.
+Vectors can be
+A = Aₓ + Ay
+(1.12)
+resolved into com-
+Because Aₓ and Ay are at a right angle (90°), the magnitude of the resultant
+ponents along a
+vector can be calculated using the Pythagorean Theorem.
+specified set of
+coordinate's axes.
+(1.13)
+To find the angle or direction of the resultant, recall that the tangent of the
+angle that the vector makes with the x-axis is given by the following.
+Θ where tan Θ = Opposite Adjacent side side side
+(1.14)
+N
+Example 1.2
+W
+E
+A motorist undergoes a displacement of 250 km in a direction 30° North of
+$-250 km
+East. Resolve this displacement into its components.
+SN
+Solution:
+Draw a rough sketch of the original vector. You can use trigonometry to
+30°
+calculate the magnitudes of the components (along North and along East)
+SE
+of the original displacement:
+Figure 1.14 Resolving of resul-
+tant displacement.
+SN = (250) (sin 30°) = 125 km
+SE = (250) (cos 30°) = 216.5 km
+1.5 Vector resolution
+17
+Please check your answer with the graphical method, i.e., with ruler and
+brotractor.
+N
+End
+Example 1.3
+A boy walks 3 km due East and then 2 km due North. What is the magnitude
+5
+SN=2 km
+and direction of his displacement vector?
+0
+Start
+SE=3 km
+Solution:
+You first make an overhead view of the boy's movement as shown in Figure
+Figure 1.15 The magnitude and
+1.15. The magnitude of the displacement |S| is given by the Pythagorean
+direction of the boy's motion.
+theorem as follows:
+|S| = [(3 + (2 1/2 = 3.6 km
+The direction that this displacement vector makes relative to east is given
+by:
+tan 0 = 2 km = 0.666 0.666
+Thus,
+= tan⁻¹(0.666)=33.699
+Hence, the boy's displacement vector is 3.61 km with 56.31° East of North,
+or 33.69° North of East.
+Exercise 1.8
+Could a vector
+Please check your answer with the graphical method, i.e., with ruler and
+ever be shorter
+protractor.
+than one of its
+Section summary
+components?
+Could it be equal
+Any vector can be resolved into a horizontal and a vertical
+in length to one of
+component.
+its components?
+Explain.
+The combined effect of the horizontal and vertical compo-
+nents of the vector quantity is the same as the original vector.
+18
+Unit 1 Vector Quantities
+Review questions
+1. What is resolution of a vector?
+2. Draw simple vector diagrams and resolve them into their com-
+ponents.
+(a) 40 N at an angle of 30° from the horizontal.
+(b) 10 m/s at an angle of 80° from the horizontal.
+(c) 1900 km at an angle of 40° from the vertical.
+3. A car travels 10 km due North and then 5 km due West. Find
+graphically and analytically the magnitude and direction of
+the car's resultant vector.
+4. A girl walks 25.0° North of East for 3.10 km. How far would
+she have to walk due North and due East to arrive at the same
+location?
+Virtual Lab
+On the soft copy of the book, click on the following link to per-
+form virtual experiment on vector quantities unit under the guid-
+ance of your teacher.
+1. Vector Addition PhET Experiment.
+End of unit summary
+Scalar is a quantity specified only by its magnitude.
+Vectors is a quantity specified by its magnitude and direction.
+The vector is represented by an arrow drawn at a suitable scale
+where:
+1.5 Vector resolution
+19
+- The arrow length represents the vector magnitude.
+- The arrow head represents the vector direction.
+Vector addition is nothing but finding the resultant of a num-
+ber of vectors acting on a body while vector subtraction is
+addition of the negative of a vector.
+The sum of two or more vectors is called the resultant. The
+resultant of two vectors can be found using either the paral-
+lelogram method or the triangle method. For more than two
+vectors, one can use the polygon method of vector addition.
+The method of finding the components of vectors is called
+resolving vector.
+When vector À is decomposed along the rectangular coordi-
+nate system, the horizontal component of À is Aₓ = Acos Θ
+and the vertical component of À is Ay = Asin Θ.
+End of unit questions and problems
+1. A vector drawn 15 mm long represents a velocity of 30 m/s.
+How long should you draw a vector to represent a velocity of
+20 m/s?
+2. A vector that is 1 cm long represents a displacement of 5 km.
+How many kilometers are represented by a 3 cm vector drawn
+to the same scale?
+3. Describe how you would add two vectors graphically.
+4. Which of the following actions is permissible when you are
+graphically adding one vector to another? A) move the vector
+B) rotate the vector C) change the vector's length.
+5. In your own words, write a clear definition of the resultant of
+two or more vectors.
+20
+Unit 1 Vector Quantities
+6. Explain the method you would use to subtract two vectors
+graphically.
+7. You walk 30 m South and 30 m East. Find the magnitude and
+direction of the resultant displacement both graphically and
+algebraically.
+8. A hiker walks 14.7 km at an angle 35° East of South. Find the
+East and North components of this walk.
+9. If two vectors have equal magnitudes, can their sum be zero?
+Explain.
+10. Based on the three vectors in Figure 1.16, which of the follow-
+ing is true?
+B
+(a) A+B+C=0
+(b) A=C+B
+A
+(c) C+A=B
+Figure 1.16 Magnitude and
+11. For the two vectors À and B with magnitude 6.8 cm and 5.5
+y
+cm in Figure 1.17, determine the magnitude and direction of:
+(a) R=A+B
+A
+B
+X
+(b) R=A-B
+(c) R=B-A
+Figure 1.17 Magnitude and
+12. Three vectors A, B and C have a magnitude and direction of
+direction of two vectors
+21 unit North, 16 unit East and 26 unit South, respectively.
+Graphically determine the resultant of these three vectors?
+13. If vx = 9.8 m/s and vy = 6.4 m/s, determine the magnitude and
+direction of v.
+Joma
+GIRMA
+Joma
+BAREGA

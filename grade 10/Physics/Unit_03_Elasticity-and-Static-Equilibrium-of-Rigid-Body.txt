@@ -1,0 +1,1241 @@
+Unit 3
+Elasticity and Static Equilibrium
+of Rigid Body
+Introduction
+In grade 9 physics, you studied the effect of force on a body to produce
+Brainstormi
+displacement. The force applied on an object may also change its shape
+question
+or size. Some objects regain their original shape and size whereas others
+What do you thin
+do not. Such a behavior of objects depends on the microscopic structure
+are the impor-
+of the material called elasticity and plasticity. In this unit, you will learn
+tant elastic and
+about the topics related to elasticity, plasticity, and static equilibrium of a
+plastic properties
+rigid body.
+of bridges and
+By the end of this unit, you should be able to:
+ladders?
+understand the differences between elasticity and plasticity for an
+object;
+describe density and specific gravity;
+comprehend the concept of stress and strain;
+know that Young modulus is the ratio of the stress to the strain of an
+object;
+understand the physical conditions of static equilibrium;
+apply the conditions of equilibrium for a body in static equilibrium
+in everyday activity.
+60
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+3.1 Elasticity and plasticity
+By the end of this section, you should be able to:
+define elasticity and plasticity;
+explain the deformation of an object.
+A rigid body generally means a hard solid object having a definite shape
+and size. However, in reality, all bodies can be stretched, compressed
+and bent. Even the appreciably rigid steel bar can be deformed when a
+sufficiently large external force is applied on it. You may have seen iron
+rods at construction sites. This means that all practical solid bodies are
+never perfectly rigid. A solid has a definite shape and size. In order to
+Figure 3.1 Helical spring
+change (or deform) the shape or size of a body, a force is required. Such
+a force is called a deforming force. If you stretch a helical spring shown
+in Figure 3.1 by gently pulling its ends, the length of the spring increases
+slightly. When you leave the ends of the spring, it regains its original size
+and shape.
+You might have experienced the use of such a spring in some materials
+like the one shown in Figure 3.2. Pressing the pen cap allow the writing
+point to come out of the pen casing (with a click sound). On pressing it
+Figure 3.2 Spring pen.
+again the writing point goes back inside the pen casing. Two points are to
+be noted here are:
+The spring inside the pen gets deformed on pushing the pen cap.
+It regains the original shape once the deforming force is removed.
+If a body regains its original shape and size after the removal of deforming
+force, it is said to be elastic and the property is called elasticity. The defor-
+mation caused is known as elastic deformation. Examples: rubber, metals
+Figure 3.3 The hammer force
+applied on the nail which bent,
+and steel ropes. However, if you apply force to a lump of putty, or potters
+showing permanent deforma-
+clay, they have no gross tendency to regain their previous shape; they tend
+tion of the nail.
+to get permanently deformed. If a body does not regain its original shape
+and size after removal of the deforming force, it is said to be plastic body
+3.1 Elasticity and plasticity
+61
+and the property is called plasticity.
+Plastic deformation is defined as the persistent deformation or change in
+the shape of a solid body caused by a sustained force. This happens when
+a great amount of tension is applied to a material. Plastic deformation
+is permanent and irreversible. Plasticity is the ability to be permanently
+formed or molded.
+Activity 3.1
+A rubber band shown in Figure 3.4 gets stretched when you apply
+force on it. However, it (almost) regains the original shape once the
+force is removed. But does it always come back to its original shape
+and size irrespective of the magnitude of force? Discuss in group.
+Students, have you observed that elastic bodies show the property of elas-
+ticity up to a certain value of deforming force? If you go on increasing the
+deforming force, then a stage is reached when on removing the force, the
+body will not return to its original state. The maximum deforming force
+up to which a body retains its property of elasticity is called elastic limit of
+Figure 3.4 Stretched rubber
+the material of the body. Beyond the elastic limit, the solid does not regain
+band.
+its original shape and size.
+Key Concept
+It Elastic limit is the property of a body whereas elasticity is the
+property of material of the body. All materials are elastic up to
+a certain deformation; then they turn plastic. Springs lose their
+springiness if subjected to large external force and tend to become
+plastic.
+The elastic limit of ductile material is the beginning point of plastic defor-
+mation. The elastic limit of a solid is the utmost amount to which it may
+be stretched without permanently changing size or form. If the tension is
+placed beyond the elastic limit, the substance will deform plastically. Plas-
+62
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+tic deformation occurs in ductile materials such as metals (for example,
+copper) when the distortion surpasses the elastic limit. Plastic deforma-
+tion is vital in the manufacture of new goods utilizing heat or pressure
+treatments as well as molding.
+Activity 3.2
+Elastic behavior of materials plays an important role in our day to day life.
+The following are some of the practical applications of elasticity.
+A slingshot used
+to shoot a body
+1. The metallic parts of machinery are never subjected to a stress be-
+involves the uses
+yond elastic limit; otherwise they will get permanently deformed.
+of rubber bands.
+The body, placed
+2. The thickness of the metallic rope used in the crane in order to lift
+at the centre
+a given load is decided from the knowledge of elastic limit of the
+of the band, is
+material of the rope and the factor of safety.
+drawn back as far
+3. The bridges are declared unsafe after long use because during its
+as possible and
+released, thus
+long use, a bridge undergoes quick alternating strains continuously.
+striking the tar-
+It results in the loss of elastic strength.
+get with a great
+4. Maximum height of a mountain on earth can be estimated from the
+impact. If you
+elastic behavior of earth.
+replace the rubber
+used with a cotton
+Section summary
+cord, would it still
+work in the same
+External forces applied on an object cause deformation.
+way?
+An object or material is elastic if it comes back to its original
+shape and size when the external force is removed.
+Review questions
+1. Define elasticity and plasticity.
+2. List some plastic materials in your locality.
+3. The body will regain its previous shape and size only when the
+deformation caused by the external forces is within a certain
+3.2 Density and specific gravity
+63
+limit. What is that limit?
+3.2 Density and specific gravity
+By the end of this section, you should be able to:
+define the density and the specific gravity of an object;
+Exercise 3.1
+determine the density of an object;
+Do you know the
+compare the density of an unknown object with a standard value.
+reason why oil
+floats on water or
+Density
+why iron needles
+Density is defined as the mass of an object per unit of its volume. You
+sink while giant
+can also state it as the ratio between mass and volume. Thus density is
+iron ships float on
+the measure of the fact that how much mass of the object is contained
+water?
+in the unit volume of the substance. It also helps us in determining the
+compactness of the substance.
+Activity 3.3
+Suppose that
+Density is represented using the symbol, "p". The density of a substance
+you are given an
+can thus be calculated using the formula:
+iron and copper
+block. Determine
+p=m
+(3.1)
+the density of
+the two blocks
+where m is the mass of the substance and V is the volume of the substance.
+by first measur-
+The SI unit of density is kg/m³. Sometimes densities are given in g/cm³.
+ing the masses
+The relation between them is given by: 1kg/m³ = 10⁻³g/cm³.
+and the volumes.
+Compare your
+Temperature and pressure are the two common factors affecting the den-
+result with the
+sity of the substance. Other general factors such as size, mass as well as
+standard for
+arrangement of atoms in the substance also widely affect the density of
+iron 7.86g/cm³
+the material.
+and for copper
+8.92g/cm³.
+Here are a few everyday examples of density.
+64
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+Key Concept
+Rock sinks in the water, while wood, being less dense than the water,
+Density is a
+floats on the surface.
+characteristic
+property of any
+Oil is less dense than water. It rises to the surface in cases of an oil
+pure substance. It
+spill in the ocean creating an oil slick on the surface of the water.
+is used in deter-
+mining whether
+Specific gravity
+an object sinks or
+Specific gravity is defined as the ratio of the density of the given substance
+floats in a fluid.
+to that of a standard substance (generally this standard substance is water
+at 4 °C but not for all). While considering water at 4°C as a reference or
+standard parameter for comparison, a question arises why water is taken
+at 4 °C only, and not at 0 °C or 100 °C which is its freezing and boiling
+points, respectively. This is because at 4 °C, water has the highest density
+and not at 0 °C or 100 °C. That is the reason why it is common to use the
+density of water at 4 °C as a reference point.
+The specific gravity (SG) of a substance can thus be calculated using the
+expression:
+SG Psubstance Pwater
+=
+(3.2)
+Since specific gravity is the ratio of two like terms, i.e., density of two
+Key Concept
+substances, it is a unitless quantity. As discussed earlier, with change in
+temperature and pressure, the density of an object is affected and hence
+Specific Grav-
+affecting the specific gravity of the given substance.
+ity is a unitless
+quantity as it is
+the ratio of two
+The following are some of the applications of specific gravity.
+densities.
+Geologists and mineralogists use the concept of specific gravity in
+determining the mineral content of the rock.
+You apply the concept of specific gravity in comparing the purity of
+the newly found gem with the standard one.
+Specific gravity helps us in urinalysis and extracting the contents
+information of the urine.
+3.2 Density and specific gravity
+65
+Table 3.1 Density and specific gravity of substance at 0 °C and 1 atm.
+Material type
+Material name
+Density (Kg/m³)
+Relative density
+Helium
+0.179
+1.79 X 10⁻⁴
+Gas
+Air
+1.29
+1.29 X 10⁻³
+Carbon dioxide
+1.98
+1.98 X 10⁻³
+Liquid
+Alcohol
+7.9 X 10²
+0.79
+Gasoline
+8.6 X 10²
+0.86
+Water (4°C)
+1 X 10³
+1
+Mercury
+13.6 X 10³
+13.6
+Glass (common)
+(2.4 - 2.8) X 10³
+2.5
+Aluminum
+2.7 X 10³
+2.7
+Iron
+7.86 X 10³
+7.86
+Solid
+Copper
+8.92 X 10³
+8.92
+Silver
+10.5 X 10³
+10.5
+Uranium
+19.07 X 10³
+19.07
+Activity 3.4
+Gold
+19.3 X 10³
+19.3
+Suppose that a
+block of brass and
+a block of wood
+An object made of a particular pure substance such as pure gold, can have
+have exactly the
+any size or mass, but the density will be the same for each.
+same mass. If
+both blocks are
+Example 3.1
+dropped in a tank
+of water, which
+A mining worker gets an unknown mineral with a volume of 20 cm³ and a
+one floats and
+mass of 54 g. Determine the density and the specific gravity of the mineral.
+which one sinks?
+Solution:
+why?
+In this example, you are given with m = 60 g and V = 20cm³.
+The required quantities are density and specific gravity.
+The density can be calculated using the formula
+p=m V
+Substitution gives
+p = 54 20 10-3 10⁻⁶ kg = 10³ kg/m³
+66
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+The specific gravity can be calculated by
+From table 3.1 above, this unknown rock is aluminium.
+Example 3.2
+What is the mass of a solid iron ball of radius 18 cm?
+Solution:
+You are given with r = 18 cm. Moreover, from table 3.1 above, the density
+of iron is p = 7860 kg/m³.
+You want to find the mass m.
+From equation 3.1, you get m = (p)(V). To use this formula, you first have
+to find the volume of the sphere. The volume of the sphere is given by 4πʳ³.
+Hence, the volume of iron ball (V) is thus:
+V = 4 3 m)³ = 0.024 m³
+So the mass becomes:
+m = (7860 kg/m³)(0.024 m³)
+m = 188.64 kg
+Section summary
+The density of a material is defined as the mass per unit vol-
+ume.
+Specific gravity is the ratio of the density of the material to the
+density of a substance that is taken as a standard.
+3.3 Stress and Strain
+67
+Review questions
+1. What is the approximate mass of air in a living room of 5.6 m X
+3.6 m X 2.4 m?
+2. You have a sample of granite with density 2.8 g/cm³. The
+density of water is 1.0 g/cm³. What is the specific gravity of
+your granite?
+3. Calculate the average density and specific gravity of the Earth
+given that the mass and radius of the Earth are mE = 5.98 X 10²⁴
+kg and RE = 6.37 X 10⁶ m, respectively.
+Exercise 3.2
+3.3 Stress and Strain
+If you apply equal
+forces on a copper
+By the end of this section, you should be able to:
+and silver wire
+define stress and strain;
+of equal length
+and thickness,
+apply the formula of stress and strain to solve problems;
+can they stretch
+equally? Explain.
+apply physical concept of stress and strain on your daily life activity.
+From the previous discussion, you observed that a change in shape due to
+the application of a force is known as a deformation. Even very small forces
+are known to cause some deformation. Deformation is experienced by
+objects or physical media under the action of external force, for example;
+this may be squashing, squeezing, ripping, twisting, shearing, or pulling
+the objects apart. In the language of physics, two terms describe the forces
+on objects undergoing deformation: stress and strain.
+Stress
+Stress is a quantity that describes the magnitude of forces that cause de-
+formation. If the magnitude of deforming force is F and it acts on area A,
+stress is generally defined as force per unit area.
+68
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+Key Concept
+JET Stress is a quan-
+Stress
+tity that is pro-
+Stress = Arce = Area A
+(3.3)
+portional to the
+The SI unit of stress is N/m².
+force causing de-
+formation; more
+When forces pull on an object and cause its elongation, like the stretching
+specifically, stress
+of an elastic band, you call such stress a tensile stress. When forces cause
+is the external
+a compression of an object, you call it a compressive stress. When an
+force acting on
+object is being squeezed from all sides, like a submarine in the depths of
+an object per unit
+cross-sectional
+an ocean, you call this kind of stress a bulk stress (or volume stress). In
+area.
+other situations, the acting forces may be neither tensile nor compressive,
+and still produce a noticeable deformation. For example, suppose you
+hold a book tightly between the palms of your hands, then with one hand
+you press and-pull on the front cover away from you, while with the other
+Exercise 3.3
+hand you press-and-pull on the back cover toward you. In such a case, the
+What is meant
+deforming forces act tangentially to the object's surface and you call them
+by tensile stress
+'shear' forces and the stress they cause is called shear stress.
+and compressive
+stress?
+Strain
+An object or medium under stress becomes deformed. The quantity that
+Key Concept
+describes this deformation is called strain. Strain is given as a fractional
+change in either length (under tensile stress) or volume (under bulk stress)
+It Strain is a
+or geometry (under shear stress).
+dimensionless
+quantity that
+gives the amount
+Therefore, strain is a dimensionless number. Strain under a tensile stress
+of deformation
+is called tensile strain, strain under bulk stress is called bulk strain (or
+of an object or
+volume strain), and that caused by shear stress is called shear strain. Their
+medium under
+equations are given as follows.
+stress.
+3.3 Stress and Strain
+69
+Tensile/Linear strain: If on application of a longitudinal deforming
+F
+force, the length L₀ of a body changes by L as in Figure 3.5, then
+F
+L
+A
+L
+Tensile (or compressive) strain =
+(3.4)
+L₀
+L
+Volumetric strain: If on application of the deforming force, the
+Lo
+L₀
+volume V₀ of the body changes by V without change of shape of
+the body as in Figure 3.6, then
+V
+Volumetric strain =
+(3.5)
+V₀
+F
+F
+Shearing strain: When the deforming forces are tangential, the
+(a)
+(b)
+shearing strain is given by the angle through which a line perpendic-
+Figure 3.5 An object under (a)
+ular to the fixed plane is turned due to deformation. This is shown
+tensile stress (b) compressive
+stress.
+in Figure 3.7. Then, you can write
+F
+A
+Volume V₀
+51%
+Volume
+Shearing strain =
+(3.6)
+L₀
+F
+V₀ V
+In 1678, Robert Hooke obtained the stress-strain curve experimentally for
+F
+F
+a number of solid substances and established a law of elasticity known as
+F
+Hooke's law. According to this law, within elastic limit, stress is directly
+proportional to corresponding strain.
+F
+Stress α Strain
+Figure 3.6 An object under
+volume strain.
+Stress = k X Strain
+(3.7)
+Ax
+A
+F
+This constant of proportionality K is a measure of elasticity of the sub-
+stance and is called modulus of elasticity. As strain is a dimensionless
+Lo
+quantity, the modulus of elasticity has the same dimensions (or units) as
+stress. Its value is independent of the stress and strain but depends on the
+F
+nature of the material.
+Figure 3.7 An object under
+You can also see from the above equation that when an object is charac-
+shear stress.
+terized by a large value of elastic modulus, the effect of stress is small. On
+70
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+the other hand, a small elastic modulus means that stress produces large
+strain and noticeable deformation. For example, a stress on a rubber band
+produces larger strain (deformation) than the same stress on a steel band
+of the same dimensions because the elastic modulus for rubber is two
+orders of magnitude smaller than the elastic modulus for steel. The elastic
+modulus for tensile stress is called the Young modulus; that for the bulk
+stress is called the bulk modulus; and that for shear stress is called the
+shear modulus.
+Example 3.3
+Find the tensile stress when a force of 9.8 N acts over a cross-sectional area
+of 2 X 10⁻³ m².
+Solution:
+You are given with F = 9.8 N and A = 2 X 10⁻³ m².
+You want to find the tensile stress.
+Substituting the given values into the formula of tensile stress, you obtain:
+Tensile stress = F A = 2 X 9.8N 10⁻³
+= 4.9 X 10³ N1m²
+Example 3.4
+When a weight of 98 N is suspended from wire of length 3 m and diameter
+0.4 mm, its length increases by 2.4 cm. Calculate tensile stress and tensile
+strain.
+Solution:
+You are given with F = W = 98 N, L₀ = 3 m, D = 2r = 0.4 mm. The area of
+the wire can be calculated by
+3.3 Stress and Strain
+71
+L = 2.4 cm = 2.4 X 10² m
+You want to find the tensile stress and tensile strain.
+The tensile stress is thus obtained by:
+Tensile stress = F = A = 98 N = 1.56 X 10⁸ N/m²
+On the other hand, the tensile strain can be obtained by:
+Tensile strain = = 2.4 X 3m 10⁻² = 0.008
+The amount of elongation of the wire due to the suspended load is 0.008.
+Section summary
+Activity 3.5
+The force per unit area acting on an object is the stress, and
+What type of
+the resulting fractional change in length is the strain.
+stress are you ap-
+plying when you
+Tensile (or compressive) stress causes elongation (or shorten-
+press on the ends
+ing) of the object and is due to an external forces acting along
+of a wooden rod?
+only one direction perpendicular to the cross-section.
+When you pull on
+its ends?
+Tensile (or compressive) strain is the response of an object to
+tensile (or compressive) stress.
+Review questions
+1. Review the relationship between stress and strain. Can you
+find any similarities between the two quantities?
+2. Can compressive stress be applied to a rubber band?
+3. A nylon string that has a diameter of 2 mm is pulled by a force
+of 100 N. Calculate the tensile stress.
+4. A load of 2.0 kg is applied to the ends of a wire 4.0 m long,
+72
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+and produces an extension of 0.24 mm. If the diameter of the
+wire is 2.0 mm, find the stress on the wire and the strain it
+produces.
+3.4 The Young Modulus
+By the end of this section, you should be able to:
+define the Young modulus;
+Exercise 3.4
+apply the formula of the Young modulus to solve problems;
+What did you
+know about the
+demonstrate the tensile strain and stress using the Young modulus
+Young modulus of
+from local materials.
+a material?
+In the previous section, you have learnt that there are three kinds of elastic
+modulus. The elastic modulus for tensile stress is called the Young modu-
+Activity 3.6
+lus; that for the bulk stress is called the bulk modulus; and that for shear
+stress is called the shear modulus. In this section, you will study about the
+Suppose you have
+the Young modulus.
+a copper wire
+and you stretch
+it and there is an
+The Young modulus is the elastic modulus when deformation is caused by
+increase in its
+either tensile or compressive stress. Experimental observation show that
+length. On remov-
+for a given material, the magnitude of the strain produced is same whether
+ing the stretching
+the stress is tensile or compressive. The ratio of tensile (or compressive)
+force, the wire
+stress to the longitudinal strain is known as the the Young modulus of the
+does not regain
+material; it is denoted by the symbol Y.
+its original length.
+Tensile stress
+Can you calcu-
+Young modulus(Y) =
+Tensile strain
+late the Young
+modulus in this
+Since strain is a dimensionless quantity, the unit of the Young modulus is
+situation?
+the same as that of stress i.e., Nm² or Pascal (Pa).
+The relation between the tensile stress and the tensile strain is linear when
+3.4 The Young Modulus
+73
+Stress (N/m²)
+F1
+4x109
+A
+Breaking
+3x109
+Elastic
+point
+limit
+L₀
+Lo + LL
+2x109
+Elastic
+1x109
+behavior
+2x10⁻³
+4x10-3
+6x10-3
+8x10⁻³
+Strain
+F1
+(a)
+(b)
+Figure 3.8 (a). A rod of length L₀ can be stretched by an amount L after appli-
+cation of a tensile stress F₁. (b) The stress versus strain diagram for a ductile
+material.
+the rod is in its elastic range.
+Consider a metallic rod of original length L₀ and cross sectional area A.
+When an external force F₁ is applied perpendicularly to the cross sectional
+area A of a rod, its length increases to a new length L₀ + L as shown in the
+Key Concept
+Figure 3.8 (a). The Young modulus is thus
+The Young
+Y (A) =
+(FA)
+modulus is a
+(3.8)
+( AL )
+property of the
+material that tells
+If the wire of radius r is suspended vertically with a rigid support and a
+us how easily it
+mass m hangs at its lower end, then A = π X r² and F = mg.
+can stretch and
+deform and is de-
+Y
+(3.9)
+fined as the ratio
+of tensile stress to
+Figure 3.8 (b) shows a typical stress-strain curve for a ductile metal under a
+tensile strain.
+load, the relation between the tensile stress and the tensile strain is linear
+74
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+when the rod is in its elastic range (elastic behavior). When the stress
+exceeds its elastic limit, the rod is permanently deformed and it does not
+return to its original shape after the stress is removed. As the stress is
+increased even further, the rod reaches its breaking point.
+Table 3.2 below shows the Young modulus of different substances.
+Table 3.2 The Young modulus of different substance in N/m²
+Substance
+Young modulus (N/m²)
+Tungsten
+35 X 10¹⁰
+Steel
+20 X 10¹⁰
+Copper
+11 X 10¹⁰
+Brass
+9.1 X 10¹⁰
+Aluminum
+7.0 X 10¹⁰
+Glass
+6.5 - 7.8 X 10¹⁰
+Quartz
+5.6 X 10¹⁰
+Water
+-
+Mercury
+-
+You can notice that for metals the Young moduli are large. Therefore, these
+materials require a large force to produce a small change in their length.
+Exercise 3.5
+The value of Young modulus is maximum for steel and thus steel is more
+A copper wire is
+elastic in comparison to other materials mentioned in the table. For the
+1.0 m long and
+same change in length, steel requires a large amount of force. To increase
+its diameter is 1.0
+the length of a thin steel wire of 0.1cm² cross-sectional area by 0.1 percent,
+mm. If the wire
+a force of 2000 I is required. The force required to produce the same strain
+hangs vertically,
+in Aluminium, brass and copper wires, having the same cross-sectional
+how much weight
+area, are 690 N, 900 N and 1100 N, respectively. It means that steel is more
+must be added
+elastic than copper, brass and aluminium. It is for this reason that steel is
+to its free end in
+preferred in heavy-duty machines and in structural designs. Wood, bone,
+order to stretch it
+concrete and glass have rather small values for their Young moduli.
+3.0 mm?
+The Young modulus is relevant only for solids since only solids can have
+well defined lengths and shapes.
+3.4 The Young Modulus
+75
+Example 3.5
+A 1.60 m long steel piano wire has a diameter of 0.20 cT. How great is the
+tension in the wire if it stretches 0.25 cm when tightened?
+Solution:
+In this example, you are given with L₀ = 1.6 m, Y = 2 X 10¹¹ N/m² and D =
+0.2 X 10⁻².
+The required quantity is the tension or force on the wire.
+From the formula of Young modulus, you can derive the expression for F
+as
+where
+A = πr² = (3.14)(0.0010 m)² = 3.14 10⁻⁶ m²
+Thus,
+F =
+F = 980 N
+The large tension in all the wires in a piano must be supported by a strong
+frame.
+Example 3.6
+A pendulum consists of a big sphere of mass m = 30 kg hung from the end
+of a steel wire that has a length of 15 m, a cross-sectional area of 9 X 10⁻⁶ m²,
+and the Young modulus of 200 X 10⁹ N/m². Find the tensile stress on the
+Do you know?
+wire and the increase in its length.
+Thomas Young
+(1773 - 1829, English) was English
+physician and physicist who described
+Solution:
+the elastic properties of a solid undergo-
+You are given with m = 30 kg, L₀ = 15 m, A = 9 X 10⁻⁶ m², and Y =
+ing tension or compression in only one
+200 X 10⁹ N/m².
+direction.
+You need to find the tensile stress and L.
+76
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+The tensile stress can be calculated by
+stress F
+Substitution gives
+Tensile stress = 30 X 9.8 = 3.27 X 10⁷ N1m²
+9 X 10⁻⁶
+In the above equation, the applied force on a wire must be equal to the
+weight of the sphere, i.e., F = mg.
+On the other hand, from the expression of the Young modulus, Y (A)
+you can derive the expression for L as
+L Y A
+Substitution gives
+L 1
+:. AL= 2.45 mm
+Note that this large stress produces a relatively small change in length.
+Section summary
+The relation between the tensile stress and the tensile strain
+is linear when the rod is in its elastic range.
+The ratio of the tensile stress and the tensile strain is called
+the Young Modulus.
+The Young Modulus measures the resistance of a solid to a
+change in its length.
+3.5 Static equilibrium
+77
+Review questions
+1. In the Young experiment, if the length of the wire and the
+radius are both doubled, what will happen to the value of the
+Young modulus?
+2. A wire increases by 10⁻³ of its length when a stress of 1 X
+10⁸ Nm⁻² is applied to it. Calculate the Young modulus of
+material of the wire.
+3. A wire is stretched by 0.01 m by a certain force F. Another wire
+of same material whose diameter and length are double to the
+original wire is stretched by the same force. What will be its
+elongation?
+4. A 200 kg load is hung on a wire having a length of 4.0 T,
+cross-sectional area 0.20 X 10⁻⁵ m², and the Young modulus
+8.00 X 10¹⁰ N/m². What is its increase in length?
+3.5 Static equilibrium
+By the end of this section, you should be able to:
+define static equilibrium of rigid body;
+state the first and second conditions of equilibrium;
+apply the first and second conditions for equilibrium to solve prob-
+lems.
+Exercise 3.6
+List examples of
+A massive frame hung on a wall using two cables is in static equilibrium.
+bodies that are
+A horizontal beam supported by a strut is also in static equilibrium. So,
+in static equilib-
+what is the definition of static equilibrium, and when do objects fall under
+rium from your
+this category?
+surroundings.
+Static equilibrium occurs when an object or a system remains at rest and
+78
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+Exercise 3.7
+When is a sys-
+does not tilt nor rotate. The word "static" means that the body is not in
+tem or an object
+motion, while the term "equilibrium" indicates that all opposing forces
+considered to be
+are balanced. Thus, a system is in static equilibrium if it is at rest and all
+in static equilib-
+forces and other factors influencing the object are balanced.
+rium?
+Two conditions need to be satisfied for a system to be in static equilibrium:
+the first condition of equilibrium and the second condition of equilibrium.
+Firstly, the net force acting upon the object must be zero. Secondly, the
+net torque acting upon the object must also be zero. In other words, both
+Key Concept
+static translational and static rotational equilibrium conditions must be
+satisfied. You will now look at each of the two conditions one by one.
+It
+Static equi-
+librium is a type
+of equilibrium
+3.5.1 First condition of equilibrium
+that occurs when
+The first condition of equilibrium states that for an object to remain in
+a body is at rest
+equilibrium, the net force acting upon it in all directions must be zero.
+and there is no
+Simply put, the above statement means that the body must not be experi-
+net force or net
+encing acceleration. Remember that Newton's second law states that an
+torque acting on
+object will not accelerate if the sum of all the forces acting on it is equal
+it.
+to zero. In the form of an equation, the first condition of equilibrium is
+denoted as follows:
+Key Concept
+(3.10)
+JET The first con-
+Since force is a vector, both the magnitude and the direction of its com-
+dition of equilib-
+ponents should also be considered. For example, a negative sign should
+rium states that
+be used if an object moves in the opposite direction. Therefore, for static
+the sum of the
+equilibrium to be reached, the condition of static equilibrium should be
+forces acting on a
+body must add up
+fulfilled such that the component of the forces in all dimensions should
+to zero.
+be equal to zero. Thus,
+For one dimensional forces applied on an object (for instance, if the
+forces are along the x-axis), the first condition of equilibrium is given
+by:
+Fx=0
+3.5 Static equilibrium
+79
+For two dimensional forces applied on an object, the first condition
+of equilibrium is given by:
+Fₙₑₜ = 0, so that and ΣFγ=0
+(3.11)
+The above condition is true for both static equilibrium, where the object's
+velocity is zero, and dynamic equilibrium, where the object moves at a
+constant velocity.
+3.5.2 Second condition of equilibrium
+If the body does not achieve equilibrium even though the first condition
+Key Concept
+for equilibrium is satisfied, it is because it tends to rotate. This situation de-
+The second
+mands another condition in addition to the first condition for equilibrium.
+condition neces-
+A body satisfies the second condition for equilibrium when the resultant
+sary to achieve
+torque acting on it is zero.
+equilibrium is
+that the net exter-
+Torque is the twisting force or the amount of force that causes an object to
+nal torque on a
+rotate when it is applied to a certain distance from the axis of rotation. The
+system must be
+axis of rotation or pivot point can be arbitrarily assigned, which means
+zero.
+that any axis can be used to calculate torque as long as proper conventions
+are used. A door, for example, experiences torque when a force is applied
+to a certain distance from the hinge. It is influenced by two factors: the
+force applied and the location of the force relative to the pivot point. The
+magnitude of torque is thus given by the equation:
+τ = Frsin Θ
+Θ
+where T is the symbol for torque in Nm, È is the magnitude of the force in
+F
+N and r the distance from the pivot point to the point where the force is
+Figure 3.9 A force applied on
+applied in m and Θ is the angle between the force and the vector directed
+one side of a nut at an angle
+from the point of application to the pivot point.
+makes it to rotate.
+If r is perpendicular to F like in Figure 3.10, the magnitude of the torque
+80
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+can be obtained by:
+T = Fr
+F
+pivot point
+Rotational equilibrium, the second condition for static equilibrium, en-
+sures that either there is no torque acting on the body or that the torques
+Figure 3.10 A force applied
+present are balanced and sum up to zero. Mathematically it is represented
+perpendicularly on one side of
+as:
+a nut makes it to rotate.
+(3.12)
+It means that the clockwise torque acting on the object is also equal to
+the counter clockwise torque. This is rotational equilibrium, which is the
+second condition for static equilibrium.
+Static Equilibrium Examples
+Static equilibrium can be commonly observed in everyday life. Objects
+at rest are considered systems in static equilibrium, where both net force
+and net torque are zero. The following are examples that are used to
+demonstrate objects in static equilibrium.
+1. A book placed on top of a table
+A book placed on top of a table is considered to be in static equilibrium.
+N
+A free-body diagram, or a diagram showing all the forces acting on the
+object, can be used to check whether or not the object satisfies the two
+conditions of equilibrium.
+As shown in Figure 3.11, the only forces acting on the book are gravity and
+mg
+normal force. Gravity acts downward, while normal force acts upward,
+perpendicular to the surface. Since the book is at rest, these two forces are
+equal in magnitude but opposite in direction. Thus, the net force acting
+Figure 3.11 A book at rest on
+the top of a table.
+on the book is zero. Taking a pivot at any point, you will get the vector sum
+of the torque due to these forces to be zero satisfying both the first and
+second conditions of static equilibrium.
+3.5 Static equilibrium
+81
+2. A seesaw balanced by two children
+A seesaw (shown in Figure 3.12) balanced by two children sitting on oppo-
+site sides is considered to be in static equilibrium. Consider a 6 m seesaw
+with negligible mass and a pivot point exactly at its center. If the girl has a
+mass of 30 kg and sits 2.5 m away from the pivot point, 25 kg boy has to
+sit 3.0 m away from the pivot point of the seesaw for a seesaw to become
+Girl
+Boy
+in static equilibrium. Thus, to determine whether the seesaw is in static
+equilibrium or not, the two conditions for equilibrium should be satisfied.
+Point P
+Figure 3.12 A balanced seesaw
+Activity 3.7
+in static equilibrium.
+A uniform meter stick supported at the 25 cm mark is in equilibrium
+when a 1 kg rock is suspended at the 0 cm end as shown in the Figure
+below. Is the mass of the meter stick greater than, equal to, or less
+than the mass of the rock? Explain your reasoning.
+25
+50
+The following general procedure is recommended for solv-
+ing problems that involve objects in equilibrium.
+1. Choose one object at a time for consideration. Make a careful free-
+body diagram by showing all the forces acting on that object, includ-
+ing gravity and the points at which these forces act. If you aren't sure
+of the direction of a force, choose a direction; if the actual direction
+of the force (or component of a force) is opposite, your eventual
+calculation will give a result with a minus sign.
+2. Choose a convenient coordinate system, and resolve the forces into
+82
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+their components using:
+Fₓ=FcosΘ
+(3.13)
+Fy=FsinΘ
+(3.14)
+where Θ is given in an anticlockwise direction from the positive X-
+axis.
+3. Using letters to represent unknowns, write down the equilibrium
+equations for the forces: and assuming all the forces act in a plane.
+Fx=0
+(3.15)
+Fy=0
+(3.16)
+4. For the torque equation,
+Στ=0
+(3.17)
+Choose any axis perpendicular to the xy-plane that might make the
+calculation easier. (For example, you can reduce the number of
+unknowns in the resulting equation by choosing the axis so that one
+of the unknown forces acts through that axis; then this force will
+have zero lever arm and produce zero torque, and so won't appear
+in the torque equation.) Pay careful attention to determining the
+lever arm for each force correctly. Give each torque a + or - sign to
+indicate torque direction. For example, if torques tending to rotate
+the object counterclockwise are positive, then those tending to rotate
+it clockwise are negative.
+5. Solve these equations for the unknowns. Three equations allow a
+maximum of three unknowns to be solved for. They can be forces,
+distances, or even angles.
+3.5 Static equilibrium
+83
+Example 3.7
+An object shown in Figure below is in static equilibrium. The horizontal
+cord has a force of 30 N. Find the force F of the cord and weight Fw of the
+object.
+30°
+F
+Fₕ=30 N
+P
+Weight (Fw)
+Solution:
+You are given Fw = Fx = 30 N.
+What you want to find is F and Fw.
+a) Drawing free body diagram: all forces acting on the given mass are
+indicated on the free body diagram shown in the Figure below.
+y
+F
+Fy = F sin 30°
+30°
+Fₕ = 30 N
+X
+Fx = F cos 30°
+Fw
+b) Resolving vectors in to their components: the only force that have
+components is F. Hence,
+Fx = F cos 30⁰ = 0.86F
+84
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+and
+Fy = F sin 30⁰ = 0.5F
+c) By applying the first condition of equilibrium,
+Σ Fₓ = 0 yields 30 N - F cos 30° = 0
+0.86 F = 30 N
+F = 30 0.86 N = 34.9 N
+ΣFy = 0 yields F sin 30° - Fw = 0
+0.5 F = Fw
+Substituting the value of F into the above expression gives
+Fw = 0.5 X 34.9 N = 17.5 N
+Example 3.8
+A uniform board of mass 'M' serves as a seesaw for two children as shown in
+Figure below. Child A has a mass of 30 kg and sits 2.5 m from the pivot point,
+P. At what distance x from the pivot must child B, of mass 25 kg, place herself
+mA = 30 kg
+ᵐв = 25 kg
+y
+A
+B
+2.5 m
+x
++ Torque
+- Torque
+P
+to balance the seesaw?
+Solution:
+You are given mA = 30 kg, mB = 25 kg, and XA = 2.5 m.
+The required quantity is the value of XB = x.
+You can easily solve this problem using the above stated steps.
+(a) Draw free body diagram. The forces acting on the board are the
+forces exerted downward on it by each child, and the upward force
+3.5 Static equilibrium
+85
+exerted by the pivot and the force of gravity on the board which acts
+at the center of the uniform board. This is indicated in the Figure
+shown below.
+FN
+2.5 m
+x
+P
+FA=mAg
+FB=mBg =
+(b) Coordinate system. You choose y to be vertical, with positive upward,
+and x horizontal to the right, with origin at the pivot.
+(c) Force equation. All the forces are in the y-(vertical) direction. So,
+ΣFₓ=0
+ΣFᵥ=0
+(d) Torque equation. Let us calculate the torque about an axis through
+the board at the pivot point, P. Then, the lever arms for the weight of
+the board are zero, and they will contribute zero torque about point
+P. Thus, the torque equation will involve only the forces FA and FB
+which are equal to the weights of the children. The torque exerted
+by each child will be mg times the appropriate lever arm, which is
+the distance of each child from the pivot point. FA tends to rotate
+the board counterclockwise (+) and FB clockwise (-) so the torque
+equation is
+Σ=0
+mA (2.5 m) - mB g (x) = 0
+(e) Solve. You solve the torque equation for x and find
+x
+Thus, to balance the seesaw, child B must sit 3.0 m from the pivot
+point.
+86
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+Section summary
+Static equilibrium occurs when an object or a system remains
+at rest and does not tilt nor rotate.
+Two conditions need to be satisfied before a system is in static
+equilibrium: the first and second conditions of equilibrium.
+In the first condition of equilibrium, all external forces acting
+on the body balance out and their vector sum is zero.
+In second condition of equilibrium, the sum of all the torques
+(calculated about any arbitrary axis) must also be zero.
+Torque is the product of the distance from the support or pivot
+(r) and the component of force perpendicular to the object.
+Review questions
+1. What does static equilibrium mean?
+2. What conditions are necessary for static equilibrium?
+3. Mention some examples of a rigid body that is in static equi-
+librium in your surroundings.
+4. Four beams of the same length each have three
+forces acting on them. Which beam has both zero
+resultant force and zero resultant torque acting?
+30N
+50N
+36N
+70N
+A)
+C)
+50 cm
+30 cm
+50 cm
+30 cm
+90N
+106N
+28N
+35N
+42N
+70N
+B)
+D)
+50 cm
+30 cm
+50 cm
+30 cm
+63N
+112N
+3.5 Static equilibrium
+87
+5. The two children shown in the Figure below are balanced on
+a seesaw of negligible mass. The first child has a mass of 26.0
+kg and sits 1.60 m from the pivot.
+(a) If the second child has a mass of 32.0 kg, how far is he from
+the pivot?
+(b) What is Fₚ, the supporting force exerted by the pivot?
+m₂=32.0kg
+m₁=26.0kg
+Fₚ
+"2
+"1
+(1.60 m)
+W₂
+W₁
+Virtual Labs
+On the soft copy of the book, click on the following link to per-
+form virtual experiments on elasticity and static equilibrium of a
+rigid body unit under the guidance of your teacher.
+1. Density PhET Experiment.
+2. Balancing Act PhET Experiment.
+End of unit summary
+Solids tend to regain their original shape and size once exter-
+nal deforming force is removed.
+The property of solids by virtue of which they regain their
+original shape and size even when the deforming forces are
+removed is called elasticity.
+The property of solids by virtue of which they do not regain
+88
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+their original shape and size, even when the deforming forces
+are removed, is called plasticity.
+Beyond a limit, called elastic limit, the solid does not regain
+its original shape and size.
+Stress is a quantity that is proportional to the force causing
+a deformation; more specifically, stress is the external force
+acting on an object per unit cross-sectional area. The result of
+a stress is strain, which is a measure of the degree of deforma-
+tion.
+Hooke's law states that within the elastic limit, the stress de-
+veloped in a body is directly proportional to the strain.
+The Young modulus (Y) = Tensile stress /Tensile strain.
+A body is in equilibrium when it remains either in uniform
+motion or at rest.
+Conditions for equilibrium require that the sum of all external
+forces acting on the body is zero (first condition of equilib-
+rium), and the sum of all external torques from external forces
+is zero (second condition of equilibrium).
+End of unit questions and problems
+1. Define the term elasticity. Give examples of elastic and plastic
+objects.
+2. You have a rock with a volume of 15 cm³ and a mass of 45 g.
+What is its density?
+3. A bar measures 12 mm X 20 mm x 1 m. It has a specific gravity
+of 2.78. Determine its mass.
+4. A golden-colored cube is handed to you. The person wants
+you to buy it for 5000 birr, saying that is a gold nugget. From
+3.5 Static equilibrium
+89
+a book you read that the density of gold is 19.3g/cm³. You
+measure the cube and find that it is 2 cm on each side, and
+weighs 40 g. What is its density? Is it gold? Should you buy it?
+5. Explain the terms stress, strain and Hooke's Law.
+6. A wire is stretched 3 mm by a force of 150 N. Assuming the elas-
+tic limit is not exceeded, calculate the force that will stretch
+the wire 5 mm.
+7. A circular rod of cross-sectional area 100mm² has a tensile
+force of 100 kN applied to it. Calculate the value for the stress
+in the rod.
+8. A steel wire of length 6 m and diameter 0.6 mm is extended by
+a force of 60 N. The wire extends by 3 mm. Calculate:
+a) the applied stress.
+b) the strain on the wire.
+c) the Young Modulus of the steel.
+9. A wire increases by 10⁻³ of its length when a stress of
+1x10⁸ Nm⁻² is applied to it. Calculate the Young modulus
+of the wire.
+10. Two wires are made of the same metal. The length of the first
+wire is half that of the second and its diameter is double that
+of the second wire. If equal loads are applied on both wires,
+find the ratio of the increase in their lengths?
+11. Find the tension in the two cords shown in the Figure below.
+Neglect the mass of the cords, and assume that the angle is
+33 0 and the mass m is 190 kg.
+90
+Unit 3 Elasticity and Static Equilibrium of Rigid Body
+Θ
+m
+12. A beam pivoted at one end has a force of 5.0 N acting vertically
+upwards on it as shown in the Figure below. What is the weight
+of the beam?
+5.0 N
+2.0 cm
+3.0 cm
+Pivot
+Weight of the beam
+13. A force of 20 N at angle of 30 0 to the horizontal and a force
+F₂ at an angle of 60 o to the horizontal are applied on an
+object as shown in the Figure below so as to make the object
+in equilibrium. Calculate the magnitude of the force F₂ and
+weight of the object.
+60°
+30°
+F2
+F1 = 20 N
+W

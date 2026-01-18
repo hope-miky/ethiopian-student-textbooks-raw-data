@@ -1,0 +1,1368 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+Distinguish between congruent and similar plane figures.
+Apply postulates and theorems in order to prove congruency and
+similarity of triangles.
+Solve problems on perimeters and areas of similar triangles and similar
+polygons.
+State and use the criteria for similarity of triangles viz. AAA, SSS and
+SAS.
+Prove the Pythagoras Theorem.
+Apply these results in verifying experimentally (or proving logically)
+problems based on similar triangles.
+Unit Contents
+7.1 Revision on Congruency of Triangles
+7.2 Definition of Similar Figures
+7.3 Theorems on Similar Plane Figures
+7.4 Ratio of Perimeters of Similar Plane Figures
+7.5 Ratio of Areas of Similar Plane Figures
+7.6 Construction of Similar Plane Figure
+7.7 Applications of Similarities
+Summary
+Review Exercise
+239
+Unit 7: Congruency and Similarity
+Ratio of area of similar plan figure
+KEY
+Words
+Ratio of perimeter of similar plan figure
+Congruency
+Construction of similar plane figures
+SAS similarity
+Similarity
+Plane figures
+SSS similarity
+Proportionality
+triangles
+AA similarity
+Application of similarity
+Introduction
+There are maps of different countries in the world which are smaller or larger in their
+size or same shape or not. If you ask yourself whether a country's different maps are
+like or unlike, equal in size or not, you may answer it by looking at the maps. In
+geometry, the concept of equality in size and shape is described as congruency of
+triangles and likeness is called "similarity of figures". In this unit, you will learn both
+congruency and similarity of triangles.
+7.1 Revision on Congruency of Triangles
+Activity 7.1
+a. What can you say about the shape and size of congruency of two triangles?
+b. Can you mention some conditions of congruency of triangles?
+C. For ДАВС & DEF, AB ≡ DE and LB has the same measure as LE.
+Which of the following statements, if true, is sufficient to show that the two
+triangles are congruent?
+i.
+AB ≡ DE
+iii.
+LC ≡ LF
+ii.
+LA ≡ LD
+240
+Unit 7: Congruency and Similarity
+What is "congruency"? It means that one shape can become another using turns, flips
+and/or sliders. The equal sides and angles may not be on the same position (if there is
+a turn or a flip), but they are there. Congruent means to be identical in size and
+shape.
+Definition 7.1
+When two triangles have exactly the same three sides and the same three angles
+they are called congruent triangles.
+Note
+Same three sides means the corresponding sides have equal length and same three
+angles means the corresponding angles have equal measure.
+Note that Д ABC ≡ Д DEF means AB ≡ DE, BC ≡ EF, AB ≡ DE, AC ≡
+DF and LA ≡ LD, LB ≡ LE, LC ≡ LF
+For example:
+4
+4
+7
+5
+is congruent to
+5
+and
+5
+7
+7
+4
+The above three triangles are congruent.
+Exercise 7.1
+a) If two triangles are congruent, then they have exactly same shape and size (True
+or False).
+b) Any two equilateral triangles are congruent (True or False).
+c) In the figure below, Д ABC ≡ DEF , A = 45°, ZC = 85°. Find the
+measures of LD and E.
+241
+Unit 7: Congruency and Similarity
+C
+F
+85°
+45°
+A
+B
+D
+E
+1. SSS congruency
+Side-Side-Side congruency: When two triangles have equal corresponding sides,
+then the triangles are congruent.
+C
+F
+SSS CONGRUENCY
+H
+ABC ≡ DEF
+A
+B
+D
+E
+2. SAS congruency
+Side-Angle-Side congruency: When two triangles have two pair of congruent sides
+and one pair of congruent angles between the sides, then the triangles are congruent.
+C
+F
+SAS CONGRUENCY
+H
+H
+ABC=DEF ≡
+A
+B
+D
+E
+3. ASA congruency
+Angle-Side-Angle congruency: When two triangles have two pair of congruent
+angles and one pair of congruent sides between the angles, then the triangles are
+congruent.
+C
+F
+ASA CONGRUENCY
+ABC ≡ DEF
+A
+B
+D
+E
+Exercise 7.2
+1. Identify which triangles are congruent? Why?
+242
+Unit 7: Congruency and Similarity
+70°
+3cm
+3cm
+3cm
+4cm
+70°
+2cm
+50°
+50°
+40
+4cm
+2cm
+a
+b
+c
+d
+2cm
+4cm
+40°
+70°
+3cm
+3cm
+3cm
+4cm
+50°
+e
+f
+g
+2. Which pair of triangles are congruent? Why?
+√₂ cm
+1cm
+1cm
+45°
+45
+45°
+45
+1cm
+1cm
+√₂ cm
+√₂ cm
+A
+B
+C
+Exercise 7.3
+Which of the following triangles are congruent by ASA condition?
+70°
+3cm
+3cm
+3cm
+4cm
+70°
+2cm
+50°
+50°
+40
+4cm
+2cm
+a
+b
+c
+d
+2cm
+4cm
+40°
+70°
+3cm
+3cm
+3cm
+4cm
+50°
+e
+f
+g
+243
+Unit 7: Congruency and Similarity
+4. RHS Congruency
+Right-angle hypotenuse side congruency: When two right triangles have equal
+hypotenuse and equal one side (leg), then the triangles are congruent.
+A
+D
+RHS CONGRUENCY
+H
+ABC ≡ DEF
+//
+B
+C
+F
+E
+Exercise 7.4
+a) Identify the triangles into pairs of congruent figures.
+4cm
+4cm
+3cm
+3cm
+70°
+4cm
+A
+B
+C
+4cm
+3cm
+3cm
+4cm
+20°
+4cm
+D
+E
+F
+b) Among the following statements, which the following conditions from (i) to (viii)
+will represent for ABC and APQR to be congruent?
+i.
+AB=PQ,BC=QR,AC=PR
+V. AB ≡ PQ, LA ≡ LP, LC ≡ LR
+ii.
+BC=QR, LB ≡ LQ, LC ≡ LR
+vi. AB ≡ PQ, BC ≡ QR
+iii.
+AB ≡ PQ, BC ≡ QR, LC ≡ LP
+vii. LB ≡ LQ, LC ≡ LR
+iv.
+AB ≡ PQ, BC ≡ QR, LB ≡ LQ
+244
+Unit 7: Congruency and Similarity
+7.2
+Definition of Similar Figures
+Activity 7.2
+1. If two plane figures have the same number of sides, what can you say about
+the plane figures?
+2. If two plane figures have the same area, what can you say about similarity and
+congruency the plane figures?
+Definition 7.2
+Two plane figures are similar if their corresponding angles are congruent and the
+ratios of their corresponding sides are proportional. This common ratio is called
+the scale factor.
+Two plane figures are similar means that
+All corresponding angles are congruent
+All corresponding sides are proportional
+When we magnify or diminish similar figures, one exactly places on the other and
+vice versa.
+1. If the two triangles, the two rectangles and the two pentagons below satisfy the
+above properties then they are similar to each other.
+Note that if ABC and DEF are similar, then we write mathematically as
+ДАВС ~ DEF.
+2. Any two circles (of any radii) have the same shape and hence they are always
+similar.
+245
+Unit 7: Congruency and Similarity
+Similarly, two squares (of any side lengths) are similar.
+Exercise 7.5
+Any two regular polygons are similar (True or False). Why?
+Example 1
+Similar triangles and quadrilaterals:
+Given ДАВС ~Д DEF, , find the common ratio of their corresponding sides.
+D
+A
+8cm
+4cm
+4cm
+2cm
+B
+C
+E
+F
+5cm
+10cm
+Solution:
+AB DE , EF BC FD = 4 = 2, FD CA
+Thus, the common ratio is 2.
+Example 2
+In the following quadrilaterals, assume PMNO~URST. Find the unknowns x, y, Z
+246
+Unit 7: Congruency and Similarity
+U
+30
+P
+18
+R
+115°
+25
+M
+z°
+x
+N
+O
+S
+T
+15
+y
+In the similarity statement, ZM = ZR, So, z⁰ = 115°.
+To find the unknown lengths x and y set up proportions of the corresponding sides as
+PM PO
+UR = UT
+18 x
+=
+30 25
+x = 15
+Similarly, to find y,
+PO NO
+=
+UT ST
+15 15
+=
+25 y
+y = 25
+Exercise 7.6
+a) Given ДАВС ~ DEF. Find x and y.
+D
+x
+9cm
+A
+6cm
+3cm
+B
+C
+E
+F
+4cm
+y
+b) Figure ABCD is similar to figure EFGH. Find the perimeter of EFGH.
+247
+Unit 7: Congruency and Similarity
+12cm
+E
+H
+A
+9cm
+D
+16cm
+12cm
+15cm
+B
+18cm
+C
+F
+G
+c) Given ABCD ~ EFGH, find the common ratio of their corresponding sides.
+Find BC
+H
+G
+D
+C
+4.5cm
+A
+B
+E
+F
+4cm
+6cm
+Exercise 7.7
+For the following questions, determine whether each of the statement is true or false.
+a.
+All equilateral triangles are similar.
+b.
+All isosceles triangles are similar.
+c.
+All isosceles right triangles are similar.
+d.
+All rectangles are similar.
+e.
+All rhombuses are similar.
+f.
+All squares are similar.
+g.
+All congruent polygons are similar.
+h.
+All similar polygons are congruent.
+i.
+All regular pentagons are similar.
+248
+Unit 7: Congruency and Similarity
+7.3 Theorems on similar plane figures
+Activity 7.3
+Determine whether the following figures are similar or not.
+Simply as two people can look at a painting and notice or sense differently the
+piece of the art work, there is always more than one way to create a proper
+proportion given similar triangles. These theorems are very useful in such a way
+that we can conclude the similarity of a pair of triangles by showing only three
+pair of sides or /and angles among the six pairs of congruent angles and sides.
+For example, we can say: The three theorems: Angle - Angle (AA), Side - Side -
+Side (SSS) and Side - Angle - Side (SAS) are important for determining similarity in
+triangles.
+249
+Unit 7: Congruency and Similarity
+7.3.1 AA similarity Theorem
+The AA similarity theorem for triangles states that if the two angles of one triangle
+are respectively congruent to the two angles of the other, then the triangles are
+similar. In short, equiangular triangles are similar. Ideally, the name of this criterion
+should then be the AAA (Angle-Angle-Angle) similarity theorem, but we call it
+as AA similarity theorem because we need only two pairs of angles to be equal - the
+third pair will then automatically be equal by the angle sum property of triangles. The
+notation ~ is used to denote similarity.
+Consider the following figures, in which ДАВС and DEF are equiangular.
+A
+65°
+D
+65°
+60°
+55°
+60°
+55°
+B
+C
+E
+F
+Using the AA similarity theorem, we can say that these triangles are similar.
+Mathematically, it is written as AABC~ADEF.
+Example
+Determine whether or not the following two triangles are similar.
+E
+L
+102°
+102°
+30°
+48°
+F
+G
+N
+M
+Solution:
+Compare the angles to see if we can use the AA similarity theorem. Using triangle
+angle sum theorem, m(/G) = 48° & m(/M) = 30°. Hence, AEFG~ALMN by AA
+similarity theorem.
+250
+Unit 7: Congruency and Similarity
+Exercise 7.8
+Are the following pairs of triangles similar or not by AA similarity theorem or not?
+Why?
+104
+104
+47°
+29
+a
+D
+D
+45
+A
+45
+65
+70
+B
+C
+E
+70°
+F
+B
+45°
+70
+C
+E
+80 F
+b
+c
+7.3.2 SSS similarity Theorem
+If the corresponding three sides of two triangles are proportional to each other, then
+the triangles are similar. This essentially means that any such pair of triangles are
+equiangular (all corresponding angle pairs are congruent).
+Example 1
+Determine whether the following pairs of triangles are similar by SSS similarity
+theorem.
+A
+10cm
+14cm
+D
+5cm
+7cm
+B
+C
+E
+F
+12cm
+6cm
+251
+Unit 7: Congruency and Similarity
+Solution:
+Hence, AABC~ADEF by SSS similarity theorem.
+Example 2
+When the corresponding sides of two triangles are proportional, the triangles are
+similar. What are the corresponding sides? Using the triangles below, we see how the
+sides are line up in the diagram.
+Solution:
+A
+D
+20
+32
+15
+24
+B
+C
+E
+F
+28
+21
+28
+32
+20
+4
+Since
+=
+=
+=
+-
+the same color are the corresponding sides.
+21
+24
+15
+3
+Therefore, the triangles are similar by SSS similarity theorem.
+Exercise 7.9
+a) Determine whether the following pairs of triangles are similar by SSS
+similarity theorem or not.
+F
+C
+15cm
+12cm
+10cm
+8cm
+A
+B
+D
+E
+12cm
+18cm
+b) Determine whether the following pairs of triangles are similar.
+252
+Unit 7: Congruency and Similarity
+D
+7.5
+4.5
+5
+3
+B
+C
+E
+F
+(1)
+6
+9
+A
+D
+7
+6
+7.5
+7
+B
+C
+E
+F
+(2)
+4
+8
+A
+D
+6.4
+5.4
+5.4
+6.4
+B
+C
+E
+F
+(3)
+6
+6
+7.3.3 SAS similarity theorem
+If the corresponding two sides of two triangles are proportional and the included
+angles are congruent, then the two triangles are similar.
+Note the emphasis on the word included. If the congruent angles are non-included
+angles, then the two triangles may not be similar. Consider the following figures.
+A
+65°
+D
+14cm
+12cm
+65°
+6cm
+7cm
+B
+C E
+F
+253
+Unit 7: Congruency and Similarity
+AB DE = 12 6 = 2, AC DF = 1/7 = 2 , then the two corresponding sides are in the same ratio
+and LA ≡ LD
+Hence, AABC~ADEF by SAS similarity theorem.
+Example 1
+Assume AABC~ADEF
+Find the length of the remaining sides of the triangles.
+A
+D
+9cm
+8cm
+B
+C
+E
+F
+15cm
+10cm
+Solution:
+Since the triangles are similar, we have relation
+AB DE BC AC
+Here, DE 9/15 15 10 This implies DE = 6cm. Also, 9 - Acm, AC gives AC = 12cm.
+Example 2
+Consider the following figures and find the value of ZE.
+C
+83°
+F
+5cm
+4cm
+3.5cm
+2.8cm
+56°
+A
+B
+D
+E
+6cm
+4.2cm
+Solution:
+Match the longest side with the longest side and the shortest side with the shortest
+side and check all the three ratios. We note that the three sides of the two triangles
+are respectively proportional, that is 1/7 Therefore, AABC~ADEF
+254
+Unit 7: Congruency and Similarity
+by SSS similarity theorem. Hence, the corresponding angles are congruent and hence
+ZE = ZB = 180⁰ - (56⁰ + 83⁰) = 41⁰.
+Example 3
+Given ABC ~Д DEF, Find LD, ZE, ZF and the lengths of DE.
+D
+A
+6√2
+3√2
+3
+B
+C
+E
+F
+3
+Solution:
+As ABC ~Д DEF, ZD = ZA = 45° since the triangles are isosceles triangles.
+ZE = ZB = 90°,
+ZF = ZC = 45°,
+DE
+DF
+=
+AB
+AC
+DE
+6√2
+=
+3
+3√2
+DE / 3 DE 3 = 2
+DE = 6
+Exercise 7.10 a)
+a. Are these two triangles similar? Why?
+A
+D
+36cm
+24cm
+B
+C
+E
+F
+15cm
+10cm
+b. Are there similar triangles in the figure below? Why?
+255
+Unit 7: Congruency and Similarity
+A
+9cm
+12cm
+E
+B
+3cm
+5cm
+D
+C
+C. Given ABCDE ~ FGHIJ, Find LD, 2F, L] and LI and the lengths of IJ and JF.
+F
+A
+6.4
+80
+4.4
+E
+J
+B 130°
+98
+G
+2.2
+3.2
+116°
+4.4
+C
+D
+116°
+H
+I
+Exercise 7.10 b)
+1. Answer the following questions referring the triangles below:
+Given AB = 20 and DE = 15.
+i. Are these triangles similar?
+D
+ii. Find BC if FE = 12.
+A
+55°
+F
+E
+C
+35°
+B
+2. What do we mean when we say two triangles are congruent? Two triangles are
+similar? What is the difference between congruency and similarity?
+3. If ABIG~DHAT, then
+256
+Unit 7: Congruency and Similarity
+a. list the congruent angles and proportions of the sides.
+b. If BI = 9 and HA = 15, find the scale factor.
+c. If BG = 21, find HT. ( ( Use the scale factor above)
+d. If AT = 45, find IG.
+4. As shown in the figure below, DE is parallel to CA and DF is parallel to CB.
+Answer the
+D
+following questions:
+C
+16cm
+a. Show, AABC~AEFD
+x cm
+b. Find the value of x.
+E
+F
+4cm A
+10cm
+B
+6cm
+5. Find the unknown numbers x, y and Z of the following figures.
+a.
+b.
+y
+x
+10
+8
+x
+5
+H
+12
+15
+C.
+d.
+y
+z
+12
+8
+8
+14
+4
+x
+x
+6. Suppose AB and DC are parallele in the figure below. Use congruency of alternate
+interior angles.
+257
+Unit 7: Congruency and Similarity
+a. Mention two similar triangles. How you check they are
+A
+B
+similar?
+E
+b. Can you mention triangles which are not similar?
+c. If AB = 10, AE = 7 and DC = 22, then find AC.
+D
+C
+7. Prove Pythagoras theorem using similarity of triangles. (Hint: Consider a right
+angle triangle, ДАВС and draw segment BD perpendicular to AC. The three
+triangles are similar.)
+B
+b
+a
+C
+A
+D
+c
+8. ABC is a right angle triangle, right angled at B. If BD, the length of the
+perpendicular from B on AC, is p,
+B
+BC = b, AC = C and AB = a
+( the figure below), show that:
+b
+a
+p
+i.
+pc = ab
+ii.
+1/2 1 = a² 1 + b² 1
+A
+D
+C
+c
+9. Find the perpendicular distance from the point of intersection E of the
+hypotenuses of the right angled triangles
+to their common base. Is there any other
+method to solve this problem? What can
+5cm
+you conclude?
+3cm
+h
+258
+Unit 7: Congruency and Similarity
+7.4 Ratio of perimeters of similar plane figures
+Activity 7.4
+1. What is ratio?
+2. What is a scale factor?
+3. Use pattern blocks to make a figure whose dimensions are 1,2,3 and 4 times
+larger than the original figure. Find the perimeter P of each larger figure.
+1 unit
+1 unit
+P = 4
+P=8
+P 12
+P = 16
+1
+1
+1
+P=3
+P=6
+P =
+P =
+A=a
+A = 4a
+A =
+A =
+4. How do changes in dimensions of similar figures affect the perimeters of the
+figures? Is this always so? What can you generalize?
+Definition 7.3
+If two figures are similar, then the ratio of their perimeters is equal to ratio of
+their corresponding side lengths.
+259
+Unit 7: Congruency and Similarity
+Example 1
+Assume that AABC~ADEF and the ratio of the lengths of their sides is 2. Then, find
+the ratio of the corresponding perimeters. The perimeter of ДАВС is 6 + 8 + 10 and
+the perimeter of DEF is 3 + 4 + 5.
+C
+F
+A
+B
+D
+E
+Solution:
+The perimeter of ABC = 6 + 8 + 10 = 24 and
+The perimeter of DEF = 3 + 4 + 5 = 12.
+Perimeter of ДАВС
+24
+=
+=
+2 is equal to the ratio of the corresponding sides
+Perimeter of DEF
+12
+AC
+DE
+AB
+Note:
+is the same as AB: DE. Both refer to the ratio of AB to DE.
+DE
+Example 2
+Find the ratio (purple to blue) of the perimeters of the similar rectangles below if the
+lengths of the rectangles are 4cm and
+6cm for purple and blue, respectively.
+Solution:
+Perimeter of the Purple rectangle
+Perimeter of the Blue rectangle 6cm
+Exercise 7.11
+Use the formula p₁ P1/2 p₂ 5½ S₂ S₁ for two similar plane figures where p₁ and p₂ are the
+perimeters and S₁ and S₂ are the corresponding sides of the figures
+260
+Unit 7: Congruency and Similarity
+1. Find the ratio of the perimeter of the similar triangles below.
+2
+6
+2. The ratio of the perimeters of two similar triangles is 5.5 3 5
+The scale factor is
+3. Two circles have radii 8 cm and 12 cm, respectively. The ratio of their
+circumferences is
+4. How does doubling the side lengths of a rectangle affect its perimeter?
+5. How does quadrupling the side lengths of a rectangle affect its perimeter?
+6. The pairs of figures below are similar. Find the ratio of their perimeters ( purple
+to blue)
+11
+6
+7
+4
+8
+5
+14
+9
+261
+Unit 7: Congruency and Similarity
+7.5 Ratio of areas of similar plane figures
+Activity 7.5
+1. Repeat activity 7.4 question number 3 and 4 for comparing areas of similar
+plane figures.
+2. The two triangles below are similar. Drag any orange dot (vertex) at P, Q, R.
+The areas of the triangles are 9.2 and 36.8. Verify that the square of the ratio
+of the two corresponding sides is equal to the ratio of the areas.
+P
+L
+7.4
+3.7
+M
+N
+Q
+R
+Definition 7.4
+If two plane figures are similar, then the ratio of their areas is equal to the square
+of the ratio of their corresponding side lengths.
+Example 1
+Consider a pair of similar rectangles 1cm by 2cm and 3cm by 6cm below. The ratio
+of the corresponding sides is 3. Find the ratio of their areas.
+E
+H
+3
+A
+D
+1
+B
+2
+C
+F
+6
+G
+262
+Unit 7: Congruency and Similarity
+Area of the smaller rectangle = 1 x 2 = 2cm²
+Area of the larger rectangle = 3 x 6 = 18cm²
+The ratio of area Area of the larger rectangle
+Area of the smaller rectangle
+18
+2
+= 9 = 3² = (the ratio of the length of thier corresponding side)²
+In other words, since the ratio of length = 3: 1, then ratio of area = 3²: 1² = 9: 1
+Example 2
+If ABC and DEF are similar as indicated below. Find the ratio of the area of the
+larger triangle to the smaller triangle.
+C
+F
+A
+B
+D
+E
+10
+6
+Solution:
+The ratio of area = Area of the larger triangle = (10) 6 2 = =2/9 25 9
+Area of the smaller triangle
+Therefore, the ratio of the areas is 25 2 / 9
+9
+Exercise 7.12
+a. Find the ratio of the areas of rhombi below. The rhombi are similar.
+10cm
+6cm
+5cm
+3cm
+b. Find the ratio of areas of similar quadrilaterals below.
+263
+Unit 7: Congruency and Similarity
+3cm
+6cm
+C. The ratio of the areas of two squares is 64: 49. The scale factor is
+and the ratio of their perimeters is
+.
+d. Two circles have radii 8 cm and 12 cm, respectively. The ratio of their
+circumferences is
+and the ratio of their areas is
+.
+(Hint: All circles are similar. The scale factor is the ratio of their radii.)
+e. The ratio of the areas of two similar rectangles is 25 : 36. The scale factor is
+and the ratio of their perimeters is
+.
+f. Two similar triangles have corresponding sides 3 and 9. If the area of the first
+triangle is 12, what is the area of the second triangle?
+g. Two similar triangles have areas 144 cm² and 169 cm². If a side of the larger
+triangle is 26cm, find the length of the corresponding side of the smaller triangle.
+h. How does doubling the side lengths of a rectangle affect its area?
+i. How does quadrupling the side lengths of a rectangle affect its area?
+j. You place a picture on a page. The page and the picture are similar rectangles.
+1 5cm
+20cm
+264
+Unit 7: Congruency and Similarity
+1. How many times greater is the area of the page than the area of the picture?
+2. If the area of the picture is 45 cm², what is the area of the page?
+k. A triangle with area of 10m² has a base of 4m. A similar triangle has an area of
+90m². What is the height of the larger triangle?
+7.6 Construction of similar figures
+Activity 7.6
+1. What is a scale factor?
+2. Given a line segment, how do you draw a line segment parallel to the given
+lines segment?
+3. What does it mean that the scale factor is greater than 1? Less than 1? Equal
+to 1?
+The construction of a similar triangle involves two different cases. On one hand, the
+triangle to be constructed could be bigger (or larger), and on the other hand, the
+triangle may be smaller than the given triangle. Also, the scale factor determines the
+ratio of the sides of the triangle to be constructed with the corresponding sides of the
+given triangle.
+Example: construct a triangle similar to the given triangle ABC for example, with
+scale factor 5.5 3 5
+A
+B
+C
+265
+Unit 7: Congruency and Similarity
+Steps of construction:
+Step 1: Draw a ray BX making an acute, acute with the base BC and mark 5 points
+B₁, B₂, B₃, B₄, B₅ on BX such that BB₁ = B₁B₂ = B₂B₃ = B₃B₄ = B₄B₅.
+A
+B
+c
+B₁
+B₂
+B₃
+B₄
+B₅
+X
+Step 2: Join B₃C and draw a line B₅C' such that B₃C is parallel to B₅C', , where C' lie
+on the produced BC.
+A
+B
+C
+C'
+B₁
+B₂
+B₃
+B₄
+B₅
+Step 3: Now draw another line parallel to AC at C' such that it meets the produced
+BA at A'.
+A'
+A
+B
+C
+C'
+B₁
+B₂
+B₃
+B₄
+B₅
+X
+266
+Unit 7: Congruency and Similarity
+Hence, A'B'C' is the required triangle similar to the ДАВС.
+Exercise 7.13
+Construct a triangle similar to the given triangle ABC, with scale factor 1, 2 1 and 2 3
+A
+B
+c
+7.7 Applications of similarity
+Activity 7.7
+Given a ladder 5m long lying on a wall. If the height of the wall to the top of the
+ladder is 3m. How far is the bottom of the ladder from the wall?
+Similar triangles are used to work out the heights of tall objects such as trees,
+buildings and towers without climbing, which are difficult to measure for us.
+Example 1
+Almaz is 1.6 meters tall and is standing outside next to her younger brother. She
+notices that she can see both of their shadows and decides to measure each shadow.
+Her shadow is 2 meters long and her brother's shadow is 1.5 meters long. How tall
+is Almaz's brother?
+Solution:
+Let x be the height of the younger brother. Using proportionality of corresponding
+heights and length of shadows, we have
+2-16 1.5 1.6 Hence, x = 1.2 meters.
+Therefore, Almaz's brother is 1.2m long.
+267
+Unit 7: Congruency and Similarity
+Example 2
+Abebe's boat has come untied and floated away on Lake Tana. He is standing on the
+top of a building that is 35 m above the water from the lake. If he stands 10 m from
+the edge of the building, he can visually align the top of the building with the water
+at the back of his boat. His eye level is 1.8 m above the top of the building.
+Approximately, how far is Abebe's boat from the building?
+Solution:
+1.8 m
+10m
+35m
+Let x be the distance from the boat to the building. Using proportionality of
+corresponding sides of the two triangles, we have
+1.8 35 = 10 x , Hence, x~ 194.4m.
+Therefore, the boat is approximately 194.4m from the building.
+Example 3
+Suppose BA, CF and DE be the heights of three buildings. Let DC = 1, BC = 3,
+CF = 4 and AB = 2 as indicated in the figure below show. Find the height x of the
+tallest building.
+E
+F
+Solution:
+Extend FA and CB so that they meet at G. Now, we have
+A
+x
+4
+ADGE~ACGF by AA similarity theorem.
+2
+DG CG = ED FC consider similar triangles
+B
+D
+3
+C
+1
+AGB and FGC. From this, we get GG ABC. BIG GB GC AB FC
+268
+Unit 7: Congruency and Similarity
+GB
+2
+=
+GB+3
+4
+Therefore, GB = 3 and x 14/3 1/3 3
+Example 4
+Two persons stand at point A and B and want indirectly to measure the width of the
+river. How long is the width of the river? It is done as follows: Person A moves 15 m
+to the left and person B moves 60 m to the right. Moreover, person A moves 5m
+away from the river. The line connecting the places after the two people have moved
+passes through point A.
+Solution:
+B
+A
+Their Original Position
+B
+60m
+C
+D
+15m
+A
+5m
+E
+Person at B moves the right 60m at C
+and, Person at A moves to left 15m at D and then 5m away from the river at E
+269
+Unit 7: Congruency and Similarity
+B
+60m
+c
+width
+width
+D
+15m
+5m
+A
+60m
+F
+E
+Similar Triangles ADE and AFC are formed
+AD
+DE
+AE
+Therefore,
+=
+=
+AF
+FC
+AC
+15
+5
+AE
+=
+=
+60
+FC
+AC
+FC = 20. Hence, the width of the river is 20m
+Exercise 7.14
+a.
+Abdi is 1.8 meters tall and is standing outside next to his younger brother. He
+notices that he can see both of their shadows and decides to measure each
+shadow. His shadow is 2.4 meters long and his brother's shadow is 2 meters
+long. How tall is Abdi's brother?
+B
+1.8m
+C
+E
+D
+2m
+2.4m
+270
+Unit 7: Congruency and Similarity
+b. Abdisa's boat has come untied and floated away on Lake Hawasa. He is
+standing on the top of a building that is 75 m above the water from the lake. If
+he stands 15 m from the edge of the building, he can visually align the top of
+the building with the water at the back of his boat. His eye level is 1.75 m
+above the top of the building. Approximately, how far is Abebe's boat from the
+building?
+Exercise 7.15
+1. A giraffe is 6m tall and casts a shadow of 4m. Another small giraffe casts a
+shadow of 2m. How long is the smaller giraffe?
+2. A flagpole casts a shadow 9m long. A person 1.8 m long, standing nearby casts a
+shadow 4m long. How tall is the flagpole?
+3. A photograph measuring 4cm wide and 5cm long is enlarged to make a wall
+mural. If the mural is 120cm wide, how long is the mural?
+4. A 9m ladder leans against a building 6m above the ground. At what height would
+a 15m ladder touch the building if both ladders form the same angle from the
+ground?
+5. A ladder is placed against a wall such that it aches up to a height of 4m of the
+wall. If the foot of the ladder is 3m away from the wall, find the length of the
+ladder.
+6. P and Q are points on the sides CA and CB, respectively of ДАВС, right angled at
+C. Prove that AQ² + BP² = AB² + PQ².
+7. A 12 - centimeter rod is held between a flashlight and a wall as shown. Find the
+length of the shadow on the wall if the rod is 24 cm from the wall and 15 cm
+from the light. Assume that the dotted line segments meet at a point inside the
+flashlight.
+271
+Unit 7: Congruency and Similarity
+Flashlight
+Shadow
+Wall
+272
+Summary and Review Exercise
+Summary
+1. Two plane figures are similar if:
+i. their corresponding sides are proportional.
+ii. their corresponding angles are congruent.
+2. Under an enlargement
+a. Lines and their images are parallel.
+b. Angles remain the same.
+C. All lengths are increased or decreased in the same ratio.
+3. Scale factor- the ratio of corresponding sides usually expressed numerically so
+that:
+length of the line segment on the enlagement
+Scale factor =
+length of the line segment on the original
+4. AA Similarity theorem
+If two angles of one triangle are congruent to the corresponding two angles
+of another triangle, then the two triangles are similar.
+SSS Similarity theorem
+If the corresponding three sides of two triangles are proportional to each other,
+then the triangles are similar.
+SAS Similarity theorem
+If the corresponding two sides of two triangles is proportional and the included
+angles are congruent, then the two triangles are similar.
+5. If two figures are similar, then the ratio of their perimeters is equal to ratio of
+their corresponding side lengths.
+6. If two figures are similar, then the ratio of their areas is equal to the square of
+the ratio of their corresponding side lengths.
+273
+Summary and Review Exercise
+Review Exercise
+1. In the given figure, if x = y and AB = CB, then prove that AE = CD.
+B
+D
+A
+x
+F
+E
+y
+c
+2. AD is an altitude of an isosceles ABC in which AB ≡ AC.
+Show that
+(i) AD bisects
+(ii) AD bisects LA.
+3. In the given figure, line l is the bisector of LA and B is any point on l. If
+segment BP and BQ are perpendiculars from point B to the arms of LA, show
+that
+(i) APB ≡ AQB
+(ii) BP ≡ BQ, i.e., B is equidistant from the arms of LA.
+Q
+l
+B
+A
+P
+4. In a triangle, a line is drawn parallel to one side and a small triangle is cut off.
+Prove that the triangle cut off is similar to the original triangle.
+274
+Summary and Review Exercise
+5. Consider the four triangles made by joining all the midpoints of a triangle. Show
+these triangles are congruent and they are similar to the largest triangle.
+6. Prove that a parallelogram is formed by joining the midpoints of any
+quadrilateral,
+7. Assume that D is a point on side BC of triangle ABC such that LADC = LBAC
+as in the figure. Show that (CA)² = CB . CD.
+A
+c
+B
+D
+8. L and M are the mid-points of the sides AB and AC of ДАВС, right angled at B.
+Show that 4(LC)² = (AB)² + 4(BC)².
+9. The perimeter of two similar triangles ABC and DEF are 12 cm and 18 cm.
+Find the ratio of the area of ДАВС to that of DEF
+10. The altitudes AD and PS of two similar triangles ABC and PQR are of length
+2.5 cm and 3.5 cm. Find the ratio of area of ДАВС to that of APQR.
+11. Two poles of heights 12 m and 17 m, stand on a plane ground and the distance
+between their feet is 12 m. Find the distance between their top.
+12. A ladder is placed against a wall and its top reaches a point at a height of 8 m
+from the ground. If the distance between the wall and foot of the ladder is 6 m,
+find the length of the ladder.
+13. In an equilateral triangle, show that three times the square of a side equals four
+times the square of a median.
+14. A triangle with an area of 60 square meters has a base of 4 meters. A similar
+triangle has an area of 50 square meters. Find the height of the smaller triangle.
+275
+Summary and Review Exercise
+15. The value of X in the diagram below is:
+H
+X
+A
+17
+Y
+16
+B
+22
+V
+A. 38
+B. 33.375
+C. 40.375
+D. 39.75
+16. If AABC~DEF, then which of the following is not true?
+A. AB DE = EF BC
+B. AB DE = EF BC
+C. DF AC = BC EF
+D. DE / AB = BC EF
+17. If the ratio of sides of triangles ABC and DEF is k, then the ratio of their
+perimeters is:
+A.k
+B. k²
+C. - k 1
+D. k + 1
+276
+UNIT
+8
+VECTORS IN TWO DIMENSIONS

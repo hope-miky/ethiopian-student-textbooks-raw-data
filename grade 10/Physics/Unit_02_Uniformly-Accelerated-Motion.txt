@@ -1,0 +1,1518 @@
+Unit 2
+Uniformly Accelerated Motion
+Introduction
+In your grade 9 Physics, you have learnt that uniform motion occurs when
+Brain storm-
+an object moves at a steady speed in a straight line. Most moving objects,
+ing question
+however, do not display uniform motion. Any change in an object's speed
+In your everyday
+or direction or both causes the motion of an object to become non uni-
+life, you come
+form. This non uniform motion, or changing velocity, is called accelerated
+across a range of
+motion. A car ride in a city at rush hour during which the car must speed
+constant accel-
+up, slow down, and turn corners is an obvious example of accelerated
+eration motions.
+motion. In this unit, you will learn about uniformly accelerated motion.
+Can you give two
+examples for such
+By the end of this unit, you should be able to:
+type of motion?
+know terms that are used to describe uniformly accelerated motion;
+understand the different types of motions used to describe physical
+phenomena;
+know the equation of motions that describe the motion of an object
+under uniform acceleration;
+solve motion problems using uniformly accelerated formulas;
+understand relative velocity in one dimension.
+21
+22
+Unit 2 Uniformly Accelerated Motion
+2.1 Position and Displacement
+By the end of this section, you should be able to:
+define terms such as position, displacement, and distance;
+determine the distance and displacement traveled by an object;
+describe the difference between distance and displacement.
+Position
+Exercise 2.1
+To describe the motion of an object, you must first be able to describe its
+Can two objects
+position, or where it is at any particular time. The word position describes
+be at the same
+your location (where you are). However, saying that you are here is mean-
+distance from a
+ingless, and you have to specify your position relative to a known reference
+single point while
+point. So, you need to specify its position relative to a convenient frame of
+being in different
+reference. A frame of reference is an arbitrary set of axes from which the
+positions? Why or
+position and motion of an object are described.
+why not?
+To visualize position for objects moving in a straight line, you can imagine
+the object is on a number line. The object may be placed at any point on
+the number line in the positive numbers or the negative numbers. It is
+common to choose the original position of the object to be on the zero
+Key Concept
+mark as shown in Figure 2.1. In making the zero mark the reference point,
+The location
+you have chosen a frame of reference. The exact position of an object is
+of an object in a
+the separation between the object and the reference point.
+frame of reference
+is called position.
+Position is thus the location of an object with reference to an origin. It can
+be negative or positive. It has units of length: centimeter (cm), meter (m)
+or kilometer (km). For example, depending on that reference point you
+choose, you can say that the new constructed school is 300 m from Kemal's
+house (with Kemal's house as the reference point or origin).
+2.1 Position and Displacement
+23
+Displacement
+From your grade 9 Physics, you know that distance is the total length of the
+Finish
+path taken in going from the initial position to the final position. Distance
+Distance
+is a scalar. But the difference between the initial and final position vectors
+of a body is called its displacement. Basically, displacement is the shortest
+distance between the two positions and has a certain direction. Thus,
+displacement is a vector quantity. In Figure 2.1, distance is the length of
+Department
+the dashed line, while displacement is the straight-line distance from the
+starting point to the endpoint.
+Start
+Activity 2.1
+Figure 2.1 The possible dis-
+On a piece of graph paper, draw a scale map of your home and
+tance and displacement of an
+school area. Determine your displacement and estimate the dis-
+object in motion between two
+points.
+tance you travel:
+a) from home to school.
+b) from school to home.
+If the initial position (s₀) from which an object moves to a second position
+(s) in a particular frame of reference, then the displacement s can be
+written as:
+Exercise 2.2
+= s - S₀
+(2.1)
+What is the dif-
+In order to answer exercise 2.2, consider the motion of an object moving
+ference between
+along a straight path. The object starts its journey from O which is treated
+distance and
+as its reference point as shown in Figure 2.2. Let A, B, and C represent the
+displacement?
+position of the object at different instants.
+o
+C
+B
+A
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+km
+Figure 2.2 Positions of an object on a straight line path.
+24
+Unit 2 Uniformly Accelerated Motion
+Exercise 2.3
+For motion of the object from O to A, the distance covered is 60 km and
+Can the mag-
+the magnitude of displacement is also 60 km. During its motion from O to
+nitude of the
+A and back to B, the distance covered = 60 km + 25 km = 85 km while the
+displacement of
+magnitude of displacement = 60 km - 25 km = 35 km. Thus, the magnitude
+an object from its
+of displacement (35 km) is not equal to the path length (85 km). Further,
+original position
+you will notice that the magnitude of the displacement for a course of
+ever exceed the
+motion may be zero, but the corresponding distance covered is not zero.
+total distance
+If you consider the object to travel back to O, the final position coincides
+moved? Explain.
+with the initial position, and therefore, the displacement is zero. However,
+the distance covered in this journey is OA + AO = 60 km + 60 km = 120 km.
+Thus, the two different physical quantities (distance and displacement),
+are used to describe the overall motion of an object and to locate its final
+position with reference to its initial position at a given time.
+yn
+Example 2.1
+70 m
+A person walks 70 m East, and then 30 m West. Find the displacement.
+40 m
+30 m
+Displacement
+Solution:
+The displacement of a person walking 70 m to the East and then turning
+Figure 2.3 A person walking 70
+around and walking back (West) a distance of 30 m as shown in Figure 2.3
+m East and then 30 m West.
+is: s = s - S₀ = 70 m - 30 m as both vectors are in an opposite direction
+with one another. Thus,
+Key Concepts
+A = 40 m East
+JET Distance is
+the actual path
+The displacement is only 40 m since the person is now only 40 m from the
+that is travelled
+starting point but the total distance traveled is 70 m + 30 m = 100 m.
+by a moving
+body, where as
+displacement
+is the change in
+position (final
+position minus
+initial position).
+2.2 Average velocity and instantaneous velocity
+25
+Section summary
+A description of motion depends on the reference frame from
+which it is described.
+Position is the location of an object compared to a reference
+Activity 2.2
+frame (point).
+Walk from one
+The distance an object moves is the length of the path along
+corner of your
+which it moves.
+classroom to its
+opposite corner
+Displacement is the difference between the initial and final
+along its sides.
+positions of an object.
+Measure the dis-
+tance covered
+Review questions
+by you and mag-
+nitude of the
+1. Explain the difference between position and displacement.
+displacement.
+2. Give an example that clearly shows the difference among dis-
+What difference
+tance traveled, displacement, and magnitude of displacement.
+would you notice
+between the two
+Identify each quantity in your example.
+in this case?
+3. A body travels a distance of 15 m from A to B and then moves
+a distance of 20 m at right angles to AB. Calculate the total
+distance traveled and the displacement.
+2.2 Average velocity and instantaneous velocity
+Exercise 2.4
+Can the average
+By the end of this section, you should be able to:
+speed ever equal
+define instantaneous and average velocity of a body in motion;
+the magnitude
+of the average
+describe the difference between average velocity and instantaneous
+velocity? If "no,"
+velocity;
+why not? If "yes,"
+solve problems related to the average velocity.
+give an example.
+26
+Unit 2 Uniformly Accelerated Motion
+Average velocity
+In grade 9, you learnt that the rate of change of distance with time is called
+speed, while the rate of change of displacement is known as velocity. Un-
+like speed, velocity is a vector quantity.
+Key Concept
+When an object travels a certain distance with different velocities, its
+motion is specified by its average velocity. The average velocity of a body
+Velocity is the
+is defined as the body's displacement (s) divided by the time interval
+physical quantity
+(t) during which that displacement occurs. Let S₀ and S be its positions
+that describes
+how a moving
+at instants t₀ and t, respectively. You can express average velocity (vₐv)
+object's displace-
+mathematically as:
+ment changes.
+(2.2)
+Exercise 2.5
+where t - t₀ is change in time, and t₀ is the starting time which is com-
+Does the
+monly zero.
+speedometer
+of a car measure
+speed or velocity?
+The SI unit for average velocity is meters per second (m/s or m s⁻¹). But
+there are also many other units, such as kilometer per hour (km/h), miles
+per hour (mi/h (also written as mph)) and centimeter per second (cm/s) in
+Exercise 2.6
+common use.
+jer
+Describe how
+the instantaneos
+The average speed of an object is obtained by dividing the total distance
+velocity differs
+traveled by the total time taken:
+from the averag
+velocity?
+Vav total total distance time taken travelled
+(2.3)
+jer
+In which sit-
+uation will the
+If the motion is in the same direction along a straight line, the average
+instantaneous
+speed is the same as the magnitude of the average velocity. However, this
+velocity and av-
+is always not the case.
+erage velocity of
+an object be the
+same?
+2.2 Average velocity and instantaneous velocity
+27
+Instantaneous velocity
+Suppose the magnitude of your car's average velocity for a long trip was 20
+m/s. This value, being an average, does not convey any information about
+Key Concept
+how fast you were moving or the direction of the motion at any instant
+Instantaneous
+during the trip. Both can change from one instant to another. Surely, there
+velocity is the ve-
+were times when your car traveled faster than 20 m/s and times when it
+locity at a specific
+traveled more slowly.
+instant in time (or
+over an infinitesi-
+The instantaneous velocity of the car indicates how fast the car moves and
+mally small time
+the direction of the motion at each instant of time. Thus, it is the rate of
+interval).
+change in displacement as change in time approaches zero. Mathemati-
+cally, the instantaneous velocity (v) of a body is given by
+v-st-so S₀ when t - to approaches 0
+(2.4)
+The magnitude of the instantaneous velocity of a moving car is the reading
+of the speedometer.
+Road traffic accidents are among the main causes of mortality in Ethiopia.
+Speed is still the most common factor in fatal road accidents, accounting
+Figure 2.4 A fatal car accident.
+for more than half of all road deaths each year. Figure 2.4 shows one of
+the fatal car crash where at least 5 people were died and 17 others injured
+Exercise 2.7
+after a minibus collided with a parked car somewhere in Ethiopia. It may
+jer
+Can you imag-
+not seem like much, but driving even a few kilometers per hour above
+ine the things that
+the speed limit greatly increases the risk of an accident. Speed limits are
+would happen if
+used to set the legal maximum or minimum speed at which road vehicles
+a driver does not
+may travel on a given stretch of road. They are generally indicated on a
+obey the speed
+traffic sign reflecting the maximum or minimum speed permitted that is
+limits set and
+expressed usually in kilometers per hour (km/h). Speed limits are being
+are moving in
+started to be monitored by traffic officers in the various streets and roads
+uniformly acceler-
+of our country. Speed limits are used to regulate the speed of vehicles in
+ated motion?
+certain places and it also controls the flow of traffic. It is also observed to
+minimize accidents from happening.
+28
+Unit 2 Uniformly Accelerated Motion
+Example 2.2
+It takes you 10 minutes to walk with an average velocity of 1.2 m/s to the
+North from the bus stop to the museum entrance. What is your displace-
+ment?
+Solution:
+You are given with st = 10 minutes = 600 s and Vₐv = 1.2 m/s, s North.
+You want to find s.
+Since
+di=vmxAr=12=x600s=720m,No th
+This means the displacement has a magnitude of 720 m and a direction to
+the North.
+Example 2.3
+A passenger in a bus took 8 s to move 4 m to a seat on provided place
+forward. What is his average velocity?
+Solution:
+You are given = 4 m and t=8s.
+What you want to find is Vₐᵥ.
+The average velocity is thus
+Example 2.4
+A car travels at a constant speed of 50 km/h for 100 km. It then speeds up
+to 100 km/h and is driven another 100 km. What is the car's average speed
+for the 200 km trip?
+2.2 Average velocity and instantaneous velocity
+29
+Solution:
+You are given S₁ = 100 km, v₁ = 50 km/h, S₂ = 100 km, v₂ = 100 km/h.
+In order to find the average speed, you first need to find the total distance
+traveled and total time taken.
+Thus, the total distance traveled is 100 km + 100 km = 200 km. The total
+time taken is t₁ + t₂ where
+h
+The car's average speed is thus
+Exercise 2.8
+Vav total total distance time taken travelled 200 km
+Cheetahs, the
+world's fastest
+land animals, can
+Note: Averaging the two speeds ( 50 km/l + 100 ) gives you a wrong
+2
+run up to about
+answer which is 75 km/h. The average speed of an object is obtained by
+125 km/h. A chee-
+dividing the total distance traveled by the total time taken.
+tah chasing an
+impala runs 32 m
+Section summary
+north, then sud-
+denly turns and
+Average velocity is change in displacement divided by time
+runs 46 m west
+taken.
+before lunging at
+the impala. The
+Instantaneous velocity is the velocity of an accelerating body
+entire motion
+at a specific instant in time.
+takes only 2.7 S.
+The magnitude of instantaneous velocity is its instantaneous
+(a) Determine the
+speed.
+cheetah's average
+speed for this
+Review questions
+motion.
+(b) Determine the
+1. How do you find the average velocity of an object in motion
+cheetah's average
+between two points?
+velocity.
+30
+Unit 2 Uniformly Accelerated Motion
+2. Explain the difference between average speed and average
+velocity?
+3. There is a distinction between average speed and the magni-
+tude of average velocity. Give an example that illustrates the
+difference between these two quantities.
+4. If an object has the instantaneous velocity of 20 m/s to East,
+what is its instantaneous speed?
+5. A car moves with an average velocity of 48.0 km/h to the East.
+How long will it take him to drive 144 km on a straight high-
+way?
+6. An athlete runs 12 km to the North, then turns and runs 16
+km to the East in three hours.
+a) What is his/her displacement?
+b) Calculate his/her average velocity.
+c) Calculate average speed.
+Exercise 2.9
+1) If a body has
+constant velocity
+2.3 Acceleration
+on straight level
+surface, what is
+By the end of this section, you should be able to:
+the magnitude of
+explain acceleration in one dimension;
+its acceleration?
+distinguish between instantaneous acceleration and average accel-
+2) Does the di-
+rection of ac-
+eration;
+celeration be in
+calculate the average acceleration.
+the direction of
+velocity itself?
+While traveling in a bus or a car, you might have noticed that sometimes its
+speed increases and sometimes it slows down. That is, its velocity changes
+with time. The quantity that describes the rate of change of velocity in a
+given time interval is called acceleration. Any change in velocity whether
+positive, negative, directional, or any combination of these is acceleration.
+2.3 Acceleration
+31
+In everyday conversation, to accelerate means to speed up. Thus, the
+greater the acceleration is, the greater the change in velocity over a given
+time is.
+Average acceleration
+When you watch the first few seconds of a liftoff, a rocket barely seems to
+move. With each passing second, however, you can see it move faster until
+it reaches an enormous speed. How could you describe the change in the
+rocket's motion? When an object changes its motion, it is accelerating.
+The magnitude of the average acceleration is defined by the change in an
+object's velocity divided by the time interval in which the change occurs.
+That is,
+Change in velocity
+Average acceleration =
+time taken
+à
+(2.5)
+where v₀ is the initial velocity of an object and v is the final velocity of an
+object at instants t₀ and t, respectively. In this equation, t - t₀ is the length
+of time over which the motion changes. In SI units, acceleration has units
+of meters per second squared (m/s²).
+The direction of average acceleration is the direction of change in velocity.
+Key Concept
+If an object speeds up, the acceleration is in the direction that the object is
+Acceleration
+moving. You get on a bicycle and begin to pedal. The bike moves slowly at
+occurs whenever
+first, and then accelerates because its speed increases. When the speed
+an object speeds
+of an object increases, it is said to be accelerating. On the other hand, if
+up, slows down, or
+an object slows down, the acceleration is opposite to the direction that
+changes direction.
+the object is moving. This is commonly referred to as deceleration. In
+Figure 2.5, a light train in Addis Ababa, Ethiopia, decelerates as it comes
+into a station. Thus, the train is accelerating in a direction opposite to its
+direction of motion.
+32
+Unit 2 Uniformly Accelerated Motion
+Figure 2.5 A decelerating light train.
+When you speed up, your final speed will always be greater than your
+initial speed. So subtracting your initial speed from your final speed gives
+Exercise 2.10
+a positive number. As a result, your acceleration is positive when you
+jer
+What do you
+are speeding up. When you slow down, the final speed is less than the
+mean by an in-
+initial speed. Because your final speed is less than your initial speed, your
+stantaneous ac-
+acceleration is negative when you slow down.
+celeration for an
+object in motion?
+Instantaneous acceleration
+The object moving in a straight line may undergo an increase, or decrease
+Key Concept
+in acceleration or it may move with a uniform acceleration or zero acceler-
+JET
+Instantaneous
+ation. Thus, in such cases, the average acceleration does not describe the
+acceleration is
+motion of the object at every instant. The average acceleration only pro-
+the average ac-
+vides the mean value of the acceleration instead of the actual acceleration
+celeration at a
+of the object during the motion while the instantaneous acceleration gives
+specific instant
+the exact acceleration at every instant during the motion.
+in time (or over
+an infinitesimally
+Instantaneous acceleration is a quantity that tells us the rate at which
+small time inter-
+val).
+an object is changing its velocity at a specific instant in time anywhere
+2.3 Acceleration
+33
+along its path. Hence, instantaneous acceleration a, or acceleration at a
+specific instant in time, is obtained using the same process discussed for
+instantaneous velocity. That is, you calculate the average velocity between
+two points in time separated by t and let St approach zero. You see that
+average acceleration a = At approaches instantaneous acceleration as St
+approaches zero. The instantaneous acceleration is, thus mathematically
+expressed as,
+Exercise 2.11
+For what type
+as approaches 0.
+(2.6)
+of motion does
+the average and
+For uniformly accelerated motion, the instantaneous acceleration has the
+instantaneous
+same value as the average acceleration.
+acceleration be
+the same?
+Example 2.5
+A car accelerates on a straight road from rest to 75 km/h in 5 S. What is the
+magnitude of its average acceleration?
+Solution:
+You are given with V₀ = 0, v = 75 km/h and t=5s.
+You want to find the average acceleration.
+Exercise 2.12
+Think about
+The average acceleration can be calculated by
+the greatest ac-
+a
+celerations you
+have experienced.
+Where did they
+This is read as "fifteen kilometers per hour per second" and means that,
+occur? Did they
+on average, the velocity changed by 15 km/h during each second. That
+involve speeding
+is, assuming the acceleration was constant, during the first second, the
+up or slowing
+car's velocity increased from zero to 15 km/h. During the next second, its
+down? What ef-
+velocity increased by another 15 km/h, reaching a velocity of 30 km/h at
+fects did they
+t = 2.0 s, and so on. This result contains two different time units: hours
+have on you?
+and seconds. You usually prefer to use only seconds. To do so, you can
+change km/h to m/s:
+34
+Unit 2 Uniformly Accelerated Motion
+a
+5 s - Os
+Note that acceleration tells us how quickly the velocity changes, whereas
+velocity tells us how quickly the position changes.
+Exercise 2.13
+jer
+Discuss the
+Example 2.6
+concept of de-
+An automobile is moving to the right along a straight highway, which you
+celeration and
+choose to be the positive x-axis. Then the driver steps on the brakes. If the
+negative accelera-
+initial velocity (when the driver hits the brakes) is 15 m/s and it takes 5.0 s
+tion.
+to slow down to 5 m/s, what was the car's average acceleration?
+Solution:
+In this example, you are given with V₀ = 15 m/s, v=5m/s and t = 5.0 s.
+The required quantity is average acceleration.
+Average acceleration can thus be calculated using the formula time.
+The negative sign appears because the final velocity is less than the initial
+velocity. Thus, the direction of the acceleration is to the left (in the negative
+x-direction) even though the velocity is always pointing to the right. You can
+say that the acceleration is to the left. That is the automobile is decelerating.
+But be careful: deceleration does not mean that acceleration is necessarily
+negative. There is a deceleration whenever the magnitude of the velocity is
+decreasing; thus, the velocity and acceleration point in opposite directions
+when there is a deceleration.
+2.3 Acceleration
+35
+Activity 2.3
+jer
+Estimate your maximum running velocity, and estimate the aver-
+age acceleration you undergo from rest to reach that velocity.
+jer
+Design an experiment to check your estimates in (a). Include the
+equations you would use.
+jer Get your design approved by your teacher, and then carry it out.
+Compare your results with your estimates.
+Section summary
+Acceleration is the rate of change of velocity in a given time
+interval.
+Acceleration occurs whenever an object speeds up, slows
+down, or changes direction.
+Instantaneous acceleration is the acceleration of the object at
+a specific instant during the motion.
+Review questions
+1. Describe the similarities and differences between average ac-
+celeration and instantaneous acceleration.
+2. A car moves along the x- axis. What is the sign of the car's
+acceleration if it is moving in the positive X direction with (a)
+increasing speed (b) decreasing speed?
+3. A race horse coming out of the gate accelerates from rest to
+a velocity of 15.0 m/s due west in 1.80 S. What is its average
+acceleration?
+4. A car is traveling at 14 m/s when the traffic light ahead turns
+red. The car decelerates and comes to a stop in 5.0 S. Calculate
+the acceleration of the car.
+36
+Unit 2 Uniformly Accelerated Motion
+2.4 Equations of motion with constant accelera-
+tion
+By the end of this section, you should be able to:
+derive the equations of motion with constant acceleration;
+use appropriate equations of motion to solve motion-related prob-
+lems.
+Exercise 2.14
+If an object travels in a straight line and its velocity increases or decreases
+How can you de-
+by equal amounts at equal intervals of time, the acceleration of the ob-
+rive the equations
+ject is said to be uniform. Such type of motion is said to be a uniformly
+of a uniformly ac-
+accelerated motion. A bicycle that slowly decreases its speed to stop and
+celerated motion?
+a ball dropped from the top of a ladder are some examples of uniformly
+accelerated motions.
+When an object moves along a straight line with a uniform acceleration,
+it is possible to relate its velocity, acceleration during motion and the
+distance covered by it in a certain time interval by a set of equations known
+as the equations of motion. If an object's average acceleration during a
+time interval is known, the change in velocity during that time can be
+calculated. For convenience, you let the starting time tf = t, where t is any
+arbitrary time. Also, let v₀ be the initial velocity at time t₀ = 0 and v be the
+velocity at any time t. With this notation, you can express
+Since acceleration is constant in a uniformly accelerated motion, the aver-
+age and instantaneous accelerations are the same. So, you can replace Ăₐᵥ
+by à. Moreover, in one-dimensional motion, direction can be indicated
+"_" or "+" signs. In this case, you can ignore the vector nature of symbols.
+Finally, replacing the vector notations by ordinary symbols, setting t₀ = 0
+and rearranging the result gives
+v = v₀ + at
+(2.7)
+2.4 Equations of motion with constant acceleration
+37
+This linear relationship enables us to find the velocity at any time t. You
+can make use of the fact that when the acceleration is constant (i.e., when
+the velocity varies linearly with time), the average velocity is given as:
+Vav= Vo+v
+(2.8)
+To find the displacement as a function of time, you first let S₀ be the initial
+position at time t₀ = 0 and Sf = s be the position at any time t. If the initial
+position is at the origin, S₀ = 0, and hence s = s. So from the expression
+of average velocity, you can write s as
+s = Vavt
+(2.9)
+Substituting equation 2.8 into 2.9 gives:
+Key Concept
+JV Equations of
+uniformly accel-
+Again substituting v₀ + at in place of v and making rearrangement gives:
+erated motions
+are used to solve
+s
+(2.10)
+problems in-
+volving constant
+Sometimes, there are times when the time of motion is unknown. For
+acceleration.
+such cases, you need to derive an equation that is independent of time as
+follows:
+s
+(2.11)
+Rearranging gives:
+v² = v₀² + 2as
+(2.12)
+Example 2.7
+A car starts from rest and accelerates uniformly over a time of 5 s for a
+distance of 100 m. Determine the acceleration of the car.
+Solution:
+You are given with v₀ = 0, t = 5 s, and s = 100 m.
+38
+Unit 2 Uniformly Accelerated Motion
+The required quantity is acceleration, a.
+From the expression for displacement, i.e.,
+s
+By making v₀ = 0, you can easily derive and solve for a as
+= 2s = 2 x 100 m 25 s² = m/s²
+Substitution gives
+a = 2 x 100 m 25 s² = 8m/s²
+Example 2.8
+An airplane lands with an initial velocity of 70 m/s and then decelerates at
+1.5 m/s² for 40 S. What is its final velocity?
+Solution:
+You are given with v₀ = 70 m/s, t = 40 s, and a = 1.5 m/s².
+You want to find the final velocity, v.
+You can find for the final velocity using the formula
+v = v₀ + at = 70 m/s 1.5 X 40 s = 10 m/s
+The final velocity is much less than the initial velocity, as desired when
+slowing down, but is still positive.
+Example 2.9
+An automobile starts at rest and speeds up at 3.5 m/s² after the traffic light
+turns green. How far did the automobile travel when it was traveling at 25
+m/s?
+2.4 Equations of motion with constant acceleration
+39
+Solution:
+In this example, you are given with v₀ = 0, v = 25 m/s, and a = 3.5
+You are asked to find the displacement, s.
+You can find s using the equation
+s 2
+Free fall
+It is well known that, in the absence of air resistance, all objects dropped
+near the Earth's surface fall toward the Earth with the same constant accel-
+eration under the influence of the Earth's gravity. A freely falling object is
+any object moving freely under the influence of gravity alone, regardless
+of its initial motion.
+Figure 2.6 The freely falling of
+An object that is released from rest falls freely once it is released. Any freely
+an apple with uniform accelera-
+falling object experiences an acceleration directed downward, regardless
+tion due to gravity.
+of its initial motion.
+Activity 2.4
+Suppose you hold
+You shall denote the magnitude of the free-fall acceleration by the symbol
+a book in one
+g. The value of g is maximum on the Earth's surface and decreases with
+hand and a flat
+increasing altitude from the surface. Furthermore, slight variations in g
+sheet of paper
+occur with changes in latitude. At the Earth's surface, the value of g is
+in another hand.
+approximately 9.80 m/s².
+You drop them
+both and they
+If you neglect air resistance and assume that the free-fall acceleration
+fall to the ground.
+does not vary with altitude over short vertical distances, then the motion
+Explain why the
+of a freely falling object moving vertically is equivalent to motion in one
+falling book is a
+dimension under constant acceleration. Therefore, the equations derived
+good example of
+above for objects moving with constant acceleration can be applied. The
+free fall, but the
+only modification that you need to make in these equations is to replace
+paper is not.
+the acceleration 'a' of the equations with 'g' and the distance 's' with the
+40
+Unit 2 Uniformly Accelerated Motion
+height 'h' since the vertical distance of the freely falling bodies is known as
+height'h'.
+The equation of motion can thus be modified as:
+v=v₀+gt
+(2.13)
+h=v₀t+¹₂₈ₜ²
+(2.14)
+v² = v₀² + 2gh
+(2.15)
+where V₀ is the initial velocity, h is the vertical height, g is acceleration due
+Exercise 2.15
+to gravity and t is the elapsed time.
+As a freely falling
+body speeds up,
+Example 2.10
+what is happening
+A mango fruit has fallen from a tree. Find its velocity and vertical height
+to acceleration
+when it reached the ground if it took 1 s to reach the ground.
+due to gravity?
+Solution:
+You are given with V₀ = 0, g = 9.8 m/s², and t = 1 s.
+The required quantities are final velocity and height.
+You can find the velocity using the equation
+v = V₀ + = 0 + 9.8 ml = 9.8 m/s
+On the other hand, the vertical height can be calculated using the equation
+X
+2.4 Equations of motion with constant acceleration
+41
+Section summary
+Uniformly accelerated equations are equations that are used
+to solve problems involving constant acceleration.
+The five quantities or variables commonly encountered in the
+uniformly accelerated motion equations are displacement,
+time, initial velocity, final velocity, and constant acceleration.
+Since the freely falling bodies with uniformly accelerated mo-
+tion, the equations of motion derived for bodies under uni-
+form acceleration can be applied to the motion of freely falling
+bodies by substituting 'a' by 'g' and 's' by 'h'.
+Review questions
+1. What type of motion is experienced by a free-falling object?
+2. A cyclist is traveling at 5.6 m/s when she starts to accelerate at
+0.60 ml s² for a time interval of 4.0 S.
+(a) How far did she travel during this time interval?
+(b) What velocity did she attain?
+3. A stone that is dropped from the top of a building is in free fall
+for 8.0 S.
+(a) Calculate the stone's velocity when it reaches the ground.
+(b) What is the height of the building from which the stone
+had been dropped?
+42
+Unit 2 Uniformly Accelerated Motion
+2.5 Graphical representation of uniformly accel-
+erated motion
+Exercise 2.16
+By the end of this section, you should be able to:
+Would you re-
+draw position-time, velocity-time and acceleration-time graphs of
+member the
+uniformly accelerated motion;
+graphs of a uni-
+explain the concept of instantaneous velocity using position-time
+form motion
+graphs;
+that you learnt in
+grade 9?
+distinguish between instantaneous acceleration and average accel-
+eration using the graphical method;
+draw a velocity-time graph for a motion using the concept of instan-
+taneous acceleration.
+In your grade 9 physics, you learnt about the graphs of uniform motion.
+Figure 2.7 shows the summary of the graphs of a uniform motion.
+Position,s (m)
+Velocity ,V (m.s⁻¹)
+Acceleration, a (m. .s⁻²)
+Time, t (s)
+Time, t (s)
+Time, t (s)
+(a)
+(b)
+(c)
+Figure 2.7 Graphs for motion at constant velocity (a) position-time
+(b) velocity-time (c) acceleration-time.
+In this section, you will discuss about the graphs of a uniformly accelerated
+motion.
+Position-time graph
+A position-time graph is a graph that describes the motion of an object,
+with the position s of a particle on the y-axis and the time on the x-axis.
+2.5 Graphical representation of uniformly accelerated motion
+43
+This graph will tell you the exact change in position of a body.
+The position-time equation for uniformly accelerated motion along a
+Exercise 2.17
+straight line is s = v₀ + 1/2at². Dependence of s on t² shows that it is a
+How does uni-
+quadratic equation or quadratic function of t. So, the position-time graph
+form acceleration
+for uniformly accelerated motion is a parabola, as shown in Figure 2.8 (a).
+motion differ
+from uniform
+As you learnt in grade 9, position-time graph's slope represents the velocity
+motion?
+of the object. Because the line is curved, however, its slope keeps changing.
+Thus, you must find the slope of the curved line. A tangent is a straight line
+that touches a curve at a single point and has the same slope as the curve
+at that point. Thus, choose a point on the curve and draw a tangent to the
+curve at that point, as shown in Figure 2.8(b). The slope of the tangent line
+is therefore an instantaneous velocity.
+Position, S (m)
+Position, S (m)
+s
+At
+Time, t (s)
+Time, t (s)
+(a)
+(b)
+Figure 2.8 (a) The position-time graph with constant acceleration,
+(b) the slope of the tangent line at a particular point gives the instan-
+taneous velocity.
+You may recall from your mathematics studies that the slope of a line
+describes its steepness. Slope is determined by comparing the magnitude
+Key Concept
+of the rise (the change between points on the y-axis) and the magnitude of
+jo
+The slope of
+the run (the change between the same points on the x-axis).
+the tangent to the
+graph of position-
+rise = instantaneous velocity
+(2.16)
+time is velocity.
+44
+Unit 2 Uniformly Accelerated Motion
+The instantaneous velocity of an object at a specific point in time is thus
+the slope of the tangent to the curve of the position-time graph of the
+object's motion at that specific time. That means, the magnitude of the
+velocity of an object at the point where the tangent line touches the graph
+is the slope of the tangent line.
+Example 2.11
+A car starts from rest and accelerates at a 10 m/s² for 10 s on the straight,
+level road. Draw a position-time graph and calculate the instantaneous
+velocity at 4 S.
+Solution:
+In this example, you are given v₀ = 0 m/s, a = 10 m/s², and t = 10 s.
+To draw the position-time graph, first solve for s using the equation s =
+1 at² for the different values of t. Record and compare the result you ob-
+2
+tained with the following table.
+180
+Position (m)
+0
+5
+20
+45
+80
+125
+180
+160
+140
+Time (s)
+0123456
+Position, S (m)
+120
+100
+Then plot the position on the y-axis and time on the x-axis. The graph is
+80
+As
+shown as in the Figure 2.9.
+60
+40
+At
+20
+On the other hand, to find the instantaneous velocity, draw the tangent line
+0
+0
+1
+2
+3
+4
+5
+6
+Time, t(s)
+at the given time. The slope of the tangent line drawn at 4 s of the x-axis
+coordinate represents the instantaneous velocity at instant of 4 s. The slope
+Figure 2.9 Position-time of the
+given problem.
+of tangent line becomes:
+Slope = = 120 5s-3s m 40 m = 80 2 s m = 40 s
+Thus, the instantaneous velocity is 40 m/s.
+2.5 Graphical representation of uniformly accelerated motion
+45
+Activity 2.5
+Suppose a truck accelerates with average accelerations of 20.0
+m/s² starting from rest for 5.0 S.
+a) How far does it travel in this time? Draw position-time graph?
+b) Draw the tangent line at different point on the graph.
+c) Find the slope of each tangent line that you draw.
+Velocity, V (m/s)
+B
+Velocity-time graph
+A graph plotted with time along the x-axis and the velocity along the y-axis
+0
+t
+Time t (s)
+is called the velocity-time graph. The velocity-time graph of the given
+(a)
+motion shows how its velocity changes as it travels over a given time. If
+the particle starts from rest and experiences uniform acceleration, the
+velocity-time graph will be a straight line passing through the origin and
+Velocity, V (m/s)
+B
+having a positive slope (as shown in Figure 2.10 (a)).
+A
+If the particle has an initial velocity, the graph will be a straight line, but
+D
+will not pass through the origin as shown in Figure 2.10 (b). In Figure 2.10
+0
+t
+(b)
+Time, t (s)
+(b), the ordinate OA gives the initial velocity and the ordinate BD gives the
+final velocity.
+Figure 2.10 The velocity-time
+graph.
+The velocity-time graph of a particle moving along a straight line with
+uniform acceleration may be used to measure the displacement of the
+particle and also the acceleration.
+Velocity, V (m/s)
+B
+v
+A) Area under velocity-time graph
+A
+Consider a particle moving along a straight line with uniform acceleration
+v₀
+C
+D
+a. Let v₀ be the velocity of the particle at the instant t = 0 and v at a later
+0
+Time, t (s)
+instant t. The velocity-time graph of such a motion is shown in Figure 2.11.
+Figure 2.11 The area under
+The area under the velocity-time graph during the interval 0 to t is ABDO.
+velocity-time graph.
+46
+Unit 2 Uniformly Accelerated Motion
+Area, ABDO = Area of rectangle ACDO + Area of triangle, ABC.
+Key Concept
+Area, ABDO = AO AC X BC
+It The area un-
+1
+der the curve
+in a velocity-
+time graph is
+the change in
+= displacement
+position or dis-
+placement.
+Thus, area under the velocity-time graph gives the total displacement of
+the particle in that given time interval.
+B) Slope of a velocity-time graph
+As discussed earlier, for a particle moving along a straight line with con-
+stant acceleration, the velocity-time graph will be a straight line inclined
+to the time axis, as shown in Figure 2.11. Let v₀ be the velocity at t₀ = 0
+Velocity, V (m/s)
+and v be the velocity after a time interval t.
+A
+The acceleration,
+(2.17)
+B
+That is, the slope of the velocity-time graph gives the acceleration of the
+particle.
+0
+Time, t (s)
+Figure 2.12 Velocity-time graph
+Let us now consider two special cases.
+for uniform retardation.
+Velocity, v(m/s)
+1. Velocity-time graph for uniform retardation
+For a particle moving with uniform retardation or deceleration, the velocity-
+time graph will be a straight line with a negative slope, as shown in Figure
+2.12. If the body is brought to rest, the graph will touch the time axis.
+0
+t₁
+t2
+t3
+t₄ Time (t)
+Figure 2.13 Velocity-time graph
+2. Velocity-time graph for non-uniform motion
+for non uniform motion.
+In the case of a particle moving with variable velocity, the velocity-time
+curve will be irregular in shape. For example, consider a car starting from
+point O. Let it be moving along a straight line with uniform acceleration
+2.5 Graphical representation of uniformly accelerated motion
+47
+a during the time interval t₁ to t₂ and then start moving with uniform
+velocity during the interval of time t₂ to t₃. Thereafter, let the velocity of
+the car decrease uniformly and the car come to a stop at the instant t₄.
+The motion of the car can be represented by the velocity-time graph, as
+shown in Figure 2.13. Then the area under the velocity-time graph gives
+the total displacement of the car.
+Example 2.12
+The velocity-time graph of a certain motion is plotted in Figure 2.14 below.
+Calculate the total distance and displacement of the truck after 15 S.
+5
+B
+D
+4
+Velocity, (m.s⁻¹)
+3
+2
+Exercise 2.18
+1
+C
+E
+F
+H
+It
+What quantity
+0
+A
+2
+4
+6
+8
+10
+12
+14
+16
+is represented by
+-1
+Time, t (s)
+the area under
+-2
+G
+the velocity-time
+-3
+graph?
+Figure 2.14 Velocity-time graph.
+Solution:
+To calculate the total distance and total displacement, you have to find the
+area under velocity-time graph.
+S₁ = area of a triangle ACB
+= 1/2 (base) X (height) = 1/2 (t) X (v) = 1/2 (4 s) X (4 m/s) = 8 m.
+S₂ = area of rectangle CBDE
+= (base) X (height) = (t) X (v) = (8 s m/s) X (4 m/s) = 32 m.
+S₃ = area of a triangle EDF
+= 1/2 (base) X (height) = 1/2 (t) X (v) = 1/2 (2 s) X (4 m/s) = 4 m.
+S₄ = area of a triangle EHG
+= 1/2 (base) X (height) = 1/2 (t) X (v) = 1/2 (1 s) X (2 m/s) = 1 m.
+48
+Unit 2 Uniformly Accelerated Motion
+Thus, the total distance is S₁ + S₂ + S₃ + S₄ = 45 m.
+On the other hand, the total displacement is S₁ + S₂ + S3 - S₄ (since velocity
+is negative) = 44 m in the positive direction.
+Acceleration a (m. (m.s⁻²)
+Acceleration-time graph
+The acceleration-time graph shows the acceleration graph plotted against
+time for a particle moving in a straight line. The acceleration-time plots
+acceleration values on the y-axis and time values on the x-axis. For a
+Time, t(s)
+uniformly accelerated motion, acceleration is constant with time. Hence,
+the acceleration-time graph will be a straight line parallel to the time axis.
+Figure 2.15 Acceleration-time
+graph.
+For a straight line parallel to the time axis, slope equals zero.
+An acceleration-time graph can be used to find the change in velocity
+during various time intervals. This is accomplished by determining the
+area under the line on the acceleration-time graph.
+a (m/s²)
+4
+Example 2.13
+3
+For the acceleration-time graph shown in Figure 2.16, find the change in
+2
+velocity of an object.
+Solution:
+t (s)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+In this example, the change in velocity can be obtained by finding the area
+Figure 2.16 Acceleration-time
+under the acceleration-time graph. Thus,
+graph of the given problem.
+area = base X height = 9 s X 4 m/s² = 36 m/s
+Hence, the change in velocity of the moving object is 36 m/s.
+2.5 Graphical representation of uniformly accelerated motion
+49
+Activity 2.6
+The table below shows a set of position-time data for uniformly
+accelerated motion.
+Position (m)
+0
+8
+32
+72
+128
+Time (s)
+02468
+1. By plotting the position-time graph, find the slopes of tan-
+gents at appropriate times.
+2. By plotting the velocity-time graph, determine the area under
+the graph. State what this area represent.
+3. Also plot the acceleration-time graph and determine the area
+under the graph. State what this area represent.
+Position, S (m)
+Section summary
+In a uniformly accelerated motion:
+(a)
+Time, t (s)
+The position-time equation is quadratic, and hence the graph
+is parabolic as shown in Figure 2.17 (a).
+The slope of the tangent line (at a point) of the position-time
+velocity (m.s⁻¹)
+graph is equal to the instantaneous velocity at that time.
+The velocity-time equation is linear and hence the graph is a
+(h)
+Time, t (s)
+straight line as shown in Figure 2.17 (b).
+The slope of velocity-time graph is equal to the acceleration
+while the area under the graph is the displacement.
+The acceleration-time graph is a straight line parallel to the
+Acceleration (m.s²²)
+time axis as shown in Figure 2.17 (c).
+(c)
+The area under acceleration-time graph is the change in ve-
+Time, t (s)
+locity of an object.
+Figure 2.17 Graphs of motion
+in uniform acceleration.
+50
+Unit 2 Uniformly Accelerated Motion
+Review questions
+1. In a uniformly accelerated motion, state what each of the
+following represents:
+(a) the slope of a tangent on a position-time graph.
+(b) the slope of a line on a velocity-time graph.
+(c) the area under the line on an acceleration-time graph.
+Exercise 2.19
+jer
+How long does
+2. The velocity-time graph below shows the motion of an air
+it take a car to
+plane. Find the displacement of the airplane at St = 1.0 S and
+cross a 25.0 m
+at At = 2.0 S.
+wide intersection
+after the light
+30
+turns green, if
+the car acceler-
+Velocity, V (m.s⁻¹)
+25
+ates from rest at
+20
+a constant ac-
+celeration of 2.0
+15
+m/s²? Draw the
+acceleration-time
+10
+graph.
+5
+0
+0
+1
+2
+3
+4
+5
+6
+Time, t (s)
+Figure 2.18 Velocity-time graph.
+Exercise 2.20
+2.6 Relative velocity in one dimension
+What is meant by
+By the end of this section, you should be able to:
+relative velocity
+in one dimension.
+explain relative velocity in one-dimension using a frame of reference;
+Give an example?
+calculate the relative velocity.
+2.6 Relative velocity in one dimension
+51
+Any measurement of distance, speed, velocity, and so on; must be made
+with respect to a reference frame, or frame of reference. When you say an
+object has a certain velocity, you must state its velocity with respect to a
+given reference frame. In everyday life, when you measure the velocity of
+an object, the reference frame is taken to be the ground or the earth. For
+example, if you are traveling in a train and the train, is moving at a speed
+of 100 km/h, then your speed according to another passenger sitting on
+that train is zero. According to him, you are not moving. But if someone
+observes you from outside the train, standing on the ground, according to
+him, you are moving at 100 km/h as you are on the train and the train is
+moving at 100 km/h. Hence, the motion observed by the observer depends
+on the location (frame) of the observer. This type of motion is called rela-
+tive motion.
+The relative velocity of object A with respect to object B is the rate of
+Key Concept
+change of position of the object A with respect to the object B. If VA and
+jer
+Relative veloc-
+VB be the velocities of objects A and B with respect to the ground, then
+ity is the velocity
+The relative velocity of A with respect to B is VAB = VA - VB.
+of an object with
+respect to an-
+The relative velocity of B with respect to A is VBA = VB - VA.
+other object or
+In one-dimensional motion, objects move in a straight line. So there are
+observer.
+only two possible cases: objects are moving in the same direction or in
+opposite directions. Thus, while using the above expressions, the signs of
+velocities needs to be the same (say, positive) for bodies that are moving in
+the same direction. But if they are moving in opposite directions, one of the
+velocities (say to the right) should be positive while the other one becomes
+negative. Thus, if the two objects are moving in the same direction, the
+magnitude of the relative velocity of one object with respect to another
+is equal to the difference in magnitude of two velocities. But if the two
+objects are moving in opposite directions, the above expression becomes
+VAB = VA vB) =
+VBA = - VB - VA = - (vA if object A is moving to the right and
+object B is moving to the left.
+52
+Unit 2 Uniformly Accelerated Motion
+Thus, for objects that are moving in opposite directions, the magnitude of
+relative velocity of one object with respect to other is equal to the sum of
+magnitude of their velocities.
+Example 2.14
+Two cars, A and B are traveling with the same speed of 100 km/h in opposite
+directions, as in the Figure 2.19 (a). Find the relative velocity of car A with
+respect to car B and the relative velocity of car B with respect to car A.
+VA
+Solution:
+VB
+In this example, suppose that right is positive and left is negative. So you
+are given VA = 100 km/h and VB = - 100 km/h.
+(a)
+The relative velocity of A with respect to B is VAB = VA - VB
+VA
+= [100 - 100)] km/h = 100 + 100 km/h = 200 km/h.
+VB
+The relative velocity of B with respect to A is VBA = VB - VA
+= [(-100) - 100] km/h = -200 km/h.
+(b)
+Figure 2.19 Two cars moving
+Thus, when objects are moving in the opposite directions, the magnitude of
+(a) in opposite directions (b) in
+the relative velocity between them is the sum of the velocities of the objects.
+same direction.
+In the same question, if both bodies are moving in the same direction (say
+to the right) as in the Figure 2.19 (b) with the same speed, then
+The relative velocity of A with respect to B is VAB = VA - VB
+= [100 - 100] km/h = 0km/h.
+The relative velocity of B with respect to A is UBA = VB - VA
+= [100 - 100] km/h = 0 km/h.
+That means A is at rest with respect to B, and B is at rest with respect to A;
+but both are moving at 100 km/h with respect to the ground. This shows
+that, when objects are moving in the same direction, the magnitude of
+the relative velocity between them is equal to the difference between the
+magnitude of their velocities.
+2.6 Relative velocity in one dimension
+53
+Section summary
+Exercise 2.21
+When you say that an object has certain velocity, you must
+Why do a car
+state its velocity with respect to a given frame of reference.
+coming in the
+opposite direction
+If two objects are moving in the same direction, the magnitude
+while travelling
+of relative velocity of one object with respect to another is
+in a car seems to
+equal to the difference in magnitude of two velocities. On
+come at a very
+the other hand, if they are moving in opposite directions, the
+large speed?
+magnitude of relative velocity of one object with respect to
+other is equal to the sum of magnitude of their velocities.
+Review questions
+1. A motorcycle traveling on the highway at a velocity of 120
+km/h passes a car traveling at a velocity of 90 km/h. From the
+point of view of a passenger on the car, what is the velocity of
+the motorcycle?
+2. An automobile is moving at 80 km/h, and a truck is moving
+at 60 km/h, approaching an automobile. What is the relative
+velocity of an automobile with respect to a truck when the
+observer on the automobile measures it?
+3. A thief is running away on a straight road on a jeep moving
+with a speed of 9 m/s. A police man chases him on a motor
+cycle moving at a speed of 10 m/s. If the instantaneous
+separation of jeep from the motor cycle is 100 T, how long
+does it take for the policemen to catch the thief?
+54
+Unit 2 Uniformly Accelerated Motion
+Virtual Labs
+On the soft copy of the book, click on the following link to per-
+form virtual experiments on uniformly accelerated motion unit
+under the guidance of your teacher.
+1. Forces and Motion: Basics PhET Experiment.
+2. Moving-man PhET Experiment.
+End of unit summary
+An object is in motion if it changes position relative to a refer-
+ence point.
+Distance is the length of the path taken by an object whereas
+displacement is simply the distance between where the object
+started and where it ended up.
+Average velocity is defined as the change in position (or dis-
+placement) over the time of travel while instantaneous veloc-
+ity is the velocity of an object at a single point in time and is
+calculated by the slope of the tangent line.
+Average acceleration is the change in velocity divided by the
+elapsed time; instantaneous acceleration is acceleration at a
+given point in time.
+For uniformly accelerated motion, the position-time graph is
+a parabola. On the other hand, the velocity-time graph is an
+inclined line while the acceleration-time graph is a straight
+line parallel to the time axis.
+The summary of the equations of motion at uniform accelera-
+v = v₀ + at
+tion are:
+s=(v₀+v)t
+s=v₀t+1/2at²
+v²=v₀²+2as
+2.6 Relative velocity in one dimension
+55
+Relative velocity is the velocity of an object in relation to an-
+other object. It is a measure of how fast two objects are moving
+with respect to each other.
+End of unit questions and problems
+1. A runner travels around rectangular track with length 50 m
+and width 20 T. After traveling around the rectangular track
+twice, the runner back to its starting point. Determine the
+distance and displacement of the runner.
+2. How do intervals of constant acceleration appear on a velocity-
+time graph?
+3. A truck on a straight road starts from rest, accelerating at
+2 m/s² until it reaches a speed of 20 m/s. Then the truck
+travels for 20 s at constant speed until the brakes applied, are
+stopping the truck in a uniform manner in an additional 5 S.
+(a) how long is the truck in motion? (b) What is the average
+speed of the truck for the motion described?
+4. If a student rides her bicycle in a straight line for 15 minutes
+with an average velocity of 12.5 km/h South, how far has she
+ridden?
+5. A race car travels on a racetrack at 44 m/s and slows at a con-
+stant rate to a velocity of 22 m/s over 11 S. How far does it move
+during this time?
+6. A truck is traveling at 22 m/s when the driver notices a speed
+limit sign for the town ahead. He slows down to a speed of 14
+m/s. He travels a distance of 125 m while he is slowing down.
+(a) Calculate the acceleration of the truck. (b) How long did it
+take the truck driver to change his speed?
+56
+Unit 2 Uniformly Accelerated Motion
+7. A rock is dropped from a bridge. What happens to the magni-
+tude of the acceleration and the speed of the rock as it falls?
+[neglect friction]
+8. A brick is dropped from rest from a height of 4.9 m. How long
+does it take the brick to reach the ground?
+9. The velocity of a car changes over an 8 s time period as shown
+in the following table.
+(a) Plot the velocity-time graph of the motion.
+(b) What is the displacement of the car during the entire 8 s?
+(c) Find the slope of the line between t = 0 s and t = 4 s? What
+does this slope represent?
+(d) Find the slope of the line between t = 5 s and t = 7 S. What
+does this slope represent?
+Position (m) 0 4 8 12 16 20 20 20 20
+Time (s)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+10. For the motion described by the velocity-time graph below,
+A) What is the acceleration between 0 and 2 s?
+B) During what time period does the object have a constant
+speed?
+C) What is the displacement of the motion?
+Velocity, V (m/s)
+12
+B
+10
+8
+C
+6
+A
+4
+2
+0
+1
+2
+3
+4
+5
+6
+Time, t (s)
+2.6 Relative velocity in one dimension
+57
+11. Given the position-time graph below, find the velocity-time
+graph.
+0.6
+0.5
+Position, S (m)
+0.4
+0.3
+0.2
+0.1
+0
+0
+0.5
+1
+1.5
+2
+2.5
+Time, t (s)
+12. A jet cruising at a speed of 1000 km/h ejects hot air in the
+opposite direction. If the speed of the hot air with respect
+to the jet is 800 km/h, then find its speed with respect to the
+ground.
+13. Copy and complete the following concept map on motion.
+Motion
+can be described by
+velocity
+which is a
+which
+which equals
+change in
+includes
+position
+change in
+velocity
+which equals
+time
+distance
+time

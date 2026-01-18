@@ -1,0 +1,2161 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+Define the basic trigonometric functions.
+Sketch graphs of basic trigonometric functions.
+Define reciprocals of basic trigonometric functions.
+Identify trigonometric identities.
+Solve some examples of real-life problems involving trigonometric
+equations.
+Conceptualize theorems on special triangles.
+Unit Contents
+4.1 Radian Measure of Angle
+4.2 Basic Trigonometric Function
+4.3 Trigonometric Identities and Equations
+4.4 Applications
+Summary
+Review Exercise
+199
+Unit 4: Trigonometric Function
+Angle of elevation
+Period
+KEY
+Words
+Co-terminal angle
+Radian
+Complementary
+Reference
+angles
+angle
+Supplementary angles
+Negative angle
+Trigonometry
+Trigonometric function
+Pythagorean identity
+Unit circle
+Angle of depression
+Periodic function
+Degree
+Angle in standard position
+Quadrantal angle
+Introduction
+The word 'trigonometry' is derived from the Greek word 'trigon' and 'metron' and it
+means 'measuring the sides of a triangle'. The subject was originally developed to
+solve geometric problems involving triangles. It was studied by sea captains for
+navigation, surveyors for mapping out the new lands and engineers for other purposes.
+Currently, trigonometry is used in many areas such as seismology, designing electric
+circuits, describing the state of an atom, predicting the heights of tides in the ocean,
+analyzing a musical tone and in many other areas.
+In grade 9, you studied the trigonometric ratios of acute angles as the ratio of the sides
+of a right-angled triangle. In this unit, we will study the trigonometric identities and
+application of trigonometric ratios in solving the problems and generalize the concept
+of trigonometric ratios to trigonometric functions and study their properties.
+4.1 Radian Measure of Angle: Conversion between
+radian and degree measures
+Activity 4.1
+1. What is an angle?
+2. Discuss the initial and terminal side of an angle.
+3. What is a positive angle? What is a negative angle?
+200
+Unit 4: Trigonometric Function
+Angle is a measure of rotation of a given ray about its initial point. The original ray is
+called the initial side and the final position of the ray after rotation is called the
+terminal side of the angle. The point of rotation is called the vertex.
+Vertex
+B
+Initial Side
+A
+Terminal Side
+A
+2018
+B
+Vertex
+Initial Side
+(I) Positive Angle
+(II) Negative Angle
+Figure 4.1
+If the direction of rotation is anticlockwise, the angle is said to be positive and if it is
+clockwise, then the angle is negative. The measure of an angle is the amount of rotation
+performed to get the terminal side. One complete
+Initial Side
+A
+o
+revolution from the position of the initial side is
+Terminal Side
+B
+indicated in the figure 4.2.
+Figure 4.2
+Angles in standard position
+An angle in the coordinate system is said to be in standard position if
+1. its vertex is at the origin.
+2. its initial side lies on the positive x-axis
+Example 1
+The following angles in figure4.3 are in standard position.
+y
+y
+4
+4
+2
+2
+x
+x
+-2
+2
+4
+-2
+2
+4
+-2
+-2
+201
+Unit 4: Trigonometric Function
+y
+y
+4
+4
+2
+2
+x
+x
+-2
+2
+4
+-2
+2
+4
+-2
+-2
+Figure 4.3
+Example 2
+The following are measures of different angles. Put the angles in standard position.
+a. 200°
+b. 1125°
+c. -900°
+Solution:
+a. 200° = 180° + 20°
+b. 1125° = 3 x 360° + 45°
+c. -900° = 2 X (-360°) + (-180°)
+We shall describe two units of measurement of an angle which are most commonly
+used degree measure and radian measure.
+1. Degree measure
+If a rotation from the initial side to terminal side is (1/1/0) th th of a complete revolution,
+the angle is said to have a measure of one degree, written as 1°. A degree is divided
+into 60 minutes, and a minute is divided into 60 seconds. One sixtieth of a degree is
+called a minute.
+1°
+60
+1'
+60"
+Some of the angles whose measures are 360°, 180°, 270°, 420°, -30°, - 420° are
+shown in figure4.4.
+202
+Unit 4: Trigonometric Function
+180°
+270°
+B
+A
+o
+O
+A
+B
+360°
+A
+A
+o
+o
+30°
+B
+B
+B
+-420°
+A
+O
+o
+A
+420°
+B
+Figure 4.4
+Exercise 4.1
+1. The following are measures of different angles. Put the angles in standard
+position.
+a. 765°
+b. 245°
+C. -740°
+2. Draw the following angles. a. 270°
+b. 90°
+C. - -270°
+2. Radian measure
+There is another unit for measurement of an angle called the radian measure. An angle
+at the center of a circle with radius r which is subtended by an arc of length r unit in a
+circle is said to have a measure of 1 radian. In the figure 4.5, OA is the initial side and
+-
+OB is the terminal side of the
+B
+central angle. The figures show
+r
+the central angles whose
+1 Radian
+r
+A
+r
+A
+0
+-1 Radian
+measures are 1 and - 1 radians,
+r
+r
+respectively.
+B
+Figure 4.5
+We know that the circumference of a circle of radius r unit is 2πr. Thus, one complete
+203
+Unit 4: Trigonometric Function
+revolution of the initial side subtends an angle of 2πr radian. It is well-known that
+equal arcs of a circle subtend equal angle at the center. Since in a circle of radius r, an
+arc of length r subtends an angle whose measure is 1 radian; an arc of length l will
+subtend an angle whose measure is radian. Thus, if in a circle of radius r, an arc of
+r
+length l subtends an angle Θ at the center, we have
+Relation between degree and radian measure
+Since a circle subtends at the central angle whose radian measure is 2π and its degree
+measure is 360°, it follows that 2π radian =360° or π radian = 180°. The above
+relation enables us to express a radian measure in terms of degree measure and a degree
+measure in terms of radian measure. The relation between degree measures and radian
+measure of some common angles are given in table 4.1.
+Table 4.1
+Degree
+30°
+45°
+60°
+90°
+180°
+270°
+360°
+Radian
+π
+π
+π
+π
+π
+3π
+2π
+6
+4
+3
+2
+2
+Note
+When an angle is expressed in radian, the word 'radian' is frequently omitted
+Thus, π = 180° and 4 = 45° are written with the understanding that π and 5/4 are
+radian measures.
+Therefore, we can convert degrees to radians using the relations:
+Radian measure = 180 π X degree measure
+and radians to degrees using the relation
+Degree measure = 180 F X radian measure.
+Example 1
+Convert 120° into radian.
+204
+Unit 4: Trigonometric Function
+Solution:
+We know 180° π.
+Example 2
+Convert ₄π 4 3 radian into degree measure.
+Solution:
++
+Example 3
+Convert 6 radians into degrees.
+Solution:
+We know that π radian = 180°.
+Hence, 6 radians = 22)
+1080x7
+3780
+=
+II
+degree
+22
+11
+Exercise 4.2
+1. Convert each of the following degrees into radian:
+a. 30°
+b. 60°
+C. 240°
+d. 270°
+e. -330° f. 220°
+2. Find the degree measures of angles which have the following radian measures:
+a. 10
+b. 5π
+415
+C.
+C. -3"5"
+d. 12
+e.11π
+e.
+15
+3. Convert each of the following radians into degrees: (Use π ≈
+a. 110 7 radian b.44/radian 44
+Example 4
+Find the radius of the circle in which a central angle of 30° intercepts an arc of length
+11 cm ( π = 22/7 ).
+205
+Unit 4: Trigonometric Function
+Solution:
+Here, an arc length l = 11cm, and Θ = = 5'6
+Since, r = Θ l , we have radius of the circle,
+r = 11x6 π = 11x6x7 22 = 21 cm.
+Example 5
+The minute hand of a watch is 1.5 long. How long does its tip move in 40 minutes?
+Solution:
+In 60 minutes, the minute hand of a watch completes one revolution. Therefore,
+in 40 minutes, the minute hand turns through 2 3 of a revolution.
+Aπ/3
+Hence, the required distance travelled l is calculated as follows:
+l = r Θ = 1.5 X 4 /3 = 2π units.
+Example 6
+If the arcs of the same lengths in two circles subtend angles 65° and 210° at the center,
+find the ratio of their radii.
+Solution:
+Let r₁ and r₂ be the radii of the two circles. It is given that
+65° = 180 π X 65 = 13rg and 210° = 180 π X 210 = 7π 6
+Let 1 be the length of each of the arcs. Then, l = r₁Θ₁ = r₂Θ₂ which gives
+13π 36 X r₁ = 7 /6 X r₂, i.e., 13πr₁ = 42πr₂ Hence, r₁: r₂ = 42: 13.
+Exercise 4.3
+1. Find the radius of the circle in which a central angle of 60° intercepts an arc of
+length 37.4 cm (use π = 2² / ). 22 7 ).
+2. The minute hand of a watch is 1.5 long. How long does its tip move in 15 minutes?
+206
+Unit 4: Trigonometric Function
+4.2 Basic Trigonometric Functions
+In grade 9, we studied trigonometric ratios for acute angles as the ratio of sides of a
+right-angled triangle. We will now extend the definition of trigonometric ratios to any
+angle in terms of radian measure and study them as trigonometric functions.
+Activitv 4.2
+1.
+Draw an isosceles triangle ABC in which angle C is a right angle and
+AC = 2 cm.
+a.
+What is m(LA)?
+b. Calculate the length of AB.
+C. Find sin45°, cos45° and tan45°.
+2. Discuss Right-angled Triangle and Pythagoras Theorem.
+C
+Adjacent
+A
+B
+Hypothenuse
+Opposite
+Opposite
+Hypethenuse
+B
+0
+C
+Adjacent
+B
+Figure (a)
+Figure (b)
+Figure 4.6
+In the figure 4.6, for a given right-angled triangle, the hypotenuse is the side which is
+opposite to the angle of right angle and it is the longest side of the triangle. For the
+angle marked by Θ in figure 4.6(a), AC is the side opposite to angle Θ and BC is the
+side adjacent to the angle Θ
+Similarly, for the angle marked by ß in figure 4.6(b), BC is the side opposite to angle
+ß and AC is the side adjacent to the angle ß.
+207
+Unit 4: Trigonometric Function
+4.2.1 The sine, cosine and tangent functions
+Trigonometric functions are originally used to relate the angles of a triangle to the
+length of the sides of a triangle.
+In this section, the same upper-case letter denotes a vertex of a triangle and the measure
+of the corresponding angle; the same lower-case letter denotes an edge of the triangle
+and its length. Given an acute angle A = α of a right-angled triangle,
+the hypotenuse h (or AB) is the side that connects the two acute angles. The side b
+(or AC) adjacent to α is the side of the triangle that connects α to the right angle. The
+third side a ( or BC) is said to be opposite to α.
+If the angle α is given, then all sides of the right-angled triangle are well-defined up to
+a scaling factor.
+For any triangle ABC, with an angle α, the sine, cosine and tangent functions will be
+defined as follows:
+sinα = hypotenuse opposite side side to to α α = AB BC = h a
+B
+cosa = adjacent otenuse side side to to α α = AB AC = h and
+h
+a
+tanα = adjacent site side side to to α α = AC BC = a/b
+α
+A
+C
+b
+Figure 4.7
+Example 1
+Find the values of the trigonometric ratios of angle Θ in figure 4.8 where P(5,12) is a
+point on the terminal side of Θ.
+Solution:
+208
+Unit 4: Trigonometric Function
+Before we find the values of the trigonometric ratios,
+(5,12)
+we need to find the length of the missing side length
+12
+(hypotenuse). If r is the length of hypotenuse, we
+10
+8
+use the Pythagoras Theorem as
+6
+12
+r = + y² = + 12² = √25 + 144
+4
+= √169 = 13.
+2
+Θ
+5
+Now we can find the values of the three
+2
+4
+6
+8
+10
+trigonometric ratios. Hence,
+Figure 4.8
+sinΘ = oppo site otenuse side to Θ -1/13 = 12 13' cos Θ = adjacent side to Θ = 5/3 13 5 and
+otenuse
+tan Θ = opposite adjacent side side to to Θ Θ = 12 5
+Exercise 4.4
+1. Evaluate the sine, cosine and tangent of angle Θ if Θ is in standard position
+and its terminal side contains the given point (x,y).
+a. (4,3)
+b. (6,8)
+C. (1, √2)
+d.
+2. Find the values of the trigonometric ratios of angle A in figure 4.9.
+a.
+b.
+√3
+1
+A
+A
+1
+1
+Figure 4.9
+3. Almaz wants to find the value of x in the given MNO, where cosΘ = 1/2 How
+you help Almaz?
+209
+Unit 4: Trigonometric Function
+M
+5
+N
+Θ
+O
+x
+Figure 4.10
+Example 2
+Calculate all angles and sides if the hypotenuse in a
+A
+right-angled triangle ABC is equal to 5.
+C
+30
+B
+Figure 4.11
+Solution:
+When solving problems such as this, it is advisable to draw a sketch. In this
+example, either sine or cosine can be used. The order in which the problem is solved
+doesn't affect the final result. Angle at the point B is equal to 30° and the opposite side
+of this angle is AC.
+sin30° AC
+AC = sin30° x 5
+AC = 2.5
+Adjacent side is BC. So, cosine is used.
+cos30° BC AB AB = BC = cos30° X 5
+and m(LA) = 60°.
+In mathematics, the trigonometric functions (also called circular functions or angle
+functions) are real functions which relate to an angle of a right-angled triangle to ratios
+of two side lengths.
+210
+Unit 4: Trigonometric Function
+Exercise 4.5
+1. Calculate all angles and sides if the hypotenuse of an isosceles right-angled
+triangle ABC is equal to 4.
+A
+B
+C
+Figure 4.12
+2. Ali wants to find the exact length of the shadow cast of a 15 m lamppost when
+the angle of elevation of the sun is 60°. What is the length of the shadow cast?
+15 m
+60°
+Ground
+xm
+Figure 4.13
+3. A kite in the air has a string tied to the ground as shown in figure 4.14. If the
+length of the string is 100 m, find the height of the kite above the ground when
+the string is taut and its inclination is 30° to the horizontal.
+K
+100
+m
+h
+30°
+Ground
+J
+G
+Figure 4.14
+211
+Unit 4: Trigonometric Function
+The unit circles
+Activity 4.3
+Based on the right-angled triangle labeled A and B as shown in figure 4.15.
+a. Find cosine of angle A
+b. Compute sine of angle A
+B
+5
+3
+A
+C
+4
+Figure 4.15
+The unit circle is in the xy-plane. It is a circle with a radius of 1 and centered at the
+origin.
+Now let us draw a right-angled triangle with the same acute angles a hypotenuse of 1
+unit long. We find that the side opposite to angle A is 3/15 = 0.6 long and the side
+adjacent to angle A is $ 1 5 = 0.8 long.
+B
+1
+0.6
+A
+C
+0.8
+Figure 4.16
+cosA = 0.8/1 0.8 1 = 0.8 and sin A = 0.6/1 0.6 1 = 0.6. Thus, the length of the side adjacent is
+numerically equal to the cosine of the angle, and the length of the side opposite is
+numerically equal to the sine of the angle. Because of this result, we can use a circle
+212
+Unit 4: Trigonometric Function
+whose center is the origin and whose radius is 1 unit long to help us visualize the values
+of the cosine and sine of the central angle.
+Plot the points (1,0), (0,1), (-1,0), and (0, -1) on the xy- coordinate
+system.
+Let P (a,b) be any point on the circle with angle AOP = x radian, i.e., length of arc
+y
+AP = x as shown figure4.17.
+We define cosx = = a and
+B[0,1)
+P(a,b)
+sin x = = b.
+x
+b
+So, the point (a,b) = (cosx, sinx).
+C
+x
+x
+(-1,0)
+0
+a
+Since ДОМР is a right-angled triangle, we
+M
+A(1,0)
+have (OM)² + (MP)² = (OP)² or
+a² + b² = 1.
+D(0,-1)
+Thus, for any point on the unit circle,
+we have a² + b² = 1, or cos² x + sin²x = 1.
+Figure 4.17
+Since one complete revolution subtends an angle of 2π radian at the center of the circle
+m(ZAOB) = 5/2 m(ZAOC) = π and m(ZAOD) = 3π/2
+All angles which are integral multiples of 5/2 2 are called quadrantal angles. The
+coordinates of the points A,B,C and D are respectively (1,0), (0,1), (-1,0) and
+(0, - 1).
+Therefore, for quadrantal angles, we have
+cos 0 = 1
+sin 0 = 0 =
+cos ³π = 0 cos 3r/2
+sin 3π = 1
+cos2π = 1
+sin2π = 0
+Now, if we take one complete revolution from the point P, we again come back to the
+same point P. Thus, we also observe that if x increases (or decreases) by any integral
+multiple of 2π, the values of sine and cosine functions do not change.
+213
+Unit 4: Trigonometric Function
+Thus,
+sin (2nπ + x) = sin x,n E Z
+cos (2nπ + x) = COS x,n E Z.
+Furthermore, sin x = 0, if x = 3π, i.e., when x is an integral
+multiple of π.
+cos x = 0, if x = ± π 2 ± 3r/2 3π 2 , ± 5π 2 , i.e., when x is an odd integral multiple 5/2
+Thus
+sin x = 0, implies x = пπ, where n is any integer,
+cos x = 0, implies x = (2n + 1) F/2 where n is any integer.
+In grade 9, we discussed the values of the trigonometric ratios for
+0°, 30°, 45°, 60° and 90°.
+The values of trigonometric functions for these angles are the same as those of
+trigonometric ratios in table 4.2.
+Table 4.2
+degree
+0°
+30°
+45°
+60°
+90°
+180°
+270°
+360°
+radian
+0
+π
+π
+π
+π
+π
+3π
+2π
+-
+-
+-
+6
+4
+3
+2
+2
+sinx
+0
+1
+1
+√3
+1
+0
+-1
+0
+2
+√2
+2
+cosx
+1
+√3
+1
+1
+0
+-1
+0
+1
+-
+2
+√2
+2
+tanx
+0
+1
+1
+√3
+Not
+0
+Not
+0
+√3
+Defined
+Defined
+Exercise 4.6
+1. Using the unit circle, find the values of the sine, cosine and tangent functions of
+the following quadrantal angles:
+a. 0°
+b. 450°
+C. 540° d. 630°
+214
+Unit 4: Trigonometric Function
+b. Fill in the blank with numbers.
+degree
+-360°
+-450°
+-270°
+-180°
+-90°
+90°
+180°
+720°
+sinx
+cosx
+tanx
+Sign of trigonometric functions
+Let P(a,b) be a point on the unit circle with center at the origin such that
+m(LAOP) = x. If m(LA0Q) = -x, the coordinate of the point Q (a, -b) (see Figure
+4.18).
+Therefore, cos(-x) = cosx and sin(-x) = -sinx.
+Since for every point P(a,b) on the unit circle where 1 ≤ a ≤ 1 and -1≤b≤1,
+we have 1 ≤ cosx ≤ 1 and 1 ≤ sinx ≤ 1, for all x.
+y
+B(0,1)
+P(a,b)
+x
+b
+C
+x
+x
+(-1,0)
+0
+x
+M
+A(1,0)
+x
+Q(a,-b)
+D(0,- 1)
+Figure 4.18
+We have learnt that in the first quadrant (0 < x < 5/2 2 ) , a and b are both positive; in
+the second quadrant ( 2 < x < π ), a is negative and b positive; in the third quadrant
+π < x < 3π a and b are both negative and in the fourth quadrant (3ʳᵈ < x < 2π),
+a is positive and b is negative.
+215
+Unit 4: Trigonometric Function
+Therefore, sinx is positive for 0<x<π and negative for π < x < 2π. Similarly,
+cosx is positive for 0<x< 2 , and negative for < < and also positive for
+3r/2 3π 2 < x < 2π. Likewise, we can find the signs of other trigonometric functions in
+different quadrants.
+In fact, we have the following table.
+Table 4.3
+Quadrants
+y =
+I
+II
+III
+IV
+sinx
++
++
+-
+-
+cosx
++
+-
+-
++
+tanx
++
+-
++
+-
+y
+II
+(0,1)
+I
+(-x,y)
+90°
+(x,y)
+(-1,0)¹⁸⁰⁰
+0°
+x
+(1,0)
+270°
+III
+IV
+(0,-1)
+(-x,-y)
+(x,-y)
+Figure 4.19
+Example 1
+Find the quadrant where angle x makes sin x > 0 and cos x < 0.
+Solution:
+Here, sin x > 0 in the first and second quadrants, and cos x <0 in the second and
+third quadrants. Thus, when sin x > 0 and cos x < 0 are both satisfied, x is the angle
+of the second quadrant.
+216
+Unit 4: Trigonometric Function
+Exercise 4.7
+1. Find the quadrant where angle x is located for the following conditions.
+a. sin x < 0 and cosx>0
+b. sin x > 0 and tan x < 0
+C. cos x > 0 and tan x < 0
+2. Fill in the blank with numbers.
+Degree
+0°
+120°
+135°
+150°
+210°
+240°
+330°
+2π
+3π
+5π
+7π
+4π
+11
+radian
+0
+3
+4
+6
+6
+3
+6ⁿ 6 π
+sinx
+cosx
+tanx
+Reciprocal trigonometric functions
+Note
+We can define other trigonometric functions in terms of sine and cosine:
+It is convenient to have a name for the reciprocal of the sine, cosine, and tangent
+of a given angle Θ. We call these reciprocal functions the secant(sec),
+cosecant(csc), and cotangent(cot) and define them as follows:
+cscA = sine
+sin Θ
+second
+Example 1
+Evaluate sec30°
+Solution:
+We know sec30° is the reciprocal of COS 30°. Therefore, we have
+217
+Unit 4: Trigonometric Function
+cos30° = v³. 1/2
+Example 2
+Evaluate sec60° + csc30°.
+Solution:
+Since cos60° = 1/2 and sec60° is the reciprocal of cos60° we obtain
+Since sin30° = 1 and sin30° is the reciprocal of csc30° we have
+csc30°
+Thus, sec60° + csc30° = 2 + 2 = 4.
+Exercise 4.8
+1. Evaluate the following
+a. sec 45° c.sec(-π)
+d. CSC 30°
+e. csc 3π
+f.
+csc(-300°)
+g. cot 60° h. cot 5n 6 i. cot( 5π)
+2. Evaluate the following trigonometric expressions.
+a)
+b) sec330° + cot480°
+4.2.2 Trigonometric values of angles
+Trigonometry angles are the angles given by the ratios of the trigonometric functions.
+Trigonometry deals with the study of the relationship between angles and the sides of
+a triangle. The angle value ranges from 0° to 360°, The important angles in
+trigonometry are 0°, 30°, 45°, 60°, 90°, 180°, 270° and 360°. And the important six
+218
+Unit 4: Trigonometric Function
+trigonometric ratios or functions are sine, cosine, tangent, cosecant, secant and
+cotangent.
+Complementary angles
+Activity 4.4
+A
+Based on the isosceles right-angled triangle
+ABC in Figure 4.20, calculate the length
+of the hypotenuse AB and verify that the
+two angles A and B are congruent.
+B
+C
+Figure 4.20
+Two angles are said to be complementary angles if they are added up to 90°. In the
+figure 4.21,
+60° + 30° = 90°. Hence, these two angles are complementary. Each angle of the
+complementary angles is called the "complement" of the other angle. Here, 60° is the
+complement of 30° Similarly, 30° is the
+complement of 60°. Thus, the complement of an
+angle is calculated by subtracting the angle
+from 90°. So, the complementary angle of
+60°
+angle x° is (90 - x)°.
+30°
+x
+Figure 4.21
+Example 1
+Find the complementary angle of 57°.
+Solution:
+The complementary angle of 57° is obtained by subtracting it from 90°, that is,
+90° - 57° = 33°.
+Thus, the complementary angle of 57° is 33°.
+219
+Unit 4: Trigonometric Function
+Example 2
+Evaluate the following angles:
+a. 54°
+b. 30°
+Solution:
+sin 54° = sin (90 - 36°) = cos 36° , and sin 30° = sin (90° - 30°) = cos 60°.
+Note
+Note the following on acute angle α and its complementary angle (π/2 - α ).
+sin (π/2 - α) = cos α
+cos (π/2 - α) = sin α
+tan (π/2 - α) = cot α
+cot (π/2 - α) = tan α
+Example 3
+If sin 3A = cos (A - 26°), where 3A is an acute angle, find the value of A.
+Solution:
+Given that, sin 3A = cos (A - 26°) .... (1)
+Since, sin 3A = cos (90° - 3A), we can write (1) as:
+cos(90° - 3A) = cos (A - 26°)
+90° - 3A = A - 26°
+90° + 26° = 3A + A which implies 4 A = 116°.
+So, A = 116 116 4 = 29°.
+Therefore, the value of A is 29°.
+Exercise 4.9
+Answer each of the following questions:
+1. Find the numerical value of
+a. sin 30° and cos 60°
+b. sin 45° and cos 45°
+C. What can you generalize or deduce based on your answer to a and b above?
+220
+Unit 4: Trigonometric Function
+2. If sin 31° = 0.515, then what is COS 59°?
+3. If sin Θ 3 / in = 3 5' then what is cos(90° - Θ)?
+4. If cos α = 4 5 , then what is
+5. If sin Θ = k , = then what is cos
+6. If tan ß = then what is tan (90° - β) 1
+7. If cos(4a) = sin(a - 20°) where 4a is an acute angle. Find the value of a.
+Reference angle (ΘR)
+The reference angle of any angle always lies between 0° and 90°. It is the angle
+between the terminal side of the angle and the x- axis. The reference angle depends on
+the quadrant's terminal side.
+The steps to find the reference angle of an angle depend on the quadrant
+of the terminal side:
+We first determine its coterminal angle which lies between 0° and 360°.
+We then see the quadrant of the coterminal angle.
+If the terminal side is in the first quadrant (0° to 90°), then the reference angle
+is the same as our given angle.
+For example, if the given angle is 25°,
+4
+then its reference angle (Θᵣ) is also 25°
+2
+as shown in Figure 4.22.
+0 R = 25°
+-4
+-2
+2
+4
+-2
+-4
+Figure 4.22
+221
+Unit 4: Trigonometric Function
+If the terminal side is in the second quadrant ( 90° to 180°), then the reference
+angle (Θᵣ) is 180° minus the given
+y
+angle.
+4
+For example, if the given angle is 100°, then
+2
+100°
+its reference angle is 180° - 100° = 80° as
+OR = 80°
+x
+shown in figure 4.23.
+-4
+-2
+2
+4
+-2
+-4
+Figure 4.23
+If the terminal side is in the third quadrant (180° to 270°), then the reference
+angle (Θᵣ) is the given angle minus
+y
+180°.
+4
+For example, if the given angle is 215°, then
+215°
+2
+its reference angle is 215° - 180° = 35° as
+x
+shown in figure 4.24.
+-4
+-2
+2
+4
+OR = 35°
+-2
+-4
+Figure 4.24
+If the terminal side is in the fourth quadrant (270° to 360°), then the reference
+angle (Θᵣ) is 360° minus the given
+y
+4
+angle.
+For example, if the given angle is 330°, then
+2
+330°
+its reference angle is 360° - 330° = 30° as
+x
+-4
+-2
+2
+4
+shown in figure 4.25.
+OR = 30°
+-2
+-4
+Figure 4.25
+222
+Unit 4: Trigonometric Function
+Example 1
+Find the reference angle Θᵣ for the angles
+a. Θ = 129°
+b. Θ = 245°
+c. Θ = 320°
+Solution:
+a. Since Θ = 129° is a second quadrant angle,
+Θᵣ = 180° - 129° = 51°.
+b. Since Θ = 245° is a third quadrant angle,
+Θᵣ = 245° - 180° = 65°.
+c. Since Θ = 320° is a fourth quadrant angle,
+Θᵣ = 360° - 320° = 40°.
+Note
+The value of the trigonometric function of a given angle Θ and the values of the
+corresponding trigonometric functions of the reference angle ΘR are the same in
+absolute value.
+Example 2
+Express the sine, cosine and tangent of 155° in terms of its reference angle.
+Solution:
+Remember that an angle with measure 155°is a second quadrant angle. In the second
+quadrant, only sine is positive. So, Θᵣ = 180° - 155° = 25⁰.
+Therefore, sin155°, = sin25°, cos155° = -cos25° and tan155° = -tan25°.
+Exercise 4.10
+1. Find the reference angle Θᵣ for the angles
+a. Θ = 109°
+b. 0 = 345°
+C. Θ = 190°
+d. Θ = 140°
+e. 0 = 5π
+f. Θ = 7 r 4
+g. Θ = 4π 3 3
+223
+Unit 4: Trigonometric Function
+2. Express the sine, cosine and tangent of 150° in terms of its reference angle.
+Supplementary angles
+The supplementary angles are angles that exist in pairs summing up to 180°. So,
+supplementary angle of an angle x is 180° minus x.
+Example 1
+Determine whether the following pairs of angles are supplementary or not.
+a. 50° and 130°
+b. 70° and 100°.
+Solution:
+We know that two angles are supplementary if their sum is 180°.
+a. 50° + 130° = 180°
+Since the sum is 180°, the given angles are supplementary.
+b. 70° + 100° = 170°
+Since the sum is not180°, the given angles are not supplementary.
+Co-terminal angles
+Activity 4.5
+What are co-terminal angles?
+Co-terminal angles are angles that have the same initial side and share the terminal
+sides. The co-terminal angles occupy the standard position, though their values are
+different. They are on the same sides, in the same quadrant and their vertices are
+identical. When the angles are moved clockwise or anticlockwise, the terminal sides
+coincide at the same angle.
+Consider 45°. Its standard position is in the first quadrant because its terminal side is
+also in the first quadrant. Look at the image as shown in figure 4.26. On full rotation
+anticlockwise, 45° reaches its terminal side again at 405°. So, 405° coincides with
+224
+Unit 4: Trigonometric Function
+45° in the first quadrant. On full rotation
+y
+clockwise, 45° reaches its terminal side
+again at -315°. -315° coincides with 45°
+Terminal Side
+in the first quadrant.
+45° - 360° = -315°
+405° = 360° +45°
+45°.
+Thus 405° and -315° are co-terminal
+x
+Initial Side
+angles of 45°.
+Figure 4.26
+The formula to find the co-terminal angles of an angle Θ depends upon whether it is in
+terms of degrees or radians:
+1. Degrees: Θ ± 360n, where n is an integer.
+2. Radian: Θ ± 2nπ, where n is an integer.
+So, 45°, - -315°, 405°, - 675°, 765° are all co-terminal angles. They differ only by
+a number of complete circles. We can conclude that two angles are said to be co-
+terminal if the difference between the angles is a multiple of 360° (or 2π if the angle
+is in terms of radians).
+Example 1
+Find two co-terminal angles of 30°.
+Solution:
+The given angle is Θ = 30°. The formula to find the co-terminal angle is
+Θ ± 360°n Then find the first co-terminal angle using n = 1.
+The corresponding co-terminal angle = Θ + 360°n
+= 30° + 360° (1)
+= 390°.
+To find the second co-terminal angle when n = -2 (clockwise).
+Then, the corresponding co-terminal angle = Θ + 360° n
+= 30° + 360° (-2)
+= -690°
+225
+Unit 4: Trigonometric Function
+Note
+From the above explanation, we can find the co-terminal angle(s) of any angle
+either by adding or subtracting multiples of 360° (or 2π) from the given angle. So,
+we actually do not need to use the co-terminal angles formula to find the co-
+terminal angles. Instead, we can either add or subtract multiples of
+360° (or 2π) from the given angle to find its co-terminal angles.
+Example 2
+Find a co-terminal angle of 4/4
+Solution:
+The given angle is Θ = 4, which is in radians.
+So, we add or subtract multiples of 2π from 4/4 to find its co-terminal angles.
+Let us subtract 2π from the given angle as
+Thus, one of the co-terminal angles of ⁴ is - 4.
+What are positive and negative co-terminal angles?
+Co-terminal angles can be positive or negative. In one of the above examples, we found
+that 390° and - 690° are co-terminal angles of 30°.
+Here, 390° is the positive co-terminal angle of 30° and -690° is the negative co-
+terminal angle of 30°.
+Note
+Θ ± 360 n, where n takes a positive value when the rotation is anticlockwise and
+takes a negative value when the rotation is clockwise. So, we decide whether to
+add or subtract multiples of 360° (or 2π) to get positive or negative co-terminal
+angles, respectively.
+226
+Unit 4: Trigonometric Function
+Exercise 4.11
+1. Determine whether the following pair of angles are supplementary or not.
+a. 90° and 100° b. 135° and 45° 2π/3
+2. Find a positive and a negative angle which are co-terminal with angle 55°.
+3. Find a positive and a negative angle which are co-terminal with # 1 in
+Example 1
+Find a reference angle Θᵣ of 495°.
+Solution:
+First let us find the co-terminal angle of 495°. The co-terminal angle is
+495° - 360° = 135°.
+The terminal side lies in the second quadrant.
+Thus, the reference angle is 180° - 135° = 45°.
+Therefore, the reference angle of 495° is 45°.
+Example 2
+Evaluate: sin 780°
+Solution:
+780° = 720° + 60° = 2 x 360° + 60°
+Therefore, sin780° = sin60° =/2 = 13/2 2"
+Exercise 4.12
+Evaluate the following expressions.
+a. sin 390°
+b. cos¹⁰ᵐ
+C. tan(-420°)
+d. sin (-660°)
+e. . cos 41 4
+f. tan(-19π)
+g. 4cos135°
+h. ⁵ cos300° 3
+i. 2cos(-150°)
+227
+Unit 4: Trigonometric Function
+Graphs of the sine, cosine and tangent functions
+To sketch the trigonometry graphs of the functions of sine, cosine and tangent, we need
+to know the period, phase, and amplitude, maximum and minimum turning points. The
+graphical representation of sine, cosine and tangent functions are explained here
+briefly. Students can learn how to graph a trigonometric function here along with
+activities based on it.
+Sine, cosine and tangent are the three important trigonometric ratios based on which
+functions are defined. In these trigonometry graphs, we use x-axis for values of the
+angles in radians and the y-axis values of the function at each given angle.
+The graph of the sine function
+Activity 4.6
+1. Complete the following table of values for the function y = sinΘ
+Table 4.4
+O
+-360°
+-270
+-90°
+-30°
+0°
+30°
+90°
+270°
+360°
+y
+2. Sketch the graph of y = sinΘ using table 4.4.
+3. What is the period of sine function?
+Example 1
+Draw the graph of y = sinΘ.
+Solution:
+To determine the graph of y = sinΘ, we construct a table of values for y = sinΘ
+where - 360° ≤ Θ ≤ 360°.
+The table below shows some of the values of y = sinΘ in the given interval. To draw
+the graph, you mark the values of Θ on the horizontal axis and the value of y on the
+vertical axis. Then you plot the points and connect them using smooth curve (see figure
+4.27)
+228
+Unit 4: Trigonometric Function
+Table 4.5
+Θ in degree
+-360
+-330°
+-270
+-240
+-210
+-180
+-150
+-120
+-90°
+-90°
+-45°
+-30°
+0°
+Θ in radian
+-2π
+-11π
+3π
+4π
+7π
+-π
+5π
+2π
+π
+π
+π
+π
+0
+6
+2
+3
+6
+6
+3
+2
+3
+4
+6
+y = sinΘ
+0
+0.5
+1
+0.87
+0.5
+0
+-0.5
+-0.87
+-1
+-0.87
+-0.71
+-0.5
+0
+Θin degree
+30°
+60°
+60°
+90°
+120°
+150°
+180°
+210°
+240°
+270°
+300°
+330°
+360°
+Θ in radian
+π
+π
+π
+π
+2π
+5π
+π
+7π
+4π
+3π
+5π
+11π
+2π
+-
+-
+-
+6
+4
+3
+2
+3
+6
+6
+3
+2
+3
+6
+y = sinΘ
+0.5
+0.71
+0.87
+1
+0.87
+0.5
+0
+-0.5
+-0.87
+-1
+-0.87
+-0.5
+0
+After a complete revolution (every 360° or 2π), the values of the sine function
+repeat themselves. This means
+sin0° = sin(0° + 360°) = sin(0° ± 2 X 360°) = sin (0° + 3 X 360°), etc
+sin90° = sin(90° + 360°) = sin(90° ± 2 X 360°) = sin(90° + 3 X 360°), etc
+sin 180° = sin(180° ± 360°) = sin (180° + 2 X 360°) = in(180° + 3 X 360°), etc
+In general, sinΘ° = sin(Θ⁰ ± 360°) = sin (Θ° ± 2 X 360°) = sin (Θ° ± 3 X 360°) etc
+A function that repeats its value at regular intervals is called a periodic function. The
+sine function repeats after every 360° (or 2π). Therefore, 360° (or 2π) is called the
+period of the sine function.
+y
+1
+x
+-2π
+-3π
+-π
+-π
+π
+π
+3π
+2π
+2
+2
+2
+2
+-1
+Figure 4.27 The graph of y = sinΘ for - 2π ≤ Θ ≤ 2π
+Exercise 4.13
+1. Draw graph of the following functions.
+y = 2sinx, for -2π ≤ x ≤ 2π
+229
+Unit 4: Trigonometric Function
+2. Find the values A to H in the following graph of y = sin x.
+y
+y=sinx
+1
+√3
+2
+G
+5π
+D
+C
+4
+x
+-2π
+3π
+F
+- π
+π
+B
+A
+π
+3π
+E
+2
+4
+6
+2
+H
+-1
+Figure 4.28
+Domain and range:
+For any angle Θ taken on the unit circle, there is some point P (x,y) on its terminal
+side. Since y = sinΘ , the function y = sinΘ is defined for every angle Θ taken on
+the unit circle.
+Therefore, the domain of the sine function is the set of all real numbers.
+Note
+The domain of the sine function is {Θ: Θ E R}. The range of the sine function is
+{y(Θ): - 1 ≤ y ≤ 1,0 E R}.
+The graph of the cosine function
+Activity 4.7
+1. Complete following table of values for the function y = cosΘ.
+Table 4.6
+Θ
+-360
+-270
+-90°
+-30°
+0°
+30°
+90°
+270°
+360°
+y = cosΘ
+2. Sketch the graph of y = cosΘ using table 4.6.
+3. What is the period of cosine function?
+230
+Unit 4: Trigonometric Function
+From the above activity, you can see that y = cosΘ is never less than - 1 or more than
++1 (see figure4.29). Just like the sine function, the cosine function is periodic at
+every 360° (or 2π) radians. Therefore, 360° (or 2π) is called the period of the cosine
+function.
+y
+x
+-2π
+3π
+-π
+- π
+π
+π
+3π
+2π
+2
+2
+2
+2
+-1
+Figure 4.29 Graph of y = cosΘ
+The domain of the cosine function is the set of all real numbers. The range of the cosine
+function is {y: - 1 ≤ y ≤ 1}.
+Exercise 4.14
+1. Draw graph of the following functions.
+y = cosx, for - 2π ≤ x ≤ 2π.
+2. Find the values A to H in the following graph of y = cosx.
+y
+1
+cosx
+G
+-3π
+1
+3π
+4
+2
+F
+C
+A
+4
+x
+-2π
+-π
+n
+B
+D
+3π
+E
+2
+2
+H
+1
+Figure 4.30
+231
+Unit 4: Trigonometric Function
+Graph of the tangent function
+Activity 4.8
+1. Complete the following table of values for the function y = tanΘ.
+Table 4.7
+Θ
+-360
+-270
+-90°
+-45°
+-30°
+0°
+30°
+45°
+90°
+270°
+360°
+y = tanΘ
+2. Sketch the graph of the function y = tanΘ using table 4.7.
+3. What is the period of tangent function?
+4. For which values of Θ, y = tanΘ is not defined?
+Example 2
+Draw graph of the function y = tanΘ, where -360° ≤ Θ ≤ 360°.
+Table 4.8 shows some of the values of y = tanΘ in the given interval.
+Table 4.8
+Θ
+-360°
+-315°
+-270°
+-225°
+-180°
+-135°
+-90°
+-45°
+0°
+Θ in radian
+-2π
+7π
+3π
+5π
+3π
+π
+π
+-π
+0
+4
+2
+4
+4
+2
+4
+y = tanΘ
+0
+1
+undefine
+-1
+0
+1
+undefine
+-1
+0
+Θ
+30°
+45°
+90°
+135°
+180°
+225°
+270°
+315°
+360°
+Θ in radian
+π
+π
+π
+3π
+П
+5π
+3π
+7π
+2π
+-
+-
+I
+6
+4
+2
+4
+4
+2
+4
+y = tanΘ
+0.56
+1
+undefined
+-1
+0
+1
+undefine
+-1
+0
+Look at the tangent function y = tanΘ graph shown in figure 4.31.
+232
+Unit 4: Trigonometric Function
+y
+1
+x
+-2π
+3π
+-π
+π
+π
+3π
+2π
+2
+2
+2
+2
+-1
+Figure 4.31 The graph of y = tanΘ for - 2π ≤ Θ ≤ 2π
+Do you notice that the pattern of curves is repeating after an interval of π?
+Also, observe that the values of tanx increases as x increases in (0, ²,, (², π),
+(π, 3r) 3π 2 , ....
+The domain of the tangent function is {Θ: Θ #nπ, where n is an odd integer}.
+The range of the tangent function is the set of all real numbers.
+From the graph we see that the tangent function repeats itself every 180° or π radians.
+Therefore, the period of the tangent function is 180° or π radians.
+Exercise 4.15
+1. Draw graph of the function y = tanx, for - 2π ≤ x ≤ 2π.
+2. The following is the graph of y = tan x.
+a. Find the values y of the following points A, B, C and D.
+b. Find the values of x of the following points E, F and G.
+F
+7π
+π
+5 75
+6
+6
+6
+2π
+3π
+D
+π
+π
+# 21
+B
+A
+3π
+C
+2π
+2
+3
+G
+E
+Figure 4.32
+233
+Unit 4: Trigonometric Function
+4.3 Trigonometric Identities and Equations
+By considering a right-angled triangle, the trigonometric identities or equations are
+formed using trigonometry ratios for all the angles. Using trigonometry identities, we
+can express each trigonometric ratio in terms of other trigonometric ratios. If any of
+the trigonometry ratio value is known to us, then we can find the values of other
+trigonometric ratios. We can also solve trigonometric identities, using these identities
+as well.
+Trigonometric Identities
+There are basically three trigonometric identities, which we learn in this topic.
+They are:
+1. cos² Θ + sin² Θ = 1
+2. 1 + tan² Θ = sec² Θ
+3. 1 + cot² Θ = csc² Θ
+Here, we will prove the above trigonometric identities. Take an example of a right-
+angled triangle AABC as shown in figure 4.33.
+Proof of Trigonometric Identities
+In a right-angled triangle, by the Pythagoras Theorem, we know
+(Perpendicular side length) 2
+Perpendicular Side
+Hypotenuse
++ (Base length)² = (Hypotenuse length)²
+Θ
+B
+Adjacent Side
+C
+Therefore, in ДАВС, we have;
+(AB)² + (BC)² = (AC)²
+(1)
+Figure 4.33
+Dividing equation (1) by (AC)² we get,
+ABC 2 + AC BC 2 = 1 by rule of exponent
+(sinΘ)² + (cosΘ)² = 1 (Since sinΘ = AB / AC and cosΘ BCAC =
+sin² Θ + cos²Θ = 1
+(2)
+234
+Unit 4: Trigonometric Function
+For all angles equation (2) is satisfied.
+Example 1
+x is the angle of the third quadrant. When sin x x=-3, = 3 1 is 3 1 in 5' 3 find the value of cos x.
+Solution:
+sin² x + cos² x and cos²: = = 2 = = 16 But x is the angle
+of the third quadrant, so cos x < 0.
+Thus cos
+Exercise 4.16
+a. If x is the angle in the second quadrant and cos x = V5/3 3 , find the value of sin x.
+b. If x is the angle in the fourth quadrant and sin x = 1/3 find the value of cos x.
+Again, when we divide equation (1) by (AB)², we get
+2
+1
+II
+(By rule of exponent)
+1 + (cotΘ)² = (cscΘ)²
+(Since cotΘ = and cscΘ AB =
+1 + cot² = csc²Θ
+(3)
+Therefore, it proves that for all values of Θ, equation (3) is satisfied.
+Let's see what we get if we divide equation (1) by (BC)², we get
+2
+by rule of exponent
+235
+Unit 4: Trigonometric Function
+(tanΘ)² + 1 = (secΘ)²
+(Since tanΘ = BC and secΘ = AC)
+1 + tan²Θ = sec²Θ
+(4)
+Example 2
+x is the angle of the fourth quadrant. When tan x = - 2, = find the values of sec x and
+cos x.
+Solution:
+sec²x
+x is the angle of the fourth quadrant and secx = sec =
+In the fourth quadrant cos x > 0, so sec x > 0.
+Therefore sec x = √5 and cos x = sec 1 = √5 1
+Exercise 4.17
+Answer the following questions.
+a. x is the angle of the third quadrant. If tan x = 3, find the values of sec x and
+cos x.
+b. x is the angle of the second quadrant. If tan x = 3, find the values of sec x and
+cos x
+Addition and subtraction of identities
+The formulas for the addition and subtraction theorems of sine and cosine are
+expressed as in the following:
+sin (α + ß) = sinα cosß + cosa sinß,
+sin(α - ß) = sina cosß - cosa sinß,
+cos(α + ß) = cosa cosß - sinα sinß,
+cos(α - ß) = cosa cosß + sinα sinß.
+Example 1
+Find the values of trigonometric expressions:
+236
+Unit 4: Trigonometric Function
+a. sin75°
+b. cos75°
+Solution:
+a. sin75° = sin (30° + 45°)
+= sin30° cos45° + cos30° sin45°
+=
+b. cos75° = cos (30° 45°)
+= cos30° cos45° - sin30° sin45°
+=
+4
+Exercise 4.18
+Find the values of the following trigonometric expressions.
+a. sin 105° b. cos 105° C. sin 15° d. cos 15° e. sin ¹₂ f. cos 12
+Double angle identities
+Formulas expressing trigonometric functions of an angle 20 in terms of an angle Θ:
+sin2Θ = 2sinΘcosΘ
+cos2= cos²-sin²0 =1 -2sin² = 2cos² -1
+tan20 = 2tan 29
+2tan Θ
+Example 1
+If x is an angle of the second quadrant and sin x 3 / in = 3 1 in 3 5' find the following values.
+a. cos x
+b. sin2x
+c. cos2x
+Solution:
+a. sin²x+cos²x=1
+x is the angle of the second quadrant, so cosx<0
+237
+Unit 4: Trigonometric Function
+Thus cos
+b. sin2x = 2 sin x COS x =
+c.
+Half angle identities
+The half-angle identities for the sine and cosine are derived from two of the cosine
+identities described earlier.
+cos2Θ = 2cos²Θ - 1. Let Θ = then cos (2 X = 1
+cosa =
+2cos² ² = cosa + 1
+= 2 .
+Similarly sin
+The sign of the two preceding functions depends on the quadrant in which the resulting
+angle is located.
+Example 1
+Find the exact value for cos 15° using the half-angle identity.
+Solution:
+cos15° cos30°
+4 2 (15° is in the first quadrant, hence cos15° > 0)
+238
+Unit 4: Trigonometric Function
+Exercise 4.19
+1. Assume x is the angle in the first quadrant. When cos x = 2 / m find the following
+values.
+a. sin x
+b. sin2x
+C. cos2x
+2. Find the exact values using the half angle identity.
+a. sin 15°
+b. sin ⁸
+C. cos ³ʳᵈ
+Trigonometric equations
+Trigonometric equations can be solved using the algebraic methods, trigonometric
+identities and values.
+Example 1
+Solve the equation 2cosΘ 1 = 0, 0 ≤ θ < 2π.
+Solution:
+When we rearrange the above equation, we get
+For the reference angle Θᵣ, we have cosΘᵣ and hence, Using the
+reference angle Θᵣ, we determine the solution Θ in the interval [0, 2π] of the given
+equation cosΘ -1/2 1 suggests that cosΘ is positive and that means the terminal side of
+Θ solution to the given equation is either in quadrant I or IV. Hence,
+Example 2
+Solve the trigonometric equation 2sinΘ = 1.
+Solution:
+Rewrite the above equation in simple form as shown below:
+sinΘ = 2 1 The reference angle Θᵣ such that
+239
+Unit 4: Trigonometric Function
+Use the reference angle Θᵣ to determine the solutions Θ₁ and Θ₂ on the interval
+[0,2π) of the given equation. The equation sinΘ = - 2 1 suggests that sinΘ is negative
+and that means the terminal side of angle Θ is either in quadrant III or IV as shown in
+the unit circle figure 4.34.
+y
+e1
+Θ₂
+0
+x
+Or
+Or
+1
+2.
+A
+G
+B
+Figure 4.34
+Hence,
+Θ₁ = + Θᵣ or Θ₂ =
+6 π
+= 2π - ⁶
+= 7 6
+=
+=11/6
+=
+6
+Use the solutions on the interval [0, 2π) to find all solutions by adding multiples of
+2π as follows:
+Θ₁ = 6 + 2nπ and Θ₂ 11/6 2nπ, where n is an integer.
+Exercise 4.20
+Solve the following trigonometric equations.
+a. sinΘ = 1/2/2 √2 1 where 0° ≤ Θ < 2π.
+b. √2 cos x = -1 when 0° ≤ Θ < 360°
+C. 2sinx + √3 = 0 when 0° ≤ Θ < 360°
+d. 2cosx = √3
+e. secx - √2 = 0
+240
+Unit 4: Trigonometric Function
+Example 3
+Find all the solutions of the trigonometric equation √3 secΘ + 2 = 0
+Solution:
+Using the identity secΘ 1 cos we rewrite the equation in the form
+y
+Find the reference angle Θᵣ by solving cosΘᵣ = 2
+for Θᵣ acute. Accordingly, = 5 Using the
+A
+Θ₁
+√3
+Θ₂
+reference angle Θᵣ in the interval [0, 2π) of the
+G
+2
+8Γ
+x
+0
+given equation cosΘ = 5/2 5½/2 2 . This suggests that
+Br
+cosΘ is negative and that means the terminal side of
+B
+angle Θ is either in quadrants II or III as shown in
+figure 4.35.
+Figure 4.35
+Hence,
+Θ₁ = π - Θᵣ or θ₂ = π + Θᵣ
+π
+6 π
+=5th
+= 7 6
+=
+6
+6
+Use the solutions on the interval [0, 2π) to find all solutions by adding multiples of
+2π as follows:
+Θ₁ = 5π 6 + 2nπ and Θ₂ = 6 + 2nπ where n is an integer.
+Exercise 4.21
+Solve the following trigonometric equations.
+<
+b. 3√2 + 3cscΘ = 0 for 0° ≤ Θ < 2π.
+241
+Unit 4: Trigonometric Function
+4.4 Applications of Trigonometric Functions
+Activity 4.9
+1. Assume that a skateboard ramp at a park has
+an inclination of 45° and its base is 12 m long
+as shown in figure 4.36. So, what is the length
+of the ramp?
+45°
+12m
+Figure 4.36
+2. You are 50 m away from a river. Rather than
+walking directly to the river, you walk 100 m
+along a straight path to the river's edge as
+100 m
+shown in figure 4.37. What is the angle
+between this path and the river's edge?
+Θ
+50 m
+Figure 4.37
+In the figure 4.38, angle labeled 1 indicates the angles of elevation. It is the angle by
+which the ground observer's line of vision must
+B
+Horizontal
+be raised or elevated with respect to the
+2
+Angle of Depression
+horizontal to see an object at B. The angle labeled
+2 is the angle of depression. It is the angle by
+which an observer's line of vision at B must be
+Angle of Elevation
+1
+Horizontal
+lower or depressed with respect to the horizontal
+to see an object at A.
+Figure 4.38
+Example 1
+From the top of a vertical cliff 40 m high, the angle of depression of an object that is
+242
+Unit 4: Trigonometric Function
+at the level of the base of the cliff is 60° as
+O
+B
+60°
+shown in figure 4.39. How far is the object from
+the base of the cliff (A)?
+Solution:
+40
+Let x be the distance of the object in meters from
+the base of the cliff (A). The angle of depression
+60°
+is 60°. Here, n(LAPO) = m(LBOP) because
+Object
+A
+P
+x
+they are alternate angles.
+Figure 4.39
+:. m(LAPO) = 60°
+From triangle APO, we have:
+tan60° = AO AP = 40 x which implies x = tan 40 60° = 40
+Therefore, the object is 4/13 40 m far from the cliff (A).
+Exercise 4.22
+From the top of a vertical tree 10 m high,
+the angle of depression of an object that is
+10m
+on the ground is 45° as shown in figure
+4.40. How far is the object from the base of
+45°
+the tree?
+x
+Figure 4.40
+Example 2
+A circus artist is climbing a 20 m long rope, which is
+A
+tightly stretched and tied from the top of a vertical
+20m
+pole to the ground. Find the height of the pole if the
+angle is made by the rope with the ground level is 30°
+30°
+(see figure 4.41).
+B
+C
+Figure 4.41
+243
+Unit 4: Trigonometric Function
+Solution:
+In right angle ДАВС,
+sin30° = AB AB AC
+1/20 AB 20 AB = ¹ x 20 = 10
+Therefore, the height of the pole is 10 m.
+Example 3
+A tree breaks due to storm and the broken part bends so that the top of the tree touches
+the ground making an angle 30° with it. The distance between
+A
+the foot of the tree to the point where the top touches the
+ground is 8 m. Find the original height of the tree before it
+B
+30
+breaks (see figure 4.42).
+C
+8m
+Solution:
+Figure 4.42
+In right angle ДАВС,
+tan30° = ABC
+cos30° = BC AC BC
+1/3 - AB
+AB
+AC
+m
+AC = 16 m. 16/13 m.
+Therefore, the height of the tree is AB + AC = 8√3 m.
+Exercise 4.23
+Dana is standing on the ground and looking at the
+A
+top of the tower with an angle of elevation of 30°.
+If he is standing 15 m away from the foot of the
+tower, can you determine the height of the tower?
+30°
+C
+B
+15 m
+Figure 4.43
+244
+Summary and Review Exercise
+Summary
+1. An angle is determined by the rotation of a ray about its vertex from an initial
+position to a terminal position.
+2. An angle is positive for anticlockwise rotation and negative for clockwise
+rotation.
+3. An angle in the coordinate plane is in standard position if its vertex is at the origin
+and its initial side is along the positive x-axis.
+4. Radian measure of angles: 2π = 360°.
+5. To convert degrees to radians, multiply by 180° π
+6. To convert radians to degree, multiply by
+7. If Θ is an angle in standard position and P(x,y) is
+y
+a point on the terminal side of Θ, other than the
+p(x,y)
+origin 0(0,0) and r is the distance of point
+r
+y
+P from the origin O, then
+Θ
+sin Θ = ≥/² y r cosΘ = and tanΘ = x
+x
+o
+x
+cscΘ = r/2 r secΘ = and cotΘ =
+Figure 4.44
+r = + (Pythagoras Theorem)
+8. If Θ is an angle in standard position, then
+sin(-Θ) = sin(Θ)
+cos(-Θ) = cosΘ
+(-Θ) = -tanΘ
+9. Two angles are said to be complementary if their sum is equal to 90°. If α and ß
+are any two complementary angles, then
+sinα = cosß
+cosa = sinß
+tana = tanf
+10. Any trigonometric function of an acute angle is equal to the coterminal of its
+complementary angles. That is, if 0° ≤ Θ ≤ 90°, then
+sinΘ = cos(90° - Θ) cosΘ = (90° - Θ) tanΘ = cot(90° - Θ)
+245
+Summary and Review Exercise
+cscΘ = sec(90° - Θ) secΘ = csc(90° - Θ) cotΘ = tan (90° - Θ)
+11. If Θ is an angle in standard position whose terminal side does not lie on either
+coordinate axis, then the reference angle Θᵣ for Θ is the positive acute angle
+formed by the terminal side of Θ and the x -axis.
+12. Two angles are said to be coterminal if the difference between the angles is a
+multiple of 360° (or 2π if the angle is in terms of radians).
+13. Supplementary angles are angles that exist in pairs summing up to 180°. So,
+supplement of an angle Θ is (180° - Θ).
+sinΘ = n(180° - Θ), cosΘ = cos(180° - Θ), tanΘ = (180° - Θ)
+14. Coterminal angles are angles in standard position (angles with the initial side on
+the positive x-axis) that have a common terminal side.
+15. Coterminal angles have the same trigonometric values.
+16. The domain of the sine function is the set of all real numbers.
+17. The range of the sine function is {y: - 1 ≤ y ≤ 1}.
+18. The graph of the sine function repeats itself every 360° or 2π.
+19. The domain of the cosine function is the set of all real numbers.
+20. The range of the cosine function is {y: - 1 ≤ y ≤ 1}.
+21. The graph of the cosine function repeats itself every 360° or 2π.
+22. The domain of the tangent function is {Θ: Θ # n⁻, where n is an odd integer}
+23. The range of the tangent function is the set of all real numbers.
+24. Trigonometric identities:
+sin²Θ + cos²Θ = 1, 1+ tan²Θ = sec²Θ, cot² +1 = csc2Θ
+sin2Θ = 2sin Θcos Θ, cos2Θ = cos²Θ - sin²Θ = 1 - 2sin²Θ = 2cos²Θ - 1
+246
+Summary and Review Exercise
+Review Exercise
+1. Find the radian measure of the angles which have the following degree measures:
+a. 135°
+b. 540°
+C. 210°
+d. 150°
+2. Find the degree measure of the angles which have the following radian measures:
+a. 5/9 9
+b. 2 3
+C. 3π
+d.20πg
+3. What is the radian measure of each of the following angles?
+1
+a. 2 -revolution anti-clockwise
+b. 5 revolution clockwise
+C. 330°
+d.-225°
+e. 540°
+f.-360°
+4. Convert 43.1025° to degree, minute and second form.
+5. Use the table given at the end of the book to find the approximate value of:
+a. sin40°
+b. tan40°
+6. Find angle A if:
+a. sec A = 1.642
+b. sin A = 0.5831
+7. Use trigonometric table, reference angles, trigonometric functions of negative
+angles and periodicity of the functions to calculate the value of each of the
+following:
+a. sin236
+b. cos693°
+8. Convert each of the following degrees to radians:
+a. 225°
+b. 315°
+C. 330°
+d. 420°
+e. 900°
+f. - 240°
+9. Find two co-terminal angles for each of the following angles:
+a. 65°
+b. 230°
+C. 790°
+d. -674°
+e. -1545°
+f. 2060°
+10. Convert each of the following angles in radians to degrees:
+9π
+b. -7π 15
+97π
+a.
+C.
+d. 7π
+14
+4
+247
+Summary and Review Exercise
+11. Use a unit circle to find the values of sine, cosine, and tangent of A when A is:
+a. 810°
+b. -450°
+C. -1080°
+d. 630°
+e. 900°
+12. Evaluate the sine, cosine and tangent of angle Θ if Θ is in standard position and
+its terminal side contains the given point P(x,y):
+a. P(6,8) b. P(-6,8) C. d. P(-1,√2)
+13. Find the values of sine, cosine, and tangent functions of A when A is in radian:
+a. 3rd
+a.
+b. 3/2
+23
+C. -7 4
+C.
+d. -7π
+22
+e.
+To
+14. Find a reference angle for each of the following angles;
+a. 130°
+b. 1030°
+C. 340°
+d. -236°
+e. -720°
+15. If A is an acute angle, then find angle A when:
+a. cos30° = secA 1
+b. sinA = cosA
+C. 1 = 2cosA
+16. If A is an obtuse angle and sin A 4 / 5 = 5' then evaluate
+a. cosA
+b. tanA
+C. cscA
+d. secA
+17. Find the height of the tree if the angle of the elevation of its top changes from 25°
+to 50° and the observer advances 15 meters towards its base.
+18. The angle of depression of the top and the foot of a flagpole as seen from the top
+of a building 145 meters away are 26° and 34°, respectively. Find the heights of
+the pole and the building.
+19. If cosA = 13 5 and 0° ≤ A ≤ 180°, find the values of
+a. sinA
+b. tanA
+20. Find the solution that satisfy 2 + √3secΘ = 0 if 0° ≤ Θ < 360°.
+21. Solve 3√2 + 3cscΘ = 0, if 0° ≤ θ < 2π.
+248
+Summary and Review Exercise
+23. Show that sec²Θ-tan²Θ 1+cot²Θ = sin²Θ.
+24. Show that 1+sinA cos A + 1+sinA = 2secA.
+25. Evaluate
+26. Find the values of the six trigonometric functions of angle a in the right-angled
+triangle shown in figure 4.45.
+A
+12
+a
+B
+C
+8
+Figure 4.45
+27. Find sin Θ, cos Θ and tan Θ for the right-angled triangle as shown in figure 4.46.
+A
+5
+3
+Θ
+C
+B
+4
+Figure 4.46
+28.If Θ is an angle in standard position and P(6,8) is a point in the terminal side
+of Θ, , then evaluate the secΘ, cscΘ, and cotΘ.
+29.If Θ = 45°, the find cscΘ, secΘ and cotΘ.
+30. Using unit circle, find the values of the cosecant, secant and cotangent functions
+if Θ = -45°, -225°, -315°, 225°, and 315°.
+249
+Summary and Review Exercise
+31. Suppose the following points lie on the terminal side of an angle Θ. Find the
+secant, cosecant and cotangent functions of angle Θ.
+a. P(12,5)
+b. P(-8,5)
+C. P(2,0)
+d. P 3
+e. P(√2,V5)
+32. If cotΘ = 8 3 and Θ is in the first quadrant, find the other five trigonometric
+functions.
+33. A cable tied to an electric pole is affixed at a point on the ground x meters away
+from the foot of the pole to keep it upright. If the cable makes an angle Θ with the
+ground, find is the length of the cable?
+34. A man observed a pole of height 60 ft. According to his measurement, the pole
+cast a 20 ft. long shadow. Find the angle of elevation of the sun from the tip of
+the shadow using trigonometry.
+250
+UNIT
+5
+CIRCLE

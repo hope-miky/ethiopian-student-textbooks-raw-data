@@ -1,0 +1,2429 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+Define relation.
+Define function.
+Identify types of functions.
+Sketch graphs of various types of relations and functions.
+Unit Contents
+1.1 Relations
+1.2 Functions
+1.3 Applications of Relations and Functions
+Summary
+Review Exercise
+1
+Unit 1: Relations and Functions
+leading coefficient
+vertex
+KEY
+Words
+linear function
+x-intercept
+quadratic function
+y-intercept
+constant function
+relation
+parabola
+coordinate system
+range
+turning point
+combination of functions
+slope
+Function
+axis(orthogonal-axis)
+axis of symmetry
+domain
+1.1 Relations
+Introduction:
+In order to continue our study of functions, we introduce the more general idea of a
+relation. As its name suggests, the concept of a relation is a familiar one. In our daily
+life, we come across many patterns that characterize relations with brothers and sisters,
+mother and daughters, father and sons, teachers and students etc. In mathematics also,
+we come across many relations such as number m is greater than number n; line n is
+perpendicular to line m etc... The concept of relation is established in mathematical
+form. The word "function" is introduced by Leibnitz in 17th century. Function is
+defined as a special type of relation. In the present unit, we shall discuss Cartesian
+coordinates, conditions for a relation to be a function, different types of functions and
+their properties.
+1.1.1 Revision of patterns
+Activity 1.1
+1. Write the numbers which come next in 1,3,5,7,9,
+2. Which of the following arrows in figure1. under column four can fill in the
+blank space under the column three to continue the service below?
+2
+Unit 1: Relations and Functions
+A
+B
+C
+D
+Figure 1.1
+3. Create a table of values for the set of values given in the first row of Table1.
+by evaluating the algebraic expression 2n +3.
+Table 1.1
+Input n
+1
+2
+3
+4
+5
+6
+Output = 2n + 3
+4. What relationship can be represented by the table given below?
+Table 1.2
+Input
+1
+2
+3
+4
+5
+Output
+2581114
+A pattern is a regularity in the world in human-made design or in abstract ideas. As
+such, the elements of a pattern repeat in a predictable manner.
+Patterns are defined as regular, repeated, recurring forms or designs identifying
+relationships, finding logic to form generalizations and make predictions.
+Example 1
+Even numbers pattern: 2, 4,6, 8
+Odd numbers pattern: 1, 3, 5, 7, 9
+Arithmetic pattern
+The arithmetic pattern is also known as the algebraic pattern. In an arithmetic pattern,
+3
+Unit 1: Relations and Functions
+the sequences are based on the addition or subtraction of the terms. If two or more
+terms in the sequence are given, we can use addition or subtraction to find the
+arithmetic pattern.
+For example, consider the pattern 2, 4, 6, 8, 10, , 14, . Now, we need to find the
+missing term in the pattern.
+Here, we can use the addition process to figure out the missing terms in the patterns.
+In the pattern, the rule used is "Add 2 to the previous term to get the next terms".
+First missing term: The previous term is 10. Therefore, 10+2 = 12.
+Second missing term: The previous term is 14. So, 14+2 = 16
+Hence, the complete arithmetic pattern is 2, 4, 6, 8, 10, 12, 14, and 16.
+Geometric pattern
+The geometric pattern is defined as the sequence of numbers that are based on the
+multiplication and division operation. Similar to the arithmetic pattern, if two or more
+numbers in the sequence are provided, we can easily find the unknown terms in the
+pattern using multiplication and division operation.
+For example, consider the pattern 2, 4, 8, , 32, -
+It is a geometric pattern, as each term in the sequence can be obtained by multiplying
+2 with the previous term. 8 is the third term in the sequence, which is obtained by
+multiplying 2 with the previous term 4.
+First missing term: The previous term is 8. Multiply 8 by 2, we get 16.
+Second missing term: The previous term is 32. Multiply 32 by 2, we get 64.
+Hence, the complete geometric pattern is 2, 8, 16, 32, and 64.
+Exercise 1.1
+1. Fill the blank spaces using the following pattern.
+65, 60, 55, 50, 45, , 35,
+.
+2. Identify the type of pattern for the sequence 4, 8, 12, 16, 20,
+...
+3. Fill the bank spaces using the following pattern.
+15, 22, 29, 36, 43, , 57, 64, 71, 78, 85,
+.
+4
+Unit 1: Relations and Functions
+4. Find the missing value for the geometric
+1st Step
+pattern: 96, 48, 24, 6,
+5. In figure 1.2, how many sticks are in the
+next diagram? How many sticks are in the
+2nd Step
+tenth diagram? Write an algebraic
+expression to describe this system?
+3rd Step
+Figure 1.2 Linear patterns
+1.1.2 Cartesian coordinate system in two dimensions
+The Cartesian coordinate system in two dimensions (also called a rectangular
+coordinate system) is defined by an ordered pair of perpendicular lines (axes). It has a
+single unit of length for both axes and an orientation for each axis. The point where
+the axes meet is taken as the origin for both and used as a turning point for each axis
+into a number line. For any point (P), a line
+drawn through P perpendicular to each axis
+and the position where it meets the axis is
+P(3,2)
+2
+interpreted as a number. The two numbers in
+that chosen order are the Cartesian coordinate
+3
+of P. The first and second coordinates are
+Origin
+P(3,2)
+called the abscissa and the ordinate of P,
+respectively and the point where the axes meet
+Abscissa Ordinate
+is called the origin of the coordinate system. The coordinates are usually written as two
+numbers in parentheses in that order separated by a comma, as in (3,2). Thus the origin
+has coordinates (0,0), and the points on the positive half-axes which is one unit away
+from the origin and have coordinates (1,0) and (0,1).
+In mathematics, physics, and engineering, the first axis is usually defined or depicted
+as horizontal and oriented to the right. The second axis is vertical and oriented
+upwards. The origin is often labeled O, and the two coordinates are often denoted by
+5
+Unit 1: Relations and Functions
+the letters X and Y, or x and y. The axes may then
+y
+be referred to as the and -axis. The choices of
+3
+letters come from the original convention which is
+2
+Quadrant-II
+Quadrant-I
+to use the latter part of the alphabet to indicate
+1
+unknown values. Therefore, this coordinate system
+x
+4
+-3
+-2
+-1
+0
+1
+2
+3
+is also called -coordinate. A plane with
+-1
+coordinate axes is called -plane. The coordinate
+-2
+Quadrant-III
+Quadrant-IV
+plane is divided into 4 parts, namely Quadrant I, II,
+-3
+III, and IV as shown in the figure 1.3.
+Figure 1.3
+Activity 1.2
+1. Complete the following table with +, - or 0 that applies to each coordinate of
+a point P ( (, , ).
+Table 1.3
+Quadrants
+axes
+Quadrant-I
+Quadrant-II
+Ouadrant-III
+Ouadrant-IV
+Positive - axis
+Negative -axis
+Positive -axis
+Negative -axis
+2. Plot the points P(-2, 2), Q(2, 4), R(0, -3), S(-2,1) and T(-5,-3) on the
+coordinate. system.
+6
+Unit 1: Relations and Functions
+A system in which the location of a point is given by coordinates that represent its
+distances from perpendicular lines that intersect at a point called the origin. A Cartesian
+coordinate system in a plane has two perpendicular lines (the x-axis and y-axis).
+In mathematics, the Cartesian coordinate system (or rectangular coordinate
+system) is used to determine each point uniquely in a plane through two numbers,
+usually called the -coordinate and the
+y
+-coordinate of the point. To define the
+2
+B(-1,2)
+coordinates, two perpendicular directed lines
+A(1,1)
+(the -axis or abscissa, and the -axis or
+ordinate), are specified, as well as the unit
+x
+-2
+1
+2
+length, which is marked off on the two axes
+(see Figure1.4).
+C(2,-1)
+-2
+Figure 1.4 the
+-plane
+Figure 1.4 shows the location of the point A (1,1) in the -plane. You may note that
+the position of the ordered
+pair B (-1, 2) is different from that of C (2, -1) Thus, we can say that ( , )
+and ( , ) are two different ordered pairs representing two different points in a plane.
+Exercise 1.2
+Plot the points whose coordinates are given on a Cartesian coordinate system.
+P (-3,-5), Q (-4,3), R (0,2), S (-2,0).
+1.1.3 Basic concepts of relations
+In order to continue our study of functions, we introduce the more general idea of a
+relation, as its name suggests, the concept of relation is a familiar one. Everyone has
+relatives or relations -father, mother, brothers, and sisters etc. What may come as a
+surprise, however, is that this concept has an important place in mathematics. Let us
+7
+Unit 1: Relations and Functions
+start with an example taken from everyday life in the relationship of fatherhood. The
+problem we set for ourselves is to describe this relation in mathematical terms.
+If you think about this problem for a few minutes, you will probably find it somewhat
+more difficult than you expected. Although everyone knows what it means to say that
+is a father of , it is not quite so clear how to put this in the language we use in
+mathematics.
+In our daily life, we usually talk about relations between various things. For example,
+7 is less than 9; Addis Ababa is the capital city of Ethiopia; Walia Ibex is endemic to
+Ethiopia, and so on. In all these cases, we find that a relation involves pairs of objects
+in some specific order. In this unit, you will learn how to link pairs of objects from two
+sets and then introduce relations between the two objects in the pair. You also learn
+here about special relations which will qualify to be functions.
+Activity 1.3
+Let set A contains the elements 1, 2, 4, 6, 7 and set B contains the elements 3, 5, 7,
+8, 9, 12. List all the ordered pairs ( , ) which satisfy each of the following
+sentences where is an element of A and is an element of B.
+a.
+is greater than
+C.
+is a multiple of
+b. The sum of and is odd.
+d.
+is half of
+Note
+In activity 1.1 we have observed the following:
+1. In the case of relations between objects and patterns, order is important.
+2. A relation establishes pairing between objects.
+Therefore, from a mathematical standpoint, the meaning of a relation is given below.
+Definition 1.1
+A relation is a set of ordered pairs. It is denoted by R.
+8
+Unit 1: Relations and Functions
+Example 1
+Given a relation R: The set of all ordered pairs ( , ) of real numbers where is greater
+than
+,
+1. Which of the following ordered pairs belong to this relation?
+(2,4), (4,3), (1.1,1.11), (1.1, -3), (-5,-3), (7,7), 1¹, 1 1/2, (₃, 2 3) 3 , (0.45,0.46)
+2. Find a number C such that
+a. (4,c) is in the relation;
+b. (-4,c) is in the relation;
+c. (4,c) and (c,4) are both in the relation.
+Solution:
+1. (2,4), (1.1,1.11), (-5,-3), (₃, 2 3) and (0.45,0.46) belongs to the relation R.
+2.
+a. the set of real numbers c > 4
+b. the set of real numbers c > -4
+c. there is no real number C that satisfies the relation R.
+Is there more than one answer to each of these questions? Why? As seen from the
+above example 1, question number 1 has only one solution, question number 2, a and
+b have many solutions and question number 2c has no solution. Since an ordered pair
+of real numbers can be pictured as a point
+y
+3
+on the graph, we can use graphs to (-3,3)
+(-1,2)
+(1,2)
+(3,2)
+represent relations R as:
+2
+(-2,2)
+R is the set containing ordered pairs such
+1
+(1,0.6)
+(2.6,0.6)
+that (-3,-3), (-3,3), (-2,2), (-1,2),
+x
+-3
+-2
+-1
+1
+2
+3
+(1,2), (3,2), (-2,-2), (2.6,0.6), (1,0.6)
+-1
+-2
+(-2,2)
+3
+(-3,-3)
+Figure 1.5 Graph of relation R
+9
+Unit 1: Relations and Functions
+Exercise 1.3
+Given a relation R of set of all ordered pairs ( , ) , of real numbers where is less
+than
+a. Which of the following ordered pairs belong to the relation?
+(2,1), (-4,3), (-2,0), (0.2,0.21), (-0.2, -0.21), (7,7), (-2,-3), (0, 5)
+b. Find a number n such that
+(i) (n,0)
+(ii) (0,n)
+Example 2
+Let R be a relation of the set of all ordered pairs ( , ) of natural numbers where is a
+multiple of , then which of the following ordered pairs belong to R ?
+(2,4), (4,3), (3,9), (18, -3), (9,3), (7,7), (3,12), (6,18), (30,5)
+Solution:
+(2,4), (3,9), (7,7), (3,12) and (6,18) belong to the relation R.
+Example 3
+1. Let R denote the set of ordered pairs ( , ) of real numbers, where = 2.
+a. Find the ordered pairs belong to R which have the following first
+entries: 0,1,-1,-2, 1,3,-3.
+b. Find the ordered pairs belong to R which have the following second
+entries: 4,1,0, 1 1/5 1
+Solution:
+a. (0,0), (1,1), (-1,1), (-2,4), (1,1,25) (3,9), (-3,9).
+b. (2,4), (1,1), (0,0), (1,1) (1,1,25).
+Exercise 1.4
+1. If R is a relation of a set of ordered pairs ( , ) of real numbers such that
+= 3 - 2, then list some of the ordered pairs belong to R.
+2. Let R denote the set of ordered pairs ( , ) of real numbers, where = 3.
+10
+Unit 1: Relations and Functions
+a. Find the ordered pairs belong to R which have the following first
+entries: 0,1,2, -2, 8, 1 3,-3.
+b. Find the ordered pairs belong to R which have the following second
+entries: 8, -1,-8, -27, 1/27 27 1
+Domain and range of a relation
+Any set of ordered pairs ( , ) is called a relation in and y.
+The set of first components in the ordered pairs is called the domain of the relation.
+The set of second components in the ordered pairs is called the range of the relation.
+Activity 1.4
+For the relation R of the set of ordered pairs (5,3), 3), (-2,4), (5,2), (-2,3)
+determine the domain and the range.
+In Activity 1.4, the first ordered pairs of R are 5, -2 and the second ordered pairs of R
+are 2, 3, 4
+Definition 1.2
+Let R be a relation from a set A to a set B. Then
+i.
+Domain of R = { : ( , ) belongs to R for some }
+ii.
+Domain of R = { : ( , ) belongs to R for some }
+Example 1
+Determine the domain and range of the relation with ordered pairs
+(-2,1),(-1, 0),(0,0),(4,2),(3,5).
+Solution:
+The domain of the relation is -2, -1, 0, 4 and 3. The range of the relation are 1, 0, 2
+and 5.
+Example 2
+Write some ordered pairs that belong to the relation R which contains the set of
+11
+Unit 1: Relations and Functions
+ordered pair ( , ) such that = 2 , and are members of integers. Find also the
+domain and range of R.
+Solution:
+R contains some set of ordered pairs (-2, -4), (-1, -2), (0, 0), (1,2), (2,4).
+The domain of the relation R is the set of all integers and the range of the relation R is
+the set of all even integers.
+Example 3
+Find the domain and the range of each of the following relations:
+a. R is the set of ordered pairs ( , ) such that is the square root of
+b. R is the set of ordered pairs ( , ) such that is the square of
+Solution:
+a. Domain is the set of real numbers : is greater than or equal to zero and
+Range is the set of real numbers : is greater than or equal to zero.
+b. Domain is the set of all real numbers and Range is the set of all real numbers
+:
+is greater than or equal to zero.
+Exercise 1.5
+1. Determine the domain and range of the relation with ordered pairs (-1, 4),
+(0, 7), (2, 3), (3, 3), (4, -2).
+2. Write some ordered pairs that belongs to the following relation R; and find also
+the domain and range of this relation.
+a. The set of ordered pair ( , ) such that = 3 : and are members of
+integers.
+b. The set of ordered pair ( , ) such that = -2 : and are members of
+integers.
+3. Let R be a relation of the set of ordered pairs ( , ) of real numbers such that the
+sum of whose squares is one.
+a. Identify the ordered pairs which belong to R:
+12
+Unit 1: Relations and Functions
+(1,1), (0,1), (0, 1), (2,-1), (V², √₂), (0,0),
+1/2 , √³). 2
+b. Find the domain and range of R.
+1.1.4 Graphs of Relations
+By now, you have understood what a relation is and how it can be described using
+Cartesian coordinates. You will now see how relations can be represented through
+graphs. You may graphically represent a relation R from domain to range by locating
+the ordered pairs in a coordinate system.
+Discuss the following:
+i. A Cartesian coordinate system (or -coordinate system).
+ii. A point on a Cartesian coordinate system
+iii. A region on a Cartesian coordinate system
+From section 1.1.2, remember that the set of ordered pairs ( , ) of real numbers such
+that is in the domain of the relation and is in the range of the relation is represented
+by the set of points in the -coordinate.
+Example 1
+Sketch the graph of the relation R if R is the set of ordered pairs (, ) of real
+numbers and such that =
+y
+.
+Solution:
+4
+We take the values of , calculate the
+y=x
+2
+corresponding values of , plot the resulting
+points ( , ) and connect the points.
+-4
+-2
+2
+4
+Table 1.4
+-2
+-4
+2012
+2101
+Figure 1.6 the graph of =
+13
+Unit 1: Relations and Functions
+In general, to sketch graphs of relations involving inequalities, do the
+following steps
+1. Draw the graph of the line(s) in the relation on the -coordinate system.
+2. If the relating inequality is ≤ or ≥, use a solid line; if it is < or >, use a broken
+line.
+3. Then take arbitrary ordered pairs represented by the points.
+4. The region that contains these points representing the ordered pair satisfying the
+relation will be the graph of the relation.
+Example 2
+Sketch the graph of the relation R if R be the
+y
+set of ordered pairs ( , ) of real numbers
+4
+(0,3)
+and such that >
+y > x
+2
+Solution:
+x
+To sketch the graph
+-4
+-2
+2
+4
+1. Draw the line =
+-2
+.
+y=x
+-4
+Figure 1.7 the graph of the relation
+V
+2. Since the relation involves > , use the broken line: "the points on the line
+= are not included."
+3. Take points representing ordered pairs, say (0,3) and (0, -2) from above and
+below the line =
+4. The ordered pair (0,3) satisfies the relation. Hence, points above the line =
+are members of the relation R.
+Example 3
+Sketch the graph of the relation R if R be the set of ordered pairs ( , ) of real
+numbers and such that ≤ +2.
+14
+Unit 1: Relations and Functions
+Solution:
+1. Draw the line = +2.
+y
+2. Since the relating inequality is ≤ use the
+4
+(0,4)
+solid line.
+2
+3. Select two points representing ordered
+(1,0)
+x
+-4
+pairs one from one side and another from
+-2
+2
+4
+y=x+2
+the other side of the line. For example,
+-2
+ysx+2 â
+points with coordinates (0,4) and (1,0).
+-4
+Obviously, (1,0) satisfies the relation R
+is ≤ +2,as0≤1+2.
+Figure 1.8 the graph of
+the relation ≤ +2.
+4. Shade the region below the line,
+II
++2
+which contains the point(1,0). Hence, the graph is the shaded region in figure 1.8.
+Exercise 1.6
+For each of the following relations, sketch the graph.
+a. The relation R is set of ordered pairs (, ): < <.
+b. The relation R is set of ordered pairs (, ): < <- +7.
+C. The relation R is set of ordered pairs (, , ): ≤3 - 4.
+d. The relation R is set of ordered pairs (, ): ≥ 2 +5.
+Example 4
+Sketch the graph of the relation R and determine its domain if R be the set of ordered
+pairs ( , ) of real numbers and such that < and >- +2.
+Solution:
+Sketch the graphs of < and >- - +2 on the same coordinate system. The two
+regions have some overlap. The intersection of the two regions is the graph of the
+relation. So, taking only the common region, we obtain the graph of the relation as
+15
+Unit 1: Relations and Functions
+shown in figure 1.9. To obtain the intersection point solve the equations = and
+= - +2.
+Note that these two lines divide the coordinate system into four regions. Take any
+points one from each region and check if they satisfy the relation. Say (2,0), (0,1),
+(-1,0) and (0, - 1).
+The point (2,0) satisfies both inequalities of the relation. So, the graph of the relation
+is the region that contains (2,0). Hence, Domain of the relation is the set of real
+number
+: >1 and Range of R is the set of all real numbers
+y
+3
+y=-x+2
+2
+(1,1)
+1
+y < x and y > - x + 2
+(- 1,0)
+(2,0)
+x
+-2
+-1
+1
+2
+3
+-1
+y = x
+-2
+Figure 1.9 the graph of the relation R
+Example 5
+From the graph of each of the following
+y
+relations, represented by the shaded region,
+4
+(4,4)
+specify the relation and determine the
+2
+domain and the range:
+(4,0)
+x
+Solution:
+-4
+-2
+2
+R = {( , ): ≤ and ≤ 4};
+-2
+Domain = { : ≤ 4} and
+-4
+Range = { : ≤ 4}.
+Figure 1.10
+16
+Unit 1: Relations and Functions
+Note
+A graph of a relation when the relating phrase is an inequality is a region on the
+coordinate system.
+Exercise 1.7
+1. Sketch the graph of the following relations.
+a. R is set of ordered pairs ( , ): ≥ + 2 and < -
+.
+b. R is set of ordered pairs ( , ): ≥ 2 and < -
+C. R is set of ordered pairs ( , ): < - - 2 and ≤ -2.
+2. From the graph of the following relation, represented by the shaded region,
+specify the relation and determine its domain and range.
+y
+4
+2
+1
+x
+-4
+-2
+1
+2
+4
+-2
+-4
+Figure1.11
+1.2 Functions
+In this section, you shall learn about special types of relations which are called
+functions, the domain and range of function, and combination of functions. The
+concept of function is the most important point in mathematics. There are terms such
+as 'map' or 'mapping' used to denote a function.
+17
+Unit 1: Relations and Functions
+1.2.1 The notion of function
+Activity 1.5
+Consider the following relations:
+R₁ is the set of ordered pairs ( , ) of real numbers and such that (2,3), (4,5),
+(3, 6), (6,7) and (5,8) are members of the relation.
+R₂ is the set of ordered pairs ( , ) of real numbers and y such that (2,3), (4,3)
+,(3,6), (7,6) and (5,8) are members of of the relation.
+R₃ is the set of ordered pairs ( , ) of real numbers and such that (2,3), (2,5),
+(3,6), (3,7) and (5,8) are members of the relation.
+a. Construct the arrow diagram.
+b. How the first elements of the ordered pair are related with the second
+elements of the ordered pair?
+C. In each relation, are there ordered pairs with the same first coordinate?
+Definition 1.3
+A function f is a set of ordered pairs with the property that whenever ( , )
+and ( ,z) belong to f, then = Z.
+Or
+It is a relation in which no two distinct ordered pairs have the same first element.
+Example 1
+Consider the following relation R₁. R₁ is the set of ordered pairs ( , ) of real
+numbers and such that (4,5), (6,6), (3,1), (9,7) and (5,2) are members of the
+relation. This relation is a function because no two distinct ordered pairs have the same
+first element.
+18
+Unit 1: Relations and Functions
+Example 2
+Consider the relation R which is the set of ordered pairs ( , ) of real numbers and
+such that (2,3), (5,3), (3,6), (7,6) and (5,8) are members of the set. Since
+(5,3) and (5,8) belong to the relation R and 3 # 8 the relation R is not a function.
+Example 3
+Look at table 1.5
+Table 1.5
+1
+1
+3
+3
+7
+y
+5
+5
+-8
+-8
+4
+Is R which has members of the ordered pairs (1,5), (1,5), (3, -8), (3, -8) and (7,4)
+a function?
+Solution:
+Those -values are repeated still it is a function because they are associated with the
+same value of - Here the ordered pairs (1,5) and (3, -8) are written twice. We can
+rewrite it by taking a single copy of the repeated ordered pairs. So " R" is a function.
+Example 4
+Consider the following arrow diagrams in figure 1. 12
+R₁
+R2
+R3
+2
+c
+2
+5
+2
+c
+7
+4
+4
+4
+d
+8
+6
+d
+6
+9
+6
+e
+Figure 1.12
+Which of the relations R₁, R₂ and R₃ represent as a function of ?
+19
+Unit 1: Relations and Functions
+Solution:
+R₁ and R₃ are functions, but R₂ is not a function because 2 and 6 are both mapped
+onto two numbers.
+Note
+f,g and h are the most commonly used letters to represent a function; however,
+any letter of the alphabet can be used.
+Exercise 1.8
+Determine whether each of the following relation is a function or not, and give
+reasons for those that are not functions.
+a. R is a set of ordered pairs ( , ) which
+contains (6,7), (1,9), (-1,7), (0,0), (4, -4).
+b. R is a set of ordered pairs ( , ) which contains
+(-3,7), (-5,9), (-1,4), (2,0), (-5,3)
+C. The relation R is a set of ordered pairs ( , ): y is a multiple of
+d. The relation R is a set of an ordered pairs ( , ):y2 =
+.
+e. R is a set of ordered pair (x,y): y is the area of triangle x.
+Domain, codomain and range of a function
+Activity 1.6
+Consider the following arrow diagram of a
+function f and find the algebraic rule for f.
+0
+0
+1
+6
+2
+12
+4
+3
+Figure 1.13
+The domain of a function f is the set of all values of for which f is defined and this
+20
+Unit 1: Relations and Functions
+corresponds to all of the -values on the graph in the -plane. Domain - The set of
+all possible values which qualify as inputs to a function is known as the domain of
+the function. In other words, the domain of a function can be defined as the entire set
+of values possible for independent variables. Co-Domain - The set of all the outputs
+of a function is known as the range of the function or after substituting the domain,
+the entire set of all values possible as outcomes of the dependent variable. The range
+of the function f is the set of all values f( ) which corresponds to the values on
+the graph in the -plane.
+Notation: If is an element in the domain of a function f, then the element in the
+range that is associated with is denoted by f(). This is called an image of under
+the function f. The notation f( ) is referred to function value and we read as f of
+,
+and is the pre-image of f(). We can define a function f () = 2 with a domain
+and codomain of integers. But by thinking about it we can see that the range is just the
+even integers. The range is a sub-set of the co-domain.
+Example 1
+For each of the following functions, find the domain, co-domain and the range.
+a. F is a set of ordered pairs such that (3, -2), (5,4), (1,2) and (-3,7) are
+members of F
+b. R is a set of ordered pairs ( , ) of real numbers such that =
+Solution:
+a. Domain of F is a collection of -3, 1, 3 and 5, Co-domain of F is a collection
+of -2,2,4 and 7, and the range of F is a collection of -2, 2, 4 and 7.
+b. Domain of R is a set containing all real numbers and the co-domain and range
+is the set containing all real numbers
+A function from A to B can sometimes be denoted as f: A
+B, where the domain of
+the function f is A and the range of the function f is contained in B, in which we say
+B contains the image of the elements of A under the function of f.
+21
+Unit 1: Relations and Functions
+Example 2
+Consider f () = 3 + 4. Find the domain and the range of the function f.
+Solution:
+Since f( ) = 3 + 4 is defined for every real number , the domain of the function is
+the set of all real numbers. The range is also the set of real numbers since every real
+number has a pre-image of a real number such that = f() = 3 + 4.
+Exercise 1.9
+1. Find the domain and the range of F where F is a set of ordered pairs such
+that (2, -1), (0,0), (-4,2) and (-5,3) are members.
+2. For each of the following functions, find the domain and range.
+a. f() = +1
+b. f()=2-3
+C. f() = 2
+d. f() = 2 +1
+Example 1
+If f( ) = √-2, then find the domain and range of f.
+Solution:
+Since the expression in the radical must be non-zero, - 2 ≥ 0. This implies ≥ 2.
+Hence, the domain of the function is the set of real numbers greater than or equal to 2.
+The range of the function is greater than or equal to zero.
+Remark: If f A
+B is a function, then, for any included in A (the first coordinate),
+the image of under f, f() is called the functional value of f at
+For example, if f() = + 5, then f at = 4 is f (4) = 4 + 5 = 9.
+Finding the functional value of f at is called evaluating the function at
+.
+Example 2
+For the function f()=1-3,
+a. determine the domain and range of f.
+b. find the value of f(2)and f(-1).
+22
+Unit 1: Relations and Functions
+Solution:
+a. The function f()=1-3 is defined for every real number ; the domain
+and range of the function f is the set all of real numbers.
+b. (2) = 1 - 3(2) = 1 - 6 = -5 and f(-1) = 1 - 3(-1) = 1+ 3 = 4.
+Exercise 1.10
+1. For the function f()= - +4
+a. Determine the domain and the range of f.
+b. Find the value of (4) and f (9).
+2. For the function f() = √
+a. Determine the domain and the range of f.
+b. Find the value of (4) and f (9).
+3. Find the domain and range of each of the following functions.
+a. f()=1-2
+b. f()=||+1
+C.
+4. If f() = 2 + √4 - , then evaluate
+a. f(-5)
+b.f(2)
+1.2.2 Combination of functions
+Just as two real numbers can be combined by the operations of addition, subtraction,
+multiplication, and division to form other real numbers, two functions can be combined
+to create a new function.
+Activity 1.7
+Consider the functions f()=2 - 3 and g() = -1. = Then,
+a. find f + g; f - g; f g and Lg
+b. determine the domain and range of f and g.
+23
+Unit 1: Relations and Functions
+A. Sum of functions
+Let f and g be two functions with overlapping domains. Then, for all common to
+both domains, the sum of f and g defined as follows:
+(f+g)() =f() +g()
+Example 1]
+Given f() = 2 + 4 and g( ) = 3 - 1. Find (f + g)( ) and evaluate the sum
+when = 2.
+Solution:
+We know from above the sum of functions f and g is
+(f+g)() =f() +g()
+= (2 + 4) + (3 - 1)
+=5+3
+and, (f + g) (2) = 5(2) + 3
+= 10 + 3 = 13
+B. Difference of functions
+Let fand g be two functions with overlapping domains. Then, for all common to
+both domains the difference of fand g is defined as follows:
+(f-g)() =f()- g().
+Example 2
+Given f() = 2 +1 and g() = 2 +2 - 1. Find (f g) ( ) and evaluate the
+difference when = 2.
+Solution:
+The difference of the function fand g is
+(f-g)() = f() -g()
+= (2 + 1) - ( 2 + 2 - 1)
+24
+Unit 1: Relations and Functions
+= - ² + 2.
+and, (f - g) (2) = -2²+2
+= -4+2 = - -2.
+Exercise 1.11
+1. Given f() = 3 +3 and g( ) = - 1.
+a. Find (f + g) ( ) and evaluate the sum when = 2.
+b. Find (f - g) ( ) and evaluate the difference when = 2.
+2. Let f( ) = 2 - 5 and g() = 4 = +1. Then, evaluate
+a. (f + g)( )
+b. (f - g) ( )
+C. Product of functions
+Let f and g be two functions with overlapping domains. Then, for all common to
+both domains the product of fand g is defined as follows:
+(f.g)()=f().g()
+Example 1]
+Given: f( ) = 2 and g() = - 3, find (f·g)( ) and then evaluate the product
+when = 4.
+Solution:
+(f.g)()=f().g()
+= ²( 3)
+= ³ - 3 ².
+If = 4, the value of this product is (f g) (4) = 4³ - 3(4²)
+= 64 - 48 = 16.
+D. Quotient of functions
+Let f and g be two functions with overlapping domains. Then, for all common to
+both domains the quotient of fand g is defined as follows:
+25
+Unit 1: Relations and Functions
+f g ( ) = g()' g( ) # 0.
+Example 2
+If f() = 4 and g( ) = - 3, then the quotient of f and g is
+Exercise 1.12
+Given f( ) = - 1 and g( ) = 2,
+a. Find(f g) ( ) and then evaluate the product when = 3.
+b. Find (g) ( ) and then evaluate the quotient when = 3.
+C. Find (⁹) ( ) and then evaluate the quotient when = 3.
+The domain of combination of functions
+Activity 1.8
+Consider the functions f() = - 3 and g( ) = +1. Then,
+a. find f +g;f -g; f:gand 1/9
+b. determine the domain and the range of each function f and g.
+C. is the domain of f and g the same as the domain of f + g? Why?
+The domain of an arithmetic combination of functions f and g (f+g,f-g,f. g
+and 1/g consists of real numbers common to the domain of fand g. In the case of
+quotient of functions g(x)' f(x) there is further restriction that g( ) is not equal to zero.
+Example 1
+Given f() = - 5 and g( ) = 2 +1. Find the domain of(f + g) ( ) and
+(f - g)().
+26
+Unit 1: Relations and Functions
+Solution:
+The domain f and g is the set of all real numbers. So, the domain of f + g and
+f - g is the set of all real numbers.
+Example 2
+Given: f( ) = 2 and g( ) = 2, find (f g) ( ) and g(x) f(x)
+Solution:
+The domain f and g is the set of all real numbers. So, the domain of f·g and / 9 is the
+set of all real numbers. Here, g cannot be zero. So, the domain of 1/9 is R/{0} (the set
+of real numbers without zero) since g cannot be zero.
+Example 3
+Find 1/9 ( )and 9/9 ( ) for functions given by f() = √⁻ and g( ) = √4 - 2. Then,
+find the domain of α and ⁹.
+Solution:
+The quotient of f and g is given by (g) g ( ) = 10/9 g( f() = V4 and the quotient of g and
+f is (⁹) ( ) = g( = √⁻ 2
+The domain of fis [0, and the domain of g is [-2,2]. The intersection of these
+domains is [O, 21. Here, g cannot be zero. So, the domain of 1/9 is [0,2) and domain
+of 9/9 is (0,2] since ƒ cannot be zero.
+Exercise 1.13
+1. Let f( ) = 2 - 5 and g() = +1, then evaluate
+a. (f + g)( )
+b. (f - g) ( )
+C. (fg)( )
+d. (₉) ( )
+e. the domain of f+g,f - g f·g and 1/9
+27
+Unit 1: Relations and Functions
+2. Let f() = 2 +5 and g() = √1 - . Find
+a. (f + g) ( )
+b. (f - g)( )
+C. (f.g)( )
+d. (₉) ( )
+e. the domain of f+g,f-g, f·g and Lg
+Example 1]
+Given: f()=7-2 and g() = - = - 6. Determine:
+a. 3f + g
+b. 4g - 3f
+C. (4f)g
+d. 4g d. 49/55
+Solution:
+a. (3f + g) ( ) = 3f ( ) + g()
+= =3(7-2)+(-- 6)
+= 21 - 6 - - 6 = 15 - 7
+.
+b. (4g - 3f) ( ) = 4g( ) - 3f( ) = 4(- - 6) - 3(7 - 2 )
+= -4 - 24 - 21 + 6 = 2 - 45.
+c.
+= 4(7-2)(- )(- - 6)
+= = 4(-7 -42+2 ² + 12 )
+= 4(2 2 +5 - 42) = 8 2 + 20 - 168.
+d. 4g 5f = 4(-x-6) 5(7-2x) = -4x-24 35-10x = 10x-35 4x+24
+Exercise 1.14
+1. Given: f()=2- and g( ) = -2 +3.
+a. Determine f + 2g and evaluate (f + 2g)(2).
+b. Determine 2f - g and evaluate (2f - g) (2).
+C. Determine 2f g and evaluate (2f g) (2).
+d. Determine 31/29 2g and evaluate 3/29
+28
+Unit 1: Relations and Functions
+2. If f and g are any functions, is the domain of f + g, f - g, f . g and / 9 differ
+from the domain of f and g? If your answer is yes, why?
+Note
+A numerical relation R is a function if and only if no vertical line in the plane
+intersects the graph of R in more than one point.
+Vertical Line Test:
+Vertical line test is used to determine whether a graph of a curve is a function or not.
+If any curve cuts a vertical line at more than one point then the curve is not a function.
+Example 1
+The figure 14 describes the graph is not a function.
+y
+v
+4
+4
+2
+2
+x
+x
+-4
+-2
+2
+4
+-4
+-2
+2
+4
+-2
+-2
+-4
+-4
+Figure 1.14
+1.2.3 Types of functions
+There are different types of function. These are
+f
+One-to-one function (Injective function)
+One-to-one
+Onto function (Surjective function)
+2
+a
+One-to-one correspondence (Bijective)
+3
+b
+One-to-one function (Injective function)
+4
+c
+If each element in the domain of a function has a distinct
+5
+image in the co-domain, then the function is said to
+Set X
+Set Y
+be one -to- one function.
+Figure 1.15
+29
+Unit 1: Relations and Functions
+Definition 1.4
+A function f: A
+B is called one-to-one if and only if for all 1, 2 € A,
+f( 1) = f( 2) implies 1 = 2.
+Example 1
+Let f: R
+R given by f ( ) = 3 + 5. Show that f is one-to-one.
+Solution:
+Let 1, 2 E R, f( 1) = f ( 2) implies 3 1 + 5 = 3 2 +5 implies 1 = 2
+Therefore, f is one-to-one.
+Example 2
+In figure 1.16, which of the following sets of values represent a one-to-one function?
+f(x)
+g(x)
+-4
+-5
+-6
+-2
+-2
+-3
+12
+0
+0
+0
+6
+2
+2
+3
+5
+4
+5
+6
+m(x)
+n(x)
+-4
+-3
+-4
+a
+-2
+-1
+-2
+b
+0
+1
+0
+c
+2
+3
+2
+d
+4
+5
+4
+e
+Figure 1.16
+Solution:
+For the first set f(), we can see that each element from the right side is paired up
+with a unique element from the left. Hence, f() is a one-to-one function.
+30
+Unit 1: Relations and Functions
+The set g(), shows a different number of elements on each side. This alone will tell
+us that the function is not a one-to-one function.
+Some values from the left side correspond to the same element found on the right, so
+m( ) is not a one-to-one function as well.
+Each of the elements on the first set corresponds to a unique element on the next,
+so n( ) represents a one-to-one function.
+Onto function (Surjective Function)
+A function is called an onto function if each element in the co-domain has at least one
+pre-image in the domain (see figure 1.17).
+Onto
+0
+a
+1
+b
+2
+3
+d
+Set X
+Set Y
+Figure 1.17
+One-to-one correspondence (Bijective function)
+A function f: R
+R is said to be a one-to-one correspondence if f is both one-to-one
+and onto.
+One to One
+Correspondence
+0
+a
+1
+b
+2
+c
+3
+d
+Set X
+Set Y
+Figure 1.18
+31
+Unit 1: Relations and Functions
+Example 3
+Which of the following sets of values represents an injective and surjective function?
+a.
+b.
+X
+Y
+X
+Y
+1
+D
+1
+D
+2
+B
+2
+B
+3
+C
+3
+C
+4
+4
+A
+c.
+d.
+X
+Y
+X
+Y
+1
+1
+D
+D
+2
+2
+B
+B
+3
+3
+C
+C
+4
+A
+A
+Figure 1.19
+Solution:
+a. Not one-to-one but it is an onto (surjective) function.
+b. Both one-to-one and onto function.
+c. An injective non-surjective function (injection).
+d. A non-injective non-surjective function.
+Example 4
+The function f() = 2 from the set of positive real numbers to the set of positive real
+numbers is both injective and surjective. Thus, it is also a bijective. Is it true that
+whenever f() = f(), = ? Imagine = 3, then f() = 9. Now I say that
+f() = 9, what is the value of ? It is 3, so =
+.
+32
+Unit 1: Relations and Functions
+Exercise 1.15
+1. Which of the following mappings are injective, surjective, bijective function?
+f(x)
+g(x)
+0
+-1
+1
+2
+1
+1
+2
+4
+2
+2
+3
+6
+n(x)
+m(x)
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+3
+4
+4
+Figure 1.20
+2. Which of the following are one-to-one functions?
+a. A is the set of ordered pair ( , ): = I - 2|.
+b. B = f: R
+R given by f ( ) =
+.
+3. Which of the following functions are onto?
+a. f R R,f() = 2 - 3
+b. g: [0,∞) -> R, g ( ) = 2
+4. Identify if the following function is an injective, surjective, and/or bijective
+function?
+a. f: R R,f() = +1
+b. f:R
+R,f( ) = 2
+1.2.4 Graphs of functions
+In this section, you will learn how to draw graphs of functions such as = ax + b
+and = a 2 + bx +c with special emphasis on linear and quadratic functions. You
+will study some of the important properties of graphs as in the following:
+33
+Unit 1: Relations and Functions
+Definition 1.5
+If f is a function with domain A, then the graph of f is the set of all ordered
+pairs {( ,f( )), E A}
+That is, the graph of f is the set of all points ( , ) such that f() = . This is the
+same as the graph of the equationf ( ) = discussed in Cartesian coordinates. The
+graph of a function allows us to translate between algebra and pictures or geometry.
+Graph of linear function:
+Definition 1.6
+If a and b are fixed real numbers, a # 0, then f() = ax + b for every real
+number is called a linear function. If a = 0, then f () = b is called a constant
+function. Sometimes linear functions are written in the form = ax + b.
+Example 1
+f ( ) = 2 +1 is a linear function with a = 2 and b = 1
+Example 2
+f() = 2 is a constant function.
+To work on graphic functions, you can pick a few values of and calculate the
+corresponding values of or f(), plot the resulting points ( ,f()) and connect the
+points.
+Example 3
+Draw the graph of f( ) = 2
+Solution:
+Construct a table for the value of the function; plot the ordered pairs and draw a line
+through the points to get the required graph.
+34
+Unit 1: Relations and Functions
+Table 1.6
+31123
+f()2222222
+y
+4
+f(x) = 2
+2
+x
+-6
+-4
+-2
+2
+4
+-2
+-4
+Figure 1.21 Graph of the constant function f() = 2
+Example 4
+Fill in the tables shown in Table 1.7 for the function f() = and draw its graph.
+Table 1.7
+-3 10123
+f( )
+If f(-3) = -3,f(-2) = -2,f(-1) = -1,f(0) = 0,f(1) = 1, f(2) = 2,
+f (3) = 3.
+So, the table becomes
+Table 1.8
+31123
+f( ) 10123
+When you plot the corresponding points on the Cartesian plane and connect the
+points to get a picture of the graph of function, the ordered pairs will give you a
+35
+Unit 1: Relations and Functions
+graph in the shape shown in Figure 1.22. The domain is the set of all real number
+and the range is the set of all real numbers
+y
+4
+2
+(x) = x
+x
+-4
+-2
+2
+4
+-2
+-4
+Figure 1.22 the graph of f() =
+Example 5
+Consider the linear function f() = +3 and evaluate the values of the function for
+the values in Table 1.9 and draw its graph.
+Table 1.9
+-311
+f() = +3
+If = -4, f(-4) = -1,f(-3) = 0, f(-2) = 1,f(-1) = 2, f(0) = 3, (1) = 4,
+f(2) = 5, the table becomes
+Table 1.10
+-3101
+f() =+3112345
+Table 1.10 is pairing the values of and f(). This is taken as a representation of set
+of ordered pairs (-4,-1), (-3, 0), (-2,1), (-1,2), (0,3), (1,4) and (2,5). Now
+you can plot these points in a coordinate system to draw the graph of the given function.
+36
+Unit 1: Relations and Functions
+y
+4
+y=x+3
+2
+x
+-4
+-2
+2
+4
+-2
+Figure 1.23 the graph of f() = +3
+Example 6
+Draw the graph of the linear function f() = -2 + 6.
+Table 1.11
+10123
+f()=-2+6164
+y
+6
+4
+f (x) = - 2x + 6
+2
+x
+-4
+-2
+2
+4
+6
+-2
+-4
+-6
+Figure 1.24 the graph of f()=-2 +6
+37
+Unit 1: Relations and Functions
+Exercise 1.16
+Construct tables of values of the following functions for the given domains:
+a. f()=4+1; = -3,-2,-1,0,1,2,3
+b. f() = -2 + 5; = -1,-0.5,0,2,3,4
+C. f()=7-3; = -1,0,1,2,3,4
+d. f() = = ˣ + 1; = -8,-4,-2,0,2,4
+Example 1
+Draw the graph of the following functions in the same Cartesian coordinate system.
+a.f()= +2
+b.g()=- +2
+c.h()=2 2 +2
+d.k()=2 -2 +2
+Solution:
+We need two points to draw a line. However, we generally choose three, and the
+third point is a good check that we do not make a mistake.
+a.f( =+ 2:f(0) =2,
+y
+3
+f(1) = 3,f(2) = 4,
+2
+g(1) = 1,g(2) = 0,
+1
+c. h( ) = 2 + 2 : h(0) = 2,
+x
+-3
+2
+1
+1
+2
+3
+h(1) = 4,h(2) = 6, =
+-1
+f(x) =x+2 h(x) = 2x+2
+k(x) = - 2x+2 g(x) =-x+2
+k(1) = 0,k(2) = -2.
+-2
+Figure 1.25 the graph of four functions f, g, h, k intersecting at a point (0,2).
+As indicated on Fig.1.25, the graphs of the four functions cross the -axis at = 2
+because the value of b is always 2 for the equation = = ax + b where b is the y-
+intercept. Thus, you can see that if a > 0 then the straight line goes up as increases,
+38
+Unit 1: Relations and Functions
+and the bigger a gets the faster the line goes up. Similarly, if a < 0 then the line goes
+down as increases, and the bigger a gets in absolute terms, the faster the line goes
+down.
+From the graphs given above, you have noticed that:
+a. Graphs of linear functions are straight lines.
+b. If a > 0, then the graph of the linear function f() = ax + b is increasing.
+c. If a < 0, then the graph of the linear function f() = ax + b is decreasing.
+d. If a = 0, then the graph of the linear function f() = b is a horizontal line.
+Exercise 1.17
+Draw the graph of the following functions in the same Cartesian coordinate system.
+a. f() = 2 + 1
+b. g( ) = 2 - 1
+C. h( ) = -2 +1
+d. k( ) = -2 - 1
+e. m() = 1
+f. n() = 1
+Slope and intercept:
+The slope indicates the steepness of a line and the intercept indicates the location where
+it intersects an axis. Linear functions are written in the form = ax + b and a is
+called its slope and b is its -intercept.
+Example 1
+If f( ) = 3 - 6, then find the and -intercepts.
+Solution:
+To find - intercept, put f() = = 0 and then solve for as:
+0 = 3 - 6,
+= 2.
+So, the - intercept is (2,0).
+To find -intercept, put = 0. And solve, you have f (0) = -6.
+So, the - intercept is (0, -6).
+39
+Unit 1: Relations and Functions
+Example 2
+Draw the graph of the function f()=2 = - 3.
+Solution:
+y
+Find the and - intercept. The - intercept
+2
+is the ordered pair where = 0 that is (³⁻,0). ³, 3
+f(x) = 2x 3
+1
+And the - intercept is the ordered pair where
+= 0 that is (0, -3). Plot these intercepts on
+x
+-2
+-1
+1
+2
+3
+a coordinate system and draw a line that
+-1
+passes through them.
+-2
+-3
+Figure 1.26 the graph of f()=2 = - 3
+Example 3
+If f() = 2 - , is the graph of the function increasing or decreasing function?
+Solution:
+Since f()=2- is the same as f()=- +2 and the coefficient of is -1,
+the graph the function is decreasing.
+Exercise 1.18
+1. Determine the slope, -intercept and -intercept of the following linear functions:
+a. + - 2 = 0
+b. 2 +2 =3 =
+C. f()+7=2
+d. f() = -3 -5
+2. Given the following functions:
+f() = 3 - 1,g() = - + 2,h( ) = -2 and k() =1. =
+a. Which one is a decreasing function?
+b. Find slope and -intercept and -intercept of each function.
+40
+Unit 1: Relations and Functions
+3. Sketch the graph of each of the following using intercepts:
+a. = 2 + 4 b. 3+4 = 5
+C.
+= 4 +3
+Graphs of quadratic functions
+A function defined by f ( ) = a 2 + bx + C where a, b, C are real numbers and a #
+0 is called a quadratic function. The point a is the leading coefficient of f.
+Example 1
+f( ) = 3 2 - 2 +5 is a quadratic function with a = 3, b = -2 and C = 5.
+Quadratic functions are useful in many applications in mathematics when a linear
+function is not sufficient. For example, the motion of an object thrown either upward
+or downward is modeled by a quadratic function. The graph of a quadratic function is
+a curve called a parabola. Parabolas may open upward or downward and vary in"
+width" or" steepness", but they all have the same basic" U" shape. All parabolas are
+symmetric with respect to a line called the axis of symmetry. A parabola intersects its
+axis of symmetry at a point called the vertex of the parabola.
+Many quadratic functions can be graphed easily by hand using the techniques of
+stretching/ shrinking and shifting (translation) the parabola = 2.
+Note
+The simplest form of a quadratic equation is = 2 when a = 1 and
+b = C = 0.
+Activity 1.9
+a. Make a table of ordered pairs that satisfy the function f ( ) = 2.
+b. Find the and intercepts of f.
+C. Plot the points (, 2) on -coordinate system.
+d. Find the domain and range of f.
+41
+Unit 1: Relations and Functions
+The following are observations of the graph of h( ) = 2
+Since squaring any number gives a positive number, the values of are all
+positive, except when = 0, in which case = 0.
+As increases in size, so does 2 but the increase in the value of 2 is 'faster'
+than the increase in
+.
+y
+The graph of = 2 is symmetric about the
+4
+-axis ( = 0). For example, if = 3, the
+y =
+3
+corresponding value is 3² = 9.If = -3,
+2
+then the value is (-3)² = 9. The two
+-
+1
+values are equidistant from the -axis: one to
+x
+the left and one to the right, but the two
+-2
+-1
+1
+2
+-1
+values are in the same height above the -
+axis.
+Figure 1.27 the graph of =
+2
+Referring to figure 1.27, we observe the following
+the line = 0 ( -axis) is called the line of symmetry for this quadratic
+function.
+the line = 0 ( -axis) is called the orthogonal axis for this quadratic function.
+If the equation is, say, = 2 then the y=1x2 y y = x² y = 2x² 4
+y
+graph will be similar to that of = 2 2
+3
+but will lie above it. For example, when
+2
+= 1 the value of 2 is 1, but the
+value of 2 2 is 2. The value for =
+1
+2 2 is above that of = 2 Similarly,
+x
+-2
+-1
+1
+2
+for the equation = x/2, = 2 the graph is
+-1-
+similar to that of = 2 except lying below.
+Figure 1.28 the graph of
+2
+=
+a
+Sketch of = a 2 for different positive values of a are shown in Figure 1.28.
+42
+Unit 1: Relations and Functions
+Consider now the choice a = -1, with the equation = - 2 . In this case the graph
+of the equation will have the same shape but now, instead of being above the -axis it
+is below. When = 1 the corresponding value is-1.
+Table 1.12
+-3
+-2
+-1
+0
+1
+2
+3
+f()=-2
+-9
+-4
+-1
+0
+-1
+-4
+-9
+g( ) = -2 2
+- 18
+-8
+-2
+0
+-2
+-8
+- 18
+h()=----- 2 1 2
+9
+N/A
+1
+1
+9
+-2
+0
+-2
+2
+2
+2
+2
+Examples of = a 2 for various negative values of a are sketched in figure 1.29.
+y
+1f
+x
+-3
+-2
+-1
+1
+2
+3
+-1
+-2
+y = 2 1 y y = - 2x2 -3
+Figure 1.29 the graph of -1/2, 1
+Exercise 1.19
+Draw the graph of the following functions by constructing tables of values:
+= -2,-1,0,1,2.
+a. f() = 4 1 2
+b. g() = 4 1 2
+C.
+d. k() = 2 3 2
+43
+Unit 1: Relations and Functions
+Graph of y = ax² + c.
+y
+This type of quadratic function is
+y = x² +2
+3
+similar to the basic ones of the previous
+functions discussed but with a constant
+2
+c added in the function = a 2 i.e.,
+y
+=
+1
+y = x² 2
+having the general form
+x
+-3
+-2
+-1
+1
+2
+3
+= a 2 +c. As an example of this,
+-1
+= 2 + 2. Comparing this with the
+function = 2 the only difference is
+21
+the addition of 2 units. When = 1,
+Figure 1.30
+2 = 1, but 2 + 2 = 1 + 2 = 3. When = 2, 2 = 4,
+but 2 + 2 = 4 + 2 = 6.
+That is the values of = 2 have been lifted by 2 units. This happens for all of the
+values so the shape of the graph is unchanged but it is lifted by 2 units. Similarly, the
+graph of = 2 - 2 will be lowered by 2 units.
+Graph of = a(x - k)²
+In the examples considered so far, the axis of symmetry is the -axis, i.e., the line
+= 0. The next possibility is a quadratic function which has its axis of symmetry not
+on the -axis.
+y
+A case in point to this function: = ( - 3)²
+has the same shape and the same orthogonal
+8
+y = (x- 3)²
+axis as = 2 but the axis of symmetry is
+6
+the line = 3. i.e., shift to the right by 3 units.
+4
+The points = 0 and = 6 are equidistant
+2
+from 3. When = 0 the value is 9. When
+x
+= 6 the value is (6 3) = 9.
+-2
+2
+4
+6
+The points on the curve at these values are
+-2-
+both 9 units above the -axis.
+Figure 1.31 the graph of = ( - 3)²
+This is true for all numbers which are equidistant from 3.
+44
+Unit 1: Relations and Functions
+From the graph of quadratic functions of the form f (x) = ax², y = ax² +
+c, a # 0, c is any real number, we can summarize:
+1. If a > 0, the graph opens upward and if a < 0, the graph opens downward.
+2. The vertex is (0,0) for f() = a 2 and (0, c) for = a 2 + c.
+3. The domain is all real numbers.
+4. The vertical line that passes through the vertex is the axis of the parabola (or the
+axis of symmetry).
+5. If a > 0, the range is the set of non- negative real number for f ( ) = a 2 and
+the set of real number such that ≥ c for = a 2 + c
+6. If a < 0, the range is the set of non- positive real number forf ( ) = a 2 and
+the set of real number such that ≤ c for = a 2 + C
+Exercise 1.20
+Draw the graph of the following functions.
+a. f() = ² + 1
+b. g( ) = 2 3
+C. h( ) = 2 ² + 2
+d.k()=(1)²
+e. m ( ) = ( + 1) 2
+Graphs of = ( k)² + m (a < 0).
+So far, two separate cases have been discussed: first a standard quadratic function has
+its orthogonal axis shifted up or down; second a standard quadratic function has its
+axis of symmetry shifted left or right. The next step is to consider quadratic functions
+that incorporate all shifts.
+Example 1
+The quadratic function = 2 is shifted so that its axis of symmetry is at = 3 and
+its orthogonal axis is at = 2.
+a. Write down the equation of the new curve.
+b. Find the coordinates of the point where it crosses the -axis.
+45
+Unit 1: Relations and Functions
+c. Sketch the new curve shifted from = 2
+Solution:
+a. The new curve = ( - 3)² is symmetric about = 3 and is shifted up by
+2 units, so its equation is = ( - 3)² + 2.
+b. The curve crosses the -axis, when = 0. Putting this into the equation
+= ( - 3)² + 2, the corresponding value of is
+= (0 - 3)² + 2 = 11,
+so, the curve crosses the -axis at = 11.
+c. The curve is shown in figure 1.32.
+y
+12
+10
+y = (x- 3)² +2
+8
+6
+4
+2
+(3,2)
+x
+-2
+2
+4
+6
+8
+-2
+Figure 1.32 the graph of = ( - 3)²+2
+Note that the vertex of the graph of f( ) = ( - k)² + C is (k, c).
+Exercise 1.21
+1. The curve = -2 2 is shifted so that its axis of symmetry is the line = -2 and
+its orthogonal axis is = 8.
+a. Write down the equation of the new curve.
+b. Find the coordinates of the points where this new curve cuts the and axes.
+C. Sketch the curve
+2. Find the vertex and draw the graph of the following functions.
+b.g()=(-2)²-3
+46
+Unit 1: Relations and Functions
+The final section is about sketching general quadratic functions, i.e., one of the forms
+= a 2 + bx
+The algebraic expression must be rearranged so that the line of symmetry and the
+orthogonal axis can be determined. The procedure required is completing the square.
+Example 1
+A quadratic function is given by = ² + 6 + 11.
+a. Apply completing the square method, and find the vertex of the function.
+b. Use this to determine the axis of symmetry and the orthogonal axis of the
+curve.
+c. Find the points on the and axes where the curve crosses them.
+d. Sketch the function.
+Solution:
+a. Completing the square:
+= ² + 6 + 11
+= ² + 6 + 9+11
+= ( +3)²+2.
+Thus, the vertex is (-3,2).
+b. This is the function = 2 moved to the left so that its axis of symmetry is
+= -3 and shifted up by 2, i.e., its orthogonal axis is = 2.
+c. The function is = ( + 3)² +2. It will not cross the x-axis, i.e., the graph has
+y
+not -intercept. Putting = 0 into
+12
+the original form of the function
+y = =(x+3)2 +2
+10
+= 2 +6 + 11, gives = 11,
+8
+i.e., it crosses the -axis at = 11.
+6
+d. The function is shown in
+4
+2
+figure 1.33.
+(-3,2)
+x
+-8-
+-6
+-4
+-2
+2
+4
+-2
+Figure 1.33 the graph of the function = ² + 6 + 11
+47
+Unit 1: Relations and Functions
+Exercise 1.22
+1. A quadratic function is given as = ² + 4 + 11.
+a. completes the square on this function and find the vertex.
+b. use this to determine the axis of symmetry and the orthogonal axis of the
+curve.
+C. finds the points on the and axes where the curve crosses them.
+d. Sketch the function.
+2. A quadratic function is given as = 2 - 8 + 14, and find the vertex.
+a. completes the square on this function.
+b. Sketch the function.
+3. Sketch each of the following quadratic functions.
+a. = ² + 2 + 1
+b. = ²-6 +5
+C. = ² + 2 + 5
+Graphs of = — +m (a < 0).
+Example 1
+A quadratic function is given as = - ² + 2 + 3.
+a. Complete the square on this function.
+b. Use this to determine the axis of symmetry and the orthogonal axis of the
+curve.
+c. Find the points on the x and y axes where the curve crosses them.
+d. Sketch the function.
+Solution:
+a.
+= - ² + 2 + 3
+=-(²-2)+3
+= - (( - 1)² - 1) + 3
+= - ( - 1)² + 1 + 3
+= ( - 1) +
+b. This is the function = - 2 moved to right so that its axis of symmetry is
+48
+Unit 1: Relations and Functions
+= 1 and shifted up by 4, i.e., its orthogonal axis is = 4.
+c. The function is = - ( - 1) 2 + 4. This will cross the -axis when = 0
+i.e. when ( - 1)² + 4 = 0
+4 = ( - 1)²
+taking square roots yields - 1 = ±2 implies x = 1 ± 2, ± i.e.,
+= - 1 or 3. Putting = 0 into the original form of the function at the
+= - ² + 2 +3. This gives = 3, i.e., it crosses the -axis at = 3.
+d. The function is shown in figure 1.34.
+y
+(1,4)
+4
+2
+y
+x
+-2
+2
+4
+-2
+-4
+Figure 1.34 the graph of =- :- ²+2 +3
+Exercise 1.23
+1. A quadratic function is given as = - ² - 2 + 1.
+a. completes the square on this function and find the vertex.
+b. use this to determine the axis of symmetry and the orthogonal axis of the
+curve.
+C. finds the points on the X and y axes where the curve crosses them.
+d. Sketch the function.
+2. A quadratic function is given as = - 2 - 2 - 1.
+a. completes the square on this function and find the vertex.
+b. Sketch the function.
+3. Sketch each of the following quadratic functions.
+a. = 6 2
+b. = 4 - 2
+49
+Unit 1: Relations and Functions
+4. Find the and - intercepts, axis of symmetry and orthogonal axes of the
+following functions.
+a. = -2²-8
+b. = - 2 +6+7
+Note
+1. The graph of f ( ) = ( + k)² + c opens upward.
+2. The graph of f ( ) = ( + k)² + c opens downward.
+3. The vertex of the graph of f ( ) = ( + k) + c is (-k,c) and the vertex
+of the graph of f ( ) = ( - k)² - C is (k, - c). Similarly, the vertex of the
+graph of f ( ) = ( + k)²- - c is (- k, - c) and the vertex of the graph of
+f ( ) = ( - k) 2 + c is (k,c).
+1.3 Applications of Relations and Functions
+Applications involving relations
+Example 1
+The data in table1. 13 depicts the length of a woman's femur and her corresponding
+height. Based on these data, a forensics specialist can find a linear relationship
+between heights inch and femur cT: = 2,47 + 54, 40 ≤ ≤ 55.
+Table 1.13
+Length of
+femur (cm)
+Height (cm)
+45
+164
+48
+173
+42
+158
+46
+167
+50
+178
+50
+Unit 1: Relations and Functions
+From this type of relation, the height of a woman can be inferred based on skeletal
+remains.
+a. Find the height of the woman whose femur is 44 cm.
+b. Find the height of the woman whose femur is 51 cT.
+Solution:
+a.
+= 2.47 + 54
+= 2.47(44) + 54
+= 162.68
+The woman is approximately 163 cm tall.
+b.
+= 2.47 + 54
+= 2.47(51) + 54
+= 179.97
+The woman is approximately 180 cm tall.
+Example 2
+If the equation 2 + 18 + 81 represents the area of the square, what is the perimeter
+of the square if = 10?
+Solution:
+2 + 18 + 81 factors into ( + 9) ( +9)
+Since this represents the area of a square where length = width, then
+( + 9) = length and ( + 9) =width
+Perimeter of a square = 2(length + width) = 2( +9+ + 9)
+= 2(2 + 18) = 4 + 36
+for = 10, Perimeter 4(10) + 36 = 40 + 36 = 76
+Example 3
+The width of a square is 1 less than twice its width. What is its length?
+Solution:
+When 1 less than a number, the algebraic symbol is is - 1
+51
+Unit 1: Relations and Functions
+Let the width be
+when is 1 less than 2
+1 = 2 - and = 1. In a square, length = width. So, the length is 1.
+Exercise 1.24
+1. There is 8m wire. With this wire, make a rectangle with length m on one side.
+a. Express the width using
+.
+b. Express the area S of the rectangle using
+C. If f( ) = S, draw the graph f ( ).
+d. Determine the domain and range of f().
+2. There is an isosceles triangle with height 4cm.
+a. If the base is cm and express the area S using
+b. If f( ) = S, draw the graph of f().
+C. Determine the domain and range of f().
+Minimum and Maximum values of quadratic functions
+Suppose you throw a stone upward. The stone turns down after it reaches its maximum
+height. Similarly, a parabola turns after it reaches a maximum or a minimum y value.
+Activity 1.10
+Let f ( ) be a quadratic function. Discuss how to determine the maximum or
+minimum value of f ( ).
+Example 1
+The minimum value of a quadratic function expressed as
+f ( ) = ( + k) 2 + c is C.
+Similarly, the maximum value of f ( ) = - ( + k) 2 + C is C.
+52
+Unit 1: Relations and Functions
+Example 2
+Find the maximum value of the function f ( ) = - =- - 2 +6 - 8, and sketch its
+graph.
+Solution:
+f ( ) = - 2 +6 - 9+9 - 8
+y
+= - ( 2 - 6 + 9) + 1;
+4
+f() =( =3)²+1.
+2
+The graph of f ( ) = - ( - 3)² + 1
+(3,1)
+x
+has vertex (3,1) and hence the
+-2
+2
+4
+6
+-2
+maximum value offis 1.
+-4
+In this case, the range of the function is
+-6
+{: { ≤ 1} = (- ∞,1] 8,
+&
+y = - (x - 3)² +1
+-10
+Figure 1.35 the graph of f ( ) = - ( - 3) 2 + 1
+Exercise 1.25
+1. Find the vertex and the axis of symmetry of the following functions
+a.f()=(4)²-3
+b.f()=2-5+8
+2. Determine the minimum or the maximum value of each of the following functions
+and draw the graphs:
+a. f()= ²+4 + +1
+b. f()= 4² +2 +4
+C. f ( ) = - 2 - 4
+d. f ( ) = 6 - 2 - 4
+3. A metal wire 40 cm long is cut into two and each piece is bent to form a
+square. If the sum of their areas is 58 sq.cm, how long is each piece?
+53
+Unit 1: Relations and Functions
+Graphical method of solving quadratic equations
+Activity 1.11
+For the quadratic function: = 2 complete the table, and plot the pair of
+coordinates on the coordinate plane to draw the graph.
+Table 1.14
+3210123
+...
+...
+9410
+In general, the graph of quadratic function has u-shaped curve and one extreme point,
+called vertex. In the Activity, the vertex of the function is (0,0). In order to find the
+solutions of a quadratic equation using a graph:
+1. Rearrange the equation so that one side is equal to zero (if necessary).
+2. Draw the graph of the quadratic function.
+3. Read off the -coordinate(s) of the point(s) where the curve crosses the -axis.
+The quadratic function is transformed using completing the square method as
+follows:
+THE =
+Hence, the vertex of the function is (-b,4ac-b2).
+(That is, translate = ax² by b / 2a in -axis direction, and by 4a in -axis
+direction.
+It uses the vertex formula to get the vertex which gives an idea of what
+values to choose to plot the points. If the graph of the quadratic function crosses the -
+axis at two points then we have two solutions. The -intercept(s) of a graph is/are the
+solution(s) of the equation. If the graph touches the -axis at one point then we have
+54
+Unit 1: Relations and Functions
+one solution. If the graph does not intersect with the -axis then the equation has no
+real solution.
+Example 1
+Find the solutions of the equation 2 - 4 = 0 graphically.
+6
+Solution:
+Draw the graph of the quadratic function, = 2 4
+4
+Read off the x-coordinate(s) of the point(s)
+2
+where the curve crosses the x-axis.
+The roots are = -2 and = 2
+7
+-2
+0
+4
+These are the solutions of ² - 4 = 0
+-2
+Figure 1.36 the graph of = 2 - 4
+Example 2
+Solve 2 - 2 - 3 = 0 graphically.
+Solution:
+The solution for the equation 2 - 2 - 3 = 0 can be obtained by looking at the points
+where the graph = 2 - 2 - 3 cuts at
+y
+y = x² - 2x - 3
+Axis of Symmetry
+the -axis (i.e., = 0). =
+6
+= 2 - 2 - 3 = ( - 1) 2 - 4, hence
+4
+the vertex is (1, -4)
+2
+x-intercepts
+In addition to the vertex, plot some points,
+x
+-4
+-2
+2
+4
+such as y-intercept (0, -3) and other
+2
+points (-1,0), (2, -3), (3,0) to draw
+-3
+-4
+graph.
+Vertex
+Figure 1.37 the graph of = ² - 2 - 3.
+55
+Unit 1: Relations and Functions
+The graph = 2 - 2 - 3 cuts the -axis at = - 1 and = 3. So, the solution for
+the equation is = -1 and = 3.
+Example 3
+Solve - 2 +6 - 9 = 0 graphically.
+Solution:
+The solution for the equation - ² + 6 - 9 = 0 can be obtained by looking at the
+points where the graph = ² + 6 - 9 cuts at the -axis (i.e., = 0). =
+= - ² + 6 -9=-( = - 3)², hence the vertex is (3,0)
+Plot other points, y-intercept (0, -9), and (1, -4), (2, - -1), (4, -1) to draw
+graph.
+The graph = - ² + 6 - 9 = 0 cuts the - axis only at = 3. So, the solution
+for the equation is = 3.
+y
+2
+x
+-2
+2
+3
+4
+6
+-2
+-4
+-6
+y = - x 2 + 6x - 9
+-8
+-10
+Figure 1.38 the graph of the function = - 2 +6 - 9
+Example 4
+Solve ² + 4 +8=0 graphically.
+Solution:
+The vertex for = ² + 4 +8 is given by using completing the square method as
+follows:
+56
+Unit 1: Relations and Functions
+= 2 + 4 +8 = ( + 2) 2 +
+Then the vertex is (-2, 4). Furthermore, coefficient of 2 is positive. Therefore, there
+is no -intercept and hence, no real solution to the equation ² + 4 + 8 = 0 =
+y
+10
+8
+6
+4
+y = x² + 4x + 8
+2
+x
+-4
+-2
+2
+-2
+Figure 1.39 the graph of the function = ² + +8
+Note
+In the graphs of quadratic functions, the sign on the coefficient a affects whether
+the graph opens up or down. If a > 0, then the graph opens up and if a < 0, then
+the graph opens down.
+Exercise 1.26
+1. Use graphical method to solve the following.
+a. ² - 1 = 0
+b. ² + 2 + 1 = 0 =
+c. ² + 3 - 4 = 0
+d. ² - 4 + 6 = 0 =
+2. The quadratic function f intersects the -axis at the points (1,0) and (-4,0).
+What is the solution set of the equation f ( ) = 0?
+3. At what values of does the graph of the equation = ( +2)( - 6) cross the
+x-axis?
+57
+Unit 1: Relations and Functions
+Graphical method of solving quadratic inequalities (1)
+Activity 1.12
+Given the following inequalities:
+a. > 2
+b. < 2
+C. > 2 + 4
+d. ≥ 1 - 2
+e. ≤ ² + 2
+f. ≥ 2 - 4
+1. Find the -intercept and -intercept of their respective equation.
+2. Which region (inside or outside the parabola satisfy the inequality)?
+In solving a quadratic inequality graphically, the following steps shall be
+followed.
+1. Write the quadratic inequality in standard form 2 + bx + c ≥ 0 or a 2 + bx +
+c ≤ 0.
+2. Graph the function f ( ) = a 2 + bx + c using properties or transformations.
+3. Determine the solution from the graph.
+The graph of a quadratic function f ( ) = a 2 + bx + C is a parabola. When we ask
+a 2 + bx + C < 0, f () <0 (Figure 1.40). We want to know when the parabola is
+below the x -axis. When we ask a 2 + bx + c > 0, we are asking when f ( ) > 0
+(Figure 1.41). We want to know when the parabola is above the x -axis.
+6
+f (x)
+4
+x - - intercepts
+2
+-2
+2
+f(x) > 0
+f(x) > 0
+f(x) <
+D
+Figure 1.40 the graph of the function = ax² + bx + c for a > 0
+58
+Unit 1: Relations and Functions
+6
+4
+2
+x - - intercepts
+-2
+2
+4
+6
+f(x) <0
+f(x) > 0
+f(x) <0
+f (x)
+Figure 1.41 the graph of the function = ax² + bx + C for a < 0
+Example 1
+Solve ² - 6 + 8 < 0 <
+Solution:
+Step 1: Write the quadratic inequality in standard form. The inequality is in standard
+form.
+Step 2: Graph the function f()=a = 2 + bx + C using properties or
+transformations.
+We will graph using the properties.
+Look at a in the equation f() = 2 - 6 + 8.a = 1,b = -6, and C = 8.
+Since a is positive, the parabola opens upward.
+f ( ) = 2 - 6 +8 = ( - 3)² - 1. The vertex is (3, - 1). Using table to find
+other points.
+12345
+f ( ) = 2 - 6 +8
+3
+0
+-1
+0
+3
+The -intercepts are (2,0) and (4,0) We graph the -intercepts, and the y-intercept.
+We connect these points to sketch the parabola (Figure 1.42).
+59
+Unit 1: Relations and Functions
+y
+6
+4
+2
+x - intercepts
+x
+-2
+2
+4
+6
+-2
+Figure 1.42 the graph of the function = ²-6 +8
+Step 3: Determine the solution from the graph.
+The inequality asks for the values of which make the function less than 0. Which
+values of make the parabola below the -axis? We do not include the values 2, 4 as
+the inequality is less than only. The solution, in interval notation is (2,4) or
+{ :2 < < < 4} < for the quadratic inequality ² - 6 + 8 < 0.
+Exercise 1.27
+Solve the following quadratic inequalities graphically. Use the previous methods to
+check the answers.
+a.
+² + 6 + 5 < 0
+b. ²+6 -7≥0
+C.
+2 - 10 + 16 > 0
+d. ²-3 +4>0
+e. 2 - 2 - 15 ≤ 0
+Graphical method of solving quadratic inequalities (2)
+Example 2
+Solve - 2 - 8 - 12 ≤ 0 ≤ graphically. Write the solution in interval notation.
+Solution:
+Consider the equation f() = - 2 - 8 - 12. a = - -1,b = 8, and c = -12.
+Since a is negative, the parabola opens downward.
+We find f (0) = -12. Hence (0, -12) is the -intercept.
+60
+Unit 1: Relations and Functions
+f ( ) = - 2 - 8 - 12 = - ( 2 +8 + 12)
+= - ( + 4)² + 4.
+The vertex is (-4, 4). Find other points using the table.
+-6 -5 -4 -3 -2
+( ) = - 2 - 8 — 12
+0
+3
+4
+3
+0
+So, the x-intercepts are (-6,0) and (-2,0). We graph the vertex, intercepts. We
+connect these points to sketch the parabola (Figure 1.43).
+y
+6
+4
+x - - intercepts
+2
+x
+-4
+Figure 1.43 the graph of the function = - 2 - 8 - 12 ≤ 0.
+The inequality asks for the values of which make the function less than or equal to 0.
+We include the values -6,and -2 as the inequality is less than or equal to 0. The
+solution, in interval notation is (-∞, -6] U [-2,∞) or { : ≤ -6 or ≥ -2} for
+the quadratic inequality
+- 2 - 8 - 12 ≤ 0. ≤
+Exercise 1.28
+Solve the following quadratic inequalities graphically. Use the previous
+methods to check the answers.
+a. - 2 + + 12 ≥ 0
+b. - ² - 2 + 17 < 0
+C. - 2 - 6 - 5 < 0
+d. - ²+2 +1≥0
+e. - ² +8 - 14 <0
+61
+Summary and Review Exercise
+Summary
+1. A Cartesian coordinate system in two dimensions (also called a rectangular
+coordinate system) is defined by an ordered pair of perpendicular lines (axes), a
+single unit of length for both axes, and an orientation for each axis.
+2. In relation, two things are related to each other by a relating phrase.
+3. A relation is the set of ordered pairs.
+4. The set of first components in the ordered pairs is called the domain of the
+relation. The set of second components in the ordered pairs is called the range
+of the relation.
+5. A function is a special type of relation in which no two distinct ordered pairs
+have the same first element.
+6. A function from A to B can sometimes be denoted as f:A
+B, where the
+domain of the function f is A and the range of the function f is included in B,
+in which we say B contains the image of the elements of A under the function f.
+7. A numerical relation R is a function if and only if no vertical line in the plane
+intersects the graph of R in more than one point.
+8. If each element in the domain of a function has a distinct image in the co-
+domain, then function is said to be one -to- one function.
+9. A function is called an onto function if each element in the co-domain has at
+least one pre - image in the domain.
+10. A function f A B is said to be a one- to-one correspondence if f is both one to
+one and onto.
+11. Let f and g be two functions with overlapping domains. We define the sum,
+difference, product, and quotient as:
+(f + g)(x) = f(x) +g(x)
+(fg)(x) = f(x)g(x) =
+(f - g)(x) = f(x) - g(x)
+62
+Summary and Review Exercise
+12. If a and b are fixed real numbers, a # 0,then f (x) = ax + b for every real
+number x is called a linear function.
+13. In f (x) = ax + b for a # 0, xε/R, a represent the slope, (0,b) represents the
+y- intercept and (-ᵇ,0) represent the x- intercept.
+14.A function defined by f (x) = ax² + bx + C where a, b, c are real numbers and
+a # 0 is called a quadratic function. The point a is the leading coefficient of f.
+15. We can sketch the graph of a linear function by using either a table of values, or
+the x and y - intercepts.
+16. We can sketch the graph of a quadratic function by using either a table of
+values, or shifting rule.
+17. The graph of f (x) = ax² + bx + c opens upward if a > 0 and downward if
+a < 0.
+18. The vertex is the point on the coordinate system at which a graph of a quadratic
+function turns either upward or downward.
+19. The axis of symmetry is a vertical line that passes through the vertex of the
+parabola.
+20. The domain and range of linear functions are the set of real numbers.
+21. The domain of a quadratic function f (x) = ax² + c is the set of real numbers,
+whereas the range is;
+{y: ≥ c} if the leading coefficient is positive and c is the value of
+y at the vertex.
+{y: y ≤ c} if the leading coefficient is negative and c is the value of y at the
+vertex.
+For f (x) = ax² + bx + C. In this case, f (x) = a (x + 2 (b2-4ac) 4a The
+coordinate of the vertex is ( 4a If a > 0, the range is
+{y: y ≥ b2-4ac} 4a If a < 0, the range is {y: y b2-4ac}. 4a
+63
+Summary and Review Exercise
+Review Exercise
+1. Which of the following sets of ordered pairs are functions?
+a. (1,2), (2,3), (3,4), (4,5)
+b. (4,3), (2,2), (-3,4), (-3,-3)
+C. (1,2), (2,3), (1,3), (4,5)
+d. (1, 1), (1, -6), (4,2), (2, -3)
+2. Let R = {(x, y): y is shorter than x}.
+a. Does(x,x) belong to the relation? Why?
+b. Is true that if (x,y) belongs to R, then (y,x) belongs to R?
+C. If (x,y) and (y,z) belong to R, then is it true that (x,z) belongs to R?
+3. Find the domain and range of each of the following relations:
+a. R is the relation which contains the set of order pairs (x,y): y = -3x.
+b. R is the relation which contains the set of order pairs (x,y): x contains
+-2,-1,0,1,3,5 and y = 2 - x
+C. R is the relation which contains the set of order pairs (x,y): y = √1 x².
+d. The set of ordered pairs (x,y), where y is a sister of x.
+e. The set of ordered pairs (x,y), where a pupil in y's class is x.
+4. Sketch the graph of each of the following relations and find the domain and range.
+a. R is the relation which contains the set of order pairs (x,y): y = x³.
+b. R is the relation which contains the set of order pairs (x,y): y ≤ -x - 1.
+C. R is the relation which contains the set of order pairs (x,y) y > 3x - 1.
+d. R is the relation which contains the set of order pairs (x,y): y ≥ 2x - 3.
+e. R is the relation which contains the set of order pairs (x,y): y ≥ 2x and y <
+x + 1.
+f. R is the relation which contains the set of order pairs (x,y): y < -x + 2
+and y > x - 3.
+64
+Summary and Review Exercise
+5. For the following graph (Figure 1.44),
+y
+specify the relation and write down
+3
+the domain and range:
+2
+6. Let f (x) = 2x² -5x - 3 and
+1
+g (x) = - -2x² +x+7
+x
+a. Find:
+-3
+-2
+-1
+1
+2
+3
+i)f+g
+ii) f - g
+-1
+iii) (f + g)(-1) iv) (2f - g)(3)
+(-1,-2)
+-2
+b. Determine the domain of f - g.
+-3
+7. Let f (x) = 2x² - 1 and
+Figure 1.44
+g (x) = x - 3, then
+a. Evaluate: i) fg ii) g iii) (fg)(2) iv) (1-g (5)
+b. Find the domain 1/9
+8. If f (x) = 2x-3 x-1 and g(x) = x,t then
+a. find:
+i) fg
+ii) g
+iii) domain of fg and 1/9
+b. evaluate: i) (fg)(-3) ii) (g) (3) iii) (3f - -) (-1)
+9. Determine which of the following pairs of formulas define the same function.
+a. y = x² ; y = x², x ≥ 0.
+b. y = (x + 1) 2 (x - 2) ; y = x³ - 3x - 2.
+d. y = 2x; y= x.
+e. y = x + 1; y = x2-1 x²-1 x-1
+f. y=x; y= vx² =
+g. y = x, y = ³√x³.
+h. y = 2x+1 x ; y = 2x²+7x+3 x²+3x ,x>0.
+65
+Summary and Review Exercise
+10. Construct tables of values and sketch each of the following:
+a. f (x) = 2x - 5
+b.2x+y-3=-5
+C. f (x) = 7 - 6x - x²
+d. f (x) = 1 - 4x
+11. The curve y = x² is shifted so that its axis of symmetry is the line x = 1 and
+its orthogonal axis is y = -4.
+a. Write down the equation of the new curve.
+b. Find the coordinates of the points where this new curve cuts the
+x and y axes.
+C. Sketch the curve
+12. The curve y = x² is shifted so that its axis of symmetry is the line x = 1 and
+its orthogonal axis is y = 3.
+a. Write down the equation of the new curve.
+b. Find the coordinates of the points where this new curve cuts the x and y
+axes.
+C. Sketch the curve
+13. The curve y = -x² is shifted so that its axis of symmetry is the line x = 1 and
+its orthogonal axis is y = 3.
+a. Write down the equation of the new curve.
+b. Find the coordinates of the points where this new curve cuts the x and y
+axes.
+C. Sketch the curve
+14. By using shifting rule, sketch the graph of each of the following:
+a. y = x² - 4x + 2
+b. y = -x² - 6x - 8
+15.A mobile phone technician uses the linear function C(t) = 2t + 100 to
+determine the cost of repair where the time in the hours is t and C(t) is the cost
+in Birr. How much will you pay if it takes him 3 hours to repair your mobile?
+66
+UNIT
+2
+POLYNOMIAL FUNCTIONS

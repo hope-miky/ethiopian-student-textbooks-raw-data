@@ -1,0 +1,1169 @@
+Unit 7
+Temperature and Thermometry
+Introduction
+You are familiar with the word temperature. The water in the shower or bucket
+Brainstorming
+feels hot or cold or warm. The weather outside is chilly or steamy. You certainly
+Questions
+have a good experience for how one temperature is qualitatively different from
+What is tempera-
+another temperature. You may not always agree on whether the room tempera-
+ture? How do you
+ture is too hot or too cold or just moderate. But you will likely all agree that you
+feel your environ-
+possess built-in thermometers for making qualitative judgments about relative
+ment? Is it hot
+temperatures. In this unit you will learn temperature and its effects, different
+or cold? Do you
+temperature measuring scales, different types of thermometers, conversion of
+feel the difference
+between hot and
+temperature from one scale to another, and linear expansion of solids.
+warm, cold and
+cool? Are these
+At the end of this unit, you should be able to:
+words are accurate
+understand temperature and different temperature scales;
+to describe the
+temperature of an
+construct your own temperature scale;
+object? How is tem-
+develop experience of using different thermometers.
+perature related to
+your life?
+146
+Unit 7 Temperature and Thermometry
+7.1 Temperature and Our Life
+At the end of this section , you should be able to:
+define temperature;
+describe the effect of temperature in your daily life;
+discuss the range of temperature difference from equator to polar region
+of the Earth.
+Activity 7.2
+The concept of temperature has evolved from the common concepts of hot
+and cold. Human perception of what feels hot or cold is a relative one.
+Click on the follow-
+ing link
+Activity 7.1
+Gas Properties PhET
+1. a) Prepare three cups with hot, warm and cold water;
+Experiment and
+describe the mo-
+b) Place your left hand in the hot water and your right hand in the
+tion of water and
+cold water and automatically put both hands in the warm water.
+gas particles and
+What do you feel on your left and right hands? Discuss.
+their average ki-
+netic energy as the
+2. If you touch a wood and a metal plate in the morning, the wood feels
+temperatures in-
+warmer than the metal plate. Why? Discuss in large group.
+creases or decreases
+3. Is testing the hotness and coldness of a body by your hands (feeling)
+gradually.
+reliable?
+From Activity 7.1 you have learned that testing the hotness or coldness of a
+Key Concept:
+body by feeling is not reliable. This is because the warm water feels cool to the
+IF Temperature is
+hand that was in the hot water, and warm to the one that was in the cold wa-
+the degree of hot-
+ter. Thus, you cannot conclude that the warm water is hot or cold using your hand.
+ness or coldness of a
+body.
+Temperature is defined as the measure of the average kinetic energy of the
+Temperature is re-
+particles in a sample of matter expressed in terms of units or degrees designated
+lated to the average
+on a standard scale.
+kinetic energy of the
+particles in a body.
+A key feature of our environment is the combination of temperature and
+humidity that determines the heat balance of human beings. Human beings are
+comfortable with temperature between 18°C and 22°C, particularly referred to
+as room temperature. Temperature affects human life in different ways. Human-
+being's clothing, eating habit, health and even economy is affected by temperature
+of the environment.
+7.1 Temperature and Our Life
+147
+(a) Cold weather
+(b) Moderate weather
+(c) Hot weather
+Figure 7.1 Different living styles due to variations of temperature.
+Exercise 7.1
+How does temperature affect human-being's clothing, eating habit,
+health and economy?
+What do you feel when the temperature is below or above room temper-
+ature?
+In our planet Earth, temperature varies from one place to another. For exam-
+Activity 7.3
+ple, polar regions are very cold, temperate regions have moderate temperature
+How do human
+and tropical regions are hot. The temperature difference from the pole to the
+beings and other liv-
+equator depends on the Sun's energy and the energy retained in Earth's system.
+ing creatures adapt
+The equator receives the most direct sunlight and therefore the most intense solar
+to the temperature
+energy. The polar region, on the other hand, receives less of sun's energy and has
+of Tropic, Temper-
+lower overall temperature. The yearly average temperature of tropical rain forest
+ate and Polar zones?
+zone varies from 21°C to 31°C. The average temperature of temperate climates is
+Discuss in group.
+between -3°C and 18°C. During summer, the average temperature in polar zone
+Identify bodies
+which have very
+is - 14°C. However, in winter the average temperature is -50°C. Figure 7.2 shows
+high temperature
+the temperature of tropic, temperate and polar zones in descending order from
+and very low tem-
+the hottest (Equatorial zone) to the coldest (Polar zone).
+perature in your
+surroundings.
+In nature, the Sun and the other stars have high temperature. The average
+temperature of the Sun's outer surface is about 5600 K (≈ 5327°C). In your sur-
+rounding there are also bodies with high temperature, for example, fire from
+biomass (wood), electric heaters, electric stoves, and a candle's flame and so on.
+There are also materials which have low temperature. Some examples are solid
+water or ice (below 0°C), solid carbon dioxide (-78°C), liquid nitrogen (-196°C)
+and so on.
+148
+Unit 7 Temperature and Thermometry
+Brainstorming
+Questions
+7.2 Extreme Temperature Safety
+What is extreme
+temperature? Which
+At the end of this section, you should be able to:
+temperature is com-
+describe the comfortable environmental temperature for human beings;
+fortable for human
+beings?
+explain some safety precautions of extreme temperature.
+The human body has a normal temperature between 97°F (36.56°C) and
+Activity 7.4
+99° F (37.2°C), but on average, a normal body temperature is 98.6° F (37°C). To
+How can you main-
+maintain this temperature without the help of warming or cooling devices, the
+tain a healthy tem-
+average temperature of the surrounding environment needs to be at about 82°F
+perature when the
+(28°C). In reality the temperature of the surrounding environment is rarely 28°C.
+weather is very cold
+It varies from time to time.
+or very hot? Discuss
+in groups.
+POLAR ZONE
+SUBPOLAR ZONE
+TEMPERATE ZONE
+SUBTROPICAL ZONE
+TROPICAL ZONE
+EQUATORIAL ZONE
+Figure 7.2 Temperature of tropic, temperate and polar zones.
+7.3 Temperature Change and its Effects
+149
+High environmental temperatures can be dangerous to your body. In the
+range of 90° and 105°F (32°C and 40°C), you can experience heat cramps and ex-
+haustion. Between 105° and 130°F (40° and 54°C), heat exhaustion is more likely.
+You should limit your activities at this range. An environmental temperature over
+130° (54°C) often leads to heat stroke.
+Safety precautions
+1. Stay well-hydrated to best avoid heat-related illness. Drink enough
+water. Don't rely solely on thirst as a guide to how much liquid you
+should be drinking.
+2. Wear clothing that is appropriate to your environment. Clothes that
+are too thick or too warm can quickly cause you to become over
+heated. If you feel yourself getting too hot, loosen your clothing or
+remove excess clothing until you feel cool enough.
+3. Wear sunscreen when possible to avoid sunburn, which makes it
+harder for your body to get rid of excess heat.
+4. Try to avoid places that can get extremely hot.
+7.3 Temperature Change and its Effects
+At the end of this section, you should be able to:
+Brainstorming
+describe the average change in global temperature;
+Questions
+explain the major effects of higher temperature in our community and
+Have you observed
+environment;
+change in temper-
+ature from year to
+list the causes for the temperature increment in our environment;
+year? What are the
+causes for change in
+list greenhouse gases that cause rise in temperature.
+temperature? How
+can this problem be
+One of the most immediate and obvious effects of global warming is the increase
+resolved?
+in temperatures around the world. The average global temperature has increased
+by about 1.4 degrees Fahrenheit (0.8 degrees Celsius) over the past 100 years, ac-
+cording to the National Oceanic and Atmospheric Administration (NOAA). Since
+record keeping began in 1895, the hottest year on record worldwide was 2016
+according to NOAA and NASA data. That year's Earth surface temperature was
+150
+Unit 7 Temperature and Thermometry
+1.78 degrees Fahrenheit (0.99 degrees C) higher and was the largest incremental
+change in temperature.
+0.6
+Global Temperatures
+0.4
+Annual Average
+Temperature Anomaly (°C)
+Five Year Average
+0.2
+0
+-0.2
+-0.4
+-0.6
+1860
+1880
+1900
+1920
+1940
+1960
+1980
+2000
+Figure 7.3 Yearly average global temperature increment for the last 120
+years.
+Exercise 7.2
+Search from different sources and write a report on the following questions:
+1. What are the causes for the continuous rise in temperature on our
+planet Earth.
+2. How do you think can this problem be solved to improve the lives of
+future generation?
+3. What is the greenhouse effect?
+4. The communities in different regions of Ethiopia have indigenous
+knowledge practice of caring natural resources like forest. Have you
+observed this in your community? How does this practice reduce
+global warming?
+The natural warming of the Earth that results when the greenhouse gases in
+the atmosphere such as carbon dioxide, methane, nitrous oxide, water vapor and
+fluorinated gasses trap heat from the sun is called greenhouse effect. Naturally,
+7.3 Temperature Change and its Effects
+151
+the greenhouse effect is important to warm the planet to its comfortable average
+temperature (15°C) and to keep life on Earth. However, mankind's activity such
+as burning of fossil fuels for energy is artificially increasing up the natural green-
+house effect which results in global warming. The choices we make now and in
+the next few decades will determine how much the planet's temperature will rise.
+If people keep adding greenhouse gases into the atmosphere at the current
+rate, the average temperature around the world could increase by about 4
+to 12°F.
+If we make big changes, like using more renewable resources instead of
+fossil fuels, the increase will be less about 2 to 5°F.
+Higher temperatures mean that heat waves are likely to happen more often
+and last longer, too. Heat waves can be dangerous, causing illnesses such as heat
+cramps and heat stroke, or even death. Warmer temperatures can also lead to a
+chain reaction of other changes around the world. This is because increasing air
+temperature also affects the oceans, weather patterns, snow and ice, and plants
+and animals. The warmer it gets, the more severe the impacts on people and the
+environment will be.
+Activity 7.5
+Discuss the major effects that higher temperatures have on people and the
+environment with respect to:
+1. Agriculture
+4. Health
+5. Forests
+2. Water supply
+6. Plants, animals and ecosys-
+3. Energy
+tems
+Key Concepts:
+Greenhouse gases are the causes for global warmings.
+Higher temperature affects agriculture, energy, water supply, health,
+and ecosystems.
+Greenhouse gases are: carbon dioxide, methane, nitrous oxide and
+fluorinated gases.
+A body having particles with small kinetic energy has low temperature.
+A body having particles with high kinetic energy has high temperature.
+152
+Unit 7 Temperature and Thermometry
+Brainstorming
+7.4 Measuring Temperature with Different Thermometric
+Questions
+Scales
+Which tempera-
+At the end of this section, you should be able to:
+ture scales do you
+come across in your
+define thermometer;
+life? Which scale do
+explain how thermometer works;
+physicians use to
+measure your body
+describe different temperature scales;
+temperature?
+design temperature scales using local materials.
+In the previous section you have discussed that it is difficult to measure the
+temperature of a body accurately by touching or using our sense perceptions.
+To measure the temperature of a body accurately we need a special instrument
+called thermometer.
+Exercise 7.3
+Thermometer is a device used to measure the temperature of a body. It mea-
+How does a ther-
+mometer work?
+sures temperature in degrees.
+Many thermometers make use of the fact that materials usually expand with
+increasing temperature. A thermometer consists of a tube of uniform thin bore
+with a small bulb at its bottom. The tube is commonly filled with mercury or
+expansion chamber
+alcohol to a certain height. It operates by contraction and expansion of the
+capillary tube
+mercury or alcohol in the bulb. Figure 7.4 shows parts of mercury thermometer.
+scale
+Temperature Scales
+Exercise 7.4
+stem
+column of mercury
+1. List some of the temperature scales you know.
+2. Which temperature scales do medical doctors use to measure a body
+temperature?
+3. What is the human body temperature in Celsius and Fahrenheit
+constriction
+scales?
+mercury bulb
+4. Which temperature scales are commonly used in your local area?
+Figure 7.4 Mercury thermometer.
+7.4 Measuring Temperature with Different Thermometric Scales
+153
+In this section you are going to see three different temperature scales. These
+are:
+Centigrade (Celsius) scale
+Celsius
+Fahrenheit scale
+Boiling point
+100°C
+Kelvin scale
+of water
+100
+In designing a thermometer, two temperatures of a body are marked on it as
+Celsius
+degree
+fixed points. These are the lower fixed point (melting point of ice) and the upper
+fixed point (boiling point of water) at sea level.
+Freezing point
+0°C
+of water
+The Celsius Scale
+The Celsius scale or centigrade scale was devised by the Swedish astronomer,
+Anders Celsius (1701-1744). He assigned the value 0°C (0 degree Celsius) to the
+ice point of water and 100°C(100 degree Celsius) to the steam point or boiling
+point of water. By dividing the space between the two fixed points into 100 equal
+parts a Celsius scale is determined. Each unit or division is called degree (°). Each
+Figure 7.5 The Celsius tempera-
+ture scale.
+division in Figure 7.5 represents 1°C.
+Exercise 7.5
+What is the temperature of the melting point of ice?
+What is the temperature of the boiling point of water at sea level?
+The Fahrenheit Scale
+The Fahrenheit scale was designed by the German scientist Daniel Fahrenheit.
+He assigned 32° F (32 degrees Fahrenheit)to the ice point of water and 212° F
+(212 degrees Fahrenheit) to the steam point or boiling point of water. Since the
+Boiling point of
+water
+100
+100°C
+200
+212'F
+difference between the ice point and boiling point is 180; one can obtain the
+Human body
+37°C
+100
+98.6°F
+temperature
+Fahrenheit scale by dividing the space between the two fixed points into 180
+Freezingpoint of
+O'C
+32°F
+water
+equal parts. Temperature in Fahrenheit scale is denoted by °F, read as degrees
+Sublimation
+79°C
+100
+-109°F
+of dry ice
+Fahrenheit. Each division in Figure 7.6 represents 10 degree Fahrenheit.
+200
+Boiling point of
+-300
+liquid air
+-194°C
+-318°F
+The Kelvin Scale
+Absolute zero
+-273°C
+-459°F
+The third type of temperature scale is called Kelvin scale. This scale was designed
+by Scottish physicist Lord Kelvin (1824 - 1907). He assigned 273.15 to ice point
+Celsius
+Fahrenheit
+154
+Unit 7 Temperature and Thermometry
+and 373.15 to boiling point. By dividing the space between the two fixed points
+into 100 equal parts Kelvin scale is obtained. The SI unit for temperature is kelvin.
+Its symbol is K (Note: No degree sign is used with the unit kelvin). This scale is
+used commonly for scientific works and has greater scientific significance.
+Experiments have shown that there exists a lowest possible temperature below
+which no substance can be cooled. This lowest temperature is defined to be the
+zero point on the Kelvin scale (0 K or -273.15 °C) and is referred to as absolute
+zero.
+Key Concepts:
+jur Celsius scale: a temperature scale where the freezing point of water is
+fixed at 0 degrees and the boiling point is at 100 degrees.
+Jo Fahrenheit scale: a temperature scale where the freezing point of water
+is fixed at 32 degrees and the boiling point is at 212 degrees.
+JET Kelvin scale: a temperature scale that uses absolute zero as one of its
+fixed points.
+Jr Absolute zero: the temperature at which a substance has no thermal
+energy.
+Reading Thermometer
+When the temperature of a material rises, the volume of the mercury expands and
+causes the mercury inside the tube to rise. Thus, one can read out the marked
+scale on the tube and know the value of the temperature. In contrast to this when
+the temperature of the material falls, then the mercury inside the tube contracts.
+This causes the level of the mercury inside the tube to drop. The temperature can
+thus be read from the corresponding scale on the tube.
+7.4 Measuring Temperature with Different Thermometric Scales
+155
+Activity 7.6
+Materials needed: Cold, warm, hot water in different containers and a
+thermometer.
+1. Observe your thermometer and determine its unit of measurement.
+2. Measure the temperature of the water in different containers.
+3. Record the measured values in a table with proper units.
+4. Compare the temperature of the recorded values.
+Project: Design Your own Temperature Scale
+Materials needed for each group:
+Clear, narrow necked plastic bottle (350 to 500 ml water bottles work well ),
+Clear, plastic drinking straw or similar clear thin plastic,
+Measuring cups or beakers,
+210 ml water,
+210 ml alcohol (ethanol based),
+Large glass jars (to mix the water and alcohol). Note that this alcohol-water
+mixture is more than enough for seven (7) groups. Each group needs only
+60 ml.
+Stirring rod made of metal or wood,
+Food coloring,
+Rulers,
+Fine point permanent markers,
+Clay,
+Thermometers.
+Procedure
+Before the activity
+156
+Unit 7 Temperature and Thermometry
+1. A week before the activity, bring a clear, plastic disposable bottle with a
+narrow neck to school.
+2. Prepare a mixture of equal parts rubbing alcohol and water. Each team
+needs about 60 ml of this mixture.
+3. Use a stirring rod to keep the solution mixed.
+4. Pour about 60 ml of the alcohol-water mixture into each bottle.
+5. Add a few drops of food coloring to the mixture and mix it gently.
+Marked index
+card
+Tape
+Modeling clay
+or clay doh
+Clear Bottle
+Clear straw
+Water, alcohol,
+food coloring
+Figure 7.7 A thermometer that should be designed by students.
+7.4 Measuring Temperature with Different Thermometric Scales
+157
+6. Use a fine-point permanent marker, and use a ruler to make equally-spaced
+marks on the straw. You can use any division you want, as long as the marks
+divide the straw equally. You are advised to be careful not to bend the straw
+in this process.
+7. Consider how the scale on a thermometer is marked and carefully number
+the marks on the straw.
+8. Decide on a unit of measurement for your straw (degree name)
+9. Place the straw in the bottle and hold it at the neck of the bottle without
+letting it touch the bottom of your plastic bottle.
+10. Use modeling clay to seal the neck of the bottle so the straw stays in place.
+The designed thermometer should look like the one in Figure 7.7.
+11. Wrap your hands around the bottle and observe what happens to the mix-
+ture in the bottle. Record on your worksheets the thermometer reading
+using the numbers on your scales. For more dramatic results, place the
+thermometer in a tube of warm water.
+12. Use a real thermometer to measure the temperature of your hands (or tube
+of water). Record this temperature on the worksheet next to the reading
+from your thermometers.
+13. Place your thermometers in a location away from a source of heat (a hallway
+instead of the classroom, or some distance away from a heater). After sev-
+eral minutes, record the air temperature reading using your new thermome-
+ters. Compare with your measurement using a commercial thermometer.
+14. Move the thermometers to a source of heat (the warmer classroom instead
+of a hallway, or near a heater) and repeat.
+15. Place your thermometers in safe places around the classroom and record
+the temperature throughout the day. At the same time, record the corre-
+sponding Fahrenheit or Celsius thermometer reading, and note the times
+the measurements were taken.
+16. Complete your worksheets, share, compare and discuss the results.
+158
+Unit 7 Temperature and Thermometry
+Exercise 7.6
+Brainstorming
+Question
+1. Do you see any correlations in your data when the temperature is
+What are the ther-
+cold and when the liquid in your thermometer drops or rises with
+mometric prop-
+the supply of heat?
+erties of mercury
+thermometer, alco-
+2. Compare the scale on your thermometer to the scale on the real
+hol thermometer,
+thermometer. How many units on your scale equals 1 unit degree
+thermocouple, resis-
+Celsius on the real thermometer?
+tance thermometer
+and radiation ther-
+3. Convert from one scale to the other?
+mometer?
+4. How might understanding the thermal properties of objects, includ-
+ing measuring their temperatures, be important in many every day
+engineering applications?
+5. Write a short report about the process and output of the activity.
+Activity 7.7
+1. What is the unit of measurement on your temperature scale?
+2. Fill your temperature measurements in the provided chart (Table
+7.1).
+Table 7.1 Worksheet of your temperature scale.
+Distance from heat
+Temperature on
+Temperature
+Compare the tem-
+source
+your designed
+on your real
+peratures
+thermometer
+thermometer
+0.5 m
+1m
+1.5 m
+2m
+2.5 m
+7.5 Types of Thermometers and Their Use
+7.5 Types of Thermometers and Their Use
+159
+At the end of this section, you should be able to:
+list different types of thermometers;
+describe the uses of different thermometers.
+All thermometers make use of the change in some physical property with
+temperature. A property that changes with temperature is called a thermometric
+property. For example, the thermometric property of the mercury thermometer
+is the length of the mercury column, while in the constant-volume gas ther-
+mometer it is the pressure of the gas. Several important thermometers and their
+thermometric properties will now be discussed.
+Exercise 7.7
+1. What are the different temperature scales? What are fixed points in
+each scale?
+2. Explain the meanings of lower and upper fixed points?
+50
+130
+3. How many divisions are there between the lower and the upper fixed
+120
+40
+110
+points, in each scale?
+100
+30
+90
+20
+80
+70
+4. What is the SI unit of temperature?
+10
+60
+50
+0
+40
+30
+5. What type of thermometers do you know from your life experience?
+10
+20
+10
+20
+Discuss.
+30
+10
+6. Searching from the internet describe different types of thermome-
+ters and their use.
+Figure 7.8 Mercury thermometer.
+Liquid Thermometers
+1. Mercury Thermometer
+In a mercury thermometer, a glass tube is filled with mercury and a standard
+temperature scale is marked on the tube. With changes in temperature,
+the mercury expands and contracts and the temperature can be read from
+the scale. Mercury thermometers can be used to determine body, liquid,
+and vapor temperatures. Mercury thermometers are used in households,
+laboratory experiments, and industrial applications. Mercury thermometer
+is suitable to measure temperature between -30 degree Celsius and 300
+Figure 7.9 Alcohol thermometer.
+degree Celsius.
+160
+Unit 7 Temperature and Thermometry
+2. Alcohol Thermometers
+An alcohol thermometer is a thermometer which utilizes the expansion
+and contraction of alcohol in response to temperature changes to measure
+the temperature. A number of different alcohols can be used, depending
+on the environment where the thermometer is being utilized, with ethanol
+being among the most common. This type of thermometer is very popular
+because it is nontoxic, unlike a mercury-in-glass thermometer, and the
+contents will not pose a threat to human health or the environment if
+the thermometer is broken. Alcohol thermometers are used to measure
+temperature from -115°C to 78.15 °C.
+3. Resistance Thermometer
+Most substances offer resistance to the flow of electricity, and this resistance
+changes with temperature. As a result, electrical resistance provides an-
+other thermometric property. Electrical resistance thermometers are often
+made from platinum wire, because platinum has excellent mechanical and
+electrical properties in the temperature range from -270°C to +700°C. The
+resistance of platinum wire is known as a function of temperature. Thus,
+the temperature of a substance can be determined by placing the resistance
+thermometer in thermal contact with the substance and measuring the
+resistance of the wire.
+Figure 7.10 Resistance thermome-
+ter.
+4. Thermocouple
+The thermocouple is a thermometer used extensively in scientific labora-
+tories. It consists of thin wires of different metals, welded together at the
+ends to form two junctions, as Figure 7.12 illustrates. Often the metals are
+copper and constantan (a copper-nickel alloy). One of the junctions, called
+22.4%
+the "hot" junction, is placed in thermal contact with the object whose tem-
+perature is being measured. The other junction, termed the "reference"
+junction, is kept at a known constant temperature (usually an ice-water
+mixture at 0°C). The thermocouple generates a voltage that depends on
+WÖHLER
+the difference in temperature between the two junctions. This voltage is
+the thermometric property and is measured by a voltmeter, as the drawing
+Figure 7.11 Thermocouple ther-
+mometer.
+indicates. With the aid of calibration tables, the temperature of the hot
+junction can be obtained from the voltage. Thermocouples are used to
+measure temperatures as high as 2300 °C or as low as -270°C.
+5. Thermistor
+7.5 Types of Thermometers and Their Use
+161
+A thermistor is a resistance thermometer, or a resistor whose resistance is
+dependent on temperature. The term is a combination of 'thermal' and
+'resistor'. It is made of metallic oxides, pressed into a bead, disk, or cylin-
+145
+drical shape and then encapsulated with an impermeable material such as
+ThermoPop
+glass. There are two types of thermistors: Negative Temperature Coefficient
+(NTC) and Positive Temperature Coefficient (PTC). With NTC thermistor,
+when the temperature increases, resistance decreases. Conversely, when
+temperature decreases, resistance increases. This type of thermistor is used
+the most. A PTC thermistor works a little differently. When temperature
+increases, the resistance increases, and when temperature decreases, resis-
+tance decreases. This type of thermistor is generally used as a fuse. Typically,
+a thermistor achieves high precision within a limited temperature range of
+about 50°C around the target temperature. This range is dependent on the
+Figure 7.12 Thermistor thermome-
+base resistance
+ter.
+6. Radiation Thermometers
+Radiation thermometers are not based on any change of property with tem-
+perature but use the electromagnetic radiation from a body to be measured.
+J00
+As the body warms up, the total radiation it emits increases rapidly and
+the spectral distribution shifts to shorter wavelengths. The temperature
+can thus be determined by measuring the radiation, and there is a clear
+advantage that all the detecting equipments is remote from the hot body.
+The application areas of radiation thermometer are quite extensive. They
+are frequently used in industrial processes, the professional sector and in
+particular to monitor main supply units or to measure the temperature of
+components in motors or machines. Glass and electrical industries use
+Figure 7.13 A radiation thermome-
+ter.
+many forms of radiation thermometers.
+Exercise 7.8
+1. List the different types of thermometer.
+2. Write the difference between mercury and alcohol thermometers.
+3. Describe measuring ranges of temperatures of different types of
+thermometers.
+4. Why do we need different types of thermometers? Discuss.
+162
+Unit 7 Temperature and Thermometry
+Key Concepts:
+JF Mercury thermometer uses the expansion of mercury due to change in
+temperature. It measures temperature between -30 degree Celsius and 300
+degree Celsius.
+It Alcohol thermometer uses the expansion of alcohol due to change in
+temperature. It is used to measure temperature from - -115 °C to 78.15°C.
+JF Thermocouple uses voltage as the thermometric property. It measures
+temperatures as high as 2300 °C or as low as -270 °C.
+7.6 Conversion between Temperature Scales
+At the end of this section, you should be able to:
+convert temperature in degree Celsius scale to temperature in Fahrenheit
+scale and vice versa;
+convert temperature in degree Celsius scale to temperature in Kelvin scale
+and vice versa;
+convert temperature in degree Fahrenheit scale to temperature in Kelvin
+scale and vice versa.
+7.6 Conversion between Temperature Scales
+163
+Temperature conversion between Degree Celsius and Fahrenheit Scale
+212 °F
+100 °C
+373.15K
+water boils
+32 °F
+0 °C
+273.15 K
+water freezes
+-459.7 °F
+-273.15 °C
+OK
+absolute zero
+°F
+°C
+K
+Figure 7.14 The fixed points of Fahrenheit, Celsius and Kelvin temperature
+scales.
+Exercise 7.9: Using the fixed points from Figure 7.6
+go Derive the formula to convert temperature in Celsius scale to Fahrenheit
+scale.
+It Derive the formula to convert temperature in Fahrenheit scale to Celsius
+scale.
+Tc - ice point
+TF - ice point
+=
+(7.1)
+steam point - ice point steam point - ice point
+Tc - 0 TF - 32
+1>
+Tc = TF - 32
+=
+(7.2)
+100-0 212 - 32
+100
+180
+From this relation we determine the following two formulas that help to
+convert temperature from degree Celsius scale to Fahrenheit scale and vice versa.
+164
+Unit 7 Temperature and Thermometry
+THE
+(7.3)
+(7.4)
+Example 7.1
+If the temperature of the surrounding is 50°F, what is the temperature in degree
+celsius?
+Given: TF = 50°F
+Required: Tc =?
+Solution:
+Inserting the value of TF
+.:.Tc=10°C
+Example 7.2
+The temperature of a room is 20°C. What is the temperature of the room in degree
+Fahrenheit?
+Given: Tc = 20°C
+Required: Tₚ =?
+Solution:
+Inserting the value of Tc
+=36°F+32°F
+.:.TF = 68° F
+Temperature Conversion Between Degree Celsius and Kelvin Scale
+7.6 Conversion between Temperature Scales
+165
+Exercise 7.10
+0 c
+K
+1. The size of one Kelvin is identical to that of one Celsius degree.
+100
+373.15
+Discuss and reason out.
+2. The temperature difference of 5 °C is equal to the temperature dif-
+ference of 5 K. Discuss.
+0.01
+273.16
+3. What is the minimum possible temperature in nature?
+0.00
+273.15
+Denoting the Celsius temperature scale by Tc and the Kelvin temperature
+scale by Tₖ and using the ice and steam points of both scales;
+Tc - ice point
+TK - ice point
+=
+(7.5)
+steam point - ice point steam point - ice point
+Tc - 0
+Tₖ - 273.15
+=
+Tc = TK - 273.15
+Tc = Tₖ - 273.15
+-273.15
+0
+100
+0
+373.15-273.15
+100
+100
+(7.6)
+Tc = Tₖ - 273.15,
+Тₖ = Тc + 273.15
+(7.7)
+Figure 7.15 The fixed points of
+Example 7.3
+Celsius and Kelvin temperature
+scales.
+Water is boiled to a temperature of 72 °C. What does a Kelvin scale read for this
+value?
+Given:
+Tc = 72°C
+Required:
+Tₖ =?
+Solution:
+Inserting the value of Tc
+Tx = Tc+273.15= (72 +273.15)K
+.:.Tₖ=345.15K
+166
+Unit 7 Temperature and Thermometry
+Brainstorming
+Example 7.4
+Questions
+The temperature of a hot metal is 573.15 K. What is the value of this temperature
+in degree Celsius scale?
+What happens
+Given:
+Tₖ = 573.15K
+to metals when
+Required:
+Tc =?
+they are heated or
+cooled? Does the
+Solution:
+wood expand or
+Inserting the value of Tₖ
+contract when it is
+heated or cooled?
+Tc = T-273.15=(573.15-273.15)°C
+.:.Tc=300°C
+Temperature Conversion Between Degree Fahrenheit and Kelvin Scale
+From the previous discussions you have learned how to derive a formula of
+conversion between the Celsius temperature scale and Fahrenheit temperature
+scale. Moreover, you have learnt how to determine the formula of conversion
+between the Celsius temperature scale and the Kelvin temperature scale.
+Exercise 7.11
+1. Employing the same procedure, derive the formula relating the
+Fahrenheit temperature scale and the Kelvin temperature scale.
+2. The temperature of the environment in Fahrenheit scale is 82 What
+is its reading in Kelvin scale?
+3. You designed your own thermometer and have a new temperature
+scale. On this temperature scale the steam point is 312 degrees and
+the ice point is 112 degrees. What is the temperature on this scale
+that corresponds to 28 degree celsius ?
+7.7 Thermal Expansion of Materials
+7.7 Thermal Expansion of Materials
+167
+At the end of this section, you should be able to:
+define thermal expansion;
+describe the difference in expansion rate of materials;
+recommend materials for construction purpose based on their expansion
+rate;
+calculate temperature dependent linear expansion of materials.
+In the previous section you have learnt about temperature, effects of temperature,
+different temperature scales, and all temperature related issues. Now we are going
+to see the thermal expansion of materials.
+Different materials expand or contract at different rates. In general, gases expand
+more than liquids, and liquids expand more than solids. Observation of thermal
+expansion in a solid object requires careful analysis. Understanding the expansion
+of metals is very crucial for using them in different technological applications.
+Have you ever found the metal lid on a glass jar too tight to open? One solution
+is to run hot water over the lid, to loosen it because the metal expands more
+than the glass does. To varying extents, most materials expand when heated and
+contract when cooled.
+Activity 7.8
+Materials needed: copper wire of 2 mm in diameter and 50 cm in length,
+aluminum wire of 2mm in diameter and 50 cm in length and steel wire of
+2 mm in diameter and 50 cm in length. Procedure
+Fasten the three wires at one end and put on a surface or knife-edge
+near the other end,
+Heat the wires at the same time, (Please do not touch the wires in
+your hand. It is dangerous! Use holder.)
+1. Which wire expands more?
+2. Which wire expands less?
+3. What are the factors that determine the linear expansion of solids?
+168
+Unit 7 Temperature and Thermometry
+Exercise 7.12
+to The lengths of solid bars of different materials can be measured at
+different temperatures using very precise equipment as shown in Table
+7.2.
+Table 7.2 Expansion and contraction of solids.
+Material
+Length in - 100°C)
+Length in cm (0°C)
+Length in cm (100°C)
+Lead
+99.71
+100
+100.29
+Steel
+99.89
+100
+100.11
+Aluminum
+99.77
+100
+100.23
+Brass
+99.81
+100
+100.19
+Copper
+99.83
+100
+100.17
+Glass
+99.91
+100
+100.09
+Pyrex TM (glass)
+99.97
+100
+100.03
+L₀
+1. What can you say about the change in length of the bars when they are
+cooled to the temperature of -100 degree celsius or heated to the tempera-
+ture of 100 degree celsius? Is it very small? While discussing consider very
+Temprature = To
+long structures such as bridges.
+L₀
+LL
+2. What similarity do you see in how all the materials react as they warm?
+3. In what way do the materials react differently as they warm?
+Temprature = To +T
+4. Which material expands the most as it warms?
+Figure 7.16 When the temperature
+5. Which material expands the least as it warms?
+of the rod raises by T, the length
+of the rod increases by L.
+6. What do you notice from your list when you examine how the materials
+cool and contract? Does the material that expands the most at a high
+temperature also contract the most at a low temperature?
+7. Compare the change in length of materials at 100 °C in the table and write
+it in an increasing order.
+8. A builder asked you to select a metal that does not vary with temperature.
+Which best metal do you recommend from the list?
+When a solid is heated, its particle moves farther apart and hence the solid
+expands. To varying extents, most materials expand when heated and contract
+7.7 Thermal Expansion of Materials
+169
+when cooled. The increase in any one dimension of a solid is called linear ex-
+pansion, linear in the sense that the expansion occurs along a line. Figure 7.16
+illustrates the linear expansion of a rod whose length is L₀ at temperature T₀.
+When the temperature increases from T₀ to T₀ + T, the length becomes L₀ + L
+where T and L are the magnitude of the changes in temperature and length
+respectively. Conversely when the temperature decreases to T₀ - T, the length
+decreases to L₀ - L.
+For modest temperature changes, experiments show that the change in length
+(L) is directly proportional to the change in temperature T.
+Key Concept:
+jer
+Linear expansion: the increase in length of a substance due to heating.
+It
+Coefficient of linear expansion: the increase in length of a 1 m road of
+a given substance when its temperature increases by 1 K.
+Exercise 7.14
+L oc T
+(7.8)
+An interesting
+In addition, the change in length is proportional to the initial length of the
+example of linear
+rod.
+expansion occurs
+when there is a hole
+L oc L₀
+(7.9)
+in a piece of solid
+From the above two equations we conclude that,
+material. We know
+that the material
+L oc L₀ T
+(7.10)
+itself expands when
+heated. What about
+By using the proportionality constant α,
+the hole? Does it
+expand, contract, or
+L = αL₀AT
+(7.11)
+remain the same?
+where, α is the coefficient of linear expansion and its unit is 1/C
+170
+Unit 7 Temperature and Thermometry
+Exercise 7.13
+1. What happens to the change in length of the rod if the initial length
+of the rod is doubled?
+2. Does the coefficient of linear expansion depend on the nature of
+material?
+3. A bimetallic strip is made from two thin strips of metal that have
+different coefficients of linear expansion. Brass α = 19 X 10⁻⁶(ºC)⁻¹
+and steel α = 12 X 10⁻⁶(ᵒC)⁻¹ are selected. The two pieces are weld
+together.
+(a) What happens when the bimetallic strip is heated?
+(b) What happens when the bimetallic strip is cooled?
+(c) Discuss some technological applications of bimetallic strips. The
+coefficients of linear expansion of solids are described in Table 7.3.
+Table 7.3 The coefficients of linear expansion of solids.
+Substance
+Coefficient of linear expansion α in (°C)⁻¹
+Aluminum
+2.6 X 10⁻⁵
+Brass
+1.9 X 10⁻⁵
+Concrete
+1.2 X 10⁻⁵
+Copper
+1.7 X 10⁻⁵
+Glass (common)
+8.5 X 10⁻⁶
+Glass (Pyrex)
+3.3 X 10⁻⁶
+Gold
+1.4 X 10⁻⁵
+Iron or steel
+1.2 X 10⁻⁵
+Lead
+2.9 X 10⁻⁵
+Nickel
+1.3 X 10⁻⁵
+Quartz (fused)
+0.5 X 10⁻⁶
+Silver
+1.9 X 10⁻⁵
+7.7 Thermal Expansion of Materials
+171
+Example 7.5
+A thin rod of gold has a length of 1.5 X 10⁻¹ m at a temperature of 27 °C. The rod
+falls into a sink of hot water whose temperature is 49 °C. What is the change in the
+length of the gold rod?
+Given: α=1.4x10⁻⁵(ºC)⁻¹, L₀ = 1.5 x 10⁻¹
+Required: L=?
+Solution:
+From Table 7.3
+L = αL₀AT = 1.4 x 10⁻⁻(°C)⁻¹ x 1.5x 10⁻¹(49°C-27°C)
+L= 1.4x 10⁻⁻(°C)⁻¹ x 1.5 x 10⁻¹(22°C)
+Example 7.6
+The initial length of a brass rod is 50 cm at a temperature of 25°C. What will be its
+final length when it is heated to a temperature of 70°C?
+Given: L₀ = 50cm = 0.5m
+Required: LF =?
+Solution:
+L = αL₀ T
+L = 1.9 x 10⁻⁻(°C)⁻¹ x 0.5m(70°C-25°C)
+L = 0.043cm
+LF = 50cm + 0.043cm = 50.043cm
+Virtual Laboratory
+172
+Unit 7 Temperature and Thermometry
+Click on the following links to perform temperature related virtual lab-
+oratory under the guidance of your teacher. You can also directly copy
+and paste the links in to your browser.
+1. States of Matter: Basics PhET Experiment
+2. Energy Forms and Changes PhET Experiment
+Unit Summary
+Temperature is the degree of hotness or coldness of a body or an
+environment or it is the measure of the average kinetic energy of the
+particles in a sample of matter.
+Temperature affects mankind's clothing, eating habit, health and
+economy.
+One of the most immediate and obvious effects of global warming is
+the increase in temperatures around the world due to greenhouse
+gases.
+An instrument that is used to measure temperature of a body is
+called thermometer.
+A thermometer can read a temperature of a body in one of the fol-
+lowing three scales. These are Celsius scale (°C) Faherenheit scale
+(°F) and Kelvin scale (K).
+The SI unit of temperature is Kelvin (K).
+The change in temperature of Celsius and Kelvin scales are equal.
+On heating, the particles of a substance move faster and move fur-
+ther apart so that the substance expands on heating.
+The increase in any one dimension of a solid is called linear expan-
+sion.
+For modest temperature changes, experiments show that the change
+in length (L) is directly proportional to the change in temperature
+T and the initial length of the rod L₀. L = αL₀T, where α is
+coefficient of linear expansion.
+7.7 Thermal Expansion of Materials
+173
+End of Unit Questions and Problems
+Part I Multiple choice
+1. Which of the following best defines temperature? Temperature is:
+A. the degree of hotness or coldness of a body
+B. the measure of the average kinetic energy of a molecule in a body
+C. the measure of the total kinetic energy of a molecule in a body
+D. A and B
+E. A and C
+2. Which one of the following instruments is used to measure the tem-
+perature of a body?
+A. Anemometer
+B. Barometer
+C. Hydrometer
+D.
+Thermometer
+3. In constructing a thermometer it is necessary to use a substance
+that:
+A. Expands or contracts with change in temperature
+B. Remains constant while heating or cooling
+C. Explode while heating
+D. None of the above
+4. At what temperature do the Fahrenheit and Celsius scale read the
+same value?
+A. 40°C, 40°F
+B. -40°C, 40°F
+C. -40°C, - -40°F
+D.
+40°C, - 40°F
+5. Room temperature is about 20 degrees on the: A. Kelvin scale B.
+Celsius scale C. Fahrenheit scale D. Absolute scale
+6. Thin strips of iron and zinc are weld together to form a bimetallic
+strip that bends when heated. The iron is on the inside of the bend
+because:
+A. It has higher coefficient of linear expansion
+B. It has higher specific heat
+C. It has higher temperature
+D. It has lower temperature
+7. Which one of the following sets of temperatures are equivalent? A.
+50°F, 10°C, 283.15 K B. 68°F, 20°C, 341.15 K C. 86°F, 30°C,
+187.15 K D. None
+174
+Unit 7 Temperature and Thermometry
+8. An annular thin ring of aluminum is cut from the aluminum sheet
+as shown below. When the ring is heated:
+A. The aluminum expands outward and the hole remains the same
+B. The hole decreases in diameter
+C. The diameter of the hole expands with the same percent as any
+length of the aluminum
+D. Linear expansion forces the shape of the hole to be elliptical.
+Part II: Short Answer
+1. What is temperature?
+2. What are the causes for the rise of temperature in our environment?
+3. Define absolute zero temperature.
+4. What are the steam and ice points of water in Kelvin scale?
+5. What is the lowest possible temperature in nature?
+Part III: Workout
+1. What is the temperature in Celsius scale if the reading in Fahrenheit
+scale zero?
+2. The temperature of an object is 310 K. What is this temperature in
+Fahrenheit scale?
+3. The ice and the steam points of the newly designed thermometer is
+25° X and 125° X respectively. What value of temperature does this
+thermometer read for 62 °C?
+4. Calculate the increase in length of a 2m copper rod that is heated
+from 0°C to 150°C?
+5. The temperature varies from 25°C to 38 °C yearly in Afar region. A
+concrete side walk is constructed between two buildings when the
+temperature is 25°C. A sidewalk consists of one concrete slab of
+length 3m with negligible thickness. What amount of empty space
+should be provided to protect the concrete from bending?

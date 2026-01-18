@@ -1,0 +1,1115 @@
+Unit 6: Ecological Interactions
+Contents
+Learning Competency
+6.1. Trophic levels
+outline with examples the trophic levels in an
+6.1.1. Food chains & Food webs
+ecosystem
+6.1.2. Flow energy and matter through ecosystems
+elaborate food chain and food web with
+6.2. Cycling of materials in the ecosystem
+examples
+6.2.1. Water cycle
+show the flow of energy and matter in an
+6.2.2. Carbon cycle
+ecosystem
+6.2.3. Nitrogen cycle
+discuss ecological pyramid
+6.2.4. Phosphorus cycle
+draw and label the water, carbon, nitrogen and
+phosphorus cycles
+relate the carbon cycle with global warming
+associate nitrogen cycle with soil fertility and
+agriculture
+appreciate the role of soil organisms in soil
+fertility
+investigate why farmers in their locality use
+crop rotation in cultivation
+6.1 Trophic Levels
+Objectives
+A cat always hunts a
+At the end of this section, the student will be able to:
+rat. You know what
+Define trophic level, food chain, and food web,
+will happen if a hyena
+construct food chain and food web-based on observed
+and dog come together.
+feeding relationship among common organisms in their
+What does this remind
+locality and
+you about feeding
+outline the flow of energy from the sun to plants than to a
+relationship in your
+higher trophic level.
+environment?
+6.1.1 Food chain and food web
+What is the ultimate source of energy in life? How is energy
+transferred from organism to organism?
+Have you observed solar panels used to collect energy from the
+sun, which transform solar energy to electrical energy for different
+purposes? Your answer might be yes, however, the best way to trap
+and store energy from sunlight is to grow plants and use the food they
+synthesize. This stored energy is transferred to other living organisms
+that eat plants and themselves have been eaten by another organism.
+Thus, the ultimate source of energy in living organisms is the sun.
+Grade 10 Biology
+153
+Unit 6: Ecological Interactions
+In this lesson, you will learn how energy is transferred from plants
+through a series of organisms. Plants are the first to trap energy
+and produce their food. They are called producers, also known
+as autotrophs (self - feeding). Animals feed on either plants or
+other animals as a source of energy. They are known as consumers
+or heterotrophs, feeding on plants (herbivores) or other animals
+How does energy flow in
+(carnivores) or feed on both plants and animals (omnivores). Thus,
+food chain?
+energy is transferred from plants through a chain of organisms,
+employing the "to eat or to be eaten process. This process is known as
+the food chain or food web.
+The following are characteristic features of a food chain
+There is repeated process of "to eat or to be eaten", so the food chain
+represent nutritive interaction among biotic component of the
+ecosystem.
+Plants (producers) are at the base or beginning of the food chain.
+There is the unidirectional flow of energy from the sun to the
+producers and then to series of consumers.
+Omnivorous (animals that feed both on plants and other animals)
+Is it the unidirectional
+occupy more than one position in the food chain.
+flow of energy that is
+commonly observed in an
+You daily observe that one organism does not eat one organism
+ecosystem?
+only. Every organism eats different organisms and it can be eaten
+by other different organisms. Therefore, ecosystems normally exhibit
+multidirectional energy flow, which is more than a direct chain of
+who - eats - what. What is occurring in the ecosystem is a complex
+web structure, called the food web. A food web is an interconnected
+food chain that makes interwoven or web-like structures. As shown
+in Figure 6.1 food chain follows a single path whereas the food web
+follows multiple paths.
+C2
+C2
+C2
+C2
+C2
+C2
+C1
+C1
+C1
+C1
+C1
+C1
+H
+H
+H
+H
+H
+H
+P
+P
+P
+P
+P
+P
+Food Chain
+Food Web
+Figure 6.1 Schematic illustrations of the food chain and food web
+(P = producer, H= Herbivore, C1= Primary carnivore, C2 = Secondary
+carnivore).
+154
+Grade 10 Biology
+Unit 6: Ecological Interactions
+ACTIVITY 6.1 Think — Pair - Share
+Direction:
+Think of a possible feeding relationship of organisms commonly
+observed in your locality.
+Share your ideas with your classmates. Discuss whether it is a food
+chain or food web that is observed on the ground and anticipate why
+this is so.
+Based on the food web illustrated below, construct different short
+food chains and share your work with other groups.
+Grasshopper
+Lizard
+Grass
+Rabbit
+hawk
+What is a trophic level?
+How is it different from
+Rat
+feeding level?
+Snake
+Each organism occupies a specific position in the food chain, called
+trophic level. Basically, a trophic level indicates the position of the
+ACTIVITY 6.2 Field Visit
+organism in an order of receiving energy and usually ranges from 1 to
+3 or 4 trophic levels. Plants, which are the first to trap solar energy,
+Your teacher will arrange
+stand at the first trophic level; herbivores that eat plants stand at the
+a short visit to your school
+second trophic level and carnivores that eat herbivores stand at the
+garden or corner with
+third trophic level (Figure 6.2).
+grass for you to observe
+feeding relationship among
+The feeding level is the order of consuming or eating one another.
+organisms.
+Herbivores are at the first feeding level consuming plants also known
+You may encounter insects
+as primary consumers. Carnivores that eat herbivores stand at the
+like grasshopper. Observe
+second feeding level and so on.
+what these insects feed on
+and which organisms are
+Trophic level
+Feeding level
+hunting grasshoppers. Take
+field note on the different
+Third Trophic
+feeding relationships that
+Secondary Consumer
+you observed.
+level
+Frog
+(carnivore)
+After coming to class,
+discuss with your small
+group on what you
+Second Trophic
+Primary Consumer
+observed and construct a
+level
+(Herbivore)
+food chain and /or food
+Grasshopper
+web to show feeding
+relationship among
+First Trophic
+Self Feeding
+organisms.
+level
+(Producer )
+Prepare a report and
+Grass
+submit it to your teacher
+as an input for class
+discussion.
+Figure 6.2 Illustration of Trophic level
+Grade 10 Biology
+155
+Unit 6: Ecological Interactions
+6.1. 2 Flow of energy and matter through ecosystem
+How does energy flow in an ecosystem during a nutrient
+recycle?
+You already know that the ultimate source of energy in life is the sun.
+You have also learned that it is solar energy trapped by the producer
+during photosynthesis that flows through a series of organisms by a
+food chain or food web. As shown in Figure 6.3, the energy from the
+sun flows through organisms, but this energy cannot go back to the
+sun. This is why we say energy cannot be recycled - it flows through
+the ecosystem. However, nutrients in food (organic matter) recycle
+within an ecosystem and are reused over and over again. This is the
+result of composition (synthesis) and decomposition (breakdown),
+which take place in the ecosystem.
+Plants synthesize food (organic matter) from simple inorganic matter.
+When producers or consumers die, fungi and other decomposers
+obtain energy by breaking down the organic matter and in the process;
+they return key nutrients like nitrogen to the soil so that producers
+can use them as raw materials for photosynthesis.
+Sun-light
+Eagle
+Snake
+Frog
+Grasshopper
+Decomposers
+Producers
+Figure 6.3 Flow of energy and matter (inorganic and organic) in an
+ecosystem
+As energy flows from one trophic level to the next it successively
+What happens to energy
+declines in amount. Fig 6.4 demonstrates how energy contained in
+as it is transferred from
+the grass is not fully transferred to a cow that feeds on the grass. It
+one trophic level to the
+is only about 10% of the energy in grass that will turn to biomass
+next trophic level?
+(living organic mass) in the body of the cow. The rest (90% of the
+total energy) is lost as heat or used for different activities of the cow
+156
+Grade 10 Biology
+Unit 6: Ecological Interactions
+or removed from the cow's digestive system as an undigested and
+indigestible food item.
+30% is lost as energy for heat and
+to do work
+10% is assimilated
+as biomass
+60% not digested or egested
+as extract
+Figure 6.4 Energy transfer
+from grass (producer) to cow
+(herbivore)
+The flow of energy at each trophic level in a particular ecosystem can
+be shown using an ecological pyramid (Figure 6.5). It is constructed
+What is an ecological
+using horizontal bars, where each bar represents organisms of specific
+pyramid ? How is it
+trophic levels and their order, which is based on who eats whom.
+constructed ?
+The ecological pyramid primarily represents the flow of energy with
+the producers (first trophic level) at the very bottom, followed by
+the primary consumers (Herbivores), then secondary consumers
+(carnivores), and so on, with the highest trophic level being on the
+top of the pyramid.
+The ecological pyramid can also be constructed to represent the
+biomass or number of organisms at each trophic level. Accordingly,
+there are three types of ecological pyramids namely: the pyramid
+of energy, the pyramid of number and the pyramid of biomass. The
+pyramid of energy is always upright and narrowing sharply from the
+base to the top-level carnivore because there is commonly 90% energy
+loss at each trophic level (Figure 6. 5).
+Figure 6.5 An Idealized
+pyramid of energy.
+Tertiary Consumers
+10
+Heat energy in
+Secondary Consumers
+100 J
+atmosphere
+Primary Consumers
+1,000 J
+Producers
+10,000 J
+1,000,000 J sunlight
+Grade 10 Biology
+157
+Unit 6: Ecological Interactions
+transfer of energy for each link in the food chain. Notice that the
+Key terms
+producer - Grass, is capable of converting only 1% of solar energy by
+Biomass. is the weight of liv-
+photosynthesis.
+ing organic matter contained
+or assimilated to the body
+ACTIVITY 6.3 Think — Pair — Share
+of an organism per unit time
+Direction:
+Ecological pyramid. This
+is a graphical representation
+Discuss with a friend sitting next to you and answer the following
+of the feeding relationship
+questions
+of a group of organisms in
+the form of a pyramid. A
+Why is trophic level usually limited to 3 or 4? Why not more?
+horizontal bar is construct-
+ed to represent the different
+What is the trophic level of a human being? Explain
+trophic level or feeding lev-
+el. The bars at the base of
+the pyramid always repre-
+As opposed to pyramid of energy, pyramids of biomass or number can
+sent plants (producers). The
+be upright (with the long bar at the base and shorter bar at the apex)
+length of the bar shows the
+amount of energy (pyramid
+or inverted depending on the type of ecosystem and the particular
+of energy), biomass (pyra-
+food chain (Figure 6.6)
+mid of biomass) or number
+of organisms (pyramid of
+number) present at each tro-
+A
+B
+phic level.
+Tilapia
+(fish)
+Tilapia
+(fish)
+Daphnia
+(zooplankton)
+Daphnia
+Chlorella
+(zooplankton)
+(green algae)
+Chlorella
+(green algae)
+Figure 6.6 Illustration of the pyramid of number (A) and pyramid of
+biomass (B) in the aquatic food chain
+Self Test
+ACTIVITY 6.4 Homework
+What is the advantage of
+being vegetarian (feeding on
+Direction: Critically observe figure 6.6, and construct similar
+plants and plant products)?
+pyramid of number and pyramid of biomass based on the following
+food chain. Tree -bird-bird flea
+1. Compare your pyramid with Figure 6.6 and comment on the
+difference.
+2. What do you conclude about the pyramid of number and
+pyramid of biomass?
+158
+Grade 10 Biology
+Unit 6: Ecological Interactions
+6.2 Cycling of Materials in an Ecosystem
+Objectives
+At the end of this section, the student will be able to:
+draw and label the water, carbon, nitrogen, and
+phosphorous cycle,
+relate the carbon cycle with global warming,
+associate nitrogen with soil fertility and agriculture,
+appreciate the role of soil organisms in soil fertility and
+identify why crop rotation is important to farmers
+What is meant by cycling of materials in an ecosystem?
+An ecosystem refers to the complex of living organisms (biotic
+component), their physical and chemical environment (abiotic
+component), and all their interaction and interrelationship in a
+particular unit of space. As materials in an ecosystem are found in a
+Attention
+limited amount, it is essential that the same nutrients materials should
+continuously be reused, over and over again. The cycling occurs
+Decomposers are bacteria
+between the biotic (living) and the abiotic (non-living) components
+and fungi, commonly found
+in soil. They play key role
+of the ecosystem. The biotic component consists of plants, animals,
+in returning nutrient to the
+and microorganisms while the abiotic comprises the atmosphere (air),
+ecosystem.
+hydrosphere (Aquatic/water), and lithosphere (soil). Materials always
+Unlike ingesters, animals
+move around within an ecosystem when organisms feed, breathe,
+that swallow food (organic
+respire, and excrete. Nutrients are released when the waste product
+matter) and digest inside
+or dead bodies are decomposed. What is a waste product to one
+their gut, digestion in
+organism becomes a vital nutrient to another. For example, animal
+decomposers takes place
+excreta (a waste product) will be broken down by decomposers,
+outside the living body in
+release nitrogen and phosphorous (vital nutrients) which will be used
+the soil, or wherever the
+dead matter happens to be.
+for plant growth, thereby increasing agricultural yield. Note that the
+waste product, instead of polluting the environment, can be a rich
+Decomposers exhibit
+source of organic fertilizer.
+extracellular digestion by
+releasing enzymes on to the
+dead matter, digesting the
+What are the important materials that cycle through the
+complex organic matter into
+ecosystem?
+simpler and smaller ones
+and absorb these products
+of decomposition. Since
+ACTIVITY 6.5 Peer discussion
+the products released are
+accumulated in the external
+Direction: In pairs, discuss and answer the following questions
+environment (soil), they
+Why is the cycling of materials in an ecosystem so important?
+serve as "nutrient pool" and
+What will happen to organisms or life if decomposers are absent
+increase soil fertility as well
+from the ecosystem?
+as plant productivity.
+Grade 10 Biology
+159
+Unit 6: Ecological Interactions
+In addition to water, there are 4 elements (nutrients) that cycle
+through the ecosystem: oxygen, carbon, nitrogen, and phosphorous.
+These elements take the path from the non - living environment to
+living organisms, such as trees, and then back to the non - living
+environment. The paths that include biological, geological, and
+chemical processes form cycles, known as the bio-geochemical cycle.
+In this, subsection you will learn about the aforementioned major
+cycles in detail, discuss and share ideas in class.
+6.2.1 Water cycle
+What happens during the water cycle?
+Water on earth does not stay still. It is always on move. Rain that falls
+at a particular place can be the result of evaporation that occurred at
+a distant ocean days before. Likewise, water in a river may have been
+rainfall somewhere at a distance or melting ice or snow from the top
+of high mountains. It is the water cycle that is responsible for water
+movement in the ocean, on the land, and in the atmosphere.
+The earth has a limited amount of water. When examining the water
+on Earth, 97.5 percent of it is non-potable saltwater. Of the remaining
+water, 99 percent is locked underground as ground water or as icecap
+in the polar areas. Thus, less than 1 percent of freshwater is easily
+accessible from lakes and rivers. This water keeps going around
+and around in what we call the water cycle or the hydrologic cycle.
+Water continuously cycles between the oceans, atmosphere, land,
+and organisms, as illustrated in Figure 6.7. A change in temperature,
+heating, and cooling, is the main driving force in the water cycle,
+causing a change in the state of water as water vapour (gas), ice or
+snow (solid), and liquid water. Among the many processes involved in
+the water cycle, the most important are: evaporation, transpiration,
+condensation, precipitation, and runoff.
+The water cycle is sun driven process. It is solar heating that helps the
+cycle to start with evaporation. Evaporation of water from the earth
+and surface of the leaf by transpiration rises in the atmosphere in the
+form of water vapor. Then, the water vapor cools and condenses in
+the atmosphere into rain or snow, and falls again to the earth's surface
+as precipitation (Rainfall or snowfall). The water falling on earth
+through surface run off collects in rivers, lakes, soil, and soft rocks,
+where some water is taken up by plant roots and much of it flows into
+oceans and also infiltrate the soil and accumulated as ground water.
+The surface water by evaporation and evapotranspiration will restart
+the cycle.
+160
+Grade 10 Biology
+Unit 6: Ecological Interactions
+Water accumulated in the ground can come to the surface as a
+spring or stream. Groundwater can also be pumped out for different
+purposes such as drinking and irrigation and join the water cycle by
+surface evaporation.
+PRECIPITATION
+VAPOR TRANSPORT
+PRECIPITATION
+EVAPORATION
+EVAPORATION
+RUNOFF
+PERCOLATION
+GROUNDWATER
+Figure 6.7 Water cycle
+Activity 6.6. Group Work
+Title: How does the water cycle work?
+Materials Needed: Large glass beaker (100ml), Smaller glass beaker (50ml), Water, Plastic cover, string
+or Large rubber-band
+Procedure:
+Place the small glass beaker at the centre of the larger glass beaker.
+Fill the large glass beaker with water about 2/3rd of the way up the small beaker (do not put water
+inside the small beaker).
+Cover the large glass beaker with a plastic cover and either tie it with string or put a large rubber
+band around it to secure the plastic cover.
+Place the set up outside in a sunny area for a few hours.
+After a few hours observe what happens to the plastic cover and look if there is water inside the small
+beaker.
+Key questions:
+1. What did you observe on the plastic cover?
+2. What is the process that enabled water particles to move up towards the plastic cover?
+3. What process is demonstrated when the water drops are getting too heavy and falling back to small
+glass beaker?
+4. Why do we say the water cycle is sun-driven process?
+Grade 10 Biology
+161
+Unit 6: Ecological Interactions
+6.2.2 Carbon cycle
+The air around us is composed of many different gases including
+What happens during
+oxygen, carbon dioxide, nitrogen and inert gases. Oxygen and
+carbon cycle?
+carbon dioxide, in particular are important for the survival of living
+organisms. The amount of these gases is maintained in the atmosphere
+by photosynthesis and cellular respiration.
+As depicted in Figure 6.8, the amount of carbon in the atmosphere is
+maintained by process that continuously takes it from the atmosphere
+and various processes that release it back to the atmosphere. When
+green plants undergo the process of photosynthesis to make their food
+they absorb carbon dioxide from the air. The carbon element stored
+in the plant is transferred to animals that eat the plant. When plants
+and animals die their dead bodies are decomposed and release carbon
+dioxide back to the air due to the action of bacteria and fungi in the
+soil. In addition all living organisms including plants and animals
+release carbon dioxide through respiration in their entire life time.
+Over a period of long time dead bodies of organisms become fossil
+fuel which can be used by factories, power stations and vehicles. The
+combustion or burning of fossil fuel also releases carbon dioxide into
+the air.
+Carbon dioxide CO2
+Atmosphere
+Photosynthesis
+Combustion
+Respiration
+Respiration
+LLL
+Plants
+Animals
+Respiration
+Factories
+power stations
+vehicle emissions
+Decay
+decomposers
+Figure 6.8. The carbon cycle
+How do you link
+Though CO2 is a natural part of Earth's atmosphere, humans produce
+carbondioxide to climate
+more of it every year, and that's changing our climate. Its atmospheric
+change?
+concentrations has significantly increased since the Industrial
+Revolution (late 18th century). Burning of the fossil fuels (coal, oil,
+162
+Grade 10 Biology
+Unit 6: Ecological Interactions
+natural gas) and wood for energy are the major sources. Atmospheric
+CO2 acts like a heat-trapping blanket, absorbing the heat and holding
+it in, causing global warming. Global warming is a rise in the overall
+temperature of the earth's surface. There are also other heat-trapping
+gases (Greenhouse gases) in the atmosphere (methane and nitrous
+oxide), but CO2 is the most important one. Thus, adition of excessive
+CO2 in to the atmosphere due to human activity is the root cause of
+climate change.
+Attention
+Photosynthesis and cellular respiration are the major processes that
+maintain the balance of oxygen and carbon dioxide in the atmosphere.
+If sunlight and chlorophyll are left out, the reactant for photosynthesis
+is the product of respiration and vice versa as shown below.
+Photosynthesis
+CO₂ + H₂O
+C₆H₁₂ O₆ + O2
+(Food)
+Respiration
+While photosynthesis occurs in the chloroplast of the leaf cell,
+aerobic cellular respiration takes place in the mitochondrion of a cell
+of aerobic organisms.
+ACTIVITY 6.7 Group Discussion
+Direction
+In a group of four students (two pairs of neighbouring students) discuss and attempt the question
+below.
+How do illegal logging (cutting trees)
+Ways to reduce the interference to the
+and forest burning interferes in the
+carbon and oxygen cycles
+carbon-oxygen cycle? How can this
+be related to climate change such as
+Making tougher laws
+Plant more trees
+global warming?
+onmental
+Law
+In small group , carefully look at the
+summary chart below Discuss the
+ways suggested to human interference
+Ban illegal logging
+Stop burning fields
+with the carbon - oxygen cycle. Select
+and forests
+at least two ways mentioned in the
+chart , elaborate and write a short
+group report to present in class.
+Avoid excessive use
+Prevent excessive release
+of pesticides
+of smoke from vehicles
+Grade 10 Biology
+163
+Unit 6: Ecological Interactions
+6.2.3 Nitrogen cycle
+What is nitrogen cycle?
+You have learned that proteins are made up of the elements C, H, O,
+N and S. You also know that the immediate result of photosynthesis
+is carbohydrate (glucose), which consists of C, H, and O which is
+transformed to protein upon the addition of nitrogen. Nitrogen is
+available to the plant from the soil through the nitrogen cycle.
+Nitrogen In the Atmosphere (N2)
+DENITRIFICATION
+NITROGEN
+FIXATION
+Animals
+Plants
+Denitrifying
+Bacteria
+ASSIMILATION
+NITROGEN
+FIXATION
+Bacteria in
+Roots
+Nitrogen-containinig
+Nitrates
+organic compounds
+(NO3-)
+Decomposers
+Nitrifying
+Bacteria
+AMMONIFICATION
+NITRIFICATION
+Soil Bacteria
+Ammonia(NH3)/
+Nitraites (NO2-)
+Ammonium(NH4+)
+Figure 6.9. The Nitrogen cycle
+As shown in Figure 6.9 the nitrogen cycle is a repeating pathway of
+processes during which nitrogen in different forms moves through both
+biotic ( plants, animals, bacteria and fungi) and abiotic ( atmosphere,
+soil, water ) components of the ecosystem. The major processes
+involved in cycling nitrogen are: nitrogen fixation, ammonification,
+nitrification, assimilation and denitrification. A brief description of
+these processes is given hereafter
+1. Nitrogen fixation
+Nitrogen accounts for about 78% of the atmosphere. Most living or-
+ganisms are unable to incorporate atmospheric nitrogen, N₂, into
+their systems. To be usable, the N₂ should be fixed into usable forms
+such as ammonia or nitrate. Nitrogen fixation is the conversion of N₂
+into ammonia either biologically (mediated by bacteria) or non-bio-
+logically (atmospheric fixation by lightning and industrial fixation in
+the laboratory). In this lesson, we will focus on the biological fixation
+of nitrogen.
+Based on the group of bacteria involved, the biological N₂ fixation
+may be categorized into two:
+i) Symbiotic nitrogen fixation and
+ii) Non - symbiotic fixation
+164
+Grade 10 Biology
+Unit 6: Ecological Interactions
+i. Symbiotic Nitrogen Fixation
+This form of biological nitrogen fixation is carried out in the root
+nodules of leguminous plants (such as peas, beans, and peanuts) by the
+group of soil bacteria known as rhizobia. Rhizobia form a symbiotic
+association with leguminous plants and form the root nodules where
+N₂ is reduced into ammonia (Figure 6.10). The nitrogen fixation
+reaction (conversion of N2) is catalyzed by an enzyme known as
+nitrogenase.
+How are rhizobia linked
+The ammonium ions produced by this process are passed to the
+to global climate?
+legume plant (assimilated) and used to synthesize amino acids-
+building units of protein.
+N₂ + 8e + 8H + 16ATP
+2NH₃+H₂+16ADP+16Pi
+Figure 6.10. Root nodules of legume plant
+It is well known that concentrations of carbon dioxide and other
+greenhouse gases in the atmosphere have increased since the
+beginning of the industrial era due to human activities. Among these
+gases is nitrous oxide (N₂O), an intermediate product of microbial
+denitrification in the nitrogen cycle. The emission of N₂O is one risk
+to global climate change because of its global warming potential (over
+300 times than carbon dioxide) and long atmospheric residence time.
+Excessive use of synthetic N fertilizer in the agricultural system is the
+major source of N₂O emissions. Biological N₂ fixation by rhizobia
+could be an alternative source of fixed N to synthetic N fertilizer to
+improve or sustain agricultural productivity and at the same time
+mitigate emission of N2O to the atmosphere.
+ii. Non - symbiotic nitrogen fixation
+This form of biological nitrogen fixation is carried out by free living
+soil bacteria (belonging to the genera Azotobacter and Klebsiella).
+These bacteria reduce nitrogen gas into ammonium ions, which can
+Grade 10 Biology
+165
+Unit 6: Ecological Interactions
+either be used by plants or oxidized immediately into nitrates by ni-
+trifying bacteria.
+2. Nitrification
+This is a microbial process by which ammonia is sequentially oxi-
+dized - converted first to nitrite and then to nitrate.
+In the first step of nitrification, ammonia-oxidizing bacteria (belong-
+ing mainly to the genus Nitrosomonas) oxidize ammonia to nitrite
+according to the following equation:
+NH₃ +02
+NO₂ + 3H+ + 2 e⁻
+In the second step of nitrification, nitrite-oxidizing bacteria (mainly
+belonging to the genus Nitrobacter) oxidize nitrite to nitrate accord-
+ing to the following equation
+NO₂ +02
+NO₃ + 2H+ + 2 e⁻
+3. Assimilation of ammonium and nitrate by plant
+Plants commonly absorb nitrogen in inorganic forms either as nitrate
+(NO₃) or as ammonium (NH₄⁺). Plants preferentially take up the re-
+duced ammonium (NH₄⁺) rather than the oxidized nitrate (NO₃), be-
+cause the energy expenditure for the NH₄⁺ assimilation is much lower
+than for NO₃:
+The mechanism of absorption of ionic forms of nitrogen is essentially
+similar to the mechanism involved in the uptake of other ions. Like
+other nutrients, they can be absorbed by the root actively or passively,
+reach the root xylem and then transported to the stem and leaves of
+the plant. Both ammonium and nitrate assimilated by plants are used
+in the synthesis of several amino acids which in turn are polymerized
+into different proteins.
+4. Ammonification
+This is an essential step that converts reduced organic matter having
+amine group (of general formula R - NH₂) present in the soil to re-
+duced inorganic nitrogen (NH₄⁺) through the action of microorgan-
+isms. Ammonification is the last step of the nitrogen cycle involving
+an organic compound and is an intermediary step between depolym-
+erization of large organic molecules and the nitrification process as
+presented hereunder.
+Dead organic matter
+Depolymerization
+Ammonification
+Nitrification
+(Protein, Chitin,
+Amino acid, Urea,
+Ammonium
+Nitrate
+Peptidoglycan,
+Amino sugar and
+(NH₄⁺)
+(NO₃⁻)
+and Nucleic acid)
+Nucleotide
+166
+Grade 10 Biology
+Unit 6: Ecological Interactions
+5. Denitrification
+The flow of atmospheric nitrogen (N₂) and its various forms through
+soil, microorganism, plants and animals should involve a process of
+returning nitrogen (N₂) to the atmosphere to maintain balance. This
+process, called denitrification, converts nitrate to nitrogen gas (N₂),
+thus removing bioavailable nitrogen and returning it to the atmosphere.
+Unlike nitrification, denitrification is an anaerobic process, occurring
+mostly in waterlogged soils that are anoxic (without oxygen), layers of
+sediments in lakes and oceans.
+NO3
+NO2
+NO + N2O
+N₂
+It is important to know that the biological processes of the nitrogen
+cycle is largely mediated by different microorganisms, mainly
+bacteria. This is summarized in the following table.
+Biological process
+Microorganisms involved
+1. Nitrogen Fixation
+Nitrogen fixing bacteria living in legume
+root nodule ( Rhizobium)
+Nitrogen fixing bacteria living in soil
+(Azotobacter and Klebsella)
+2. .Nitrification
+Nitrifying bacteria ( Nirtrosomonas, Ni-
+trobacter)
+3.Ammonification
+Ammonifying bacteria ( Aerobic and an-
+aerobic bacteria, fungi)
+4. .Denitrification
+Denitrifying bacteria ( Pseudomonas,
+Thiobacillus, Micrococcus)
+Self Test
+THE NITROGEN CYCLE
+After studying the brief description of major
+steps in the nitrogen cycle as illustrated with
+in which
+Figure 6.9, complete the following mental map
+and label the processes represented by letters
+NITROGEN
+IN THE
+(A to E).
+ATMOSPHERE
+goes through
+D
+A
+to be
+converted into
+B
+produce
+Ammonium
+to
+ions
+goes back to the atmosphere through
+protein
+the
+caled
+C
+in
+Plants
+remains its organicrgo
+goes through
+E
+to
+Aa Pagrosqe
+Nitrates
+and is is converted
+Grade 10 Biology
+167
+Unit 6: Ecological Interactions
+Nitrogen is the most important component in an organism in the
+Why is cycling nitrogen
+form of DNA, RNA and proteins. You know that DNA contains a
+important?
+unique genetic code to guide all activities in living organisms. Like a
+recipe book, it holds the instruction for making all the proteins, both
+structural and functional, in our bodies.
+Key terms
+DNA (deoxyribonucleic acid) is an organic compound of complex
+structure that is found in all prokaryotic and eukaryotic cells. DNA
+codes genetic information for the transmission of inherited traits.
+DNA is key to life because it determines how a cell replicates and
+performs its various activities.
+A DNA molecule is composed of a long chain of monomers,
+the nucleotides. Each nucleotide consists of a five carbon sugar
+(deoxyribose) to which is attached a phosphate group and a
+nitrogenous base ( contains nitrogen)
+Functional proteins perform different functions that play key role
+to life. These key roles can be : catalytic (E.g. enzymes), Storage (
+E.g. albumin in egg, casein in milk) transport ( E.g. haemoglobin
+transport oxygen), protective ( E.g. antibodies, blood clotting factors
+etc.
+ACTIVITY 6.8 Think-Pair-
+Structural protein, unlike functional proteins, are involved in
+Share
+producing structures such as bones and muscles as well as cell
+Direction: With a friend
+membrane and skin that covers the cell and the external body
+sitting next to you
+respectively.
+anticipate and point out
+what will happen to life
+How do you relate nitrogen cycle, soil bacteria and soil
+or living things if there
+fertility?
+was no nitrogen in the
+atmosphere; and
+You already know that atmospheric nitrogen (N₂) cannot be directly
+discuss the importance
+used by both plants and animals. Plants use nitrogen in the inorganic
+of soil bacteria in cycling
+form as ammonium and nitrate and convert it to organic forms such
+nitrogen and comment
+as amino acids and proteins. It is, thereafter, animals that feed on
+on the misconception that
+plants get the organic form and transform, use and store the organic
+bacteria are commonly
+taken as harmful and
+form of nitrogen in their body. Here, the different soil bacteria, like
+dangerous to human
+the nitrogen bacteria and nitrifying bacteria are absolutely essential
+beings.
+to providing plants with ammonium and nitrate. Moreover, the
+ammonifying bacteria, decomposing dead organic matter, liberate
+ammonium. Thus, soil bacteria that plays a key role in cycling
+nitrogen increase soil fertility, which in turn results in increased plant
+growth and agricultural productivity. For instance, the nitrogen-
+fixing bacteria can be used as biofertilizers due to their big capacity
+for fixing a huge amount of nitrogen increasing soil fertility without
+causing any harmful effect on aerial and soil environment. They help
+improve soil structure and serve as a continuous source of natural
+fertilizer without being leached easily.
+168
+Grade 10 Biology
+Unit 6: Ecological Interactions
+Earthworms are soil organisms that are visible to the naked eye
+(Figure 6.11). They are one of the major decomposers of organic
+matter. The mutual action of earthworms and microbes brings faster
+decomposition of organic matter, and enhance cycling of nutrients
+thereby facilitating plant growth and crop productivity. Having an
+abundance of earthworm is a good indicator of fertile soil and ensure
+higher agricultural yield As a result, earthworms are nicknamed as
+"Friends of farmers".
+When earthworms move through the soil, they form tubular channel
+or burrows. These burrows improves soil structure, particularly soil
+What is the role of larger
+soil organisms such as
+porosity which increases the amount of air and water holding capacity.
+earthworms ?
+From your lesson on seed germination, you have learned that air and
+water are essential for seed to break dormancy (resting stage) and
+start growth and development of seedling.
+Key terms
+Bio-fertilizers are microbial preparations containing living cells of
+different microorganisms which have the ability to mobilize essen-
+tial plant nutrients such as nitrogen and phosphorus in soil from
+unusable to usable form through biological processes.
+Bio-fertilizers, being cost effective, non-toxic, and eco-friendly,
+serve as good substitute for expensive and harmful chemical fertil-
+izers. They increase crop yield, ensure food security and sustainable
+agriculture.
+Vermicompost or worm compost is organic fertilizer obtained by
+using worms. These are commonly earthworms that decompose
+food scraps, dungs, other wastes and dead organic matter and fa-
+cilitate nutrient recycling.
+Farmers that use organic fertilizers (Organic farmers) usually grow
+legumes such as peas and beans for dual purpose. First, they harvest
+the legumes as a crop as these plants are freely supplied with nitro-
+gen fertilizer due to the nitrogen fixing bacteria in their root nod-
+ules. After harvesting yield, the organic farmers grow a non-legume
+crops to take an advantage of all nitrogen fixed and accumulated in
+the soil and root of the legumes: none is lost in a crop.
+Grade 10 Biology
+169
+Unit 6: Ecological Interactions
+6.2.4. Phosphorus cycle
+ACTIVITY 6.9 Homework
+Direction
+How is phosphorus recycled?
+Collect information from
+books about crop rotation.
+Phosphorus, like nitrogen, is needed by organisms to build proteins.
+Then, prepare brief note
+Moreover, it is an essential component of the nucleotides of DNA,
+and show why farmers use
+which is key for life. Phosphorous is also needed in the synthesis of
+crop rotation and how they
+ATP, known as the energy currency of a cell. Phosphorus is usually
+practice it.
+present in the form of phosphate ions in soil and rock.
+As illustrated in Figure 6.12 cycling of phosphorus can be summarized
+as follows
+phosphate ions present in soil or water are taken up by plants and
+aquatic algae are converted to organic phosphate
+organic phosphate synthesized by the producers is passed along
+food chains to various consumers or feeders.
+dead bodies of plants and animals are decomposed by bacteria and
+fungi and phosphate ions are released from different compounds
+like phospholipids, ATP, DNA and returned to the soil and water
+bodies. Phosphate is also excreted from animals and aquatic
+organisms.
+phosphate will enter the soil in the form of fertilizers obtained
+by mining phosphate rocks and applying them in agricultural
+lands to boost crop yield. Phosphate fertilizer from farmlands can
+be leached by rainfall, reach the nearby water bodies and cause
+eutrophication.
+Figure 6.12. Phosphorus cycle
+Cellular respiration
+phosphate excreted
+Feeding
+Phospherous taken
+Fertilizer
+as phosphate ions by
+Fish
+plants and fixed as
+organic phosphate in
+plant body
+Agriculture
+Mining phosphate
+Algae
+rock
+Leaching
+Sedimentation
+Phosphate in soil
+Phosphate dissolved in
+Millions of years
+(Formation of
+water
+phosphate rock)
+170
+Grade 10 Biology
+Unit 6: Ecological Interactions
+ACTIVITY 6.10 Group work
+Direction
+Discuss in a small group and prepare a short report on the danger of
+agrochemicals (fertilizers and pesticides) released from farmlands
+to the nearby water body, such as lakes or reservoirs.
+Key terms
+ATP, abbreviation for Adenosine, is the immediate source of energy
+(instantly liberates energy) needed for various activities of a cell.
+Energy released during cellular respiration is harvested and stored as
+ATP.
+Eutrophication is undesirable excessive growth of aquatic plants
+(hydrophytes or macrophysics) and massive growth of algae (algal
+bloom). It is induced by leaching of fertilizers (rich in nitrogen and
+phosphorus from nearby farmlands or water loaded.
+Biofertilizers, being cost effective, non toxic , and eco - friendly
+, serve as good substitute for expensive and harmful chemical
+fertilizers. They increase crop yield , ensure food security and
+sustainable agriculture.
+Unit Summary
+The Earth obtains energy which is trapped by plants for
+photosynthesis and transferred to animals that feed on them.
+A food chain is a unidirectional energy flow from the sun to
+producer and then to a series of consumers.
+Food web is interconnected food chains that make interwoven
+or web-like structures where energy flows in different directions
+(multidirectional) from producers to different consumers.
+The order of receiving solar energy is known as trophic level
+in that plants (producers) are at the First trophic level and
+animals that feed on plants will be at the Second trophic level
+or First feeding level and so on.
+The flow of energy at each trophic level in a particular
+ecosystem can be shown using an ecological pyramid.
+The ecological pyramid can be a pyramid of energy, number
+and biomass.
+As energy is successively decreasing as it is transferred from one
+level to another level the pyramid of energy is always upright.
+As a result, the number of trophic where energy transferred is
+sufficient to sustain life will be limited from 4 to 5.
+Grade 10 Biology
+171
+Unit 6: Ecological Interactions
+Ecological pyramid of number and biomass, depending on the particular ecosystem and
+food chain, pyramid of number and biomass can be upright or inverted.
+Materials in an ecosystem are found in a limited amount and the same nutrients are
+continuously re-used, over and over again. This is what we call the cycle of materials.
+The most important cycle of materials in an ecosystem include: water, carbon -oxygen
+cycle, nitrogen and phosphorus cycles.
+Water (hydrologic) cycle is a change in the state of water as water vapour (gas), ice or snow
+(solid) and liquid water is driven by solar heating and mainly due to change in temperature.
+Among the many processes involved in the water cycle, the most important are: evaporation,
+transpiration, condensation, precipitation and runoff.
+The carbon cycle maintains the amount of carbon in the atmosphere by process (es) that
+continuously take it from the atmosphere and release it back to the atmosphere.
+In cycling carbon, atmospheric carbon dioxide is continuously taken by plants as raw material
+for photosynthesis and the uptake is balanced by respiration, decomposition and combustion,
+all of which release carbon dioxide back to the atmosphere.
+As opposed to the carbon cycle, in the oxygen cycle, where oxygen is continuously taken
+from the atmosphere by processes like respiration, decomposition, combustion and rusting is
+balanced by photosynthesis which releases it back to the air
+The nitrogen cycle is a repeating pathway of processes during which nitrogen in different
+forms moves through both biotic (plants, animals, bacteria and fungi) and abiotic (atmosphere,
+soil, water) components of the ecosystem.
+The major processes involved in cycling nitrogen are nitrogen fixation, ammonification,
+nitrification, assimilation, denitrification.
+The phosphorus cycle is mainly the transfer of phosphate ions from the soil, water and rock
+to plants and aquatic algae, first converted to organic phosphate in the producers and transferred
+to consumers through the food chain. Phosphate ions are released from consumers through their
+excreta and as their dead bodies are decomposed by soil bacteria and fungi.
+172
+Grade 10 Biology
+Unit 6: Ecological Interactions
+Review Questions
+I. True - False items: Say "True" or "False" for the following statements on your exercise
+book.
+1. There is more energy at the third trophic level than at the second trophic level.
+2. Ammonium is more preferred by plants than nitrate
+3. Plants can release as well as take carbon to and from the atmosphere
+4. Denitrifying bacteria are aerobic
+5. It is food web, not food chain that actually exists in ecosystem
+II. Multiple-choice items: Choose the correct answer from A - D and write on you exercise
+book.
+1. In the food chain: Grass - rat - snake - Eagle, the position of Snake is at
+feeding
+level and
+trophic level
+A) 3, 2
+B) 3, 4
+C) 4, 3
+D) 2, 3
+2. If the producers in the ecological pyramid have a total of 70, 000 Kcal of energy, which of the
+following will be true
+A) The secondary consumers would have a total of 7 Kcal energy
+B) The primary consumers would have a total of 7000 Kcal energy
+C) The secondary consumers would have a total of 70 Kcal energy
+D) The tertiary consumers would have a total of 700 Kcal energy
+3. The biomass of an ecosystem is
+A) The total energy of living and non - living organisms in an ecosystem
+B) The total mass of living organisms in an ecosystem
+C) The total energy of living organisms in an ecosystem
+D) The total mass of living and non - living matter in an ecosystem
+4. In nitrogen fixation, nitrogen combines with
+A) Carbon B) Hydrogen C) Oxygen D) Water
+5. What is the correct term for rising water vapour meeting colder air and turning back in to
+water droplets?
+A) Condensation B) Dehydration C) Evaporation D) Precipitation
+Grade 10 Biology
+173
+Unit 6: Ecological Interactions
+III. Match the description under "Column A" with the terms under "Column B".
+Column A
+Column B
+1. Is the process by which the protein in the waste matter, dead
+A) Ammonification
+plants or animals is converted to ammonia
+2. Carbon dioxide is the by-product of this biological process
+B) Condensation
+3. The position of an organism in an order of receiving solar energy
+C) Denitrification
+4. This process converts atmospheric nitrogen into usable form.
+D) Evaporation
+5. The position of an organism in an order of who eats whom
+E) Feeding level
+6. This contributes to the return of vapor to the atmosphere
+F) Nitrogen fixation
+G) Photosynthesis
+H) Respiration
+I) Trophic level
+IV. Short Answer Items
+1. Why is it unusual for a large number of organisms to be present at the top of an ecological
+pyramid?
+2. How do plants get nitrogen?
+3. List down the advantages of organic fertilizers such as dead bodies and waste products of
+animals as compared to chemical fertilizers.
+4. What is the difference between forest clearing (cutting trees) and forest burning in terms of:
+a) carbon dioxide concentration in the atmosphere
+b) effect on global warming
+174
+Grade 10 Biology

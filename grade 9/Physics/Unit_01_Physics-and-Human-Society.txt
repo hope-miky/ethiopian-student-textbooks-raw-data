@@ -1,0 +1,318 @@
+Unit 1
+Physics and Human Society
+Introduction
+You learnt about general science in lower grades. General science includes sub-
+Brainstorming
+jects like Biology, Chemistry and Physics. Therefore, in this grade level and in
+Questions
+higher grades, you will learn about each of the three subjects and explore their
+Explain science
+beauty. In this unit you will learn about physics and the human society. In par-
+and its broad cate-
+ticular, you will learn about definition of physics, different branches of physics,
+gories.
+relationship between physics and other fields of study, contributions of promi-
+What are the
+nent scientists in advancing physics, and the way physics knowledge was evolving
+main branches of
+and changing in history.
+natural science?
+At the end of this unit, you should be able to:
+define physics in different ways;
+describe the different branches of physics;
+describe the relationships between physics and other fields of study;
+discuss the contributions of prominent scientists in advancing physics at
+different periods of time;
+describe how aspects of physics are used in other sciences (e.g. biology,
+chemistry, engineering, etc.) as well as in everyday technology; and
+discuss how physics knowledge was evolving and changing in history.
+2
+Unit 1 Physics and Human Society
+1.1 Definition and Nature of Physics
+Exercise 1.1
+10 In your own
+At the end of this section, you should be able to:
+words, define what
+define physics in different ways.
+physics is.
+Name other tech-
+Have you ever thought about some modern technological devices such as
+nological products
+computers, smart phones, tablets etc? Also think about the fact that our histor-
+in your locality that
+ical heritages such as Harar Jugol, Fasciledes Castle, the Obelisk of Axum and
+rely on the principle
+rock-hewn churches of Lalibela buildings have kept their balance and survived
+of physics.
+for hundreds of years. The working principles of all these rely on physics.
+The word physics is thought to have come from the Greek word phusis, mean-
+ing nature. Hence, physics is a branch of natural science aimed at describing the
+fundamental aspects of our universe. These include what things are in it, what
+properties of those things are noticeable, and what processes those things or
+their properties undergo. In simpler terms, physics attempts to describe the basic
+mechanisms that make our universe behave the way it does. For example,
+Activity 1.1
+Physics enables you to understand the working principles of cars, airplanes,
+it By discussing in
+space-rockets, refrigerators, radios, televisions,e as well as many of your
+groups, mention im-
+daily utensils and tools.
+portance of physics
+other than those
+Physics explains physical phenomena such as the difficulty of walking on a
+mentioned above.
+smooth plane, and why an electric fan rotates etc.
+What other physi-
+cal phenomena may
+Physics helps you discover some of the unknown parts of nature and makes
+you understand in
+you familiar with the modern world.
+your locality using
+physics?
+Physics helps you to understand some concepts in other subjects like:
+IF What is a physi-
+Biology, Chemistry, Geology, Astronomy, etc.
+cist?
+Studying physics helps you understand concepts, relationships, principles
+and laws of nature. A person who studies physics is called a physicist. In addi-
+tion to understanding the concepts, relationships, principles and laws of nature,
+studying physics has various career opportunities. Some of te fields in which
+physics is applicable include:
+The field of transportation
+The field of aviation and space science
+1.2 Branches of Physics
+3
+The field of medicine
+The field of forensic and military science
+the field of meteorology and metrology etc
+Key Concept:
+so
+1.2 Branches of Physics
+Physics is a
+branch of natu-
+ral science that
+At the end of this section, you should be able to:
+attempts to describe
+describe the different branches of physics.
+the basic mecha-
+nisms that make our
+As our technology evolved over the centuries, physics has expanded into
+universe behave the
+many branches. Some of the branches of physics are summarized in Table 1.1.
+way it does.
+Exercise 1.2
+List as many physical phenomena in your surroundings as you can.
+Describe in which branch of physics each physical phenomenon can be
+categorized.
+Key Concept:
+Activity 1.2
+The branches of physics include: Mechanics, Acoustics, Optics, Ther-
+Discuss in groups
+modynamics, Electromagnetism, Nuclear Physics, etc.
+and list some other
+fields or areas of sci-
+ence where physics
+is applicable.
+1.3 Related Fields to Physics
+At the end of the lesson, you should be able to:
+Key Concept:
+identify different general fields of physics and their applications in life;
+Physics is the
+discuss the relationships between physics and other sciences and fields
+foundation of many
+like transport, traffic, quality control and standards, etc.
+important scientific
+disciplines including,
+Physics is the foundation of many important scientific disciplines. Some of
+Chemistry, Engi-
+neering, Geology,
+them are discussed below.
+Biophysics, Geo-
+Chemistry: Chemistry deals with the interactions of atoms and molecules.
+physics, Medical
+Physics etc.
+However, it is rooted in atomic and molecular physics.
+4
+Unit 1 Physics and Human Society
+Table 1.1 Some branches of physics and their descriptions
+Branch
+Description
+Mechanics
+Mechanics is the branch of physics which deals with the
+motion of an object without or with the reference of force.
+Mechanics can be further divided into two branches namely
+quantum mechanics and classical mechanics. Quantum
+mechanics deals with the behavior of smallest particles like
+neutrons, protons, and electrons, while classical mechanics
+is the branch that deals with laws of motion of forces and
+physical objects.
+Acoustics
+Acoustics is the branch of physics which deals with the study
+of sound and its transmission, production, and effects.
+Optics
+Optics is the branch of physics which deals with the behav-
+ior, propagation, and properties of light.
+Thermodynamics
+Thermodynamics is the branch of physics which studies
+thermal energy and the transfer of heat.
+Electromagnetism
+Electromagnetism is the branch of physics which deals with
+the study of electromagnetic force like electric fields, light,
+magnetic fields, etc. There are two aspects of electromag-
+netism which are "electricity" and "magnetism"
+Nuclear physics
+Nuclear physics is the branch of physics which deals with
+the structure, properties and reactions of the nuclei of
+atoms.
+Astrophysics
+Astrophysics is a science that employs the methods and
+principles of physics in the study of astronomical objects
+and phenomena.
+Engineering: Most branches of engineering also apply physics. For exam-
+ple, in architecture, physics is at the heart of determining structural stability,
+acoustics, heating, lighting, and cooling for buildings.
+Geology: Parts of geology, the study of nonliving parts of Earth, rely heavily
+on physics; including radioactive dating, earthquake analysis, and heat
+transfer across Earth's surface.
+Biophysics: Biophysics applies principles and methods used in physics to
+study biological phenomena. Physics uses mathematical laws to explain the
+1.4 Historical Issues and Contributors
+5
+natural world, and it can be applied to biological organisms and systems to
+gain insight into their workings.
+Geophysics: Geophysics applies the principles and methods of physics to
+the study of the Earth
+Medical Physics: Diagnostics and medical therapy, such as x-rays, mag-
+netic resonance imaging (MRI), and ultrasonic blood flow measurements
+involves principles of physics.
+1.4 Historical Issues and Contributors
+At the end of the lesson, you should be able to:
+recognize at least three issues and four prominent physicists with signifi-
+cant contributions to the development of physics;
+collect and use pictures and texts from a library and the internet to present
+prominent figures in the history of physics.
+Over the last few centuries, the growth of scientific knowledge has resulted
+in ever-increasing specialization and branching of physics into separate fields.
+Physics, as it developed from the renaissance to the end of the 19th century, is
+called classical physics. Revolutionary discoveries starting at the beginning of
+the 20ᵗʰ century transformed physics from classical physics to modern physics.
+Many laws of classical physics have been modified during the 20ᵗʰ century, re-
+sulting in dramatic changes in technology, society, and our view of the universe.
+Discoveries of physics find applications throughout the natural sciences and in
+technology. Some of the physics discoveries that changed the world are discussed
+below.
+Isaac Newton contributions laid the foundations for classical physics/clas-
+sical mechanics. He contributed to the Scientific Revolution of the 16th and
+17th century by formulating three laws of motion, known as NewtonâAZs
+laws of motion and showed how the principle of universal gravitation could
+be used to explain the behavior not only of falling bodies on the earth but
+also planets and other celestial bodies in the heavens.
+6
+Unit 1 Physics and Human Society
+Michael Faraday contributed a lot to the field of electromagnetism. In 1821
+he succeeded in producing mechanical motion by means of a permanent
+magnet and an electric current. Ten years later he converted magnetic force
+into electrical force, thus inventing the world's first electric generator. In
+general Michael Faraday changed the world with magnet.
+James Prescott Joule studied the nature of heat, and discovered its rela-
+tionship to mechanical work. This led to the law of conservation of energy.
+Joule's work helped lay the foundation for the first of three laws of thermo-
+dynamics that describe how energy in our universe is transferred from one
+object to another or transformed from one form to another.
+Marie Curie conducted pioneering research in the field of nuclear physics,
+particularly on radioactivity. She is considered as the mother of modern
+nuclear physics. She discovered elements polonium and radium.
+Albert Einstein is known for developing theory of relativity. This revolution-
+ary theory had a profound impact on classical mechanics and the under-
+lying philosophy of physics. He is widely acknowledged to be one of the
+greatest physicists of all time. Einstein also made important contributions
+to the development of the theory of quantum mechanics.
+Exercise 1.3
+It Mention some other well-known historical contributors in physics and
+describe their roles.
+Key Concept:
+JF Revolutionary discoveries starting at the beginning of the 20th century
+transformed physics from classical physics to modern physics. Many laws
+of classical physics have been modified during the 20ᵗʰ century, resulting
+in dramatic changes in technology, society, and our view of the universe
+1.4 Historical Issues and Contributors
+7
+Unit Summary
+The following are the main points you learnt in this unit.
+Science is a systematized knowledge arising from observation, study
+and experimentation.
+Physics is the branch of natural science which describes the basic
+mechanisms that make our universe behave the way it does.
+Physics is the study of everyday phenomena.
+A person who studies physics is called a physicist.
+Physics has several branches such as mechanics, acoustics, optics,
+thermodynamics, electromagnetism, nuclear physics, astrophysics
+etc.
+Physics is the foundation of many important scientific disciplines
+such as chemistry, engineering, geology, biophysics, geophysics,
+medical physics, etc.
+There are several well-known scientists and engineers that have
+contributed a lot for the advancement of physics.
+End of Unit Questions
+1. The Greek word 'phusis' for nature is appropriate in describing the
+field of physics. Which one of the following is the best answer for
+this?
+(a) Physics is a natural science that studies life and living organ-
+isms on habitable planets like Earth.
+(b) Physics is a natural science that studies the laws and principles
+of our universe.
+(c) Physics is a physical science that studies the composition,
+structure, and changes of matter in our universe.
+(d) Physics is a social science that studies the social behavior of
+living beings on habitable planets like Earth.
+2. A moving car suddenly comes to a rest after applying brakes. Which
+8
+Unit 1 Physics and Human Society
+branch of physics do you think is appropriate to explain this phe-
+nomenon?
+(a) Mechanics
+(b) Acoustics
+(c) Electromagnetism
+(d) Nuclear physics
+(e) None of the above
+3. Which of the following is not one of the branches of physics?
+(a) Thermodynamics
+(b) Optics
+(c) Classical physics
+(d) Evolution
+4. Which of the following is not a historical contributor in physics?
+(a) Willebrod Snell
+(b) Daniel Bernoulli
+(c) Thomas Young
+(d) Charles Darwin
+5. Which of the following institution/project does not apply the princi-
+ple of physics?
+(a) Ethiopian Aviation Industry
+(b) Grand Ethiopian Renaissance Dam (GERD)
+(c) Quality and Standard Authority of Ethiopia
+(d) Ethiopian Radiation Protection Authority
+(e) None of the above
+6. Which branch of Physics is most important when studying the na-
+ture and behavior of light?
+(a) Quantum Mechanics
+1.4 Historical Issues and Contributors
+9
+(b) Nuclear Physics
+(c) Optics
+(d) Thermodynamics
+7. Galileo's famous experiment at the leaning tower of Pisa demon-
+strated that
+(a) what goes up must come down
+(b) all objects fall to earth at the same rate, regardless of their mass
+(c) heavier object falls faster than lighter object of the same size
+(d) gravity does not act on a falling object
+Vcs
+c
+h
+S
+m
+kg
+A
+mol
+e
+NA

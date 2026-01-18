@@ -1,0 +1,799 @@
+Unit 4
+Force, Work, Energy and Power
+Introduction
+In unit 3 you developed the concepts and ideas needed to describe the motion of
+Brainstorming
+a moving body. This branch of mechanics is called kinematics. In this chapter,
+Questions
+rather than simply describing the motion, we will consider the forces that cause
+Based on the
+the motion to occur. Treating motion in this way falls within the branch of me-
+knowledge you ac-
+chanics called dynamics. In simple terms, a force can be thought of as simply a
+quired from your
+push or a pull, but forces exist in a wide variety of situations in our daily lives and
+lower grades, how
+are fundamental to the nature of matter and the structure of the universe. In this
+do you explain
+unit, the different types of forces, Newton's laws of motion and the concept of
+force?
+work, energy and power will be discussed in a brief way.
+What is your con-
+cept of work and
+energy?
+At the end of this unit, you should be able to:
+understand the different types of forces;
+practically measure forces and differentiate between mass and weight;
+explain the Newton's laws of motion;
+Know about work and energy;
+relate work and power.
+64
+Unit 4 Force, Work, Energy and Power
+4.1 The Concept of Force
+At the end of this section, you should be able to:
+define force, and give examples of forces;
+practically measure the gravitational force on an object.
+From your everyday experience, you have basic understanding of the concept
+of force. Any time the state of motion of an object changes, a force has been
+applied. Force can cause a stationary object to start moving or a moving object
+to accelerate. You exert force to stretch or compress a spring, to throw or kick a
+ball, to pick your books from a table, to fetch water from a river or well etc. In
+mechanics, a force is a push or a pull exerted on a body that changes the state of
+Activity 4.1
+motion of the body. That means force can change the velocity of a body or cause
+Can a force always
+deformation by changing its shape or size. The push or pull on an object can
+cause motion? Dis-
+vary considerably in either magnitude or direction. Because a force is determined
+cuss in groups and
+by both a magnitude and a direction, it is a vector quantity. Forces, like other
+with your teacher.
+vectors, are represented by arrows and can be added using the familiar head-to-
+tail method or trigonometric methods. Examples of forces include friction force,
+normal force, and the force of gravity.
+Contact and Non-Contact Forces
+In each of the situations depicted in Figure 4.1, forces are acting. Some are applied
+directly to an object and some act on a body without touching it. Forces that
+involve physical contact between objects are called contact forces, because the
+bodies will experience the force while contact is maintained. However, forces that
+do not involve physical contact between objects are know as non-contact forces.
+Contact forces are the easiest to understand and include the simple push and
+pull that are experienced daily in people's lives. Applied forces, normal forces,
+frictional forces, and spring forces are the types of contact forces.
+You might have already an experience that when you bring a piece of iron
+close to a magnet, but without touching it, the piece of iron will be attracted to
+the magnet. This magnetic force is one common example of non-contact force.
+Another example of a non-contact force is the gravitational force between an
+object and the earth. If you throw the object vertically upwards, it falls back to
+earth because of this force.
+4.1 The Concept of Force
+65
+Pull Force
+Push Force
+Figure 4.1 Examples of contact forces.
+Exercise 4.1
+In unit 2, you have
+already discussed
+vector and scalar
+quantities. There-
+fore, tell whether a
+force is a vector or
+scalar quantity. How
+do you represent it?
+Gravitational Force
+Magnetic Force
+Figure 4.2 Examples of non-contact forces.
+Key Concept:
+Contact forces involve physical contact between two bodies and the non-
+contact forces do not involve any physical contact.
+You might have day to day experience of measuring a force, for example, through
+observation or by doing it yourself. The most convenient way of measuring a
+force is by using the deformation of a spring. The spring elongates when the force
+is applied, and a pointer on the scale reads the value of the applied force. The SI
+Key Concept:
+unit of force is newton and is represented by N.
+Force is a vector
+Activity 4.2
+quantity and is rep-
+resented as F or
+What do the scales on the roadsides or in the bathroom actually mea-
+simply as bold F, i.e.,
+sure? Your mass or your weight? Discuss in groups and with your teacher.
+F
+66
+Unit 4 Force, Work, Energy and Power
+N
+0,000 0.278
+11.00
+3.06
+Orange
+17:09:56
+CAS
+3 "
+CAS
+00
+Figure 4.3 Measuring force.
+Definition:
+Weight is the magnitude of the gravitational force acting on a body and is
+also measured in Newton. The gravitational force is directed towards the
+center of the earth.
+4.2 Newton's Laws of Motion
+4.2 Newton's Laws of Motion
+67
+At the end of this section, you should be able to:
+define Newton's first, second and third laws of motion;
+explain the dependence of acceleration on net force and mass;
+explain how gravity affects the motion of objects.
+Newton's First Law of Motion:
+Activity 4.3
+Let us say you are riding in a car. If the car comes to a sudden stop,
+your body tends to keep moving forward. However, when the car starts
+moving again, your body tends to move backward. What do you think is
+the reason? Discuss in groups.
+Newton's first law of motion is sometimes called the law of inertia. It states that a
+body continues to be in its state of rest or of uniform motion in a straight line un-
+less it is acted on by unbalanced force. Newton's first law of motion explains how
+inertia affects moving and non-moving objects. Inertia is a property of matter
+by which it continues in its existing state of rest or uniform motion in a straight
+line, unless that state is changed by an external force. In other words inertia is the
+tendency of an object to resist any attempt to change its velocity.
+Look at the pool balls in Figure 4.4. When a pool player pushes the pool stick
+against the white ball, the white ball is set into motion. Once the white ball is
+rolling, it rolls all the way across the table and stops moving only after it crashes
+into the cluster of colored balls. Then, the force of the collision starts the colored
+balls moving. Some may roll until they bounce off the raised sides of the table.
+Some may fall down into the holes at the edges of the table. None of these motions
+Activity 4.4
+will occur, however, unless that initial push of the pool stick is applied.
+What is the relation
+Newton's first law of motion defines a special set of reference frames called inertial
+between the mass
+frames. An inertial frame is defined as one in which Newton's first law of motion
+of a body and its
+inertia? What is the
+(also called the law of inertia) is valid. Such a reference frame is called an inertial
+difference between
+frame of reference. If an object does not interact with other objects, it has zero
+mass and weight?
+acceleration in an inertial frame of reference. Any reference frame that moves
+Discuss in groups.
+with constant velocity relative to an inertial frame is itself an inertial frame.
+68
+Unit 4 Force, Work, Energy and Power
+15
+2
+6
+3
+Figure 4.4 Pool balls remain at rest until an unbalanced force is applied to them. After
+they are in motion, they stay in motion until another force opposes their motion.
+Key Concept:
+JET Newton's first law:
+An object at rest remains at rest as long as no net force acts on it.
+An object moving with constant velocity continues to move with the
+same speed and in the same direction as long as no net force acts on
+it.
+Mass is a measure of inertia.
+Mass is a measure of the resistance of an object to change in its state of motion.
+Mass is an inherent property of an object and is constant everywhere. However,
+weight is the magnitude of the gravitational force acting on an object and can
+change from one place to another. Objects with large masses have large inertia
+and are more resistant to changes in their state of motion.
+4.2 Newton's Laws of Motion
+69
+Newton's Second Law of Motion
+We have discussed Newton's first law which explains that an object either remains
+at rest or moves in a straight line with constant speed when there is no unbal-
+anced force acting on it. But what happens to an object when there is nonzero
+unbalanced force acting on it? This question is answered by Newton's second law
+of motion. To hold an object in your hand, you have to exert an upward force to
+oppose, or "balance," the force of gravity. If you suddenly remove your hand so
+that the only force acting on the object is gravity, it accelerates downward. This
+is one example of Newton's second law, which states, basically, that unbalanced
+forces or net external force causes nonzero acceleration.
+Activity 4.5
+Take a wooden block and place it on a smooth horizontal surface. Push
+it with some force F. What did you observe? Now increase the force with
+which you push the wooden block and see what happens. Repeat the
+activity with even large pushing force. What can you conclude from this
+activity?
+When you exert some horizontal force F on the block, it moves with some
+acceleration a. If you apply a force twice as great, you find that the acceleration
+of the block doubles. If you increase the applied force to 3F, the acceleration
+triples, and so on. From such observations, we conclude that the acceleration of
+an object is directly proportional to the force acting on it. Consider the example
+of a batter, like the man in Figure 4.5. The harder he hits the ball, the greater will
+be its acceleration. It will travel faster and farther if he hits it with more force.
+Activity 4.6
+Take two different wooden (or metal) blocks of different masses and
+place them on a smooth horizontal surface. Push them with the same
+force F. Which block accelerates more? What can you conclude from this
+activity?
+The acceleration of an object is directly proportional to the force acting on it.
+Figure 4.5 Hitting a baseball with
+greater force gives it greater accel-
+Thus, the greater the mass of an object, the less that object accelerates under the
+eration.
+action of a given applied force.
+70
+Unit 4 Force, Work, Energy and Power
+Key Concept:
+Newton's second law of motion states that the acceleration of a body is
+directly proportional to the net force acting on it and inversely proportional
+to the mass of the body.
+Mathematically, Newton's second law can be expressed as
+F = mã
+(4.1)
+where F is the force acting on the body, m is the mass of the body, and à is
+the acceleration when acted on by the force F.
+From the above equation, you can see that the unit of force newton can be
+expressed in terms of the units of mass, length, and time.
+1 N = 1kgm/s²
+(4.2)
+Therefore, 1 N is defined as the force that, when acting on an object of mass
+1 kg, produces an acceleration of m/s².
+At this stage, you may be able to guess the gravitational force Fg acting on an
+object by applying Newton's second law. However, here, à is the acceleration due
+to gravity. The acceleration due to gravity is denoted by 'g' and has a constant
+Key Concept:
+value of 9.8 m/s² on the surface of the earth and is directed towards the center of
+the earth.
+The value of the
+acceleration due
+to gravity g varies
+Hence, applying Newton's second law, the magnitude of the gravitational
+with location. For
+force on an object is given by:
+example, the value
+of g on the surface
+Fg = mg
+(4.3)
+of the moon is about
+1/6th of that on the
+This force is directed towards the center of the earth. Fg is also called weight
+surface of the earth.
+of the object. Weight of a body is represented by 'W'. The above equation can also
+Moreover, the value
+be written as:
+of g will change as
+an object is moved
+W = mg
+(4.4)
+further from the
+earth's surface.
+4.2 Newton's Laws of Motion
+71
+Example 4.1
+A force of 10N acts on a block of mass 2kg resting on a smooth horizontal surface.
+What is the acceleration of the block?
+Given: F = 10 N, m = 2 kg
+Required: The acceleration 'a' of the block
+Solution: The unbalanced force acting on the block is 10N. From Newton's second
+law of motion we have:
+F = ma
+Therefore,
+The direction of acceleration is the same as the direction of the force.
+Example 4.2
+A force of 100N acts on a certain object and accelerates it by 2ms/s² in the direction
+of the force. What is the mass of the object?
+Given: F = 100N, a =2m/s² =
+Required: The mass m of the object.
+Solution: The unbalanced force acting on the block is 100N. From Newton's second
+law of motion we have:
+F = ma
+Therefore,
+2m/s²
+Example 4.3
+What is the weight of a body of mass 10kg on the surface of the earth?
+Given: m = 10kg
+Required: The weight 'W' of the body.
+Solution: The weight of the body is given by:
+W = mg
+Therefore,
+W=10kg x x 9.8m/s² = 98N X
+72
+Unit 4 Force, Work, Energy and Power
+100 N
+Newton's Third Law of Motion
+Have you ever pushed a wall or your table with your finger tip? Let you do it again
+in a class. What do you feel?
+100 N
+If you push a wall with your hand with some force, the wall pushes your
+hand back with the same force. If you push the wall harder, the wall pushes you
+back with larger force and you may feel pain in your hand. This simple activity
+Figure 4.6 Action and reaction
+illustrates an important general principle known as Newton's third law of motion.
+forces involved when pushing a
+car.
+In fact, the force with which you push the car is equal in magnitude but opposite
+in direction to the force with which the car pushes you back as shown in Figure
+4.6. In general, if F₁₂ is the force exerted by object 1 on object 2 and F₂₁ is the
+force exerted by object 2 on object 1, then,
+Key Concept:
+F₁₂ = F₂₁
+(4.5)
+The action and reac-
+tion forces are equal
+That means F₁₂ is equal in magnitude but opposite in direction to F₂₁. F₁₂ is
+in magnitude but
+called action force and F₂₁ is called reaction force, though either force can be
+opposite in direc-
+labeled the action or reaction force.
+tion and they act on
+different objects.
+Consider a block of mass m placed on a horizontal table (Fig.4.7). What are the
+action and reaction forces?
+F₂₁=N
+The action and reaction forces are represented by F₁₂ and F₂₁. Let F12 be the
+force that the block exerts on the table. This force is equal to the weight of the
+block. F₁₂ is directed vertically downwards as shown in the figure. On the other
+hand, the table exerts a force F₂₁ on the block. F₂₁ is directed vertically upwards,
+but has the same magnitude as F₁₂. F₂₁ is also called normal force. However, it
+has to be noted that taking F₂₁ as action force and F₁₂ as reaction force is also
+possible. NewtonâAZs third law of motion states that every action has an equal
+F₁₂=w=mg
+and opposite reaction. This means that forces always act in pairs.
+Figure 4.7 Action and reaction
+forces for a block placed on a hori-
+zontal table.
+4.3 Forces of Friction
+73
+Figure 4.8 Cars stuck in a frictionless surface
+4.3 Forces of Friction
+At the end of this section, you should be able to:
+Exercise 4.2
+define the force of friction;
+Why is it difficult to
+walk on a smooth
+explain the dependence of friction force on the smoothness and roughness
+surface? What
+of surfaces;
+brings a car moving
+explain the advantage and disadvantage of the force of friction.
+along a road to stop?
+What keeps you
+from slipping when
+When an object is in motion on a given rough surface, there is resistance to the
+you walk? Discuss in
+motion of the object from the surface. Such resistance is called force of friction
+groups.
+and is denoted by 'f'. Forces of friction are very important in our everyday lives.
+They allow us to walk or run and are necessary for the motion of wheeled vehicles.
+Why do vehicles easily get stuck in a mud (Fig 4.8)? We classify friction forces in
+to two main types. They are static friction and kinetic friction.
+74
+Unit 4 Force, Work, Energy and Power
+Definition:
+Static friction: is a kind of friction that exists between two surfaces in
+contact when one body tends to slide over the other without moving. It
+requires large force to overcome this friction.
+Kinetic friction: is the friction between two contacting surfaces when one
+of them slides over the other or when one body rolls over the other. Its
+effect on motion is less than that of the static friction.
+N
+The magnitude of friction force depends on the value of the normal force and on
+f
+Direction of motion
+the nature of the contacting surfaces. In general, friction force is larger between
+rough surfaces than smooth surfaces. The force of friction is directly proportional
+W mg
+to the normal force.
+Figure 4.9 Frictional force oppos-
+ing motion.
+4.4 The Concept of Work
+Brainstorming
+At the end of this section, you should be able to:
+Questions
+define and describe the scientific meaning of work;
+If you carry a sack of
+describe the quantitative relationship between work, force and displace-
+teff from your home
+ment;
+to the market, how
+much work do you
+calculate the work done on an object.
+do?
+If you push a wall
+for 3 hours, how
+Scientific Meaning of Work
+much work do you
+do?
+The word work has a variety of meanings in everyday language. In everyday
+sense, the term work means to do something that takes physical or mental effort.
+Direction of
+But in physics, work has a distinctly different meaning. Consider the following
+applied force
+situations:
+Directions of applied
+force and displacement
+A student holds up a heavy chair for several minutes.
+Direction of
+A student carries a bucket of water along a horizontal path while walking at
+the motion
+a constant velocity.
+Figure 4.10 Work is done because
+It might surprise you to know that as the term work is used in physics, there is no
+the force is applied in the same
+direction as the direction of dis-
+work done on the chair or the bucket, even though effort is required in both cases.
+placement of the box.
+In physics, work means the use of force to move an object. Not all force that is
+4.4 The Concept of Work
+75
+III
+⑉
+E
+⑉
+F
+F
+⑉
+⑉
+III
+⑉
+ДИЯ
+⑉
+⑉
+m
+m
+MAA
+#
+111
+A
+S
+B
+Figure 4.11 A force moves an object from point A to point B.
+used to move an object does work. For work to be done, the force must be applied
+in the same direction as the direction of displacement of the object. If a force is
+applied in a different direction than the direction of displacement of the object,
+no work is done. Figure 4.10 illustrates this fact. As shown in the Figure, carrying
+a box while walking does not result in work being done. Work is done only when
+the box is lifted up from the ground.
+In physics a force does work on an object if it causes the object to move.
+Work is done, when a force F|| is applied to an object and the object moves
+through a displacement S in the direction of force.
+W = F||S
+(4.6)
+where F|| is the force in the direction of displacement of the object and S is
+the magnitude of the displacement.
+Definition:
+Work is a scalar quantity. The SI unit of work is a Newton-meter (N m)
+which is called Joule (J).
+Example 4.4
+A boy pushed a box by a force of 60 N through a displacement of 12 m on a
+horizontal surface. How much work is done by the boy? Assume the force is
+parallel to the direction of displacement of the box.
+Given: F|| = 60N,
+S = 12m
+Required: W =?
+76
+Unit 4 Force, Work, Energy and Power
+Exercise 4.3
+Solution:
+W= FS =60Nx 12m
+1. Write the conditions
+W = 720Nm=720J
+for work done to be
+zero.
+2. What will be the
+Example 4.5
+work done by your
+How much vertical force is required to lift a load vertically to a height of 3 m, if the
+hand if you hold
+work done is 600 J?
+your exercise book
+Given:
+W = 600J,
+S=3m
+at 1 m height for two
+Required:
+F| =?
+hours?
+Solution:
+W
+=>
+Key Concept:
+One Joule of work is
+done when 1New-
+ton of force moves
+an object a displace-
+200 mg F₁| = 200N
+ment of 1 meter
+in the direction of
+The force needed to lift a load to a height of 3 m is 200 N.
+force.
+Joule = 1 Newton X
+Key Concept:
+1 meter
+Work is the product of a force and the magnitude of displacement in
+the direction of the force.
+Work is a transfer of energy from one object to another through the force.
+IF Force does work on an object when the object is displaced in the direc-
+tion of the applied force.
+4.5 Kinetic and Potential Energies
+At the end of this section, you should be able to:
+define and use the concepts of kinetic and potential energies;
+solve problems related to kinetic energy and potential energy of an object.
+4.5 Kinetic and Potential Energies
+77
+In the previous section you have learned about work as the transfer of energy
+Exercise 4.4
+from one object to another through the applied force. In this section you are
+What is energy?
+going to learn about kinetic and potential energies. Energy is the capacity to do
+Can you mention
+work and is a scalar quantity. Its S.I unit is Joule (J) similar to that of work.
+some forms of
+energy? How can
+Kinetic Energy
+energy transform
+from one form to
+An object in motion has the ability to do work and thus can be said to have energy.
+another?
+Kinetic energy (Eₖ) is the form of mechanical energy possessed by an object due
+to its motion. For example, a rolling ball, a moving car, or a thrown stone possess
+kinetic energy due to their motion. The kinetic energy of an object depends on its
+mass and the speed with which it travels. We define kinetic energy of the object as:
+Eₖ=¹₂ₘv²
+(4.7)
+Definition:
+Kinetic energy is a scalar quantity and can be described only by its magni-
+tude. Its SI unit is Joule (J)
+1J=1kgm²/s²
+(4.8)
+Example 4.6
+A 200 g ball is thrown at a speed of 20 m/s. What is the kinetic energy of the ball?
+Given: m = 200g,
+v = 20m/s
+Required: Eₖ
+Solution:
+Convert the unit of mass from g to kg
+200g x (1kg)/(1000g) = 0.2kg
+The kinetic energy is
+78
+Unit 4 Force, Work, Energy and Power
+Exercise 4.5
+jer Consider Example 4.6;
+1. For a fixed speed, if the mass of the ball is doubled, what will be its
+kinetic energy?
+2. For a fixed mass, if the speed of the ball is doubled, what will be its
+kinetic energy?
+3. For a fixed mass, if the speed of the ball is tripled (3 times), what will
+be its kinetic energy?
+Exercise 4.6
+What is potential
+Example 4.7
+energy? Mention
+How fast must a 1 kg ball move in order to have a kinetic energy of 50 J?
+examples of poten-
+Given: m = 1kg,
+Eₖ = 50J =
+tial energy. If you
+Required: v=?
+lift a box and put it
+on the top of a shelf,
+Solution:
+what type of energy
+N.B: The phrase 'how fast' is related to the speed of the ball
+is possessed by the
+box? If you stretch a
+spring, what type of
+Eₖ = ¹₂ᵐv²
+v²=2xEₖ
+energy it holds?
+Gravitational Potential Energy
+Potential energy is the stored energy in an object by a virtue of its position or its
+configuration. There are two types of potential energy. Examples are potential
+energy due to gravity, and elastic potential energy. However, in this section you
+are going to learn gravitational potential energy.
+Gravitational potential energy is the energy of an object held in a vertical position
+due to the force of gravity working to pull it down. The gravitational potential
+energy depends the height and mass of an object. The heavier the object and the
+4.5 Kinetic and Potential Energies
+79
+higher it is above the ground, the more potential energy it holds. The gravitational
+potential energy (Eₚ) of an object is given by:
+Ep = mass X gravitational acceleration X height
+Eₚ = mgh
+(4.9)
+Exercise 4.7
+jt
+Object A has twice the mass of object B. If object B is 4 m above the
+floor and object A is 2 m above the floor, which one has greater potential
+energy?
+jo
+If both objects in the question above were lowered by 1 m, would they
+still have the same ratio of potential energies that they had in their original
+positions? Explain your reasoning.
+Example 4.8
+How much potential energy is possessed by an object of mass 30 kg placed on the
+top of 50 m high building? (Use the acceleration due to gravity g = 10 m/s²).
+Given: m = 30 kg,
+h = 50m,
+g = 10 m/s²
+Required: Eₚ =?
+Solution:
+15000 15000
+The potential energy possessed by a 30 kg object at a height of 50 m is 15000 J.
+Example 4.9
+How high should an object of mass 5 kg be lifted in order to have an energy of 1000
+J? (Use the acceleration due to gravity g = 10 ).
+Given: m = 5 kg,
+Eₚ = 1000 J,
+g = 10 m/s²
+Required: h =?
+Solution:
+80
+Unit 4 Force, Work, Energy and Power
+Key Concept:
+Eₚ = mgh
+h h= Epmg
+Kinetic energy:
+energy possessed by
+an object due to its
+motion.
+Potential energy:
+This means that an object of mass of 5 kg should be lifted to a height of 20 meters
+energy possessed
+in order to have a gravitational potential energy of 1000 J.
+by an object due
+to its position or
+configuration
+The sum of kinetic and potential energies is known as Mechanical energy. Thus,
+we can express mechanical energy as:
+Mechanical Energy = Kinetic Energy + Potential Energy
+4.6 Power
+At the end of this section, you should be able to:
+define and describe power;
+describe quantitative relationships among work, energy and power.
+Brainstorming
+In the previous section you have learned that work is done by moving an object
+Questions
+parallel to the direction of the force applied. But it is important to consider the
+to
+What is power?
+time taken to do the work.
+You and your friend
+Definition:
+are given the same
+work. You com-
+Power is the rate at which work is done or the rate at which energy is being
+pleted the work in
+transferred.
+3 hours. But your
+friend completed
+the work in one and
+power = work time taken done = Energy time transferred taken
+(4.10)
+a half hour. Who has
+more power? Men-
+tion some examples
+(4.11)
+of power in your
+Power is a scalar quantity like work and energy. The SI unit of power is J/s
+daily life.
+(Joule/second) which is called watt (W). 1 w is the power developed when one
+Joule (1J) of energy is transferred in one second (1 s).
+1W=1J/s
+(4.12)
+4.6 Power
+81
+Example 4.10
+If a car used up to 1500 J of energy in 5 seconds, what is the power developed by
+the car?
+Given: E = 1500 J,
+t=5s
+Required: P =?
+Solution:
+P = E t = 1500 5 s J = 300J/s = 300 W
+Exercise 4.8
+Example 4.11
+A machine lifts
+What is the power of a water pump that can lift 500 liters of water through a vertical
+a 100 kg of stone
+height of 10 meter in 5 seconds (Take g = 10 m/s² )?
+to a height of 5 m
+Given: m = 500 kg,
+h = 10 m,
+t=5s
+in 2 seconds. Cal-
+Required: P =?
+culate the power
+developed by the
+Solution:
+machine?
+P = Eₚ t = P = t = 500 kg X 5 s 10 m X 10m = 10000J/s = 10000 W = 10 kW
+The power of a water pump is 10 kW.
+Virtual Laboratory
+Click on the following links to perform virtual laboratory on force,
+work and energy under the guidance of your teacher.
+1. Forces and Motion: Basics PhET Experiment
+2. Energy Skate Park PhET Experiment
+82
+Unit 4 Force, Work, Energy and Power
+3. Hooke's Law PhET Experiment
+Unit Summary
+In mechanics, a force is a push or a pull exerted on a body that
+changes the state of motion of the body. That means force can
+change the velocity of a body or cause deformation by changing its
+shape or size.
+Forces can be classified as contact and non-contact forces. Contact
+forces involve physical contact between two bodies and the non-
+contact forces do not involve any physical contact
+Newton's first law of motion, sometimes called the law of inertia,
+states that a body continues to be in its state of rest or of uniform
+motion in a straight line unless it is acted on by unbalanced force.
+An inertial frame is defined as one in which Newton's first law of mo-
+tion is valid. Any reference frame that moves with constant velocity
+relative to an inertial frame is itself an inertial frame.
+Newton's second law of motion states that the acceleration of a
+body is directly proportional to the force acting on it and inversely
+proportional to the mass of the body.
+Action and reaction forces are equal in magnitude but opposite in
+direction. Work is the product of a force and displacement parallel
+to the direction of the force applied, or a transfer of energy from one
+object to another through the force.
+Kinetic energy (Eₖ) is the form of mechanical energy possessed by
+an object due to its motion.
+Potential energy is the energy possessed by an object due to its
+position or configuration.
+Mechanical energy is the sum of kinetic and potential energies.
+Power is the rate at which the work is done or the rate at which
+energy is being transferred.
+4.6 Power
+83
+End of Unit Questions and Problems
+Part I: Short answer questions
+1. What is the difference between mass and weight?
+2. State Newton's laws of motion.
+3. What are the action and reaction forces involved when you walk on
+a surface?
+4. What is the acceleration of a 10 kg block when acted on by a force of
+50N?
+5. Determine the weight of a 50kg mass on the surface of the earth.
+6. A certain force F accelerates a 25 kg object by 4m/s². Calculate the
+magnitude of the force F.
+7. What is frictional force? Explain some of its advantages and disad-
+vantages.
+8. What is the weight of a 250 kg object on the surface of the moon? The
+acceleration due to gravity on the surface of the moon is one-sixth
+of that on the surface of the earth.
+Part II: Multiple choice questions
+1. Which of the following units belongs to work?
+A. kg m/s²
+B. N/m
+C.kg m² / s²
+D. N1m²
+2. A box is pulled from point A to point B by a force of 10 N. If the
+distance between the points is 6 m, what is the work done?
+A.6J
+B.10J
+C.60J
+D.100J
+84
+Unit 4 Force, Work, Energy and Power
+3. Which one of the following objects DOES NOT have gravitational
+potential energy?
+AA bottle on the surface of a table
+B. A ball on the level ground
+CA stone on the roof of a house
+D. A fruit on a branch of a tree
+4. A loader lifts a 500 kg stone at a height of 8 m in 2 seconds. The
+power developed by the loader is (take g = 10m/s²)
+A. 5000 W
+B. 20000 W
+C. 40000 W
+D. 80 000 W
+Part III: Workout Problems
+1. A physics student does a work on a 2.5 kg curling stone by exerting
+50 N of force horizontally over a distance of 2 m. Calculate the work
+done by the student on the curling stone.
+2. Calculate the kinetic energy of the following objects.
+(a) A man of mass 50 kg running at a speed of 20 m/s
+(b) A 200 g of bullet fired at a speed of 300 m/s
+(c) A car of mass 1000 kg travelling at 80 meter per second
+3. Calculate
+(a) The potential energy of 10 kg stone placed at a height of 10 m
+above the ground.
+(b) The position of the 10 kg stone if it possesses a potential energy
+of 400 J.
+4. A crane is capable of doing 1.5 X 10⁵ J of work in 10 seconds. What is
+the power of the crane in watts?

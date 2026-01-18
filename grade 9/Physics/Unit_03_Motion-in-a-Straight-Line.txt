@@ -1,0 +1,812 @@
+Unit 3
+Motion in a Straight Line
+Introduction
+In this unit, you will be introduced to the basic concepts of motion. We encounter
+Brainstorming
+motion in our day-to-day activities and have enough experience about it. You
+Question
+might have learnt in lower grades that everything in the universe moves. It is
+What do you
+because of this that motion is one of the key topics in physics. We use the basic
+think is motion?
+concepts of distance, displacement, speed, velocity and acceleration to express
+Give some examples
+motion. There are different types of motions. Motion in a straight line is one of
+of motion that you
+the simplest forms of motion in a specific direction. The motions of a car on a
+encounter in your
+road, the motion of a train along a straight railway track or an object falling freely
+daily life.
+are examples of one-dimensional motion.
+At the end of this unit, you should be able to:
+describe motion in terms of frame of reference, displacement, speed, ve-
+locity, and acceleration;
+draw diagrams to locate objects with respect to a reference;
+solve problems involving distance, displacement, speed, velocity and
+acceleration;
+make practical measurements of distance, displacement, average speed,
+average velocity and acceleration.
+40
+Unit 3 Motion in a Straight Line
+3.1 Position, Distance and Displacement
+At the end of this section, you should be able to:
+define motion, position, and displacement;
+describe motion in terms of frame of reference;
+differentiate between position, distance and displacement;
+draw diagrams to locate objects with respect to a reference frame.
+The most convenient example to explain about position, distance and dis-
+placement is your daily travel from your home to your school. When you go to
+school, your journey begins from your home. Your home is your original position.
+After some time, you will reach your school. Your school is your final position.
+In this process, you are continuously changing your position. While traveling
+from home to school, you are increasing the gap between your present position
+and your home. This continuous change of position is known as motion. Note
+that your change of position is observed by considering the distance from your
+school to home. Your home is taken as a reference frame. Motion is a continuous
+change in position of an object relative to the position of a fixed object called
+reference frame.
+Key Concept:
+JET A frame of reference is a set of coordinates that can be used to deter-
+mine positions of objects.
+JF Motion is the change in the position of the object with respect to a fixed
+point as the time passes.
+A body is said to be at rest in a frame of reference when its position in that
+reference frame does not change with time. If the position of a body changes
+with time in a frame of reference, the body is said to be in motion in that frame of
+reference. The concepts of rest and motion are completely relative; a body at rest
+in one reference frame may be in motion with respect to another reference frame.
+For example, if you are 2 m from the doorway inside your classroom, then your
+reference point is the doorway. Your classroom can be used as a reference frame.
+In the classroom, the walls are not moving, and can be used as a fixed frame of
+reference. We commonly use the origin as a fixed reference point to describe
+motion along a straight line.
+3.1 Position, Distance and Displacement
+41
+Exercise 3.1
+It Assume you are sitting on a horse and the horse is moving at a certain
+speed. Are you at rest or in motion? Discuss it by taking two frames of
+reference: the horse itself and some fixed point on the ground.
+Key Concept:
+DE Position is a mea-
+Position
+surement of a loca-
+To describe the motion of a particle, we need to be able to describe the position
+tion, with respect
+of the particle and how that position changes as the particle moves. Motion is
+to some reference
+the change in the position of the object with respect to a fixed point as the time
+point (usually an
+origin).
+passes. For one-dimensional motion, we often choose the x axis as the line along
+which the motion takes place. Positions can therefore be negative or positive
+with respect to the origin of the x-axis. Figure 3.1 shows the motion of a rider in a
+straight line. Its position changes as it moves.
+Have you ever used Google Maps to locate your geographical position while you
+are moving from some place to another? Google Maps is a Web-based service
+that provides detailed information about geographical regions and sites around
+the world. In addition to conventional road maps, Google Maps offers aerial and
+Figure 3.1 A rider in motion changes its position as it moves.
+42
+Unit 3 Motion in a Straight Line
+satellite views of many places. Google Maps provides you with the longitude
+(east-west position) and latitude (north-south position) coordinates of a location
+or position of a place.
+You can see how far you have travelled and how you travelled from place to place,
+such as walking, biking, driving or on public transport. The following steps guide
+you to get started using Google Maps:
+Step 1: At first you need to open the Google Maps software application on your
+Android phone, tablet or computer. For more information, click here to see
+Google Maps https://www.google.com/maps/
+Exercise 3.2
+Step 2: Search for a place or tap it on the map.
+Dr What is the dis-
+Step 3: In the bottom right, tap directions.
+tance around a
+Step 4: To add destination you have to go to the top right and tap more and then
+standard football
+add a stop.
+field?
+10 Is distance a pos-
+Distance
+itive or negative
+quantity?
+Distance travelled is a measure of the actual distance covered during the motion of
+a body. In other words, distance is the total path length traveled by the body. The
+distance travelled does not distinguish between motion in a positive or negative
+direction. This means that it is a scalar physical quantity. The SI unit of distance is
+meter (m), though it can also be measured in other non-SI units such as kilometer
+(km), miles (mi), centimeter (cm), etc. The symbol for distance is S. Pictorial
+representation of the distance covered by a runner is shown in Figure 3.2.
+S
+Figure 3.2 The distance covered by a runner.
+3.1 Position, Distance and Displacement
+43
+Displacement
+When an object moves, it changes its position. This change of position in a certain
+direction is known as displacement. A displacement is described by its magnitude
+and direction. Hence, it is a vector quantity. Displacement is independent of
+the path length taken. For example, you travel from your home to school. After
+school, you travel 0 your home. Therefore, the change in your position when you
+return back to your home is zero. In this case, we say that your displacement is
+zero. The SI unit of displacement is the same as the SI unit of distance that is
+meter (m). Figure 3.3 shows the difference between distance and displacement of
+the motion covered from point A to point B.
+ROAD
+TRIP
+Figure 3.1 shows a student on a bicycle at position Xᵢ at time ti. At a later time,
+Distance
+tf, the student is at position Xf. The change in the student's position, Xf - Xᵢ, is
+called a displacement. Thus, displacement $ can be written as
+Displacement
+(3.1)
+Figure 3.3 Illustration of distance
+Key Concept:
+and displacement.
+It Displacement is the change in an object's position.
+Table 3.1 Difference between distance and displacement.
+Distance
+Displacement
+It is the length of path travelled
+It is the shortest distance between
+by an object in a given time.
+the initial and final positions.
+It is a scalar quantity.
+It is a vector quantity.
+It depends on the path followed
+It depends o the initial and final
+by the object.
+positions of the object, but not
+necessarily on the path followed.
+It can be more than or equal to
+Its magnitude can be less than or
+the magnitude of displacement.
+equal to the distance.
+44
+Unit 3 Motion in a Straight Line
+Activity 3.1
+Three students walked on a straight line. The first student walked 200 m
+to the right from a reference point A, then returned and walked 100 m to
+the left and then stopped. The second student walked 200 m from point A
+to the right, then returned and walked 300 m to the left and stopped. The
+third student walked 200 m to the right from point A, then returned and
+walked 200m to the left and stopped at point A. Discuss in groups about
+the total distance and displacements of the first, the second and the third
+student.
+Example 3.1
+A cyclist rides 3 km west and then turns around and rides 2 km east. (a) What is
+her displacement? (b) What distance does she ride? (c) What is the magnitude of
+her displacement?
+Solution:
+To solve this problem, we need to find the difference between the final position
+and the initial position while taking care to note the direction on the axis.
+a) Displacement: The rider's displacement is $ = Xf - Xᵢ = 1 km west. The displace-
+ment is negative if we choose east to be positive and west to be negative.
+b) Distance: The distance traveled is 3 km + 2 km = 5 km.
+Exercise 3.3
+c) The magnitude of the displacement is 1 km.
+It What is the dis-
+placement if the
+Exercise 3.4
+final position is the
+jer Given the following values for the initial position Xᵢ and final position
+same as the initial
+Xƒ, check whether the value of the net displacement is positive or negative.
+position?
+a) Xf = (5,0) and Xᵢ = (-1,0)
+b) Xƒ = (10,0) and Xᵢ = (-15,0)
+c) Xƒ = (6,0) and Xᵢ = (4,0)
+3.2 Average Speed and Instantaneous Speed
+45
+3.2 Average Speed and Instantaneous Speed
+At the end of this section, you should be able to:
+differentiate between average speed and instantaneous speed;
+compute the average speed of a body; moving in a straight line covering a
+certain distance in a given time;
+estimate the speed of moving bodies in your surroundings.
+Speed is a quantity that describes how fast a body moves. Speed is the rate
+at which an object changes its location. Like distance, speed is a scalar quantity
+because it has a magnitude but no direction. Since speed is a rate, it depends on
+the time interval of motion. Its symbol is v. In other words, speed is the distance
+covered by a moving body per unit time. The SI unit of speed is meter per second
+(m/s). Other units of speed include kilometer per hour (km/h) and miles per hour
+(mi/h). The mathematical equation used to calculate speed is
+Distance
+speed =
+(3.2)
+time
+S
+V
+=
+(3.3)
+t
+One of the most obvious features of an object in motion is how fast it is moving.
+Exercise 3.5
+In your journey from home to school, you walk slowly for some time, and you run
+another time to cover the total distance. This shows that the speed for the walk
+10 In Figure ??, what
+and the speed for the run are different. In this regard, we define average speed.
+does the speedome-
+ter read?
+Speed and average speed are not the same although they are derived from the
+same formula. The average speed is defined as the total distance travelled divided
+by the total time it takes to travel that distance:
+Total distance covered
+Average speed
+=
+(3.4)
+Total time taken
+(3.5)
+Figure 3.4 Speedometer.
+Vₐv
+=
+(3.6)
+46
+Unit 3 Motion in a Straight Line
+During a typical trip to school by car, the car undergoes a series of changes in its
+speed. If you were to look at the speedometer readings at regular intervals, you
+would notice that it changes. The speedometer of a car gives information about
+the instantaneous speed of the car. It shows the speed of the car at a particular
+instant in time. The speed at any specific instant is called the instantaneous
+speed. To calculate the instantaneous speed, we need to consider a very short
+time interval-one that approaches zero. For example, a school bus undergoes
+changes in speed. Mathematically the instantaneous speed is given
+Vins vins = At as At - 0
+(3.7)
+where, s is the distance travelled during the given very short time interval
+At. Instantaneous speed and average speed are both scalar quantities. When you
+solve the average of all instantaneous speeds that occurred during the whole trip,
+you will get the average speed.
+Exercise 3.6
+It What are the
+Example 3.2
+differences and
+A car covers a distance between two towns which are 80 km apart. If it takes the car
+similarities between
+1hr and 30 minutes to travel between the two towns, calculate the average speed
+average speed and
+of the car in m/s.
+instantaneous
+speed?
+Solution:
+The car takes 1hr and 30 minutes to travel between the two towns. This time is the
+same as 1.5 hrs. Therefore, the average speed of the car is given by,
+vav = st
+with S = 80 km and t=1.5 hrs, Vav becomes,
+53.33 km/hr
+Exercise 3.7
+10 If the car is trav-
+However, we are required to calculate the average speed in m/s. For this purpose,
+elling at 120 km/h,
+we use 1 km = 1000 m and 1 hr = 3600 S. Hence,
+what is the car's
+speed in m/s.
+Example 3.3
+3.3 Average Velocity and Instantaneous Velocity
+47
+How far does a student walk in 1.5 hrs if her average speed is 5 m/s?.
+Solution:
+To find the distance, we rewrite the equation as
+s = 5400 s X 5ᵐₛ s
+= 27000 m
+3.3 Average Velocity and Instantaneous Velocity
+At the end of this section, you should be able to:
+differentiate between average velocity and instantaneous velocity;
+compute the average velocity of a body moving in straight line covering a
+certain displacement in a given time.
+Where an object started and where it stopped does not completely describe
+the motion of the object. Velocity is a physical quantity that describes how fast a
+body moves as well as the direction in which it moves. Hence, velocity is a vector
+quantity. Its symbol is v (v with an arrow on the head). The SI unit of velocity
+is meter per second (m/s). Other units of velocity include kilometer per hour
+(km/h) and miles per hour (mi/h).
+Key Concept:
+It
+Velocity is the rate of change of displacement.
+X
+If
+tᵢ
+Suppose that the positions of a car are Xᵢ at time ti and Xf at time tf. If
+the details of the motion at each instant are not important, the rate is usually
+expressed as the average velocity. Average velocity (vₐv) of a body is the total
+Figure 3.5 The average velocity of
+the car tells how fast and in which
+displacement covered by that body in a specified direction divided by the total
+direction the car is moving.
+time taken to cover the displacement. Analytically it can be written as
+(3.8)
+where Xf is the final position at final time tf and Xᵢ is the initial position at
+48
+Unit 3 Motion in a Straight Line
+time tj. Average velocity points in the same direction as the displacement. If the
+displacement points in the positive X- direction, the average velocity is also in the
+positive x - direction. If the displacement points in the negative x-direction, the
+average velocity is in the negative x-direction.
+Key Concept:
+Exercise 3.8
+to Average velocity is the total displacement of a body over a time interval.
+Dr Does the average
+speed the same as
+To determine the velocity at some instant, such as t = 1.0 s, or t = 2.0 S etc.,
+the magnitude of
+we study a small time interval near that instant. As the time intervals becomes
+the average velocity?
+smaller and smaller, the average velocity over that interval becomes instantaneous
+Explain.
+velocity. Instantaneous velocity of a body is its velocity at any time t. For a body
+that undergoes uniform motion, the velocity of the body is uniform and the
+average velocity and the instantaneous velocity are the same. Instantaneous
+velocity can be positive or negative. The magnitude of the instantaneous velocity
+is known as the instantaneous speed.
+Exercise 3.9
+jer
+In 2003 Tirunesh Dibaba won the world junior cross-country title by
+completing a 5,000-metre in 14 min 39.94 sec (junior world record) and
+secured the gold at the International Association of Athletics Federations
+(IAAF) world track and field championships, becoming the youngest-ever
+world champion in her sport. Calculate her average speed.
+Key Concept:
+JF Instantaneous velocity is the velocity of a body at a specific instant in
+time.
+Example 3.4
+A student attained a displacement of 360 m north in 180 S. What was the student's
+average velocity?
+Solution:
+We know that the displacement is 360 m north and the time is 180 S. We can use
+the formula for average velocity to solve the problem.
+-
+3.3 Average Velocity and Instantaneous Velocity
+49
+Example 3.5
+A girl jogs with an average velocity of 2.4 m/s east. What is her displacement after
+40 seconds?
+Solution:
+Given: vₐᵥ = 2.4m/s east, t = 40 seconds Solution: The displacement of the girl is
+$ = = = 96 m East
+s
+Exercise 3.10
+Example 3.6
+10 Athlete 1 com-
+A bus moving along a straight line towards west covers the following distances in
+pletes 100m in 55
+the given time intervals. Calculate the average velocity of the bus for each time
+seconds and athlete
+interval.
+2 completes the
+S in km
+20
+60
+100
+140
+same distance in 50
+t in hour
+0
+1
+2
+3
+seconds. Compare
+their average speeds.
+Which athlete has
+Solution:
+By computing the displacement of the bus for each time interval, we can calculate
+higher average
+the average velocity of the bus as follows.
+speed?
+Between t₀ = 0 and t₁ = 1 hr
+The average velocity during this time interval is
+the
+Between t₁ = 1 hr and t₂ = 2 hr
+X₂ = Xf Xᵢ = 100 km 60 km = 40 km
+The average velocity of the bus during this time interval is
+the
+Between t₂ = 2 hr and t₃ = 3 hr
+X₃ = Xf - Xᵢ = 140 km - 100 km = 40 km
+50
+Unit 3 Motion in a Straight Line
+The average velocity during this time interval is
+Therefore, for each time interval, the average velocity of the car is constant. This
+implies that the car is undergoing uniform motion.
+Note: You can convert km/hr into m/s by the relation:
+1 1000
+3.4 Acceleration
+At the end of this section, you should be able to:
+define acceleration;
+calculate the average acceleration of a body if its velocity changes from
+some initial value to final value in a given time.
+a)
+The discussion of motion with varying velocity can be dealt with by the intro-
+duction of the concept of acceleration. Acceleration is a vector quantity and is
+a measure of how much the velocity of an object changes in a unit of time (in
+v
+one second). Acceleration is denoted by à and its SI unit is m/s, that is, meters
+a
+per second squared or meters per second per second. Acceleration occurs when
+velocity changes in magnitude (an increase or decrease in speed) or in direction,
+b)
+or both as shown in Figure. 3.6. Acceleration is, therefore, a change in speed or
+direction, or both.
+Key Concept:
+v
+a
+It Acceleration is the rate of change of velocity.
+Figure 3.6 (a) positive acceleration
+If the initial velocity of a body is vᵢ at a time ti, and the final velocity is vƒ at a
+(car speeding up) and (b) negative
+time tf , the average acceleration is, from the definition,
+acceleration (car slowing down).
+(3.9)
+If a body starts from rest, then the initial velocity is zero (vᵢ = 0). If the velocity
+of a body decreases, then the final velocity is less than the initial velocity. Such
+3.4 Acceleration
+51
+motion is called decelerating motion. Deceleration is the negative of acceleration.
+If the body comes to rest, the final velocity is zero (vf = 0).
+Exercise 3.11
+jo If the initial and final velocities of a car are the same, what will be its
+acceleration?
+It Is the direction of the acceleration always in the direction of the velocity?
+Example 3.7
+A train moving in the east direction accelerates from rest to 36 km/h in 20 S. What
+is the average acceleration during that time interval?
+Given: vᵢ = 0, vf = 36 km/h, t = 20 s,
+Required: aₐᵥ =?
+Solution:
+e
+Note that 36 km is equivalent to 10 ms. m/s. The plus sign in the answer means that
+acceleration is to the right. This is a reasonable conclusion because the train
+starts from rest and ends up with a velocity directed to the right (i.e., positive). So,
+acceleration is in the same direction as the change in velocity.
+Example 3.8
+A car travelling at 7.0 m/s along a straight road accelerates 2.5 m/s² to reach a
+speed of 12.0 m/s. How long does it take for this acceleration to occur?
+Given: vᵢ = 7.0 m/s, Vƒ = 12.0 m/s, aₐv = 2.5 ml s²,
+Required: t =?
+52
+Unit 3 Motion in a Straight Line
+Solution:
+=2s
+3.5 Uniform Motion
+At the end of this section, you should be able to:
+define uniform motion;
+give examples of uniform motion.
+Uniform motion is the motion of an object along a straight line with a constant
+velocity or speed in a given direction. In a uniform motion, an object travels
+equal distances in fixed intervals of time. In fact, a moving body does not have a
+uniform speed throughout its motion. Sometimes the body speeds up or slows
+down, and other times it moves with a constant speed. This is why describing
+motion in terms of average quantities (average speed and average velocity) is
+highly important. Some examples of a uniform motion are a car moving on a
+straight road with a fixed speed (as shown in Figure 3.7) and an airplane flying
+with constant speed in a given direction.
+Key Concept:
+It Motion at a constant velocity or uniform motion means that the position
+of the object is changing at the same rate.
+The uniform rectilinear motion has the following properties:
+The acceleration is zero (a=0) because neither the magnitude of the velocity
+nor its direction changes.
+v
+Figure 3.7 A car moving with a constant speed without changing the direction of mo-
+tion.
+3.6 Graphical Representation of Motion
+53
+On the other hand, the average and instantaneous velocities have the same
+values at all times.
+Exercise 3.12
+3.6 Graphical Representation of Motion
+It Consider the fol-
+lowing S-t graph of
+At the end of this section, you should be able to:
+two cars in motion
+plot s-t and v-t graphs;
+on a straight line as
+shown in Figure 3.8.
+define the slope of a motion;
+Which car is moving
+faster and why?
+calculate the velocity from S-t graph and acceleration from v-t graph.
+The motion of an object travelling even in a straight line can be complicated.
+The object may travel forwards or backwards, speed up or slow down, or even stop.
+Where the motion remains in one dimension, the information can be presented
+in graphical form. The main advantage of a graph compared with a table is that it
+allows the scope of the motion to be seen clearly.
+Car B
+Position-Time Graph
+Distance
+Car A
+A position-time graph indicates the position of an object at any time for motion
+that occurs over an extended time interval. The data from Table 3.2 can be
+presented by plotting the time data on a horizontal axis and the position data on
+Time
+a vertical axis, which is called a position-time graph. The graph of the runner's
+motion is shown in Figure 3.8. To draw this graph, first plot the runner's recorded
+Figure 3.8 The s-t graph for a uni-
+form motion.
+positions; then, draw a line that best fits the recorded points.
+Table 3.2 Table 3.2: Position-time table for the runner.
+Position vs. time
+Time (s)
+Position (m)
+0
+0
+1
+5
+2
+10
+3
+15
+4
+20
+5
+25
+6
+30
+54
+Unit 3 Motion in a Straight Line
+To determine the velocity or speed of the runner, consider the meaning of the
+slope. Start with the mathematical definition of slope.
+vertical
+Rewriting the above equation in another way, we have
+slope - rise At At vavavi
+(3.10)
+The horizontal axis (the run) typically represents time, while the vertical axis
+(the rise) measures different aspects of whatever you're measuring on your graph
+(position in this case). Therefore, if we take any two points from the graph, the
+speed from the S-t graph is
+to the positive x-direction.
+This shows that the displacement increased by 5.0 m in 1.0s. The S-t graph
+gives a constant velocity.
+Key Concept:
+Jt The slope of a position-time graph represents the average velocity of an
+object.
+Velocity- Time Graph
+A graph of velocity against time shows how the velocity of an object changes with
+time. Just as a displacement-time graph shows how far an object has moved,
+a velocity-time graph shows how its velocity changes during the motion of the
+object. Table 3.3 shows the data for a car that starts at rest and speeds up along a
+straight line of a road. The velocity-time graph obtained by plotting these data
+points is shown in Figure 3.9. The positive direction has been chosen to be the
+same as that of the motion of the car. Notice that this graph is a straight line,
+which means that the car is speeding up at a constant rate. The rate at which the
+car's velocity is changing can be found by calculating the slope of the velocity-
+time graph. Consider a pair of data points that are separated by 1 s, such as 4.0
+3.6 Graphical Representation of Motion
+55
+S and 5.0 S. At 4.0 s, the car is moving at a velocity of 20.0 m/s. At 5.0 s, the car
+is travelling at 25.0 m/s. Thus, the car's velocity increased by 5.0 m/s in 1.00 S.
+The rate at which an object's velocity changes is called the acceleration of the
+object. When the velocity of an object changes at a constant rate, the object has a
+constant acceleration.
+25.0
+20.0
+Table 3.3: Velocity vs. time of a car
+Time (s)
+Velocity (m/s)
+15.0
+Velocity (m/s)
+10.0
+0
+0
+slope
+rise
+10.0 m/s
+5.0
+run
+2.00s
+1
+5
+5.00 m/s2
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+2
+10
+Time (s)
+3
+15
+Figure 3.9 The slope of a velocity-
+4
+20
+time graph is the acceleration of
+5
+25
+the object.
+Key Concept:
+Activity 3.2
+The slope of a velocity-time graph represents the acceleration of an
+Plot a-t graph from
+object.
+the above v-t data
+and discuss in
+In a uniform motion, the v-t graph is a horizontal line as shown in Figure 3.10
+groups about the
+indicating that the velocity is constant at any given time. The area under the v-t
+value of the acceler-
+graph in a uniform motion represents the distance covered by the object. The
+ation as time goes.
+area of the rectangle in Figure 3.10 is given by, area = b X h = vt = s, which is
+equal to the distance covered by the object.
+V (m/s)
+Activity 3.3
+Discuss in groups and determine the slope of the v-t graph in a uniform
+motion?
+Area = b X h = vt=s
+t
+Speed Limit and Traffic Safety
+Figure 3.10 The v-t graph of a
+Have you ever noticed a traffic sign of a speed limit shown in the Figure 3.11?
+uniform motion.
+What does it indicate and what is its importance?
+The above Figure 3.11 shows that drivers are required to keep the speed of their
+cars at 80 km/hr or below. Drivers violating this speed limit will be charged by
+the traffic police as they may cause danger. Nowadays, vehicles moving with
+very high speed are the main causes for the death of thousands of people and
+56
+Unit 3 Motion in a Straight Line
+several property damages as they cannot be controlled easily during accident
+as indicated in Figure 3.12. One can easily read the speed of a car from the
+speedometer. Speedometer is a device used to measure the instantaneous speed
+of a car. It is very important to keep the speed of cars at optimum level to save
+lives and avoid property damages.
+Figure 3.12 Traffic accident.
+Activity 3.4
+It Discuss in groups and identify the type of vehicles causing human/ani-
+mal deaths and property damages in your area. Can you guess the percent-
+age of the accidents caused by violation of speed limits? Discuss in groups
+and report to you teacher. Also suggest possible solutions.
+Virtual Laboratory
+60
+60
+60
+Company
+Figure 3.11 Speed limit in a typical city road.
+3.6 Graphical Representation of Motion
+57
+Click on the following link to perform virtual laboratory on motion in
+straight line under the guidance of your teacher.
+1. The Moving Man PhET Experiment
+Unit Summary
+In this unit, you have learnt the following main points.
+Motion in a straight line is one of the simplest forms of motion in a
+specific direction and is called rectilinear motion.
+An object is in motion if it changes position relative to a reference
+point
+Motion can be described by distance, speed, displacement, and
+velocity, where displacement and velocity also include direction.
+Distance is a physical quantity which describes the length between
+two points (places) and is the total path length travelled by a body.
+Distance is a scalar quantity.
+Displacement is the change in position of a body in a certain direc-
+tion.
+The speed of an object can be calculated by dividing the distance
+traveled by the time needed to travel the distance.
+The velocity of an object is the speed of the object with its direction
+of motion.
+Average velocity is displacement over the time period during which
+the displacement occurs. If the velocity is constant, then average
+velocity and instantaneous velocity are the same.
+Acceleration occurs whenever an object speeds up, slows down, or
+changes direction.
+Uniform motion is the motion of an object along a straight line with
+a constant velocity or speed in a given direction.
+The slope of a position-versus-time graph at a specific time gives
+instantaneous velocity at that time.
+58
+Unit 3 Motion in a Straight Line
+On a speed-time graph, a horizontal line represents zero acceleration
+or constant speed.
+End of Unit Questions and Problems
+Part I: Conceptual questions and workout problems
+1. How are average velocity and instantaneous velocity related in a
+uniform motion?
+2. What does the area under velocity against time graph describe in a
+uniform motion?
+3. If the slope of the graph is zero in a distance against time graph,
+what can one conclude about the motion of the body?
+4. When do we say that the acceleration of a body is
+(a) positive?
+(b) negative?
+5. Here are three pairs of initial and final positions, respectively; along
+an X axis. Which pairs give a negative displacement: (a) -3 m, 5 m;
+(b) -3 m, -7 m; (c) 7 m, -3 m?
+6. An athlete covers a 100 m distance in 55 seconds. Calculate the
+average speed of the athlete.
+7. A car moves with a steady speed of 60 km/hr for 2 hours between
+two towns A and B. If the average speed of the car for the round trip
+is 50 km/hr, then compute the speed of the car when it moves from
+B to A.
+8. Based on the distance against time graph of a certain car
+shown in the Figure below, answer the following questions.
+3.6 Graphical Representation of Motion
+59
+s(m)
+80
+60
+20
+t(s)
+0
+10
+20
+50
+(a) What is the initial position of the car? Take your reference
+frame at the origin.
+(b) How fast is the car going?
+9. A man riding a horse maintained an average speed of 30km/hr to
+cover the distance between two villages A and B in 45 minutes. How
+far apart are villages A and B?
+10. An airplane lands with an initial velocity of 70.0 m/s and then decel-
+erates at 1.50 m/2 for 40.0 S. What is its final velocity?
+11. The following table describes the distance covered by a body moving
+along a straight line to north direction for the first 10 seconds.
+S(m)
+0
+20
+40
+60
+80
+100
+t(s)
+0
+2
+4
+6
+8
+10
+Based on the information given in the table,
+(a) plot the distance against time graph using excel worksheet.
+(b) compute the velocity of the car.
+(c) plot the velocity against time graph of the car using excel work-
+sheet.
+(d) determine the initial position of the car
+12. An athlete swims from the north end to the south end of a 50.0 m
+pool in 20.0 S and makes the return trip to the starting position in
+22.0 S.
+60
+Unit 3 Motion in a Straight Line
+(a) What is the athlete's average velocity for the first half of the
+swim?
+(b) What is the average velocity of the athlete for the second half
+of the swim?
+(c) What is the athlete's average velocity for the round trip?
+Part II: Multiple choice questions
+13. A train is traveling on a straight track at a constant speed. In 80
+seconds it covers a distance of 2400 meters. What is the speed of the
+train?
+(a) 30 m/s
+(b) 40 m/s
+(c) 60 m/s
+(d) 100 m/s
+14. A car is traveling on a straight highway at a speed of 90 km/h. How
+far does the car travel in 15 minutes?
+(a) 50 km
+(b) 30 km
+(c) 22.5 km
+(d) 12.5 km
+15. A car accelerates from rest to a speed of 20 m/s in 10 seconds. What
+is the acceleration of the car during this time interval?
+(a) 1m/s²
+(b) 2m/s²
+(c) 0.5m/s²
+(d) 5m/s²
+16. The following figure shows the speed versus time graph of a car
+moving in a straight line. Between which two points is the car expe-
+riencing uniform motion?
+3.6 Graphical Representation of Motion
+61
+A
+B
+D
+Speed
+C
+Time
+(a) Between B and C
+(b) Between C and D
+(c) Between A and B
+(d) Between B and C, C and D
+17. A man walks 7 km in 2 hours and 2 km in 1 hour in the same direction.
+What is the man's average velocity for the whole journey?
+(a) 3 km/h
+(b) 2 km/h in the same direction
+(c) 2 km/h
+(d) 3 km/h in the same direction

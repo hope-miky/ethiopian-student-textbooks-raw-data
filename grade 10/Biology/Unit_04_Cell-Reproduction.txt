@@ -1,0 +1,678 @@
+Unit 4: Cell Reproduction
+Content
+Learning competencies
+4.1 Cell cycle
+Outline the series of events taking place in the cell cycle
+4.2 Cell division
+Identify the two types of cell division
+4.2.1 Mitosis
+Compare and contrast Mitosis and Meiosis
+4.2.2 Meiosis
+Explain the importance of cell division
+4.3 Renowned Geneticist in
+Recognize the occurrence of cancer cells due to failure to con-
+Ethiopia
+trol the cell cycle
+Appreciate the works of renowned Ethiopian Geneticist
+4.1 Cell cycle
+Objectives
+At the end of this section, the student will be able to:
+define cell cycle,
+outline the different stages of cell cycle and
+collect information on cancer
+What are the main divisions of a cell cycle ?
+Before dealing with cell cycle, it is important to refresh your memory
+about cell structure and function, particularly the nucleus where key
+Why not a cell
+diminishes in size
+processes of cell reproduction takes place. The next activity (Activity
+through repeated cell
+4.1) gives you opportunity to construct at least two dimensional (2D)
+division? What should
+cell model to show an animal cell and arrangement of cell organelles
+happen before and after
+using a cardboard or stiff paper. You can follow the same procedure
+cell division to maintain
+to prepare a model of plant cell, where chloroplasts and cell wall are
+cell size?
+included as additional structures. The presence of cell wall in your
+model creates difference in the cytoplasmic division of plant cells and
+animal cells, which you will learn in the next lesson of cell division.
+Grade 10 Biology
+81
+Unit 4: Cell Reproduction
+ACTIVITY 4.1 MODELING
+Materials required: Card board or stiff paper. Glue, threads (with different colours), puncher, colored
+paper, small beads or small seeds (e. g. pea , chickpea, lentils), wool or cotton , Scissor
+Direction: Perform the activity in small group of two students sharing a seat or a table.
+First create a round boundary by colour thread to represent the shape and the cell membrane
+Fix the piece of rolled wool or cotton and the colour bead with glue at the center to show the
+position of the nucleus and nucleolus
+Then, fix small colored paper (punched out), beads (seeds of similar size or shape) and thin
+colour threads with glue to represent the different organelles as shown in the figure below
+Draw the diagram on a paper and label the parts without looking the Figure. Exchange your paper
+with your neighbor and make corrections to the parts labeled wrong.
+Discuss why nucleus is important for cell division. Identify the difference between nucleus and
+nucleolus.
+Mitochondrion
+Golgi apparatus
+Endoplasmic reticulum
+(Smooth)
+Vacuole
+Nucleus
+Nucleolus
+Endoplasmic reticulum
+(Rough - with ribosomes)
+Lysosome
+Cell membrane
+Cytoplasm
+A cell cycle is a sequence of events that takes place in the parent cell
+as a means of distributing genetic materials thereby forming daughter
+G2
+cells (Figure 4.1). There are two main divisions of the cell cycle:
+M
+Interphase and cell division.
+S
+Interphase is divided into three phases called G₁, S, and G2.
+G₁ Phase (First Gap): is the first stage of interphase. During this stage,
+G1
+cells are quite active metabolically. They accumulate the building
+blocks of chromosomal DNA and the associated proteins as well as
+store sufficient energy reserves to complete the task of replicating
+G1 growth
+each chromosome in the nucleus.
+S - DNA synthesis
+G2 - Growth and
+S Phase (Synthesis of DNA): is the stage of DNA replication
+preparation for mitosis
+(Synthesis).
+M Mitosis
+G2 Phase (second gap): is the stage where the cell replenishes its
+Figure 4.1 Stages of the cell
+energy stores and synthesizes proteins necessary for chromosome
+cycle
+manipulation and movement. Some cell organelles are duplicated
+during this stage. Cells may continue growing during the G, phase.
+Cells make the final preparations before entering into the mitotic
+phase.
+82
+Grade 10 Biology
+Unit 4: Cell Reproduction
+The cell division, on the other hand, includes nuclear division -
+Karyokinesis (mitosis, or, M - stage) followed by cytoplasmic
+division (Cytokinesis). This ultimately results in two identical
+daughter cells. Each daughter cell grows and starts the cycle the
+mother cell has undergone.
+In the next group activity you will have an opportunity to combine
+skills in computation with geometry to estimate time spent or
+determine the proportion (percentage) of each stage or phase of cell
+cycle using Figure 4.1. This can help you to create paper time clock
+taking one round cell cycle as 360 degree and assuming the whole
+cell cycle is completed within 24 hrs.
+ACTIVITY 4. 2 CRITICAL THINKING
+Direction:
+Form a small group of 2 or 3 students. Use Figure 4.1 while measuring degree of angles for each stage
+with corresponding time from the 24 hr ( Hint: 15° = 1 hr )
+For efficient way to accomplish your task, first divide the circle representing cell cycle into two halves
+down in the middle with a ruler, and then in half again horizontally. You will get four quarters of 90°.
+This can easily divide your cell cycle into 6 hrs of 15° each.
+Once the cell cycle is divided into four segments and the hours will be labeled (24 hr at the top) with
+one hr (15°) interval clock wise.
+Measure the degree bounding each stage of the cell cycle and calculate the exact time spent for
+each stage/phase of cell cycle.
+Use the formula : (Degree measured / 360°) X 24 hr. Then summarize you results as shown in the next
+table.
+Variable
+Interphase
+Cell division
+Total
+G¹
+S
+G2
+(mitosis + cytokinesis)
+Measured degree
+Time spent (hr)
+Percentage
+Questions
+What is the proportion of time spent in interphase as compared to cell division ( mitosis &
+cytokinesis)?
+Why does a cell spend most of its time in the interphase?
+Each stage of cell cycle is not static. What does this mean?
+What will happen if cell cycle is not controlled?
+The cell cycle in general and cell division has an internal controlling
+system that enables it to follow regular pattern. If such regulatory
+system fails to work properly, the cells excessively divide, and this
+may be called "cell madness". Cancer will occur as a result of failure
+Grade 10 Biology
+83
+Unit 4: Cell Reproduction
+of controlling cell division, Cancer cells do not respond normally to
+Attention
+the cell cycle controlling system; they divide in unregulated manner
+Cancer can start when the
+and may invade other tissues of the body
+controlling factors over cell
+division and cell growth fail.
+ACTIVITY 4. 3 INTERVIEWING KEY INFORMANTS
+Cancer occurs in the
+absence of growth factors
+Direction:
+allowing a cell to divide
+Go to the nearby health center around your school or your home
+continuously at very high
+and gather information by interviewing health workers about
+density at the expense of
+cancer.
+other normal cells.
+Your interview should include the following key questions:
+1. What is cancer?
+Cancer cells can have a
+number of problems:
+2. How does cancer affect a person?
+they might not be able to
+3. What should be done to prevent cancer?
+communicate with healthy
+4. How can cancer patients be treated?
+cells;
+they may not be able to
+carry out normal cells;
+4.2 The Cell division
+they may not securely
+Objectives
+anchor themselves like
+other cells do, which can
+At the end of this section, the student will be able to:
+make them more likely
+recognize the causes of cell division and
+to travel somewhere and
+explain the importance of cell division
+spread to other parts of the
+body.
+In grade 9, you have learned that a cell is the basic structural and
+functional unit of life. It is their ability to reproduce that distinguishes
+living organisms from non-living organisms. This ability has a cellular
+basis. There must be at least a single cell to have an organism, such
+Imagine scraping your
+as the unicellular organism amoeba. There are also multicellular
+elbow. In addition to
+organisms with a huge number of cells, which initially start with
+being uncomfortable, you
+will lose bunch of skin
+a single cell or few cells and become multicellular by repeated cell
+cells. How does your body
+division. As it is stated in cell theory, new cells arise from pre-existing
+make new cells to replace
+cells by cell division. This fundamental principle, known as the cell
+cells that are damaged or
+doctrine, was originally postulated by Rudolf Virchow in 1858, and it
+lost as a result of injury
+provides the basis for the continuity of life.
+or accident?
+Cell division is a basic process in all living things where a parent
+or mother cell, divides into two daughter cells. An ordered series
+of events involving cell growth and cell division that produces two
+new daughter cells are termed the cell cycle. Cells on the path to cell
+division proceed through a series of precisely timed and carefully
+regulated stages of growth, DNA replication, and nuclear and
+cytoplasmic division that ultimately produces two identical (clone)
+cells.
+As the cell grows the volume of cytoplasm relative to the cell
+membrane will be small that it will have .low surface area to volume
+84
+Grade 10 Biology
+Unit 4: Cell Reproduction
+ratio. As a result material transport across the cell membrane by
+simple diffusion will be inadequate for the cell to survive. Moreover,
+as the size of the cell increases the controlling power of the nucleus
+is highly minimized. Thus to solve these problems cell employs a
+mechanism called cell division by which one cell become two or
+What causes a cell to
+more.
+divide?
+You already know the cause of cell division, but it should also be
+What is the importance of
+noted that the cell is increasing its number as it divides repeatedly.
+cell division to organisms ?
+The increase in cell number in turn is important for many reasons.
+In unicellular organisms, cell division is a means of reproduction or
+getting new offspring. For instance, Amoeba is unicellular. When
+a single cell Amoeba divides, it has increased its population, i.e.
+ACTIVITY 4.4: PEER
+DISCUSSION
+Number of Amoebae (offspring). In multicellular organisms, cell
+division is a means of increasing cell number either for growth
+Direction:
+or to replace damaged/dead cells and repair the body. In sexually
+Carefully read the questions
+reproducing organisms it occurs around reproductive organs as a
+asked below. Think about
+means of getting gametes or sex cells.
+cell division taking place in
+human body. Discuss with
+From your previous lesson on cell cycle (Refer to Figure 4.1) cell
+a friend sitting next to you.
+division continues after G2 stage of the interphase. Cell division
+Compare your answers with
+consists of two sub divisions
+your classmates.
+i) Nuclear division (Karyokinesis) - results in the separation and
+Where does cell division
+distribution of duplicated genetic materials of mother cell (dividing
+occurs mainly for tissue
+cell) to daughter cells by mitosis or meiosis.
+renewal rather than
+growth - Is it in a child or
+ii) Cytokinesis (cytoplasmic division) - is the separation of the
+in adult human body?
+cytoplasmic components into the daughter cells.
+Mention our body
+Hereafter, you will learn the pattern of arrangement and redistribution
+part where cells are
+of the duplicated genetic material during mitosis and meiosis.
+undergoing continuous
+replacement. Why is this
+so?
+4.2.1 Mitosis
+Objectives
+What is mitosis?
+At the end of this section, the student will be able to:
+outline the pattern of mitotic cell division,
+tell how mitosis produces daughter cells as an exact copy of
+mother cell and point out the importance of mitosis
+Mitosis is a type of nuclear division where duplicated chromosomes
+of a single mother cell are distributed between two identical daughter
+cells, having the same number and kind of hereditary materials
+(chromosomes) as the parent nucleus. As a result, a diploid (2n)
+mother cell gives rise to two diploid (2n) identical daughter cells.
+Grade 10 Biology
+85
+Unit 4: Cell Reproduction
+How does a cell divide by mitosis?
+As illustrated in Figure 4.2, apart from cytokinesis (cytoplasmic
+division), mitosis as nuclear division (Karyokinesis) is divided into
+a series of phases namely; prophase, metaphase, anaphase, and
+telophase.
+Prophase
+Metaphse
+Anaphase
+Telophase
+Cytokinesis
+X
+Mother Cell
+Figure 4.2 Illustration of cell division by mitosis
+What happens in the different phases while a cell undergoes
+mitosis?
+Attention
+Detailed description of what actually happens at different phases of
+The term mitosis was
+mitosis is presented as follows:
+first coined by Walther
+Flemming in 1882
+1. Prophase (the "first phase"): During this phase
+when he discovered
+that chromosomes
+each duplicated chromosome, composed of two sister chromatids
+during cell division
+and, containing identical genetic material pairs up.
+split longitudinally to
+the nuclear membrane breaks down, the nucleolus disappears.
+distribute themselves
+chromosomes shorten, thicken and become visible.
+equally between two
+daughter cells.
+the centrosomes begin to move to opposite poles of the cell, and
+spindle fibres emerge from the centrosomes (two in numbers and
+The end result of
+located outside the nucleus) - Figure 4.2
+mitosis is growth of the
+eukaryotic organism
+Mitotic spindle
+microtubules
+and replacement of
+damaged or dead cells
+Centromenic
+region
+After fertilization (union
+of sperm cell and egg
+cell), the growth of the
+zygote occurs by cell
+Kinetochore
+division through mitosis
+into the 2 - cell stage,
+then 4 - cell stage, 8 -
+cell stage, 16 - cell stage,
+Sister chromatids
+and so. This is called
+Cleavage.
+Figure 4.3 Sister chromatids: Mitotic spindle emerging from the
+centrosomes
+86
+Grade 10 Biology
+Unit 4: Cell Reproduction
+2. Metaphase (arrangement phase)
+What is the significance
+During this phase
+of cell division through
+mitotic spindles are fully developed with centrosomes at the
+mitosis?
+opposite poles.
+chromosomes line up ( arrange themselves ) end-to-end along
+the centre or metaphase plate ( equatorial plane) of the cell.
+each sister chromatids are attached to a spindle fibre originating
+from opposite poles.
+3. Anaphase (migrating phase)
+During this phase cohesion proteins binding the sister chromatids
+together known as centromere, breakdown.
+separated sister chromatids are pulled apart by the mitotic
+spindle which drags one chromatid to one pole and the other
+chromatid to the opposite pole. This will ensure daughter cells
+receive chromosomes that are the same in number and kind.
+4. Telophase (a reverse of prophase)
+This phase is also known as a reversed prophase because what has
+disappeared during the interphase will reappear during the telophase
+and vice versa. Accordingly,
+nuclear membrane reappears and surrounds each set of
+chromosomes to create two new nuclei arriving at opposite
+poles.
+The mitotic spindle breaks down and disappears.
+Cytokinesis, also known as cytoplasmic division, will take place after
+the four stages of mitosis (nuclear division) are completed. However,
+its completion in animal cell is different from plant cell. As animal
+cell is surrounded only by cell membrane, cytokinesis enables the
+cytoplasm of the mother cell to pinch or constrict in the middle. As
+a result the two daughter cells entirely separate. However, as plant
+cell is surround by hard cell wall in addition to the cell membrane ,
+the cytoplasm cannot simply pinch off and fully separate; instead a
+new wall will be laid down between the two daughter cells, Thus,
+the two adjacent cells remained joined together by the middle wall
+- called middle lamella.
+The redistribution of duplicated chromosomes through mitosis is
+important to get two daughter cells from single diploid mother
+cell that are identical in quality and quantity of chromosomes.. The
+process of mitosis is important to increase cell number, which in
+turn is essential for growth. We, human beings, after the union of
+Grade 10 Biology
+87
+Unit 4: Cell Reproduction
+haploid (n) sperm and haploid (n) egg started as a zygote, which
+is diploid (2n). Then the zygote by repeated cell division through
+mitosis develops into multicellular organism. This is how we human
+beings are made up of million cells.
+Cells have a finite life span; they wear out or become damaged; so
+they need to be replaced continuously. The process of growth, repair
+and replacement of dead cells all rely on cell division through mitosis.
+Unicellular organisms like Amoeba also use cell division through
+mitosis to increase their number or population.
+http://www.differencebetween.
+Key terms
+net/science/difference-between-
+homologous-chromosomes-and-
+Spindle fiber - is long protein fiber extending from structures
+sister-chromatids/#ixzz72kDLiFk2
+called centrioles. It starts from the pole of the cell and extends up to
+the centre, where it is linked to duplicated chromosomes arranged
+for distribution. It is necessary to pull chromosomes separated
+towards the pole during the anaphase stage of cell division.
+Homologous chromosomes - are couples of one maternal and
+one paternal chromosome paired up during fertilization. They are
+paired chromosomes, each of which represents a parent for a unit
+character such as height, body colour, sex etc. The best analogy for
+homologus chromosomes, is paired shoe with the same number
+Every person like the unit character has same number, say shoe
+size 41, two in number and fit to the right and left feet of Mr/Mrs
+"X" or "Y". Likewise, in humans each diploid (2n) body (somatic)
+cell has 23 pairs of homologous chromosomes, giving a total of 46
+(2X23) chromosomes.
+Sister chromatids: Two copies of one maternal or paternal
+chromosome linked together by cohesive protein on the centromere.
+ACTIVITY 4.5 GROUP WORK
+Direction:
+A
+The figure below shows different phases
+of mitosis in onion cells as seen under
+B
+the microscope
+E
+Form a small group and carefully look
+at the figure, and based on your lesson
+about mitosis, identify the phases repre-
+sented by letters "A" to "E". Compare
+your answer with other groups and de-
+fend yourself if there is any difference.
+c
+D
+88
+Grade 10 Biology
+Unit 4: Cell Reproduction
+4.2.2 Meiosis
+Objectives
+What is meiosis? How
+does it differ from
+At the end of this section, the student will be able to:
+mitosis?
+outline the pattern of cell division by meiosis,
+tell the importance of meiosis and
+point out the difference between mitosis and meiosis
+The process of meiosis is a characteristic feature of organisms that
+reproduce sexually. It occurs in reproductive organs such as ovaries
+of female animals, testes of male animals, anther and ovules of
+flowering plants. Meiosis involves two fissions of the nucleus giving
+rise to four gametes or sex cells, each possessing half the number
+of chromosomes (n) present in the mother cell. Meiosis is called
+reduction division, as the final daughter cells are haploid (n) as
+compared to the diploid ( 2n) mother division.
+What would happen if the human gametes (sperm cell and egg cell),
+had 46 chromosomes like the other body cells? The answer is simple
+that there will be 92 chromosomes in the zygote, which will not be
+normal. Thus, during gametogenesis (gamete formation) in human
+ovaries and testes, the 46 chromosomes in the initial mother will be
+reduced by half to 23 chromosomes by meiosis. As a result, the sperm
+or egg cells nuclei will have 23 chromosomes (haploid, abbreviated
+as n). So, when sperm and egg join together at fertilization, a zygote
+that contains the normal number of 46 chromosomes (23 pairs,
+Why is meiosis so
+Diploid abbreviated as 2n) will be formed.
+important?
+Figure 4.4 depicts the different phases of meiosis I and II. A short
+description of each phase is presented in Table 4.1
+Meiosis I
+Mother cell
+(Diploid= 2n)
+Interphase
+Prophase I
+Metaphase I
+Anaphase I
+Telophase I
+Cytokinesis I
+Synapsis and
+Two Diploid
+Centrosomes
+Sister
+Nucleolus
+Crossing Over
+Spindle Fiber
+Chromatids
+Daughter Cells
+Cell
+Membrane
+XX
+Chromosome
+XX
+XX
+XX
+XX
+XX
+Nuclear
+Membrane
+Tetrad
+Centromere
+Cytoplasm
+Nucleus
+Meiosis II
+Prophase II
+Metaphase II
+Anaphase II
+Telophase II
+Cytokinesis II
+Sister
+Four Haploid
+Chromatids
+Daughter Cells
+Diploid
+XX
+11
+Daughter
+Cells from
+Meiosis I
+Figure 4.4 Illustration of
+meiosis I and Meiosis II
+Grade 10 Biology
+89
+Unit 4: Cell Reproduction
+Table 4.1 Description of the different stages of Meiosis I and Meiosis II
+Stage
+Description
+Prophase I
+Each chromosome appears shortened and thickened form two chromatids
+Homologous chromosomes pair up
+Metaphase I
+Chromosomes align on spindle fiber; lining up in the middle or metaphase plate
+The centromere joining sister chromatids do not separate
+The pair of chromatids from each homologous pair moves to the end (pole) of the
+Anaphase I
+cell.
+Reduction to haploid (n) will take place because homologous chromosomes of male
+and female parents separate
+The nuclear membrane reforms and the cells begin to divide.
+Telophase I
+In some cells, the cell continues to full cytokinesis while in other cells there may be
+prolonged interphase but with no further DNA duplication
+Prophase II
+New spindles are formed and the chromosome, still made up of paired chromatids
+moves toward the middle of the cell.
+Metaphase
+The chromosomes line up in the metaphase plate , with the spindle attached to the
+II
+sister chromatids of each chromosome coming from the opposite poles.
+Anaphase II
+The centromeres divide and sister chromatids separate and pulled to the opposite
+ends of each cell
+Nuclear membrane reappears, the chromosomes return to the interphase state
+Telophase II
+Cytokinesis follows giving four daughter cells each with half the chromosome num-
+ber of the initial parent ( mother) cell
+ACTIVITY 4.6 DEMONSTRATION
+Direction
+With your small group (two pairs of neighbouring students) discuss and attempt the following
+questions/task.
+Is it Meiosis I or Meiosis II that is similar to mitosis? Why so?
+What are the basic similarities between Mitosis and meiosis)?
+Prepare a table of comparison that shows difference between Mitosis and meiosis
+Let students bring threads with different colours (red and green). Show them how they start with
+homologus chromosomes (paternal and maternal chromosomes represented by red and green
+threads). Demonstrate the different stages of nuclear division with small pieces of the colour
+threads and show the result of chromosomal duplication and redistribution that occur first in
+mitosis and then in meiosis.
+Ask students to repeat what has been demonstrated and identify the difference in mitosis and
+meiosis
+90
+Grade 10 Biology
+Unit 4: Cell Reproduction
+4.3 Renowned Ethiopian Geneticist
+Objectives
+At the end of this section, the student will be able to:
+appreciate the work of a renowned geneticist and
+look for more Ethiopian Geneticist who contributed a lot to
+their field
+Dr. Melaku Worede
+Dr. Melaku Worede, a geneticist and agronomist, is renowned for
+employing science to benefit poor farmers and saving Africa's seeds
+from extinction. He was awarded the "Right livelihood Award" in
+1989" for preserving Ethiopia's genetic wealth by building one of the
+finest seed conservation centres in the world." He played key role
+in the establishment of the Plant Genetic Resource centre in Addis
+Ababa, where he became Director in 1979 and served for more than
+14 years - until retirement
+After retirement, Dr. Melaku developed his pioneer work on a
+framing based native seed (landrace) conservation, enhancement
+and utilization. He was able to develop and grow locally adapted
+native seeds (e.g., durum wheat) without commercial fertilizers or
+other chemicals. He was able to show that his native seeds exceeded
+their high in put counterparts on the average by 10 - 15% and the
+original farmers' cultivars by 20 - 25% in yield.
+ACTIVITY 4.6 PEER DISCUSSION
+Direction
+Carefully read the work of Dr. Melaku and share your
+impression with a friend sitting with you.
+Form a group of four students and look for more renowned
+Ethiopian Geneticists from books and /or the Internet. Organize a
+report to share with your classmates.
+Grade 10 Biology
+91
+Unit 4: Cell Reproduction
+Unit Summary
+A cell cycle is a sequence of events that takes place in the parent cell as a means of distributing
+genetic materials thereby forming daughter cells. There are two main divisions of the cell
+cycle: Interphase and Cell division.
+Interphase is the stage of preparation where a cell exhibits growth and DNA (genetic material
+synthesis)
+Cell division is nuclear division either by mitosis or meiosis followed by cytoplasmic division
+(cytokinesis).
+Cell division is a basic process in all living things where a parent or mother cell, divides into
+two cells, called daughter cells.
+Cell division is a means of growth and replacing damaged or dead cells in multicellular
+organisms. It is equivalent to reproduction in unicellular organisms.
+Mitosis is a division of the somatic (body) cells to form identical daughter cells. It has four
+stages namely prophase, metaphase, anaphase, and telophase.
+Meiosis is a division of reproductive cells, resulting in daughter cells sex cells (gametes) with
+half of the chromosomes in the initial or mother cell.
+In meiosis a cell divides twice, Meiosis I and Meiosis II, resulting in four daughter cells.
+In meiosis I, homologous chromosomes separate and move to opposite cells. This is a
+reduction by half, going from diploid (2n) to haploid (n).
+In meiosis II, sister chromatids separate and move to opposite poles of the cell.
+Meiosis occurs only in reproductive organs such as testes and ovaries while mitosis occurs in
+body (somatic) cells.
+92
+Grade 10 Biology
+Unit 4: Cell Reproduction
+Review Questions
+True - False items: Say "True" or "False" for the following statements on your exercise book.
+1. It is meiosis I that resembles mitosis.
+2. Homologus chromosomes are duplicated one parent chromosomes.
+3. Meiosis results in four haploid daughter cells.
+4. DNA duplication is the longest phase of the interphase.
+5. Prokaryotic organisms like Bacteria do not divide by mitosis.
+Matching items: Match the descriptions under "Column A" with the terms under "Column B"
+Column A
+Column B
+1. known as cytoplasmic division
+A) Anaphase
+2. paired maternal and paternal chromosomes
+B) Cytokinesis
+3. pull chromosomes to opposite ends of a cell
+C) Homologous chromosomes
+4. arrangement of chromosomes at the equatorial plane
+D) Interphase
+5. separation of sister chromatids
+E) Metaphase
+6. duplicated one parent chromosmes
+F) Sister chromatids
+G) Spindle fiber
+H) Telophase
+Short answers
+1. What is the importance of meiosis to sexually reproducing organisms?
+2. Mention at least two important features of cancer cells.
+3. What is the difference between interphase and prophase?
+4. What would happen if there is no cytoplasmic division at the end of telophase?
+5. If a cell is having 2n=40 divide by meiosis
+A. How many cells are formed at the end of meiosis i? Meiosis ii?
+B. How many chromosomes are there in each daughter cells at the end of meiosis i? Meiosis
+ii?
+C .How many set of chromosome(s)/is/ are there at the end of meiosis i? Meiosis ii?
+6. If a species A has 2n=28 chromosome and species B has 2n=32 chromosomes and allowed to
+interbreed together to produce another organism(species C). What would be the number of
+chromosomes in species C?
+7. What is the difference between haploid and diploid cells? Are your skin cells haploid or
+diploid? What about germ cells? Gametes?
+Grade 10 Biology
+93
