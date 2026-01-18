@@ -1,0 +1,1439 @@
+Unit Outcomes
+By the end of this unit, you will be able to
+Know basic concepts about transforming of the plane.
+Apply methods and procedures of transformation to transform plane figures.
+Unit Contents
+6.1 Introduction
+6.2 Translation
+6.3 Reflection
+6.4 Rotation
+6.5 Applications
+Summary
+Review Exercise
+I
+313
+Unit 6: Transformations of the Plane
+identity transformation
+initial point
+KEY
+Words
+non-rigid motion
+reflection
+rigid motion
+rotation
+standard position
+terminal point
+transformation
+vector translation
+6.1 Introduction
+In unit 5, you have discussed that various geometric and algebraic aspects of vector
+representation and vector algebra. In this unit, you focus on transformations and rigid
+motions which will be helpful to discuss translations, reflections and rotations.
+Activity 6.1
+Consider the following conditions and discuss what will happen to the shape or
+size or both of the object:
+a. when a spring is compressed or stretched.
+b. when the earth rotates about its axis.
+c. when you see your image in a plane mirror.
+d. when you draw your home's door.
+From Activity 6.1, you have observed that some mappings of objects preserve shape,
+size or distance between any two points and some other mapping of objects are not
+preserve shape, size or distance between any two points. Due to this reason,
+transformations are classified as either rigid motion or non-rigid motion. But in this
+section, you will focus only on rigid motions.
+314
+Unit 6: Transformations of the Plane
+Definition 6.1
+A
+A rigid motion is a motion which preserves distance.
+That means, for A and B, AB = A'B' where A' and B'
+are the images of A and B respectively
+B
+C
+as shown in Figure 6.1
+A'
+C'
+B'
+Figure 6.1
+Note
+Rigid motion carries any plane figures to a congruent plane figure. That means
+rigid motion carries triangles to congruent triangles, parallelograms to congruent
+parallelograms, etc.
+Within the rigid motion, there are three main types of transformations that you
+will learn in this unit. These are translation, reflection and rotations.
+6.2 Translation
+Activity 6.2
+R'
+y
+Consider a triangle PQR and discuss what will
+Q'
+happen to the shape, size and orientation of
+a triangle when you slide it as shown in Figure 6.2.
+P
+o
+x
+R
+Q
+P
+Figure 6.2
+I
+315
+Unit 6: Transformations of the Plane
+From Activity 6.2, you have observed that Д PQR and Д P'Q'R' have the same size,
+shape and orientation.
+Definition 6.2
+A translation is a transformation that occurs when every point of a figure is
+moved from one location to another location along the same direction through
+the same distance.
+If point P is translated to point P', then the vector PP' is called the translation
+vector.
+You can state a translation formula in terms of coordinates as follows:
+Let T = (a, b) be a translation vector, then
+T(a,b)
+a. The origin is translated to (a, b) That means (0, 0)
+(a, b)
+b. The image of the point P (x, y) under the translation vector T will be the point
+P' (x + a, y + b).
+Example 1
+1. Let T = (2, 3) be the translation vector. Find the image of the points A (2, 1),
+B (-1, 2) and C (-5, 1) through translation vector T.
+2. If translation T takes the origin to (-2, 2) then find the image of the points
+P (3, 5) and Q (-1, 4).
+3. The image of point (1, 2) under translation T is (2, 4). What is the image of the
+point (-2, 3) under the same translation?
+Solution
+1. To translate A (2, 1) through translation vector T = (2, 3), it has to move 2 units
+right and then 3 units up which is the point (4, 4) as shown in the Figure 6.3.
+316
+Unit 6: Transformations of the Plane
+y
+6
+B'
+5
+C'
+A'
+4
+2
+B
+1
+C
+A
+-6
+-5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+x
+-1
+Figure 6.3
+Hence, A' (4, 4) is the image of the point A (2, 1) under the translation vector T,
+AA' = (2, 3);
+i.e., A (2,1) T(a, b) A' (4, 4)
+Let us see the following table for some other points on the same graph and their
+corresponding images under the translation through translation vector T = (2, 3).
+No.
+Points in the Plane
+Corresponding images
+1
+A (2, 1)
+A' (4, 4)
+2
+B (-1, 2)
+B' (1, 5)
+3
+C (-5, 1)
+C' (-3, 4)
+4
+R (x,y)
+R'(x + 2, y + 3)
+From the above table, you can see that the image of any point under the translation T
+through translation vector (2, 3) is obtained by adding 2 to x-coordinate and 3 to
+y-coordinate of the given point; i.e., the image of R (x, y) is R' = (x +2, y + 3)
+Similarly, if the translation vector is PQ where P = (a, b) and Q = (c, d) then
+a. the origin is translated to (c - a, d - b)
+b. the point R (x, y) is translated to (x + c - a, y + d - b)
+2. The image of point P (3, 5) is P': (3 + (-2), 5 + 2) = (1, 7).
+The image of point Q (-1, 4) is Q': ((-1) + (-2), 4 + 2) = (-3, 6).
+I
+317
+Unit 6: Transformations of the Plane
+3. The translation vector is T = (2 1, 4 2) = (1, 2).
+The image of point (-2, 3) is (-2 + 1, 3 + 2) = (-1, 5)
+Example 2
+If A (-4, -4), B (-2, -1) and C (-1, -5) are the vertices of a triangle ABC, find
+the coordinates of the image of ABC under the translation T = (6, 5). Draw ABC
+and its image on the same plane.
+Solution
+As A (-4, -4), B (-2, -1) and C (-1, -5) are the vertices of ABC,
+the coordinates of the vertices of image of ABC can be obtained by using the
+formula below:
+you have, P(x, + a,y + b) (x + 6, y + 5).
+Hence, A': + 6, + 5) = (2, 1).
+y
+4
+B': (-2 + 6 , - + 5) = (4, 4).
+B'(4,4)
+3
+C': (-1 + 6,-5 + 5) = (5,0)
+2
+Graphically, you can show these
+1
+A'(2,1)
+-4
+-2
+2
+points as shown in Figure 6.4.
+O
+C"(5,0)
+B(-2,-1)
+x
+-1
+-2
+-3
+-4
+A(-4,-4)
+-5
+C(-1,-5)
+Figure 6.4
+I
+318
+Unit 6: Transformations of the Plane
+Exercise 6.1
+1. Let T = (2, 3) be the translation vector. Find the image of the pint A (-1, 4) and
+(3, 5) through the translation vector T.
+2. The image of point (-2, 3) under translation T is (3, -1). What is the image of
+the point (4, 2) under the same translation?
+3. A (-4, 2), B (0, 1) and C (-2, -3) are the vertices of ДАВС. If A' (-1, 6) be the
+image under the translation of vertex A, find the images B' and C' of B and C
+under the same translation.
+4. Draw a square S (1, 2), Q (4, 1), R (5, 4) and E (2, 5). Find the image after the
+translation (x,y) (x 2, y + 3). Then, draw and label the image.
+5. If a translation T takes the origin to (3, 4), then find the image of the points
+P (5, 7) and Q (-3, 6).
+Line Translation
+Example 3
+If a translation T takes the point (-2, 3) to the point (1, 2), then what are the images
+of the following line
+a. L: 3x-y+4=0 =
+b. L: 4y + 2x + 1 = 0
+Solution
+Let T be the translation vector, A = (-2, 3) and B = (1, 2). Then,
+T = AB =B - A = -(-2), 2-3) = (3, -1). Thus, T: (3, - 1).
+The point P (x, y) is translated to the point P' = (x', y').
+Here, x' = x + 3, y' = y - 1.
+Therefore, x = x' = 3, y = y' + 1
+319
+Unit 6: Transformations of the Plane
+A translation map lines onto parallel lines. Let L' be the image of L under T. Then,
+a. L: 3x - y + 4 = 0
+3(x' - 3) - (y' + 1) + 4 = 0 =
+3x' - 9 - y' - 1 + 4 = 0
+3x' - y' - 6 = 0
+L': 3x - y - 6 = 0.
+b. L: 4y + 2x + 1 = 0
+4(y' + 1) + 2 (x' - 3) + 1 = 0
+4y' + 4 + 2x' - 6 + 1 = 0
+4y' + 2x' - 1 = 0
+L': 4y + 2x - 1 = 0.
+Note
+Generally, a translation vector T: (a, b) translates point P (x, y) to point
+P'(x', y').
+The equation of P' (x', y') can be got by P
+P', x' = x - a, y' = y - b.
+Il
+Exercise 6.2
+1. If a translation T takes (1, -4) to (-3, 2), then find the image of the line
+L: 5x + 4y + 9 = 0.
+2. If a translation T takes the origin to (0, 2), then find the image of each of the
+following lines.
+a. y = 3x 1
+b.3y+x=12
+3. If the image of the line 2x - 3y = 7 under a translation is 2x - 3y = 0, then what
+is the translation vector of the translation line which is parallel to the x - axis or
+y axis?
+I
+320
+Unit 6: Transformations of the Plane
+Circle Translation
+Example 4
+If a translation T takes the origin to (-2, 2), then find the equation of the image for
+the circle whose equation is x² + y² = 4.
+Solution
+Let T be the translation vector. The image of (x, y) under T is T (x, y) = (x - - 2, y + 2)
+as shown in Figure 6.5.
+y
+4
+3
+C"(-2,2)
+2
+2
+r
+1
+C(0,0)
+x
+-5
+-4
+-3
+-2
+-1
+2
+3
+-1
+r = 2
+2
+Figure 6.5
+The centre of the circle (0, 0) is translated to (-2,2)
+Therefore, the image of the circle given by x² + y² = 4 is (x + 2)² + (y - 2)² = 4.
+Note
+As a translation is a rigid motion, to translate a circle it suffices to translate the
+center of the circle by the translation vector T (a, b) and keep its radius for the
+image too.
+I
+321
+Unit 6: Transformations of the Plane
+Exercise 6.3
+1. If a translation T takes the origin to (-3, 3), then find the equation of the image
+for the circle whose equation is x² + y² = 16.
+2. If a translation T takes the origin to (-6, 8), then find the equation of the image for the
+circle whose equation is x² + y² = 9.
+3. Find the equation of the image of the circle (x + 4)² + (y + 2)² = 7 when
+translated by the vector AB where A = (2, 3) and B = (-5, 4).
+4. Translate a circle x² + y² - 4y = 21 by the translation vector T (3, -5). Find the
+image circle.
+6.3 Reflection
+Activity 6.3
+Consider a triangle ABC and discuss what will happen to the shape, size and
+orientation of a triangle when you fold or flip over the fixed line as shown in
+Figure 6.6.
+C
+C'
+Pre-image
+Image
+B
+B'
+A'
+A
+equal
+Figure 6.6
+From Activity 6.3, you have observed that Д ABC and its reflection (4 A'B'C') have
+the same shape and size, but the figures face in opposite directions. Having these
+concepts, let us define reflection as follows.
+322
+Unit 6: Transformations of the Plane
+Definition 6.3
+Let L be a fixed line in the plane. A reflection A about a line L is a
+transformation of the plane onto itself which carries point A of the plane into the
+point A' of the plane such that L is the perpendicular bisector of AA'.
+The line L is called the line of reflection or the axis of reflection
+A
+L
+A'
+Figure 6.7
+Notation: The reflection of a point A about the line L, is denoted by M(A);
+i.e., A' = M(A).
+Basic Properties of Reflection
+1. A reflection about a line L has the property that, for two points A and B in the
+plane, if A = B, then M(A) = M(B). Hence, reflection is a function mapping
+the set of points in the plane into the set of points in the plane except
+reflection of points about the axis of reflection.
+2. A reflection about a line L maps distinct points to distinct points, i.e., if
+A # B, then M(A) # M(B). Equivalently, it has the property that, for points A
+and B in the plane, M(A) = M(B), then A = B. Thus, reflection is a
+one-to-one mapping.
+3. For every point A' in the plane, there exists a point A such that M(A) = A'.
+If the point A' is on L, then there exists A = A' such that M(A) = A'. Thus,
+reflection is an onto mapping.
+323
+Unit 6: Transformations of the Plane
+Now, consider reflections with respect to the line y = mx and the line y = mx + b for
+b # 0.
+A. Reflection in the line y = mx
+Let L be a line passing through the origin
+y
+and making an angle Θ with the positive
+P'(x',y')
+x-axis.
+You will now find the image of a point
+P(x,y)
+P (x, y) when it is reflected about the line
+Θ
+0
+L as shown in Figure 6.8.
+x
+L
+Figure 6.8
+You will have the following four special cases based on the value of Θ:
+1. When Θ = 0, = you will have reflection in the x- axis. Thus, (x, y) is mapped
+to (x, -y)
+Example 1
+Find a reflection of a point P (2, 3) over the x-axis.
+Solution
+y
+As shown in the Figure 6.9, the reflection is
+P(2,3)
+3
+P' (2, -3).
+2
+1
+-3
+-2
+-1
+O
+1
+2
+3
+x
+1
+2
+3
+P'(2,-3)
+Figure 6.9
+I
+324
+Unit 6: Transformations of the Plane
+2. When Θ - ², = 2 , you will have reflection in the y - axis and (x, y) is mapped to
+(-x,y).
+Example 2
+Find a reflection of a point P (2, 3) over the y - axis.
+Solution
+As shown in the Figure 6.10, the reflection is p'(-2,3).
+y
+3
+P' (-2,3)
+P(2, 3)
+2
+1
+-3
+-2
+-1
+O
+1
+2
+3
+x
+-1
+-2
+-3
+Figure 6.10
+3. When Θ = π/4 you will have reflection about the line y = x and hence (x, y) is
+mapped to (y, x).
+Example 3
+Find a reflection of a point P (-3, 2) over the line y = x. =
+I
+325
+Unit 6: Transformations of the Plane
+Solution
+y
+As shown in the Figure 6.11, the reflection is
+3
+P(-3,2)
+P' (2, -3).
+2
+y = x
+1
+-3
+-2
+-1
+0
+1
+2
+3
+x
+-1
+2
+-3
+P'(2,-3)
+Figure 6.11
+4. When Θ = 3r/4, 4 , you will have reflection about the line y = -x and (x, y) is
+mapped to (-y, -x).
+Example 4
+Find a reflection of a point P (2, 3) over the line y = -x.
+Solution
+As shown in the Figure 6.12, the reflection is P'(-3, -2)
+y
+P(2,3)
+3
+2
+1
+O
+-3
+-2
+-1
+1
+2
+3
+x
+-1
+V
+=
+x
+-2
+P'(-3,-2)
+co
+Figure 6.12
+I
+326
+Unit 6: Transformations of the Plane
+In general, reflection of points by the lines y = 0, x = 0, y = x and y = -x using
+coordinate rules for reflection are:
+1. If (x, y) is reflected in the x-axis (y = 0), then its image is the point (x, -y).
+2. If (x, y) is reflected in the y-axis (x = 0), then its image is the point (-x, y).
+3. If (x, y) is reflected in the line y = x, then its image is the point (y, x).
+4. If (x, y) is reflected in the line y = -x, then its image is the point (-y, -x).
+Exercise 6.4
+1. Find a reflection of a point P (4, 5) over the following.
+a. x-axis.
+b. y-axis
+c. the line y = x
+d. the line y = - x =
+2. The vertices of DEF are D (1, 4), E (5, 5), and F (4, 1). Find a reflection Graph
+Д DEF over the following.
+a. x-axis.
+b. y-axis
+c. the line y = x
+d. the line y = - x =
+Let L be a line passing through the
+y
+origin and making an angle Θ with
+the positive x-axis.
+Then, the slope of L is given by
+A
+A(x,y)
+m = tan Θ and its equation is y = mx
+a
+0
+as shown in Figure 6.13.
+o
+a
+x
+L
+Figure 6.13
+You will now find the image of a point A (x, y) when it is reflected about the line L
+as shown in Figure 6.13.
+Suppose α is the angle measured from positive x-axis counter clockwise to the vector
+OA and A'(x', y') be the image of A (x, y), and let OA = r, then OA' = r (why?).
+327
+Unit 6: Transformations of the Plane
+The coordinates of A are:
+x = r cosa and y = r sin α
+The angle measured from L to vector OA' is Θ - α. Thus, the angle measured from
+positive x-axis to the vector OA' is
+Θ+ (Θ - α) = 2Θ - α
+Therefore, the coordinates of A' are:
+x' = r cos (2 Θ - α) and y' = r sin (2 Θ -α)
+Now, use the following trigonometric identities
+1. Sine of the sum and the difference
+sin (α + ß) = sin α cos ß + cos α sin ß
+sin (α - ß) = sin α cos ß - cos α sin ß
+2. Cosine of the sum and difference
+cos (α + ß) = cos acos ß - sin asin ß
+cos (α - ß) = cos α cos ß + sin asin ß
+Using these trigonometric identities, you obtain:
+x = r [cos 2Θ cos α + sin 2Θ sinα] = (r cos α) cos 2Θ + (r sin α) sin 2Θ.
+= xcos2Θ +y sin 2Θ and
+y' y = r[sin 2Θ cosa - cos2Θ sinα] =(r cosa)sin2 Θ - (r sinα)cos2 Θ,
+= xsin2Θ - ycos2Θ
+Therefore, the coordinates of P'(x', y') is the image of the point P (x, y) when reflected
+about the line y = mx is:
+x' = x cos 2Θ +y sin 2Θ
+y' = x sin 2Θ - y cos 2Θ where Θ is the angle of inclination of the line L: y = mx.
+Example 5
+Find the image of the points A (2, 1), B (0, -3) and C (-6, 8) when reflected about
+the line 13. 1/3
+328
+Unit 6: Transformations of the Plane
+Solution
+Since tan Θ = 1/3/3 1
+Thus, if A' (x',y') is the image of A (2,1), then
+x' = x cos 2Θ + y sin2Θ = 2cos 2(ᵀ) 6 + 1sin2 (ᵀ) = 2cos 5 / 3 3 + π/3
+=
+y' = x sin 2Θ - ycos2Θ =2sin 2(ᵀ) - 1cos2 (6) = 5/3 3 = 2 X 13/2 2 1x 1/2 1/2 2
+- 2v3-1
+Therefore, the images of A (2, 1) is
+Again, if B' (x',y') is the image of B (0, -3), then
+x' = x cos 2Θ + ysin2Θ = 0 X cos 5 / 3 + (-3) 3 = 0 X 2 1 -3 X 2 = -3√3 2
+y' = x sin 2Θ y cos2Θ = 0 X sin 5/3 (-3) = 0 X ½/2 2 + 3x 1/2 2 1 = 3 2
+Thus, the image of B (0, -3) is B' 3).
+Similarly, if C' (x',y') is the image of C (-6, 8), then
+x' = x cos 2Θ + y sin2Θ = - 6 X cos 3 + 8 sin⁷ 3 = 6 X 2 1 + 8 X 2 = -3 + 4v3
+y' = x sin 2Θ - y cos2Θ = 6 X sin 5/3 8 cosᵀ³ 3 = - 6 X √3 2 8 X 1/2 2 1 = -3 √3 - 4
+Thus, the image of C (-6, 8) is C' (- 3 + 4V3, , - 3 √3 4).
+Exercise 6.5
+1. Find the image of the point (0, 1) when reflected about the line y = √3x.
+2. Find the image of the point (2, 3) when reflected about the line y = -V3x.
+3. Find the image of the point (3, 0) when reflected about the line y = 2x.
+I
+329
+Unit 6: Transformations of the Plane
+B. Reflection in the line y = mx + b
+1. Reflection of a point in the line
+Let L: y = mx + b be the line of reflection, where mER\ {0}.
+Let A (x, y) be a point on the plane, not on L.
+Let (x', y') be the image of A (x, y) when reflected about the line L.
+A(x,y)
+y
+B
+0
+x
+L:y = mx + b
+A'(x',y')
+Figure 6.14
+Let S be the line passing through the points A (x, y) and A' (x', y'), AA' is
+perpendicular to L, since L is perpendicular bisector of AA' . Since the slope of L is
+m, the slope of AA' is - m.
+Then, one can determine the equation of the line AA' If B is the point of
+intersection of L and AA', taking B as the mid-point of AA', you can find the
+coordinates of A'.
+Thus, to find the image of a point A (x,y) when reflected about a line L, you follow
+the following four steps.
+1. Find the slope of the line L, say m.
+2. 2. Find the equation of the line AA' , which passes through the point A (x, y)
+and has slope 1/m. 1
+3. Find the point of intersection B of L and AA' which serves as the midpoint of
+AA'
+4. Using B as the mid-point of AA', find the coordinates of A'.
+330
+Unit 6: Transformations of the Plane
+Example 6
+Find the image of the point (4, 0) when reflected about the line L: y = 2x + 1.
+Solution
+Let A (4, 0) be a point on the plane, not on L.
+Let A'(x', y') be the image of A (4, 0) when reflected about the line L.
+y
+A' ( 5 16 , 18 5
+3
+2
+B
+1
+A(4,0)
+0
+-4
+-B
+-2
+-1
+2
+3
+4
+x
+y = 2x +1
+2
+3
+L
+Figure 6.15
+Let S be the line passing through the points A (4, 0) and A' (x', y'). AA' is
+perpendicular to L since L is perpendicular bisector of AA' and the slope of L is 2.
+Thus, slope of AA' is - 1/2.
+The equation of the line AA', which passes through the point A (4, 0) and has slope
+2 1 is y-0 x-4 = 2 1 => y = 2 1 X + 2
+Now, let us find the point of intersection B of L and AA' which serves as the
+midpoint of AA'
+Then, B is obtained by solving the system of linear equations { y y = 2x + 1 = 2 1 x + 2
+Thus, C 2 5 9)5 9 is its solution.
+I
+331
+Unit 6: Transformations of the Plane
+Using B as the midpoint, the image of A (4, 0) can be obtained by using the two
+points B (5,5) 2 9 and A (4, 0).
+Then, the image of the point A (4, 0) is:
+x'+4 2 25 2 5 -1/5 " 5 18/5
+Thus, the image of A (4, 0) is A'(-16, 18). 18 5
+Example 7
+Find the image of (-2, 4) when reflected about the lines
+a. y=-2
+b. x = 1 =
+Solution
+a. Line y = -2 is a straight line parallel to x-axis and at a distance of 2 units in
+negative direction of y-axis. Point (-2,4) is 6 units away from given line y = - 2. =
+Therefore, distance of image from the line is also 6 units. Thus, distance of image
+from x-axis = 6 + 2= 8 units in negative direction of y-axis. Thus, the image of
+the point (-2, 4) when reflected about the line y=-2 = is (-2, -8).
+b. Line x = 1 is a straight line parallel to y-axis and at a distance of 1 unit in positive
+direction of x-axis. Point (-2,4) is 3 unit away from given line x =1. Therefore,
+distance of image from the line is also 3 units. Thus, distance of image from
+y-axis = 3 +1=4 units in positive direction of x-axis. Thus, the image of the
+point (-2, 4) when reflected about the line x = 1 is (4, 4).
+Exercise 6.6
+1. Find the images of the points (4, 2) when reflected about the line y = 2x - 1.
+2. Find the images of the points (-3, -2) when reflected about the line y = -x - 2.
+I
+332
+Unit 6: Transformations of the Plane
+3. Find the image of (2, 4) when reflected about the lines
+a. y=1 =
+b. y=-2 =
+4. If the image of the point (-5, 4) under reflection is (3, 0), find the line of
+reflection.
+5. If P is the reflection of point (4, - 4) in the line 2y = x + 1, find the coordinates
+of point P.
+1. Reflection of a line in the line
+Note
+To find the images of a line S when reflected about the line L, take the following
+way.
+1. If a line AA' is perpendicular to the axis of reflection L, then AA' is its own
+image.
+2. If AA' is a line parallel to the line of reflection L, to find the image of
+AA' when reflected about L, we follow the following steps.
+a. Choose any point B on AA'.
+b. Find the image of B, M(B) = B'
+c. Find the equation of AA' which is the line passing through B' with slope
+equal to the slope of L.
+Example 8
+Find the image of the line S: - 3x +y=2 after reflection in the line L: y = x + 4.
+Solution
+Let s: y = 3x + 2 and s' be its image after reflecting about the line L: y = x+4.
+Let A (a, b) be any point on s, say A (0, 2), so that its image A'( a', b') lies on s' as
+shown in figure 6.16.
+333
+Unit 6: Transformations of the Plane
+y
+6
+5
+C
+A'
+4
+s'
+3
+2
+A
+L
+-3 -2 -1
+O
+1
+2
+3
+x
+S
+Figure 6.16
+By using the following reflecting procedure:
+a. Choose any point A on S.
+b. Find the image of A, M(A) = A'
+c. Find the intersection of L and S as C.
+d. Find the line passing through both A' and C. This line is the image s'
+M (0, 2) = (a', b') a' - 0 2 = 1
+a' = -b' + 2.
+The midpoint of (0, 2) and (a', b') which is (2) lies on the reflecting axis L.
+Then, from
+L: y = x + 4, it follows
++2
+So,a' = b' - 6.
+Since a' = -b' + 2 and a' = b' - 6, then
+-b' +2 = b' - 6
+It implies b'= 4 = and a' = -b' + 2 = - 4 + 2 = - 2.
+Therefore, A' (a', b') = A' ( -2, 4).
+I
+334
+Unit 6: Transformations of the Plane
+It follows that (- 2, 4) lies on s'.
+Now, let us find a point that belongs to both L and s, say C. Then C is obtained by
+solving the system of equations (y=x+4 ly = 3x + 2'
+Thus, (1, 5) is its solution.
+Finally, the equation of the image line can be obtained by using the two points of
+A' (-2,4) and C (1, 5).
+Then, the equation of the imaged line is:
+s': x-(-2) 1-(-2) y - 4 = 5 - 4
+or s': y - 4 x + 2 = 3' 1
+or s': x — 3y + 14 = 0.
+Thus, the image of line 3x + y =2 after reflecting about the line y = x + 4 is s':
+x - 3y + 14 = 0.
+Exercise 6.7
+1. Find the image of the line S: y = 2x + 3 after it has been reflected about the line
+L: y = x 2.
+2. What's the equation of the image of a line s: y = 3x + 4 when it is reflected along
+the line y = 2x 3?
+2. Reflection of a circle in the line
+Note
+1. If the centre of a circle C is on the line of reflection L, then the image of C is
+itself.
+2. If the centre O of a circle C has image O' when reflected about a line L, then
+the image circle has centre O' and radius the same as C.
+I
+335
+Unit 6: Transformations of the Plane
+Example 9
+Find image of the circle x² + y² - 4x - - 2y + 4 = 0 = after reflection in the line L:
+y = x - 1.
+Solution
+By applying completing square method on x² + y² - 4x - 2y + 4 = 0, =
+you find (x - 2)² + (y - 1)² = 1.
+Clearly, the centre of the circle is (2, 1) and it lies on the line of reflection y = x — 1
+Therefore, the circle is its own image.
+Example 10
+Given the equation of the circle x² + (y - 3)² = 1, find the equation of the circle after
+a reflection about the line y = x.
+Solution
+The centre of the circle is (0, 3). The reflection of (0, 3) about the line y = x is (3, 0),
+which is the centre of the image circle. Therefore, the equation of the image circle is
+(x 3)² + 2 = 1.
+Exercise 6.8
+1. Find the image of the circle x² + y² = 4 after reflection in the line L: y = x.
+2. Find the image of the circle (x - 4)² + (y - 1)² = 9 after reflection in the line
+L:y = x - 1.
+3. Given an equation of a circle (x - 1)² + (y - 2)² = 36, find the equation of the
+image circle after a reflection about the line y = x + 2.
+336
+Unit 6: Transformations of the Plane
+4. The image of the circle x 2 + x + 2y = 0 when it is reflected about the line L is
+x² +y² - 2x + y = 0. Find the equation of L.
+6.4 Rotation
+Activity 6.4
+1. Discuss rotation of points through 90 o and 180° about the origin.
+2. Consider a triangle ABC, discuss what happened the shape, size and
+orientation of a triangle when you turn counter clockwise it around a fixed
+point as shown in Figure 6.17 and try to define what does rotation of figures
+mean.
+C
+A'
+B
+A
+C'
+'B'
+90°
+O
+Figure 6.17
+As you have observed form Figure 6.17, when Д ABC is rotated about a point O or
+the centre of rotation to be the origin, Д ABC and Д A'B'C' have the same shape and
+size.
+Definition 6.4
+A rotation R about a point O through an angle Θ is a transformation of the plane
+onto itself which carries every point A of the plane into the point A' of the plane
+such that OA = OA' and m (< AOA') = θ.O is called the centre of rotation and Θ
+is called the angle of rotation.
+337
+Unit 6: Transformations of the Plane
+A. Rotation when the center of rotation is about the origin
+Note
+1. The rotation is in the counter clockwise direction, if Θ > 0 and in the clockwise
+direction if Θ < 0.
+2. Rotation is a rigid motion but the figures may be turned in different directions.
+O
+0 (Θ < 0)
+Θ (Θ > 0)
+O
+Figure 6.18
+Example 1
+Find the image of point A (2, 0) when it is rotated through 30° about the origin.
+Solution
+Let the image of the point A (2, 0) be A'(a, b) as shown in the Figure 6.19.
+y
+A' (3,1)
+1
+Θ
+A(2,0)
+-3
+-1
+1
+3
+-1
+Figure 6.19
+From trigonometry, you have A (a, b) = (r cos Θ, r sin Θ) where r = 2 and Θ = 30°
+338
+Unit 6: Transformations of the Plane
+Therefore, A'(a, b) = (2cos30°, 2sin30°).
+Hence, A' (a, b) = (2 (½), 2 ()) = (√3,
+Thus, the image of A (2, 0) is A'(√₃, 1).
+Notation
+If R is rotation through an angle Θ, then the image of A (x, y) is denoted by
+RΘ (x, y). For example, in the above example, R₃₀₀ (2, 0) = (3,1 1)
+Exercise 6.9
+Find the image of point P (3, 0) when it is rotated through the following angle about
+the origin:
+a. Θ = 45°
+b. Θ = 60°
+с. θ = 120°
+d. Θ = 135°
+e. Θ = 150°
+f. Θ = 45°
+g. Θ = -60°
+h. Θ = - 120°
+i. Θ = - 135°
+j.Θ = 150°
+Rotation when the center of rotation is about the origin (1)
+Theorem 6.1
+Let R be a rotation through angle Θ about the origin. If RΘ (x,y) = (x',y'), then
+x' = x cos Θ - y sin Θ
+y'= x x in Θ + y cos 0
+Proof
+From trigonometry, you have,
+(x,y) = (r cos α, r sin α) and (x',y') = (r cos (α + Θ), r sin (α + Θ)),
+where r cos (α + Θ) = r cos α cos Θ - r sin α sin Θ (cosine of the sum formula)
+= x cos Θ - y sin Θ
+because x = r cos α and y = r sin α
+and r sin (a + Θ) = r sin α cos Θ + r cos α sin Θ
+(sine of the sum formula)
+= y cos Θ + x sin Θ
+because x = r cos α and y = r sin α
+339
+Unit 6: Transformations of the Plane
+:. RΘ (x, y) = (x cos Θ - y sin Θ, y cos Θ + x sin Θ)
+y
+A'(x',y')
+r
+Θ
+r
+A(x,y)
+α
+o
+x
+Figure 6.20
+Example 2
+Find the images of the following points under a rotation by the indicated angle about
+the origin.
+a. (1, 3), 30°
+b. (3, - 4), 810°
+Solution
+From theorem 6.1, you have
+a.
+=
+= 1cos 30° - 3 Xsin 30°
+y'= x x in Θ y cos Θ
+= 1sin 30° + 3Xcos30°
+1/2 =
+2 2
+b. A rotation of 810 o is the same as two consecutive rotations by 360 o followed by
+a rotation by 90° (because 810 o = 2x360 O + 90°).
+I
+340
+Unit 6: Transformations of the Plane
+Hence, a rotation by 810 o is the same as a rotation by 90°. Thus, we can
+simply use theorem 6.1 for Θ =90°
+x' = x cos Θ - y sin Θ; x = 3, y = -4; Θ = 90°
+= 3 X cos (90°) - (-4) Xsin (90°)
+= =3x 0+ 4 x 1=4
+y'= x x in Θ + y cos 0
+= 3 X sin (90°) +(- 4) X cos (90°)
+=3 x 1-4x 0=3
+Thus, R 810° (3, -4) = R 90° (3, 4) = (4, 3).
+Exercise 6.10
+1. Find the images of the following points under a rotation by the indicated angle
+about the origin:
+a. (2, 4), 30°
+b. (4, -5), 5/2
+d. (2, 1), - 45°
+2. Determine the images of the following points after a rotation of the indicated angle
+about the origin:
+a. (-2,4),-60°
+b.(5,-6),-180°
+3r/2
+d. (3, 4), -540°
+Rotation when the center of rotation is about the origin (2)
+Note
+1. = 2
+Let R be a counter-clockwise rotation through an angle Θ about the origin. Then
+e = 2 2 (x',y') = (-y, x) This means when Θ=", = π
+=
+y' = x sin Φ + y cos 0 = x
+I
+341
+Unit 6: Transformations of the Plane
+Example 3
+y
+B(1,5)
+The image of a triangle ABC when
+5
+C'(-5,4)
+C(4,5)
+it is rotated through Θ = 5/2 or 90°
+4
+3
+about the origin is shown in Figure
+2
+6.21.
+B'(-5,1)
+1
+A'(-1,1)
+A(1,1)
+To see that this is a rotation of Θ =
+-5 -4 -3 -2 1
+o
+2
+3
+4
+5
+x
+-1
+π 2 , imagine point B attached to the
+-2
+red arrow. The red arrow is then
+-3
+-4
+moved 2 (Notice that the 5/2 2 or
+-5
+90 o is formed by the two red
+arrows).
+Figure 6.21
+Look at the new position of B, labelled B' = (-5,1). This same approach can be used
+for all three vertices.
+2. θ
+=
+π
+R(x,y) = (-x,-y).
+Example 4
+The image of a triangle ABC when it is rotated
+5
+y
+C(2,5)
+through Θ = π or 180 o about the origin is shown
+4
+in Figure 6.22.
+3
+Starting with ABC, draw the rotation of 180°
+2
+B(4,1)
+4(0,1)1
+centred at the origin. As you did in the previous
+o
+-4
+-3
+2
+-1,
+1
+2
+3
+4
+x
+example, imagine point B attached to the red
+B'(-4,-1)
+A'(0,-1)
+2
+arrow from the center (0, 0).
+-3
+-4
+Figure 6.22
+5
+("(-2,-5)
+I
+342
+Unit 6: Transformations of the Plane
+The arrow is then moved Θ = π or 180° (which forms a straight line). Notice the
+new position of B, labeled B' = (-4, -1).
+3. Θ = 3r/2 R (x, y) = (y, -x).
+Example 5
+The image of a quadrilateral ABCD when it is
+B(-1,4)
+y
+rotated through = 3r/2 or 270 o about the origin is
+("(3,4)
+3
+shown in Figure 6.23.
+N
+A(0.1),
+D(2,1) B'(4,1)
+-2 -1
+2
+3
+5
+Starting with quadrilateral ABCD, draw the rotation
+0
+4'(1,0)
+x
+of 270° centred at the origin. As you did in the
+-1
+2
+previous examples, imagine point A attached to the
+D'(1,-2)
+3
+("(4,-3)
+red arrow from the centre (0, 0). The arrow is then
+-4
+5
+moved 270°. Notice the new position of A, labelled
+A' = (1, 0).
+Figure 6.23
+4. Θ = 2nπ for n E Z
+R is the identity transformation.
+5. Every circle with centre at the centre of rotation is fixed.
+In general, you can summarize rotation of point centred at the origin as follows
+Rotation of 90°
+(x, y) becomes (-y, x)
+Rotation of 180°
+(x, y) becomes (-x, -y)
+Rotation of 270°
+(x, y) becomes (y, -x)
+Exercise 6.11
+1. A triangle CDE has vertices C = (2, 1), D= (5, 3) and E = (3, 4). Find the image of
+the triangle when rotated about the origin through an angle Θ = π 2
+343
+Unit 6: Transformations of the Plane
+2. Determine the image of the straight-line AB under an anticlockwise rotation of 90°
+about O in the Figure 6.24.
+3. If A (2, -2), B (3, -1) and C(-6,1) are the vertices of a triangle ABC as shown
+in Figure 6.25, determine the image of the triangle ABC under a clockwise
+rotation of 180° about the origin.
+y
+y
+A(2,5)
+5
+2
+C(-6,1)
+4
+-6
+-2
+o
+2
+x
+3
+B(6,3)
+B(3,-1)
+2
+-2
+A(2,-2)
+1
+-4
+O
+1
+2
+3
+4
+5
+6
+x
+Figure 6.24
+Figure 6.25
+4. Given an equation of a circle (x +1)² + (y + 3)² = 4, find the image circle under
+an anticlockwise rotation of 180° about the origin.
+y
+4
+2
+-6
+-4
+-2
+2
+x
+r=2
+-2
+C(-1,-3)
+-4
+-6
+Figure 6.26
+B. Rotation when the center of rotation is the point (a, b)
+In previous section, you saw rotation about the origin. In this section you will
+discuss rotation about an arbitrary point (a, b).
+I
+344
+Unit 6: Transformations of the Plane
+Consider the Figure 6.27 as shown below.
+y
+B
+A
+It indicates how the original triangle ABC that
+6
+has vertices A (4,7), B (2,7) and C (4, 2) is
+4
+rotated through 180° about the point (4, 1) to
+give triangle A'B'C'.
+2
+C
+(
+-2
+o
+2
+C'4
+6
+x
+-2
+-4
+A'
+B'
+-6
+Figure 6.27
+As you can observed from Figure 6.27, you can generalize the following formula:
+Corollary 6.1
+Rotation about the point (a, b) can be divided the following three
+transformation.
+1. Translation by T = (-a, = — b)
+(x₁', y₁') = (x - a, y b)
+The center of rotation is moved to the origin
+2. Rotation through an angle Θ about the origin
+x₂' = x₁' cos Θ - y₁' sin Θ
+y₂' = x₁' sin Θ + y₁' cos Θ
+3. Translation by T = (a, b)
+x₃' = a + x2' = a + x₁' cos Θ - y₁' sin Θ
+= a + (x - a) cos Θ — (y — b) sin Θ
+y₃' = b + y₂' = b + x₁' sin Θ + y₁' cos Θ
+= b + (x — a) sin Θ + (y - b) cos Θ
+345
+Unit 6: Transformations of the Plane
+Example 6
+Find the image of the point A (3, 4) when it is rotated through Θ = π about (6, 5).
+Solution
+From the corollary 6.1, you have,
+x' = a + (x - a) cos Θ — (y - b) sin Θ
+y' = b + (x - a) sin Θ + (y - b) cos Θ
+where (x, y) = (3, 4), (a, b) = (6, 5), Θ = π
+x' = 6 + (3 - 6) cos π - (4 - 5) sin π
+= 6 + (-3) (-1) - (-1) (0)
+= 9
+y' = 5 + (3 - 6) sin π + (4 - 5) cos π
+= 5 + (- 3) (0) + (-1) (-1)
+= 6
+Thus, the image of the point A (3, 4) after rotating 180° about (6, 5) is (9, 6).
+Note
+One can also obtain the image of a line under a given rotation as follows:
+1. Choose two points on the line.
+2. Find the images of the two points under the given rotation.
+Thus, the image line will be the line passing through the two image points.
+Example 7
+Determine the image of the line L:y = 3x + 1 after a rotation of Θ = 5/2 about the point
+(2, 2).
+I
+346
+Unit 6: Transformations of the Plane
+Solution
+From the above note, you choose any two arbitrary points, say (X₁, y₁ ) = (1, 4) and
+(X₂ , y₂ ) = (-2, -5) as shown in figure 6.28
+y
+12
+10
+8
+6
+4
+P
+2
+-12
+-10
+-8
+-6
+-4
+-2
+2
+8
+10
+12
+x
+B'
+-4
+C
+-6
+-8
+-10
+-12
+L
+Figure 6.28
+But from corollary 6.1, you have
+x' = a + (x-a) cos Θ - (y - b) sin Θ
+y '= b + (x - a) sin Θ+ (y - b) cos Θ
+where (x, y) = (X₁, , y₁ ) = (1, 4) or (X₂ , Y₂ ) = (-2, - -5), (a, b) = (2, 2) and = F/N 2
+Thus, P (X₁, y₁) = (a + (x₁ - a) cos Θ - ( y₁ - b) sinΘ, b + (x₁ - a) sin Θ +
+( y₁ - b) cos Θ)
+P (1, 4) = (2 + (1 -2) cos "2 (4 - 2) sin⁻,, 2 + (1 - 2) sin⁻₂ + (4 - 2) cos⁻²)
+= (2 - 0 - 2(1), 2 - (1) + 2(0))
+= (0, 1)
+P (X₂ , y₂ ) = (a + (X₂ -a) cos Θ - (y₂ - b) sinΘ, b + (X₂ - a) sinΘ + (y₂ - b) cos Θ)
+P (-2, -5) = (2 + (-2 -2) cos⁻₂ π - (-5 - 2) sin⁻, π 2 + (-2-2) sin₂ π 2 +
+(-5 - 2) cos⁻)
+= (2 + ((-2-2)0) - ((-5 - 2) 1), 2 + ((-2-2)1) + ((-5 - 2) 0)
+= (9, -2)
+I
+347
+Unit 6: Transformations of the Plane
+Now, let L' be the imaged line containing the points (0,1) and (9, -2).
+Thus, slope of L' = -2-1 9 - 0 = 3-1
+1
+Note
+As in the case of translation and reflection, to find the image of a circle under a
+given rotation we follow the following steps:
+1. Find the centre and radius of the given circle.
+2. Find the image of the centre of the circle under the given rotation.
+3. Equation of the image circle will be an equation of the circle centred at the
+image of the centre of the given circle with radius the same as the radius of
+the given circle.
+Example 8
+Find the image of the circle (x + 4)² + (y - 6)² = 9 when it is rotated through Θ = π
+about (-7, -3).
+Solution
+From the above note, you compute only the image of the centre of the circle.
+The centre is (-4, 6) and its radius is 3
+But from corollary 6.1, you have
+x' = a + (x - a) cos Θ (y b) sin Θ
+y' = b + (x a) sin Θ + (y b) cos Θ
+where (x, y) = (-4, 6), (a, b) = (-7, -3), Θ = π
+x' = -7 + (-4- (-7)) cos π- (6 (-3)) sin π
+= + 3 (-1) -9(0)
+= 10
+I
+348
+Unit 6: Transformations of the Plane
+sinπ + (-3)) cosπ
+=-3 + 3 (0) + 9 (-1)
+= -12
+Thus, the equation of the image of the circle is (x + + (y + = 3².
+Exercise 6.12
+1. Find the image of (0, 1) after it has been rotated 45° about (5, 3).
+2. Find an equation of the line into which the line with the given equation is
+transformed under a rotation through the indicated angle about (0, 1):
+a. 2x-3y=5;0=8ᵐ
+b.
+3. Find an equation of the circle into which the circle with the given equation is
+transformed under a rotation through the indicated angle, about the (1, 0):
+a. x²+y²=3,0=3ⁿ
+=
+6.5 Applications
+In this unit, you discussed definition and properties of transformation (translation,
+reflection and rotation) with their application in determining the images of a point, a
+line, a circle and plane figures. Now, you will consider further applications involving
+transformations.
+Example 1
+F
+Figure 6.29 shows a reflection in line L.
+G
+a. Which two points are invariant?
+b. If the length of FG is 14cm, what is the length of GH?
+E
+c. If the length of FH is 16 cm, what is the length of
+L
+EH?
+H
+Figure 6.29
+349
+Unit 6: Transformations of the Plane
+Solution
+a. The invariant points are E and G.
+b. Let FG = 14cm then GH = 14cm. Since, GH = FG = 14cm.
+c. If the length of FH = 16cm then the length of
+EH = 2 1 (length of FH) = 2 1 X 16cm = 8cm.
+Example 2
+Given the translation (x + 6, y - 2), find the image of the point (2, 6).
+Solution
+The given translation is, (x,y) (x+6,y-2).
+It is given that (x,y) = (2, 6). Hence, the translated point is,
+(x + 6, y - 2) = (2 + 6, 6 - 2) = (8, 4).
+Exercise 6.13
+1. Figure 6.30 below shows a reflection in a horizontal axis. Some length in this
+Figure are AB = 4cm, HI = 3cm and FH = 3cm.
+A
+J
+H
+I
+B
+G
+L
+F
+E
+C
+D
+Figure 6.30
+a. What point is the image of I?
+b. What line segment is the image of CD?
+c. Write down any invariant points.
+d. What is the length of EF?
+e. What is the length of GH?
+f. What is the length of AC?
+350
+Unit 6: Transformations of the Plane
+2. A shape is formed with vertices (1, 6), (-3, -3), (-4, 5), and (-6, -4). Plot the
+image of this shape with respect to the translation (x, y)
+(x + 6, y + 1).
+Problem Solving
+1. Let D (-5, 3), E (-3, 0) and F(-5, -2) be the three vertices of a triangle. If
+this triangle is reflected about the line x = - 2, = what will be the new vertices
+D', E' and F'?
+2. ABC with A (1,1), B (7,-2) and C (1,-2) is rotated 90° about point R
+(-2,-4). What are the coordinates of the image of point B?
+y
+7
+6
+5
+4
+3
+2
+A
+10
+-5 -4 -3 -2 -1 -1
+1
+5 6 7 x
+-2
+-3
+C
+B
+-4
+'R -5
+-6
+Figure 6.31
+3. Triangle ABC has vertices at A (2,3), B (5,7), and C (5,3) in the coordinate
+plane. The triangle will be reflected over the x-axis and then rotated 180°
+about the origin to form AA'B'C' What are the vertices of AA'B'C'?
+351
+Summary and Review Exercise
+Summary
+1. Transformation of the plane
+a. Transformation can be classified as rigid motion and non-rigid motion.
+b. Rigid motion is a motion that preserves distance. Otherwise, it is non-rigid.
+c. Identity transformation is a transformation in which image of every point is
+itself.
+2. Translation
+A translation is a transformation that occurs when every point of a figure is moved
+from one location to another location along the same direction through the same
+distance:
+1. If point A is translated to point A', then the vector AA' is called the translation
+vector.
+2. If T = (a, b) is a translation vector, then
+i. The origin is translated to (a, b). That means (0, 0)
+(a, b).
+ii. The image of the point A (x, y) under the translation T = A' (x +a, y +b).
+3. Reflection
+Let L be a fixed line in the plane. A reflection M about a line L is a transformation of
+the plane onto itself which carries each point A of the plane into the point A' of the
+plane such that L is the perpendicular bisector of AA'.
+a. Reflection in the x-axis, M (x, y) = (x, -y).
+b. Reflection in the y-axis, M (x, y) = (-x, y).
+c. Reflection in the line y = x, M (x, y) = (y, x).
+d. Reflection in the line y = -x, M (x, y) = (-y, -x).
+e. Reflection in the line y = Tx, M (x, y) = (x', y') where
+x' = x cos 2Θ + y sin 20; y' = x sin 2Θ - y cos 2Θ and m = tan Θ
+352
+Summary and Review Exercise
+4. Rotation
+A rotation R about a point O through an angle Θ is a transformation of the plane onto
+itself which carries every point A of the plane into the point A' of the plane such that
+OA = OA' and m (<AOA') = Θ. O is called the centre of rotation and Θ is called the
+angle of rotation.
+1. If R is a rotation through angle Θ about the origin), then
+RΘ (x,y) = (x', y') = (x' = x cos Θ - y sin Θ, y' = x sin Θ + y cos Θ)
+2. Let R be a counter-clockwise rotation through an angle Θ about the origin. Then
+a. If = 5/2 then RΘ (x, = (-y,x).
+b. If = π then RΘ (x, y) = (-x, y).
+c. If Θ = 3r/2 then RΘ (x, y) =
+d. If =2n πthen RΘ (x, y) is the identity transformation.
+e. Every circle with centre at the centre of rotation is fixed.
+353
+Summary and Review Exercise
+Review Exercise
+1. If a translation T takes the point (3, -5) to the point (1, 4), then find the images
+of the following line and circle.
+a. 5x-3y=5
+b. y + 3x = 6
+C. x + 2y = 7
+e.x²+y² = 4
+=
+2. The image of the point A (4, 9) in a reflection is A' (5, 1). Find the line of
+reflection's equation.
+3. Find the image of the circle x 2 + y² - by = 3 when it is rotated through 5/3 3 about
+(-1,5).
+4. Rotate triangle ABC if A (5, 1), B (3, 2), C (3, -2) 90° clockwise about the
+origin, then reflect the image over the line x = 4. =
+5. If the image of the point (-3, 1) under reflection is (0, 2), then find the line of
+reflection.
+6. If the image of the line 3x - 4y = 11 under a translation is 3x 4y = 0. What is the
+translation vector of the translation line?
+7. Find the equation of the image of the circle x² + y² + 16x 24y + 183 = O
+when it is reflected about the line 4x + 7y + 13 = 0?
+8. If the line with equation 3x + 2y = 1 is rotated clockwise about the point (-1, 2)
+through Θ = 45°, then find the equation of this new line?
+9. Find the image of the circle (x + 10)² + (y + 12)² = 9 when it is rotated through Θ
+= 30° about (7, 3).
+10. Find the image of the line s:y=x+5 after it has been reflected about the line
+a.
+b.L:y=x-1. =
+C. L:y=1x+1.
+d.L:y=2x+1.
+354
+UNIT
+7
+STATISTICS

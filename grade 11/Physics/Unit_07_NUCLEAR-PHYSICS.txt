@@ -1,0 +1,1610 @@
+UNIT 7
+Steel
+pressure
+Y
+vessel
+Water
+elements
+NUCLEAR PHYSICS
+einforced concrete
+tainment and shield
+Introduction
+Nuclear physics is the field of physics that studies atomic nuclei and their constituents
+and interactions that hold them together. Nuclear interactions include radioactive decay,
+the break-up of a nucleus (fission), and the merging of nuclei (fusion).
+The main driving strong nuclear force produced by the nucleus of an atom acts within
+a very short distance - just a few femtometres ( metres) across. The strong nuclear
+force is the force that is responsible for the binding of protons and neutrons into atomic
+nuclei. The strong binding energy will help to produce strong radiation upon different
+reaction processes and radiation decay.
+Nuclear physics is the field of physics that studies atomic nuclei and their constituents
+and interactions that hold them together. Nuclear interactions include radioactive decay,
+the break-up of a nucleus (fission), and the merging of nuclei (fusion).
+The main driving strong nuclear force produced by the nucleus of an atom acts within
+a very short distance - just a few femtometres (10⁻¹⁵ metres) across. The strong nuclear
+force is the force that is responsible for the binding of protons and neutrons into atomic
+nuclei. The strong binding energy will help to produce strong radiation upon different
+reaction processes and radiation decay.
+A nuclide may be stable or unstable. Unstable nuclides emit radiations spontaneously.
+These radiations have different forms which are known as α, ß and Y radiation with
+charges similar to proton, electron, and neutron in the atomic system.
+Through research, nuclear physicists are leading us on a journey of discovery into the
+nucleus of the atom - the very heart of matter. The goal is a roadmap of matter that will
+help unlock the secrets of how the universe is put together. Significant efforts have been
+made from the early 19th century on the observation of different subatomic systems by
+different scientists. Nowadays, the research reactor (RR) and the power reactor (PR) are
+widely in use globally. Research reactors are small nuclear reactors that are primarily
+287
+Physics
+Student Text Book
+used to produce neutrons, unlike nuclear power reactors, which are larger and used to
+generate electricity. The two reactors are based on the fission processes. However, the
+fusion is still in progress in laboratories and computer work. In all these processes, it is
+important to aware that the fuel elements for nuclear reactions are heavy unstable nuclei
+such as U, Th, K, Pt and so on.
+Nuclear radiations have very powerful ionization effects; some of which is fatal to
+human beings if proper precautions are not in use. It is mandatory to use the nuclear
+safety rules of the International Atomic Energy Agency (IAEA) for the proper use of
+nuclear instruments and materials. There should be a separate inspection bodies for
+both the RR and PR once any country has these reactors in use.
+The purpose of this unit is studying the different properties of nuclei so far you have
+seen above, uses and quantitative measurements of nuclear energy; and precautions to
+be taken to take care of ionization radiations.
+At the end of the unit, students will be able to:
+appreciate the basic concept of the atomic nucleus.
+describe qualitatively the basic nuclear processes (concepts of
+radioactivity, and nuclear reaction).
+discuss the types of nuclear forces.
+explain application of radioactivity and nuclear reaction to society.
+describe the application of radioactivity and nuclear reaction to explain
+the energy source of stars.
+define terms like nuclear fission, nuclear fusion, and isotope.
+gain the basic knowledge of nuclear medicine.
+demonstrate high level of awareness to protect themselves and their
+community from radiation hazard.
+7.1 The nucleus
+At the end of this topic, you should be able to:
+identify particles inside the nucleus
+discus the historical origins of the particles of the nucleus
+define and discuss isotope of an atom
+describe the relationships between nuclear mass and binding energy of
+isotopes;
+calculate binding energy of the nucleus of different isotopes;
+identify the nuclear forces, (strong nuclear force, weak nuclear force)
+288
+Grade 11
+?
+Brainstorming:
+Discuss in small groups and tell to the whole class about the following.
+1. Discus about the volume and the mass of the nucleus compared to that of
+the atom; about constituting particles of the nucleus and their charges.
+2. Who discovered the nucleus? How?
+3. What force keeps protons and neutrons at the center of the atom? What
+force keeps the electrons and the nucleus together?
+About the Atom
+Atoms are the basic building blocks of matter. An atom consists of a positively
+charged central nucleus that is surrounded by one or more negatively charged
+electrons. The nucleus contains one or more relatively heavy particles known
+as protons (positively charged) and neutrons (electrically neutral), which are
+collectively called nucleons. Table 7.1 summarizes charges and masses of the
+three subatomic particles.
+Proton
+Nucleus
+Neutron
+Electron
+Figure 7-1: Structure of an atom- Every atom has these particles except the smallest
+isotope of hydrogen which has no any neutron.
+Table 7-1: Mass and charge of subatomic particles
+Subatomic particles
+Charge (in C)
+Mass
+(in kg)
+(in u)
+Electron
+0.00054858 U
+- 1.602 X 10⁻¹⁹
+9.1094 X 10⁻³¹
+Proton
+1.0072766 U
++1.602x10⁻¹⁹
+1.6726 X 10⁻²⁷
+Neutron
+O
+1.0086654 U
+1.6749 X 10⁻²⁷
+Note: Where 1 amu (atomic mass unit) = 1.660 X 10⁻²⁷ kg.
+289
+Physics I Student Text Book
+Since the mass of an electron is comparatively very small, only the nucleus contributes
+to the mass of an atom, which typically contains more than 99.9% of the mass of
+the atom. Thus, the sum of the number of protons and neutrons in the nucleus is
+expressed as mass number (A) and the number of protons is its atomic number (Z)
+for a neutral element. A neutral element in the periodic table of chemical symbol X
+is uniquely designated by:
+AX
+Some examples of designation of elements are oxygen 16, helium 4 2 He and carbon
+1². Although the nucleus contains much of the mass of the atom, it is very dense
+and occupies only less than 0.01% of the volume of the atom. The atom and the
+nucleus are assumed spherical and the atomic radius is estimated by:
+where A is the mass number of the atom; R₀ is the radius of the nucleus which is
+roughly equal to R₀ = 1.2fm and 1 femtometer (1 fm) = 10⁻¹⁵ m.
+Isotopes
+An element may have atoms with different number of neutrons. Atoms with the same
+number of protons but different numbers of neutrons are called isotopes.
+They share almost the same chemical properties, but differ in mass and therefore
+in physical properties.
+Key terms:
+Atomic nucleus consists of electrically positively charged particles called protons
+and electrically neutral particles called neutrons. These are held together by the
+strongest known fundamental force called the strong nuclear force.
+Isotopes are members of a family of an element that all have the same number of
+protons but different numbers of neutrons.
+Some examples of isotopes of elements:
+Carbon isotopes: ¹², ¹³C and 14.
+Hydrogen isotopes: (protium), (deuterium) and ³H(tritium).
+Uranium isotopes: 232 90 U, 233 90 U, 234 90 U, 235 90 U, 236 90 and 238 90 U.
+290
+Grade 11
+Example 7.1
+Calculate the radii of the smallest isotope of hydrogen (|H) and uranium-238.
+Compare the volume of U-238 atom with the volume of its nucleus.
+Solution:
+The radius of1H is
+The radius of U-238 becomes
+The volume of U-238 atom is,
+The volume of the nucleus of U-238 atom,
+Taking the ratio of the first to the second one, we obtain
+V -
+The volume of the nucleus is 0.0565% of the volume of the atom.
+7.1.1 Historical origins of the nucleus and its constituting particles
+?
+Activity 7.1:
+Collect pictures and diagrams showing particles of the nucleus, important
+physicists who contributed to the discovery of the nucleus and its constituent
+particles; illustrations of experiments related to the nucleus.
+Discus in groups why electrons could not be part of the nucleus.
+291
+Physics
+Student Text Book
+Discovery of the nucleus
+In 1909, two of Lord Rutherford's students, Geiger and Marsden, aimed positively
+charged particles (stream of helium at an extremely thin piece of gold
+foil (100 nm thickness). In order to study the deflection caused by the a-particles,
+they placed a fluorescent zinc sulfide screen around the thin gold foil. They used the
+apparatus similar to that shown in Figure 7.2.
+zinc sulphide
+Most CL particles travel
+screen
+through the foil
+undeflected
+vacuum
+Gold
+Foil
+Some CE particles are
+Detector
+deflected by small
+angles
+Beam of a particles
+Occasionally, on X
+particle travels back
+from the foil
+Radioactive
+Source
+Figure 7-2: Rutherford's scattering experiment apparatus
+Rutherford repeated the experiment many times, and come up with the same result.
+His evidences and conclusions are summarized as follows.
+Evidences
+Conclusions
+Most of the -particles passed through the gold
+Most of the space in an atom is empty.
+sheet with no or small deflection (0°-10°).
+Some of the particles were deflected by very
+The positive charge in an atom is not uniformly
+small angles (10° 90°)
+distributed, but concentrated in a very small volume.
+Very few of the -particles were deflected back
+Most of the mass of the atom, and all the positive
+towards the source (90°-180°), only very few
+charge, is concentrated in a tiny central space, what
+being at 180°.
+Rutherford called the nucleus.
+292
+Grade 11
+Based on his observations, Rutherford proposed a new atomic model in 1911, called
+the solar system model as all the positive charge and most of the mass is concentrated
+in a tiny central nucleus. Most of the atom is empty space, and electrons orbit at the
+edge. He also claimed that the electrons surrounding the nucleus revolve around it
+with very high speed in circular paths. He named these circular paths as orbits (See
+Figure 7.3).
+Nucleus
+Electron
++
+Figure 7-3: Rutherford's atomic model
+What are the drawbacks of the Rutherford atomic model? Rutherford's atomic
+model failed to explain the stability of electrons in a circular path. He stated that
+electrons revolve around the nucleus in a circular path, but electrons in motion
+would undergo acceleration and cause energy radiation. Eventually, electrons should
+lose energy and fall into the nucleus.
+Discovery of the proton
+Rutherford thought that a hydrogen nucleus must be the fundamental building block
+of all nuclei, and also possibly a new fundamental particle. Rutherford postulated the
+hydrogen nucleus to be a new particle in 1920, which he called proton. Rutherford
+named it the proton, from the Greek word "protos," meaning "first."
+Discovery of the neutron
+The British physicist James Chadwick discovered the neutron in 1932. He conducted
+experiments very similar to those of Rutherford. In Chadwick's case, he fired his
+atomic bullets at the element beryllium, not gold. The resulting collisions produced a
+new kind of particle that was just as massive as the proton, but it penetrated through
+several inches of lead.
+293
+Physics
+Student Text Book
+If you can take a particle and penetrate several inches of lead, it implies, first of
+all, that the particle is moving very fast; and second, that the particle is electrically
+neutral, it has neither a positive nor a negative charge. So Chadwick found that the
+neutron is indeed electrically neutral, and he also found that its mass is slightly
+greater than that of the proton. Finally, he determined the mass of the neutron using
+the law of conservation of energy and momentum as well.
+7.1.2 What keeps the nucleus together?
+You know that the positively charged protons and electrically neutral neutrons
+are packed together in the nucleus. Then, what is holding the cluster of nucleons
+together instead of repelling each other due to the electrostatic force and fly apart?
+This question takes you to consider the two fundamental forces of nature: the strong
+and weak nuclear forces.
+The strong and the weak nuclear forces
+The strong nuclear force is a very short-range attractive force that acts between
+nucleons: protons and neutrons. The strong nuclear force is strong enough to
+withstand the electrical repulsion up within a distance of slightly more than the
+radius of a nucleon, 10⁻¹⁵ m. Both nucleons are affected by the nuclear force almost
+identically.
+Look at the difference!
+At the range of 10⁻¹⁵ m (slightly more than the radius of a nucleon), the strong force is
+approximately 100 times as strong as electromagnetism, 10⁶ times as strong as the weak
+interaction, and 10³⁸ times as strong as gravitation.
+The weak nuclear force acts inside of individual nucleons, which means that it is
+even shorter ranged than the strong nuclear force. The weak nuclear force can split
+the electrically neutral neutron into a proton and an electron. In this process, sub-
+atomic particles are released near the speed of light. These fast particles allow nuclear
+fusion reaction- combination of two or more nuclides to form a single nuclide- by
+then releasing enormous energy.
+Key terms:
+The Strong Nuclear Force is an attractive force between protons and neutrons that
+keeps the nucleus together.
+The Weak Nuclear Force is responsible for the radioactive decay of certain nuclei.
+Nuclear binding energy is the energy required to separate an atomic nucleus
+completely into its constituent protons and neutrons, or, equivalently, the energy
+that would be liberated by combining individual protons and neutrons into a single
+nucleus.
+294
+Grade 11
+Nuclear binding energy
+Nuclear binding energy is the energy that holds nucleons together. Another equivalent
+definition of binding energy is the minimum energy that is required to disassemble
+the nucleus of an atom into its constituent nucleons. Now the question is how can we
+determine the binding energy of a nuclide?
+The mass of an atomic nucleus is less than the sum of the individual masses of the
+free constituent protons and neutrons. This difference in mass (L) is known as the
+mass defect. Once the mass defect is known, the nuclear binding energy (BE) can
+be calculated using Einstein's special theory of relativity, which states that mass and
+energy are equivalent. The remarkable equivalence between matter and energy is
+given in one of the most famous equations given by E = mc²; where m is the mass
+converted in to an amount of energy E and c =3x10⁸ m/s is the speed of light. From
+this theory, we can deduce that the mass defect is an amount of mass released in
+the form of energy during the formation of the nucleus. This energy is equal to the
+binding energy, which is then given by
+BE = Amc2
+Masses of subatomic particles are measured in "atomic mass unit (amu or u)";
+1 amu (or 1 u) = 1.660 10⁻²⁷ kg
+Nuclear energy is measured in "atomic energy unit (aeu)"; or "megaelectron volt
+(MeV)";
+1aeu = c² x1 amu = 1.44x10¹J
+1MeV = =1.602 J, and laeu = 931.1MeV
+The mass defect of an atom can be calculated by:
+where Zmₚ is the total mass of the protons; (A Z)mₙ n is the total mass of the neutrons,
+and M is the mass of the nucleus.
+Using this into the former equation, we obtain:
+Therefore, when mass is given in amu, the nuclear binding energy of a nucleus in
+MeV becomes,
+BE=[Zm,+(A-Z)m₁-M]x931.1MeV
+295
+Physics I Student Text Book
+Masses of subatomic particles
+mₚ = 1.0072766u, mₙ = 1.0086654 u, and mₑ = 1836 mₚ = 0.00054858 u
+Binding energy per nucleon: Binding energy per nucleon (BEN) is the average
+energy required to remove an individual nucleon from a nucleus. It is one of the
+most important experimental quantities, which is defined by
+BEN = BE BE BE A
+where BE is the binding energy and A is the atomic number of the atom.
+Example 7.2
+You know that an atom of oxygen has the form 16.
+a) What is the mass defect in oxygen nucleus?
+b) What is the binding energy per nucleon in Oxygen?
+Solution
+Z = 8, A = 16, mₚ = 1.00728 u, mₙ = 1.00867 u, mₙₙc = 16u
+a) The mass defect is
+Am = 8x1.00728 u + 16u
+Am = 0.1276 u
+b) The mass defect in amu is 0.1276. The binding energy in Oxygen is, then:
+BE = =[Zm,+(A-Z)m₁-M]x931.1MeV=Amx931.1Me\
+BE=0.1276x931.1MeV = = 118.808MeV
+The binding energy per nucleon in Oxygen:
+BEN = BE A = 118.808 16 ≈7.4MeV ≈
+296
+Grade 11
+?
+Activity 7.2
+Select few isotopes of some elements in the periodic table.
+Let individual students of your group do the calculations for the binding
+energy of different isotopes and the rest members of the group come up with
+a set of biding energy.
+Contribute your result in a whole class discussion about the least and highest
+binding energies.
+Give explanation about how the binding energy varies from isotope to isotope
+and from element to element
+Nuclear stability
+Nuclear stability is determined by the binding energy per nucleon. The net binding
+energy of a nucleus is that of nuclear attraction, minus the disruptive energy of the
+electrostatic force.
+9
+34S
+⁵⁶Fe
+84Kr
+119Sn
+¹⁶O
+8
+¹²C
+205Ti
+235U
+14N
+Most stable nucleus
+7
+4He
+238U
+Binding energy per nucleon (MeV)
+6
+7Li
+5
+6Li
+4
+Region of very
+stable nuclides
+3
+3H
+³He
+2
+1
+2H
+0
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+Mass number (A)
+Figure 7.4: A plot of the binding energy per nucleon as a function of mass number A.
+297
+Physics
+I
+Student Text Book
+Any system will always try and move to a state of lower energy (or more stable state).
+As nuclei get heavier than helium, their net binding energy per nucleon grows more
+and more slowly and reaches its peak at iron (Fe- 56), which is 8.8 MeV/nucleon,
+,
+as shown in Figure 7.4. As nucleons are added, the total binding energy increases
+but so does the total disruptive energy of the electrostatic forces and, once nuclei are
+heavier than that of iron, the increase in disruptive energy has more effect than the
+increase in binding energy. For example, the binding energy per nucleon of uranium,
+which is at the end of the periodic Table, decreases to about 7.6 MeV.
+N
+160
+Stable nuclei
+150
+Unstable nuclei
+25
+140
+OO
+210
+130
+190
+120
+180
+110
+160
+170
+100
+150
+Number of neutrons
+AD
+90
+130
+80
+170
+120
+70
+0.0
+100
+N Z
+60
+50
+?O
+80
+40
+50'
+60
+30
+to
+20
+OF
+10
+10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+Z
+Number of protons
+(atomic number)
+Figure 7.5: Graph of neutron number vs atomic number
+298
+Grade 11
+Review Questions 7.1
+1. Two nuclei have mass numbers in the ratio 27:125. What is the ratio of their
+nuclear radii?
+2. Consider the atoms ¹⁶, 18 O, 18 F, 18 Ne and 20 Ne.
+a. Which atoms are isotopes of the same element?
+b. Which ones have the same number of neutrons?
+3. X and Y are two elements with the same mass number but different atomic
+numbers 28 and 30, respectively. If X has a mass number of 58, what is the
+number of neutrons in Y? Are X and Y isotopes of the same element?
+4. In his experiment of gold foil, when Rutherford bombarded the alpha particles
+on a very thin sheet of gold foil, only very few of the projectiles were observed
+deflecting back.
+a. Which force was responsible for the deflection?
+b. What does it imply that most of the alpha particles were passed undeflected?
+5. What were failures in Rutherford's planetary model of the atom?
+6. Describe how neutrons were discovered.
+7. What are differences between strong nuclear force and weak nuclear force?
+8. What are the major differences between the electrostatic and nuclear forces?
+9. Calculate the binding energies per nucleon of the nuclei 26 56 Fe and 209 83 Bi in
+units of MeV. Use the following data: m(Fe-56) = 55.934939u, m(Bi-209) =
+208.980388u, mp= m(H-1)=1.007900 u, m (neutron)=1.008665 u.
+10. Explain factors affecting nuclear stability of isotopes.
+7.2 Radioactivity
+By the end of this section you should be to:
+define the terms radio-activity, and distinguish between the three types of
+emissions, alpha radiation, beta- radiation and gamma- radiation
+recognize and discuss dangers of ionizing radiation;
+discuss radioactive dating and radiation detectors;
+identify radioactive sources in the school, home, and workplace and
+recommend protective measures to the school community.
+299
+Physics
+Student Text Book
+In 1896, the French physicist Antoine Henri
+Do you know
+?
+Becquerel (1852-1908) accidentally found that
+uranium-rich mineral called pitchblende emits
+Pierre and Marie were award-
+invisible, penetrating radiations that can darken a
+ed the Noble Prize in Physics in
+photographic plate enclosed in an opaque envelope.
+1903 for their work on radio-
+Later it was found that there are some unstable
+activity. Marie Curie became
+isotopes that are emitting particles to be stable.
+the first woman to be awarded
+the Nobel Prize and the first
+Larger nuclides tend to have more neutrons than
+person to obtain two Nobel
+protons to reduce the disruptive energy and
+prizes when she won the prize
+stay stable. To reduce the disruptive energy by
+for the discovery of Polonium
+increasing number of neutrons and reducing
+and Radium in 1911. She later
+number of protons, the weak nuclear force converts
+discovered two new radioac-
+proton to neutron; or at some stage the only way
+tive elements: Radium and
+for the nucleus to reach a lower energy state will
+Polonium which took her sev-
+be to emit particles. All these processes that lead
+eral years since these elements
+unstable atoms to decay by particle emission are
+are difficult to extract and
+what we call radioactivity. unstable isotope is said
+extremely rare. Unfortunately,
+to be a radioisotope, and the energy that is released
+the Merry Curie died young.
+is called radiation. After an atom expels energy
+She died of aplastic anemia,
+from the nucleus, the composition of the nucleus
+almost certainly a result of
+changes, and we are left with a different element
+radiation exposure.
+that is more stable.
+Key term:
+Radioactivity is the phenomenon of the spontaneous disintegration of unstable
+atomic nuclei to atomic nuclei to form more energetically stable atomic nuclei.
+Radioactive decay is a highly exoergic, statistically random, process that occurs
+with a small amount of mass being converted to energy.
+Types of nuclear radiation
+There are three types of nuclear radiations: alpha (a), beta (ß) and gamma (y)
+radiation. Each of these comes about through a different process in the decaying
+nucleus, each one is composed of different particles and each one has different
+properties.
+Alpha Particles Radiation
+Alpha particles are subatomic fragments consisting of two neutrons and two protons,
+or helium nuclei (He-4). Alpha radiation occurs when the nucleus of an atom
+300
+Grade 11
+becomes unstable (the ratio of neutrons to protons is too low) and alpha particles
+are emitted to restore balance. Alpha decay occurs in elements with high atomic
+numbers, such as uranium, radium, and thorium. The nuclei of these elements are
+rich in neutrons, which makes alpha particle emission possible.
+When a radioactive atom decays by a-emission, it leaves a daughter nucleus of atomic
+number two less than the parent atom of atomic mass number four less than that of
+the parent atom. Thus,
+where X and Y are chemical symbols of the parent and the daughter nuclei,
+respectively.
+For example, the abundant isotope of uranium, U-238, decays by alpha emission to
+give a thorium atom which can be written in a form:
+238U
+Some sources of α radiation are americium-241, plutonium-236, uranium-238,
+thorium-232, radium-226, radon-222 and polonium-210.
+Beta-particle Radiation
+Unlike alpha radioactivity, beta radioactivity requires the weak nuclear force. There
+are two beta decay types; beta minus (-) and beta plus (+). Beta minus particles are
+energetic electrons emitted from a radioactive nucleus. Beta minus particle emission
+occurs when the ratio of neutrons to protons in the nucleus is too high. An excess
+neutron transforms into a proton and an electron. The proton stays in the nucleus
+and the electron is ejected energetically. This process decreases the number of
+neutrons by one and increases the number of protons by one. Thus,
+As we see in this reaction equation, any decay by beta-emission accompanies
+emission of an antineutrino, V. Take a look at the decay of the uranium daughter
+product thorium-234 into protactinium-234:
+Some beta negative emitters are tritium, cobalt-60, strontium-90, technetium-99,
+iodine-129, iodine-131, and cesium-137. There is also positron or beta plus
+emission. Like the beta particle, a positron is immediately rejected from the nucleus
+upon its formation. For example, potassium-38 decays by positron emission,
+301
+Physics
+Student Text Book
+becoming argon-38. Positron emission decreases the atomic number by one, but the
+mass number remains the same. Thus,
+AX
+Gamma-particle Radiation
+Gamma rays are high energy, high frequency, electromagnetic radiations. Gamma
+radiation usually accompanies alpha or beta decay. They have no charge and no
+mass so they rarely interact with particles in their path, so they have the least ionizing
+power of the three radiations. They are never completely absorbed, although their
+energy can be significantly reduced by several centimeters of lead, or several meters
+of concrete. If the energy is reduced to a safe level, gamma rays are often said to have
+been absorbed.
+Gamma emitting radioisotopes are the most widely used radiation sources. The
+three radionuclide's by far useful are: cobalt-60, cesium-137, and technetium-99 m.
+?
+Activity 7.3
+Discharge flame and radioactivity:
+Hold a candle flame near a charged electroscope and it discharges leaves of the
+electroscope. The reason is that the Flame produces ionization of nearby air.
+Repeat demonstration with opposite charge on electroscope. Holding weak
+radioactive source near electroscope may also cause discharge.
+Ionization and penetration powers of nuclear radiations
+When alpha, beta and gamma radiations, they produce ions and molecular fragments
+by knocking electrons from them. The greater mass presents the greater the ionizing
+power. Thus, alpha-radiation has the highest and gamma radiation has the least
+ionization powers.
+On the other hand, gamma-radiation has the highest and alpha- radiation has the
+least penetration powers. Alpha radiation can be stopped by paper and skin, beta
+radiation by aluminum sheet and gamma radiation can be blocked by 2 inches thick
+lead. Figure 7.6, compares penetrating powers of these radiations.
+302
+Grade 11
+Alpha
++
+Beta
+Neutron
+Gamma
+Paper
+Metal
+Water
+Concrete
+Lead
+Figure 7.6: Penetration of the alpha, beta, and gamma radiations. Neutron is added to
+show impact of charge on penetration power.
+Dangers of ionizing radiation
+When radiation passes through cellular tissue, it ionizes water molecules which
+change into free radicals. These radicals are highly reactive and can interact with the
+important genetic material in the cell, the DNA. In addition, the DNA may also be
+ionized directly. Damage caused by these interactions may be fully repaired, in which
+case, the cell remains viable. However, if the damage is not successfully repaired and
+the DNA is not restored completely, the cell may either die or mutate.
+Because the radiations ionize to different extents, the hazard level is also different for
+each one. The extent of the potential damage depends on several factors, including:
+the type of radiation
+the sensitivity of the affected tissues and organs
+the manner and length of time exposed
+the radioactive isotopes involved
+Characteristics of the exposed person (such as age, gender and under-
+lying condition).
+303
+Physics
+Student Text Book
+The depth of radiation damage is summarized below.
+Radiation
+Effect inside body
+Effect outside body
+type
+Alpha
+Highly ionizing - very dangerous
+Absorbed by surface layer of dead skin cells -
+radiation poisoning and cancer
+no danger
+possible.
+Beta
+Moderate ionization and danger
+Moderate SO exposure ionization and danger,
+should be minimized
+close exposure should be minimized
+Gamma
+Minimal ionization, cancer danger
+minimal ionization -cancer danger from long-
+from long-term exposure
+term exposure
+Effective Dose
+The risk of developing adverse health
+1 Gy is the deposit of a
+effects depends on the radiation dose. The
+joule of radiation energy
+higher the dose the higher is the risk of
+per kilogram of matter or
+adverse effects. Absorbed dose describes
+tissue.
+the amount of energy deposited per unit
+1 Sv = 1 joule/kilogram -
+mass in an object or person. The units
+a biological effect. The
+for absorbed dose are gray (Gy, sievert
+sievert represents the equiv-
+(Sv) and rad; where 1Gy = 1J/kg and
+alent biological effect of the
+1rad = 0.01 Gy = 0.01 J/kg.
+deposit of a joule of radia-
+tion energy in a kilogram of
+human tissue.
+Radiation doses above 3 Gy (300 rad) can be fatal and doses above 6 Gy (600 rad)
+are almost certain to be fatal, with death occurring within several months (in shorter
+times at higher doses). For gamma rays and electrons, above 1 Gy, radiation causes
+a complex of symptoms, including nausea and blood changes, known as radiation
+sickness. For doses below 1 Sv (100 rem), there is little likelihood of radiation
+sickness, and the main danger is an increased cancer risk.
+Safety precautions when using radioactive sources
+Radioactive sources which may be used in schools are usually very weak. They can
+only be used in the presence of an authorized teacher. They are kept in a sealed
+container except when they are being used in an experiment or demonstration. They
+are immediately returned to the container when the experiment or demonstration
+is finished.
+304
+Grade 11
+When using the radioactive source it should be:
+1. handled with tongs or forceps, never with bare hands.
+2. kept at arm's length, pointing away from the body.
+3. always kept as far as possible from the eyes.
+Hands must be washed after the experiment and definitely before eating.
+Radiation Detectors
+A radiation detector is a device that measures the ionization of radiations (i.e.,
+creating electrons and positively charged ions), such as beta radiation, gamma
+radiation, and alpha radiation with the matter. There are different types of radiation
+detectors, most widely ones of which are discussed below.
+Scintillators: A scintillator is a general term for substances that emit fluorescence
+when exposed to radiations of high energy- it is a type of phosphor. When a
+radiation collides with this substance, it absorbs its energy and internal electrons
+move from the ground state (stable state) to the excited state. When this electron
+returns to the original stable state, it releases its energy in the form of light emission
+(visible light or ultraviolet light), and this phenomenon called scintillation.
+The incident radiation can be measured quantitatively by photo-electrically
+converting/ amplifying the emitted fluorescence with a photomultiplier tube (PMT)
+or the like Figure 7.7 shows a type of a scintillation detector. Scintillation detectors
+represent the best means for detecting gamma or x-radiation and are the second-
+most common detector type after G-M tubes. They have the ability to distinguish
+between alpha, beta, and gamma radiation, and can be configured to produce
+correspondingly different sounds through a meter.
+Radiation
+Light
+Photomultiplier Tube
+Measuring
+Device
+Sodium-lodide
+Crystal
+Anode
+Photocathode
+Optical Window
+Figure 7.7: Scintilator
+305
+Physics
+Student Text Book
+Geiger counter: A Geiger counter, also known as the Geiger-Muller tube, is used
+to quickly detect and measure radiation. It exploits the natural process of ionization
+to detect and measure radiation. When exposed to radioactive radiations, the stable
+gas within the chamber ionizes. This generates an electrical current that the counter
+records over a period of 60 seconds.
+When ionization occurs and the current is produced, a speaker clicks and a reading
+is given - often in millisieverts (mSv). The central wire in between a gas-filled
+tube at high voltage is used to collect the ionization produced by incident radiation.
+Geiger counters can detect alpha, beta, and gamma radiation. However, they cannot
+differentiate which one is beta, or gamma or alpha radiation.
+B
+inert gas
+Y
+A
+HV
+Figure 7.9: Geiger counter
+?
+Activity 7.4: Demonstrations
+Work in a small group. Before you begin, make sure that you know the safety
+precautions that you must follow when using radioactive materials. Set up the
+equipment as shown in the figure below in cooperation with your teacher.
+data-logging computer
+absorbing material
+recording counts
+568
+radioactive source
+G-M tube
+paper
+aluminium
+holder for
+lead
+absorbing material
+The Geiger-Muller tube can detect all the three types of radiations. Place absorber
+sheets which progressively increase in density between the source and the detector,
+and record the average count rate in each case. You can also carry out the experiment
+306
+Grade 11
+using computer software to remove all risk of exposure to radiation hazards.
+Note that:
+Some counters can separate betas from gammas by absorbing the betas
+in a metallic cover.
+Few have windows thin enough to detect alphas.
+If you can detect betas and gammas, use aluminum sheets and lead
+sheets to show that betas are stopped by aluminum but lead is required
+to stop gammas.
+If there is no any detector in your school, it might be possible to contact a local
+hospital regarding the use of nuclear medicine for analysis or treatment. If a tour
+cannot be arranged, perhaps your teacher may invite a specialist and He/she can
+speak to the class.
+Use either a prism or diffraction grating spectrometer to show the difference
+between continuous or line spectra. A simple absorption spectrum can be shown
+by crushing leaves in alcohol. The chlorophyll solution will absorb at both ends of
+the spectrum. ß rays spectrum is continuous among a and Y rays spectrum.
+?
+Activity 7.5
+Research the common detectors for α-particle, ß-particle and y-rays
+In a small group: Research the various forms of detectors for nuclear radiation.
+Prepare a summary of your research to present to the rest of your class. Choose an
+appropriate format for your presentation.
+The half life
+Here, we consider a system containing many nuclei of the same species at some
+initial time. The number of any radioactive parent nuclei decreases with time since
+it emits radiation in the form of α, or ß emissions. The decay of a particular nucleus
+cannot be predicted and is not affected by physical influences like temperature. The
+rate of isotope decay depends on two factors.
+The total number of undecayed nuclei present in the system. That is, on
+doubling the average number of undecayed nuclei must double the rate
+of decay.
+The stability of the isotope. Some isotopes decay more rapidly than
+307
+Physics | Student Text Book
+others. The rate of decay gives the number of nuclei that decay per
+second.
+In general, the decay rate, called the activity, A, is given by
+At -AN
+where
+The negative sign shows the decrease in the number of the radioactive
+nuclei with time,
+N is the number of undecayed nuclei at the subsequent time t,
+The decay constant a of a radioactive nuclide is defined as its prob-
+ability of decay per unit time; having SI unit s⁻¹. It is a positive rate
+also called the exponential decay constant, disintegration constant, rate
+constant, or transformation constant.
+The SI unit of activity, A, is Becquerel (Bq); where 1Bq = 1 decay per second. We can
+also use the unit Curie, Ci, where 1 Ci = X 10¹⁰ Bq.
+The quantity of the parent radioactive nuclei is subject to exponential decay since
+it decreases at a rate proportional to its current value. This exponential decay law is
+given by
+=
+where N₀ is the number of undecayed nuclei at an initial time t0 = 0.
+In practice, the stability of radioactive nuclei against decay and the decay rate are
+most often estimated in terms of the half-life, t1/2, rather than the decay constant
+a. The half-life is defined as the time at which half of the original nuclei have
+decayed. Or, it can also be stated somewhat differently as the time after which one
+half of the original number of nuclei remains untransformed. Since nuclear decay is
+an example of a purely statistical process, a more precise definition of half-life is
+that each nucleus has a 50% chance of living for a time equal to one half-life, t1/2.
+The half-life of a certain decay can be determined by using N = N (t₁/₂) = N₀/2, in
+to exponential decay law as:
+Scientists predicted that the half-lives of naturally occurring nuclear reactions fall in
+a very wide range - vary from fractions of milliseconds like Radium C (), to billions
+of years like U-235 (4.5 billion years). For some induced radioactive elements
+(initially stable made radioactive by exposure to specific radiation), the half life is a
+few millionths or even hundred millionths of a second.
+308
+Grade 11
+?
+Activity 7.6:
+Perform experiments on Half life simulation using free applets available from the
+internet.
+Key term:
+The half life of a radioactive isotope is the amount of time it takes for one half of
+the radioactive isotope to decay.
+Why do we use a term like half-life rather than lifetime?
+The answer can be found by examining Figure 7.10, which shows how the number
+of radioactive nuclei in a sample of initial value N₀, decreases with time. The number
+of radionuclide's left at t₁/₂ is N₀/2. Half of the remaining nuclei decay in the
+next half-life (2t₁/₂), is N₀ / 4. Then, it becomes N₀ /8 in the third half-life and so
+on. For n integral numbers of half-lives, the number of original nuclides left, N, can
+be calculated by
+N = 2⁻ⁿ N₀
+No
+Number of
+N=No
+undecayed
+Nuclei
+No/2
+No/4
+No/8
+No/16
+t₁/₂ 2t1/2 3t₁/₂ 1/2
+Time(t)
+Figure 7.10: Number of undecayed nuclei vs time graph of a radioactive isotope
+Examples 7.3
+1) The half-life of radium is equal to 1590 years. What is the activity of 1 g of
+radium-226? Solution: t1/2 = 1590 yrs = 50176584000 S
+The gram molecular weight of Ra-226 is M = 226.0254098 g/mol. There are Nₐ =
+6.023 X 10²³ atoms/mol of radium. Therefore, the number of atoms of 1g of Ra-
+226 would be:
+309
+Physics I Student Text Book
+N = Nₐ X = 1gx6.023x10²³ atoms / mol =2.664x10²¹ atoms
+M
+226.0254098 g / mol
+The decay constant is,
+0.693
+0.693
+a =
+=
+=1.381x10⁻¹¹ₛ⁻¹ a = 0.693/t1/2=13.81 pBq
+t₁/₂
+50176584000s
+The desired activity is
+A = AN = X 10⁻¹¹ X 10²¹ = 3.6793 X 10¹⁰ Bq
+A = 150176584000s
+A = 1.23 x10¹⁰ Bq
+That is, the number of decays per second in one gram of radium is 12300 million.
+2) The radioisotope strontium-90 has a half-life of 38.1 years. If a sample contains
+400 mg of Sr-90, how many milligrams will remain when the age of the sample is
+190.5 years?
+Solution
+t1/2 = 38.1 years, t = 190.5 years
+From the equation t₁/₂ = =0.693/X, we obtain
+a = 0.693 = 0.693 = 0.018189 yr⁻¹
+Then the mass remained after 190.5 years becomes
+Review Questions 7.2
+1. In the radioactive decay of radon-222, both alpha and gamma radiation are
+emitted, with the latter having energy of 8.2 X 10⁻¹⁴ J per nucleus decayed:
+2226Rn
+2.
+How much energy does 1mol of Rn release in the form of gamma radiation?
+310
+Grade 11
+3. What can be the reason that tritium (H-3) isotope is a radioisotope where there
+is no electrostatic repulsive force in its nucleus? How does this isotope decay?
+4. Why does Uranium 235 decay via alpha decay (by the way of Thorium-231)
+into 231 Pa?
+5. You know that excessive exposure to radiation may damage living tissues and
+organs, depending on the amount of radiation received (i.e. the dose). Write
+some factors on which the extent of the potential damage depends on?
+6. It is known that radioactive decay is a statistical process. Is it possible to
+determine the constancy of t1/2, or a for a given radioactive element with one
+of few atomic nuclei?
+7. Determine the reaction equations of the decays of U-238 by alpha emission
+and Th-234 by beta minus emission?
+8. Does the probability per unit time that a radioactive nucleus will decay,
+increase, decrease or remain the same independent of time?
+9. Compare Geiger counter with Scintillator.
+10. Given alcohol, argon gas, oxygen and hydrogen gas, which one of these acts
+as ionizing gas in Geiger Muller counter?
+11. What is the activity of a sample of 100 million atoms of carbon-14? The decay
+constant, 2, is 3.84 X 10⁻¹² s-¹.
+12. Here is a table showing the activity of a sample of technetium-99, a gamma
+emitter which is often used in medical investigations. Plot the activity VS time
+graph to show this data and work out the half life
+Activity (Bq)
+Time (hours)
+4000
+O
+2000
+6
+1000
+12
+500
+18
+250
+24
+125
+30
+75
+36
+13. How do the electric charges of alpha, beta and gamma rays differ?
+14. How does the source differ for a beam of gamma rays and a beam of X rays?
+15. When beta emission occurs, what change takes place in an atomic nucleus?
+16. Among the three radiations, alpha, beta and gamma radiations, which radiation
+is the most fatal to the human beings?
+17. Why does neutron radiation attain the highest penetration depth compared to
+alpha and beta radiations?
+311
+Physics
+Student Text Book
+7.3 Use of nuclear radiation
+By the end of this section you should be able to:
+investigate the benefits and hazards (nuclear waste) of nuclear energy
+production;
+discuss and appreciate the application of nuclear medicine
+?
+Brainstorming questions
+1. Have you ever heard that goiter can be treated using radiations?
+2. Have you ever heard about how ages of fossils such as Lucy/Dinknesh are
+determined? Outside of some harmful applications such as nuclear weaponry,
+there remains a wide array/range of ways in which radioactive material and
+the radiation it gives off remain useful in the daily lives of people all over the
+world. The nuclear technologies are in use to improve agriculture, industries,
+medicine, water and sanitation and power generation. Among these, only two
+uses, namely, medical application and radioactive dating are discussed below.
+Medical applications of nuclear radiation
+Nuclear medicine uses radioactive material inside the body to see how organs or
+tissue are functioning (for diagnosis) or to destroy damaged or diseased organs or
+tissue (for treatment).
+For diagnosis, nuclear medicine can show how the organs or tissues are functioning.
+For most diagnostic procedures, a tracer, which contains the radioactive material,
+is injected, swallowed, or inhaled. Then, a radiation detector is used to see how
+much of the tracer is absorbed or how it reacts in the organ or tissue. The nuclear
+diagnostics are more often used in imaging.
+Some radioactive nuclides in use for diagnosis include fluorine-18, gallium-67,
+krypton-81m, rubidium-82, nitrogen-13, technetium-99m, indium-111, iodine-123,
+xenon-133, and thallium-201.
+To diagnose cancer, positron emitting nucleotides (PET) are used to scan for a
+short period. In this type of nuclear medicine, the tracer is used to show the natural
+activity of cells, providing more detailed information on how organs are working
+and if there is damage to the cells. Some common uses of PET scans include
+diagnosing heart disease, Alzheimer's disease, and brain disorders. PET scans are
+often combined with computed tomography (CT) scans or magnetic resonance
+312
+Grade 11
+imaging (MRI) which provides three-dimensional images of the organ.
+Nuclear treatment in Ethiopia
+Based on the basics of medical application, in Ethiopia, there are Nuclear Technology
+activities. Previously, the Black Lion Specialized Hospital (a teaching hospital under Addis
+Ababa University) uses radioisotope for the treatment of cancer.
+For treatment (Nuclear radiation therapy):- Radiation therapy is a type of cancer
+treatment that uses high energy beams to destroy cancer cells and shrink tumors.
+Cancer cells grow and divide faster than most normal cells. The radiation works by
+making small breaks in the DNA inside cells. These breaks keep cancer cells from
+growing and dividing and cause them to die. The radiation may injure noncancerous
+cells, but most are able to recover. There are two broad types of radiation therapy
+that doctors use to treat cancers: internal and external.
+External beam radiation, or teletherapy: In this type of treatment, the
+energy beams come from a machine outside of the body. The beam is
+precisely aimed and it penetrates the body to reach the cancer site. For
+example, such treatment can be carried out using a gamma beam from
+a radioactive cobalt-60 source.
+Internal radiation therapy: Brachytherapy and Systemic radiation thera-
+py: In Brachytherapy, a doctor places usually a gamma or beta emitter,
+in or near the cancer site. The implants come in different shapes, which
+include: tube, wire, capsule, seeds, and pellets. For example, io-
+dine-131 is commonly used to treat thyroid cancer and non-malignant
+thyroid disorders. It is produced in wire form. In Systemic radiation
+therapy, the patient requires swallowing a radioactive substance, which
+travels throughout the body to find and kill the cancerous cells. Alter-
+natively, a healthcare professional may inject the radioactive substance
+into a person's vein.
+?
+Activity 7.8:
+Contact a knowledgeable person such as a radiologist in a local hospital for
+demonstration regarding the use of nuclear medicine for analysis or treatment.
+If a tour cannot be arranged your teacher may perhaps invite a specialist to speak
+to the class.
+313
+Physics
+Student Text Book
+Radioactive dating
+Radioactive dating or radioisotope dating is a technique which is used to date materials
+by use of naturally occurring radioactivity.
+That is, in radioactive dating, scientists count the number of parent isotopes and
+daughter isotopes formed from the nuclear decay to determine how many half-
+lives have passed and provide a suggestion of the age of an object. Thus, once the
+isotopic abundances of each parent/daughter elements is determined using the
+mass spectrometer, the age (t), of the object can be calculated using the formula
+N=N0e^lambda*t.
+Its most famous application is carbon-14 dating. Carbon-14 has a half-life of
+5730 years. Radioactive carbon has the same chemistry as stable carbon, and so it
+mixes into the ecosphere, where it is consumed and becomes part of every living
+organism. Carbon-14 has an abundance of 1.3 parts per trillion of normal carbon.
+Thus, if you know the number of carbon nuclei in an object (perhaps determined
+by mass and Avogadro's number), you multiply that number by 1.3x10⁻¹² to find
+the number of ¹⁴C nuclei in the object. When an organism dies, carbon exchange
+with the environment ceases, and ¹⁴C is not replenished as it decays. By comparing
+the abundance of 14 C in an artifact with the normal abundance in living tissue, it is
+possible to determine the artifact's age (or time since death).
+Carbon-14 dating can be used for biological tissues as old as 50 or 60 thousand years,
+but is most accurate for younger samples, since the abundance of ¹⁴C nuclei in them
+is greater. Very old biological materials contain no ¹⁴C at all. There are instances in
+which the date of an artifact can be determined by other means, such as historical
+knowledge or tree-ring counting. These cross-references have confirmed the validity
+of carbon-14 dating and permitted us to calibrate the technique as well. Carbon-14
+dating revolutionized parts of archaeology.
+Localized Applications of radioactive dating
+Dinikenesh or Lucy was discovered in 1974 in Ethiopia, at Hadar, in Afar by
+paleoanthropologist Donald Johanson. After all her bone fragments were collected
+and reconstructed, Lucy was taken to USA so that her age is measured precisely.
+Which method was used to measure the age of Lucy? Can carbon dating be applicable?
+Carbon-14 has the same chemistry as stable carbon, and so it mixes into the
+ecosphere, where it is consumed and becomes part of every living organism. When
+the organism dies, carbon exchange with the environment ceases, and as a result
+C-14 is not replenished as it decays. Since the ratio of C-14 to total carbon nuclei is
+very small (about 1.3x10⁻¹²), C-14 concentration falls nearly to zero after about nine
+314
+Grade 11
+half-lives (about more than 50 thousand years). This implies that Lucy is too old for
+radiocarbon dating and hence other methods were employed to find her age.
+The appropriate method used was
+argon-argon (⁴⁰Ar-³⁹Ar) dating on
+tiny crystals in layers of volcanic
+ash sandwiching the sediments
+where Dinikenesh was found. In
+this measurement, her age was
+found to be 3.18 million years.
+Figure 7.11 shows several hundred
+fossils of Lucy 40% pieces of the
+skeleton of female found in Afar
+Figure 7.11: Several hundred fossils of Lucy
+region in Ethiopia.
+with 40 percent pieces.
+Review Questions 7.3
+1. State some uses of radioactive isotopes.
+2. Why might a radioactive source be injected into a patient?
+3. What are radioactive tracers used for?
+4. What is radioactive dating? Explain how it works.
+5. Injected radioactive sources can be used as tracers to make soft tissues, such
+as blood vessels or the kidneys, show up through medical imaging processes.
+Which radiation type should the radioactive source used emit?
+6. Depending on the object that scientists are trying to study, different radioactive
+dating techniques can be used. Why do scientists prefer to use:
+A.K-40 for dating of rocks that are older than 100,000?
+B. C-14 for dating of fossils and some rocks?
+7. How can carbon dating be used to measure age of dead organisms?
+8. List some commonly used element pairs to establish absolute ages.
+9. Right after scanning using radiation for diagnosis, does the body remain
+radioactive? Is it harmful to approach the irradiated person?
+315
+Physics
+I
+Student Text Book
+7.4 Nuclear Reaction and Energy Production
+By the end of this section you should be able to:
+distinguish between the two types of nuclear reaction;
+appreciate the sun as a big nuclear reactor.
+discuss the use (energy production, production of important isotopes, etc.)
+and misuse (nuclear bomb) of artificial nuclear reaction.
+Nuclear reactions are processes in which one or more nuclides are produced from the
+collisions between two atomic nuclei or from the collisions between a nucleus and
+a subatomic particle. In general, there are two types of nuclear reactions, namely;
+fission reaction, and
+fusion reaction.
+Nuclear fission reaction
+Nuclear fission is the splitting of a heavy atomic nucleus such as uranium-235, into two
+fragments of roughly equal mass. Nuclear fission is a form of nuclear transmutation,
+meaning that the starting atoms are not the same elements as the resultant - or
+daughter - product atoms. In nuclear reactors, nuclear fission usually takes place by
+inducing neutrons into the parent nuclei. In neutron induced fission reactions, two
+additional neutrons are released per one incident neutron.
+Nuclear fission is accompanied by the release of a large amount of energy. Part of
+this energy is converted into the kinetic energy of the fission fragments and the
+remaining energy is converted into different forms such as heat and sound. For
+example, consider the fission reaction equation on U-235, given by:
+"Ba+"Kr+3'n+200MeV
+The reaction is described pictorially as shown in Figure 7.12.
+316
+Grade 11
+144
+56
+Ba
+235
+92
+U
+Neutron
+200
+Neutron
+MeV
+Neutron
+Neutron
+89
+36
+Kr
+Figure 7.12: The atomic fission of 235U.
+In this reaction, the sum of the nuclear binding energy U-235 and the kinetic
+energy of the incident neutron (n-1) is equal to the sum of kinetic energy of the two
+daughter nuclides (Ba-144 and Kr-89); the kinetic energy of the three neutrons and
+the 200MeV energy, which is directly released
+Key terms:
+Nuclear fission is the splitting of a nucleus of an atom into two or more smaller
+nuclei.
+Nuclear fusion is a reaction in which two or more atomic nuclei are combined to
+form one or more different atomic nuclei and subatomic particles.
+Example 7.4
+A nuclear fission reaction is given below. Complete the equation, find the value of X
+and determine the type of the element, Y.
+²³⁵U+¹n X Y + 139 Cs + 2 + energy
+Solution:
+The equation is balanced on both sides so the total mass number on the left side
+must be the same as the total mass number on the right side. Thus,
+235 + 1 = X + 139 + 2, or X = 95, which corresponds to Rb-95.
+317
+Physics
+Student Text Book
+?
+Activity 7.9: Simulating nuclear reactions
+Simulate nuclear reactions produced by high speed particles using marbles
+accelerated down sloping aluminum channel into saucer. Those in saucer are
+analogous to target nuclei. Include several marbles of differing sizes. Show effect
+of speed by launching from different height and angles and effect of mass and
+increased momentum of projectiles by using different marbles. Marble sufficient
+momentum can cause ejection of one or more marbles from saucer.
+Discuss analogy to bombarding nuclei with particles of ever increasing mass
+proton, deuteron, and alpha.
+Applications of fission reaction
+Chain nuclear reaction:
+Fission reaction has several applications. Its
+In a chain reaction, neutrons
+application in nuclear reactors is the concern
+released in fission produce an
+of this section. There are two types of nuclear
+additional fission in at least one
+reactors: power reactor and research reactor.
+further nucleus. This nucleus in
+turn produces neutrons, and the
+Power reactors (PR) are used to generate
+process repeats. The process may
+electricity by the process of nuclear fission. In
+be controlled (nuclear power) or
+a chain nuclear reaction, undertaking in nuclear
+uncontrolled (nuclear weapons).
+reactor, the kinetic energy of fission fragments
+Chain reaction occurs only above
+and the energy released will be converted to heat.
+a certain mass called critical
+The heat produces steam which is used to drive
+mass.
+the turbine of a generator to produce electricity.
+Pressuriser
+Control rods
+Steam
+Steam
+generator
+Steel
+pressure
+vessel
+Water
+Fuel elements
+Reinforced concrete
+containment and shield
+Figure 7.14: Scheme of a power reactor
+318
+Grade 11
+There are several components common to most types of reactor:
+Fuel: Uranium is the basic fuel. Usually pellets of uranium oxide
+(UO₂) are arranged in tubes to form fuel rods. The rods are arranged
+into fuel assemblies in the reactor core.
+Moderator: Material in the core which slows down the neutrons re-
+leased from fission so that they cause more fission. It is usually water,
+but may be heavy water or graphite.
+Control rods or blades: These are made with neutron-absorbing mate-
+rial such as cadmium, hafnium or boron, and are inserted or withdrawn
+from the core to control the rate of reaction, or to halt it.
+Coolant: A fluid circulating through the core so as to transfer the heat
+from it. In light water reactors the water moderator functions also as
+primary coolant.
+Pressure vessel or pressure tubes: Usually a robust steel vessel contain-
+ing the reactor core and moderator/coolant, but it may be a series of
+tubes holding the fuel and conveying the coolant through the surround-
+ing moderator.
+Steam generator: Part of the cooling system of pressurized water re-
+actors where the high-pressure primary coolant bringing heat from the
+reactor is used to make steam for the turbine, in a secondary circuit.
+Containment: The structure around the reactor and associated steam
+generators which is designed to protect it from outside intrusion and to
+protect those outside from the effects of radiation in case of any seri-
+ous malfunction inside. It is typically a meter-thick concrete and steel
+structure.
+Research reactors (RR) are nuclear fission-based nuclear reactors that serve
+primarily as a neutron source. Research reactors are simpler than power reactors and
+operate at lower temperatures. They need far less fuel, and far less fission products
+build up as the fuel is used. They are also called non-power reactors, in contrast to
+power reactors. The neutrons produced by a research reactor are used for different
+purposes such as neutron scattering, analysis and testing of materials, production of
+radioisotopes, research and public outreach, and education.
+Radioisotopes can be produced in research reactors by exposing suitable target
+materials to the intense neutron radiation for an appropriate time. The quality and
+specific activity of the radioisotopes produced depends on both the target and the
+irradiation conditions. A wide range of isotopes are made at reactors, from elements
+as light as carbon-14 to as heavy as mercury-203, with irradiations ranging from
+minutes to weeks.
+319
+Physics
+Student Text Book
+For example, Mo-99-the parent to the widely used medical diagnostic radioisotope
+Tc-99m-is usually produced via neutron-induced fission of targets with U-235
+using a 4- to 8-day irradiation time.
+The problems posed by nuclear waste of reactors
+Nuclear waste refers to the byproducts of nuclear reactors. One of the main
+difficulties is that the isotopes used in nuclear power stations typically have very long
+half lives. Plutonium-239 has a half-life of 24100 years; in contrast plutonium-238
+has a half-life of 88 years. Spent nuclear fuel is the most important source of waste
+from nuclear power stations and is mainly unconverted uranium. About 3% of it is
+fission products from nuclear reactions. The actinides (uranium, plutonium, and
+curium) are responsible for the bulk of the long-term radioactivity, whereas the
+fission products are responsible for the bulk of the short-term radioactivity.
+After about 5 percent of a nuclear fuel rod has reacted inside a nuclear reactor, it will
+no longer able to be used as fuel due to the build-up of fission products.
+Scientists are experimenting on methods for reusing these rods in order to reduce
+waste and use the remaining actinides as fuel.
+?
+Activity 7.10 : Research nuclear power
+1. Work in a small group to research one of the following topics. Students can be
+assigned to investigate and report
+The fraction of energy generated from nuclear power in Africa and the rest
+of the world
+Peaceful uses of Nuclear Radiation in Ethiopia and Africa
+Nuclear Facilities in Africa
+Present your findings to the rest of your class in a form of your choice.
+7.4.1. Nuclear fusion reaction and its uses
+Nuclear fusion reaction is a process of making a single heavy nucleus from the
+combination of two or more lighter nuclei. In most cases, fusion reaction releases
+more energy than fission reaction. The process releases energy because the total
+mass of the resulting single nucleus is less than the mass of the two original nuclei.
+The leftover mass becomes energy.
+320
+Grade 11
+Use of nuclear fusion as source of energy in the sun
+The principal source of energy in the sun is a net fusion reaction in which four
+hydrogen nuclei fuses and produce a helium nucleus and two positrons. This is a net
+reaction of a more complicated series of events:
+41H ₄He + 2 +1ß
+The mass of the resulting helium nucleus has a mass that is 0.7% less than that of
+the four hydrogen nuclei. This lost mass (the mass defect) is converted into energy
+during the fusion. The energy produced in this reaction is about 3.6 X 10¹¹ kJ of
+energy per mole of He-4 produced. This energy is greater by 20 fold than the energy
+produced by the nuclear fission of one mole of U-235, and over 3 million times
+larger than the energy produced by (chemical) combustion of one mole of octane.
+The heavy isotopes of hydrogen, a deuteron, and a triton, , also undergo fusion at
+extremely high temperatures. They form a helium nucleus and a neutron:
+2H + 3H ₄He +
+This change proceeds with a mass loss of 0.0188 amu, corresponding to the release
+of of He-4 formed. The very high temperature is necessary to give the nuclei
+enough kinetic energy to overcome the very strong repulsive forces resulting from
+the positive charges on their nuclei so they can collide.
+Figure 7.13 shows the cyclic sun fusion reaction to form a very strong release in
+the electromagnetic radiation.
+Nuclear Fusion
+Deuterium
+Fusion
+Helium
+Energy
+Tritium
+Neutron
+Figure 7.13: Nuclear fusion reaction process of the H isotopes.
+Hydrogen bomb: One of the misuses of nuclear fusion reaction is its application for
+hydrogen bomb, which has higher destructive power and greater efficiencies than
+atomic bombs. Fusion weapons are also referred to as thermonuclear bombs.
+321
+Physics I Student Text Book
+?
+Activity 7.10:
+Observe simulation of Nuclear Collisions using free applets available from the
+internet. Demonstrate nuclear reactions using virtual laboratory simulation
+software's like PhET.
+Review Questions 7.4
+1. List uses of applications of nuclear reaction
+2. What are the basic differences between nuclear fission and fusion reaction
+processes?
+3. Complete the following nuclear reactions:
+(a) 'Be+|H ⁶Li+
+(b) He 13N+_
+4. Describe the nature of research reactors by comparing it with the power
+reactors.
+5. Why is Technetium-99 considered as the most important radioactive isotope
+for medical applications?
+6. Is nuclear energy from radioisotopes in use for space travel?
+7. Is there any radiation hazard from nuclear wastes of nuclear reactors? If so,
+how?
+8. Caesium-137 is a by-product of nuclear fission within a nuclear reactor.
+a) Copy and complete this equation which describes the production of
+137 55 Cs by finding X and y.
+b) The half-life of Cesium is 30 years. When the fuel rods are removed
+from a nuclear reactor core, the total activity of caesium-137 is 5.8 X
+10¹⁵ Bq. After how many years will this have fallen to 1.6 X 10⁶ Bq?
+c) Comment on the problems of storage of the fuel rods over this time
+period.
+9. Does Fusion produce radioactive nuclear waste the same way fission does?
+10. Is there chain reaction in nuclear fusion? Can fusion cause a nuclear accident?
+11. Can fusion reactors be used to produce weapons?
+12. In the fusion reaction below, determine the mass defect.
+H :He+,B+energy
+322
+Grade 11
+7.5 Safety Rules Against Hazards of Nuclear
+Radiation
+By the end of this section you should be able to:
+implement safety rules against hazards of nuclear radiation.
+Nuclear Safety rules
+Nuclear safety is defined by the International Atomic Energy Agency (IAEA) as "The
+achievement of proper operating conditions, prevention of accidents or mitigation
+of accident consequences, resulting in protection of workers, the public and the
+environment from undue radiation hazards". The IAEA defines nuclear security as
+"The prevention and detection of and response to, theft, sabotage, unauthorized
+access, illegal transfer or other malicious acts involving nuclear materials, other
+radioactive substances or their associated facilities' This covers nuclear power plants
+and all other nuclear facilities, the transportation of nuclear materials, and the use
+and storage of nuclear materials for medical, power, industry, and military uses.
+The nuclear power industry has improved the safety and performance of reactors
+and has proposed new and safer reactor designs. However, a perfect safety cannot be
+guaranteed. Potential sources of problems include human errors and external events
+that have a greater impact than anticipated: The designers of reactors at Fukushima
+in Japan did not anticipate that a tsunami generated by an earthquake would disable
+the backup systems that were supposed to stabilize the reactor after the earthquake.
+Catastrophic scenarios involving terrorist attacks, insider sabotage, and cyber-
+attacks are also conceivable.
+Nuclear safety therefore covers at minimum:
+Extraction, transportation, storage, processing, and disposal of fission-
+able materials
+Safety of nuclear power generators
+Control and safe management of nuclear weapons, nuclear material
+capable of use as a weapon, and other radioactive materials
+Safe handling, accountability and use in industrial, medical and re-
+search contexts
+Disposal of nuclear waste
+Limitations on exposure to radiation
+323
+Physics
+Student Text Book
+Protecting yourself from radiation
+Radiation is part of our life. Background radiation, coming primarily from natural
+minerals, is around us all the time. Fortunately, there are very few situations
+where an average person is exposed to uncontrolled sources of radiation above
+background. Nevertheless, it is wise to be prepared and know what to do if such
+a situation arises.
+One of the best ways to be prepared is to understand the radiation protection
+principles of time, distance and shielding.
+Time: For people who are exposed to radiation in addition to natu-
+ral background radiation, limiting or minimizing the exposure time
+reduces the dose from the radiation source.
+Distance: Just as the heat from a fire reduces as you move further
+away, the dose of radiation decreases dramatically as you increase
+your distance from the source.
+Shielding: Barriers of lead, concrete, or water provide protection
+from penetrating gamma rays and X-rays. This is why certain radio-
+active materials are stored under water or in concrete or lead-lined
+rooms, and why dentists place a lead blanket on patients receiving
+X-rays of their teeth. Therefore, inserting the proper shield between
+you and a radiation source will greatly reduce or eliminate the dose
+you receive.
+Safety precautions when using radioactive sources in schools
+Radioactive sources which are used in school are usually very weak. They can
+only be used in the presence of an authorized teacher. They are kept in a sealed
+container except when they are being used in an experiment or demonstration.
+The containers can be designed based on the appropriate shields. They are
+immediately returned to the container when the experiment or demonstration is
+finished. When using the radioactive source it should be:
+handled with tongs or forceps, never with bare hands. Moreover,
+hands must be washed after the experiment and definitely before
+eating.
+kept at arm's length, pointing away from the body.
+always kept as far as possible from the eyes.
+What to do in the event of a nuclear accident?
+What are the three main safety guidelines for nuclear reactors?
+324
+Grade 11
+?
+Small group work:
+Gather information about the possible sources of nuclear radiation from
+the internet.
+Enquire about radiation hazards in your locality by having a meeting with
+the nearby Radiation Protection Authority and what could be done to
+protect yourself and others from radiation hazards.
+If there is no nearby authority, let you send your questions to an accessible
+body of authority by electronic media.
+Let you organize a report about what measures you need to take as school
+community and present it to the whole class.
+?
+Expert Guest:
+Your teacher will invite you a medical personnel from the nearby medical
+establishment who is knowledgeable about nuclear medicine. Ask the guest to
+explain
+how and why nuclear medicine is practiced, where the medicine
+comes from and how it is transported; handled, stored.
+what measures should be implemented during use and disposal of
+these medicines. To actively engage with the guest, you need prior
+reading.
+Discuss about hazards of nuclear radiations and safety with your
+teacher.
+325
+Physics
+I
+Student Text Book
+Review questions 7.5
+1. How does radiation affect the public? How can you help the public to
+protect from radiation hazards?
+2. How do you need to be careful around radiation?
+3. How can exposure to radiation be minimized?
+4. How is a person contaminated by radiation such as from bomb get
+decontaminated?
+5. Is nuclear waste from nuclear reactors harmful to humans and the
+environment? If so how can we protect the hazard?
+6. What barriers provide protection from radiation produced by a nuclear
+power plant?
+326
+Grade 11
+UNIT SUMMARY
+c
+The chemical shorthand to describe atom X, where Z is the atomic number, and A
+= Z +N, is AX.
+c
+The atom and the nucleus are assumed spherical and the atomic radius is estimated
+by:
+where A is the mass number of the atom; R₀ is the radius of the nucleus which is
+roughly equal to R₀ = 1.2fm and 1 femtometer (1 fm) = 10⁻¹⁵ m.
+c
+A member of a family of an element with the same number of protons but different
+number of neutrons is called an isotope. Some examples of isotopes of elements:
+c
+The strong nuclear force is a very short-range attractive force that acts between
+nucleons: protons and neutrons. The strong nuclear force is strong enough to
+withstand the electrical repulsion up within a distance of slightly more than the
+radius of a nucleon, 10-15 m Both nucleons are affected by the nuclear force
+almost identically.
+c
+The weak nuclear force acts inside of individual nucleons, which means that it is
+even shorter ranged than the strong nuclear force. The weak nuclear force is a force
+that causes decay of an atom by beta emission.
+c
+Nuclear binding energy is the energy that holds nucleons together. Another
+equivalent definition of binding energy is the minimum energy that is required to
+disassemble the nucleus of an atom into its constituent nucleons.
+c
+The mass of an atomic nucleus is less than the sum of the individual masses of the
+free constituent protons and neutrons. The energy equivalent to this difference in
+mass can be calculated by the Einstein equation,
+BE = Amc2
+where BE is the nuclear binding energy, and c is the speed of light. This 'missing
+mass' is known as the mass defect, and represents the energy that was released when
+the nucleus was formed.
+c
+The mass defect of an atom can be calculated by:
+where Zm p is the total mass of the protons; (A - Z)mₙ is the total mass of the neutrons,
+and M is the mass of the nucleus. Using this into the former equation, we obtain:
+c
+Nuclear energy is usually expressed in atomic energy unit (aeu), where:
+1 aeu = c² X amu
+Or, in megaelectron volt (MeV), where
+1MeV=1.602x10⁻¹³ J, and 1 aeu = 931.1MeV
+327
+Physics I Student Text Book
+c
+When mass is in amu/u, the nuclear binding energy in MeV becomes,
+BE=[Zm₂+(A-Z)m,-M]x931.1MeV
+c
+Binding energy per nucleon (BEN) is the average energy required to remove an
+individual nucleon from a nucleus. It is given by
+BE
+BEN
+=
+c
+Radioactivity is the phenomenon of the A spontaneous disintegration of unstable
+atomic nuclei to atomic nuclei to form more energetically stable atomic nuclei.
+Radioactive decay is a highly exoergic, statistically random, process that occurs
+with a small amount of mass being converted to energy.
+c
+Representations of nuclear decay reaction of element with chemical symbol X by
+alpha ( α a), or beta (B⁻, , or ß+) emission to give a daughter element Y are:
+α-emission : AX
+ß⁻ - emission : X
+ß⁺ emission : X
+C
+Gamma rays are high energy, high frequency, electromagnetic radiations. Gamma
+radiation usually accompanies alpha or beta decay.
+C
+Radiations damage cells by ionizing atoms or molecules by removing electrons
+from them.
+c
+Absorbed dose describes the amount of energy deposited per unit mass in an
+object or person. The units for absorbed dose are gray (Gy, international unit) and
+rad; where 1Gy = 1J/kg and 1rad = 0.01 Gy = 0.01 J/kg.
+c
+Radiation doses above 3 Gy (300 rad) can be fatal and doses above 6 Gy (600
+rad) are almost certain to be fatal, with death occurring within several months (in
+shorter times at higher doses).
+c
+A radiation detector is a device that measures the ionization of radiations (i.e.,
+creating electrons and positively charged ions). Scintilator, Gaseous ionization
+detectors and Geiger counter.
+c
+The rate of isotope decay is called the activity, A, and is given by
+c
+where the negative sign shows the decrease in the number of the radioactive
+nuclei with time, N(t) is the number of undecayed nuclei at the subsequent time t,
+the decay constant A of a radioactive nuclide is defined as its probability of decay
+per unit time; having SI unit s-1. It is a positive rate also called the exponential
+decay constant, disintegration constant, rate constant, or transformation constant.
+c
+The SI unit of activity, A, is Becquerel (Bq); where 1Bq = 1 decay per second. We
+can also use the unit Curie, Ci, where 1 Ci = X 10¹⁰ Bq.
+328
+Grade 11
+c
+If N₀ is quantity at time t =0, the quantity of the parent radioactive nuclei is subject
+to exponential decay given by
+c
+The half-life is defined as the time at which half of the original nuclei have decayed.
+Or, it can also be stated somewhat differently as the time after which one half of the
+original number of nuclei remains untransformed.
+C
+The half-life is related to the decay constant by
+0.693
+c
+Fission occurs when a neutron slams into a larger atom, forcing it to excite and
+split into two smaller atoms-also known as fission products.
+c
+Nuclear fusion reaction is a process of making a single heavy nucleus from the
+combination of two or more lighter nuclei.
+c
+A nuclear reactor is a device used to initiate and control a fission nuclear chain
+reaction or nuclear fusion reactions.
+END OF UNIT QUESTIONS 7
+1. Discuss (a) Rutherford and (b) Bohr model of an atom.
+2. What are the radii of U-238 and U-235?
+3. What do you mean by reduced mass? How is this mass related with the nuclear
+binding energy?
+4. State some uses of radioactive isotopes.
+5. State one risk or danger associated with radioactivity.
+6. What are the basic differences between nuclear fission and fusion reaction pro-
+cesses?
+7. Write the nuclear reaction equation for K-242 that decays by beta minus emission.
+Do the same for Pu-239 decays by alpha emission.
+8. Compare alpha and beta emission interms of their nature, relative ionizing effect,
+relative penetrating power, the effect of magnetic and electric field on the radia-
+tion, and the common detectors.
+9. What are research reactors (RR)? How are RR important for the in agriculture and
+medical applications? How are the research reactors (RR) different from the power
+reactors (PR)
+10. When a patient undergoes radiotherapy, how does medical staff protect themslves
+from radiation?
+11. What effects can high doses of radiation have on the human eyes?
+12. Iodine-131, in the form of iodine chloride is used to treat thyroid cancer. Why
+does the patient radioactive substance orally to treat the cancer?
+329

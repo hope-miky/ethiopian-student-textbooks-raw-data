@@ -1,0 +1,1172 @@
+Unit Outcomes
+At the end of this unit, you will be able to:
+explain rate of reaction
+describe the pre-conditions for a chemical reaction to occur
+discuss factors that affect rate of chemical reaction, and
+demonstrate scientific enquiry skills, including observing, predicting,
+comparing and contrasting, communicating, asking questions, drawing
+conclusions, applying concepts, relating cause and effect, making
+generalizations and problem solving.
+Start-up Activity
+Discuss the following phenomena in groups and present your
+conclusion to the class.
+1. Determine the approximate time taken for completion of the following
+chemical changes:
+a. burning of a piece of paper
+c. ripening of banana
+b. conversion of milk to yogurt
+d. charring of sugar
+e. formation of soils
+2. Why do some reactions take place rapidly and others slowly?
+UNIT 4
+193
+CHEMISTRY GRADE 11
+4.1
+Introduction
+Every chemical reaction proceeds at a different rate or speed. Some reactions proceed
+very slowly and may take a number of days to complete; while others are very rapid,
+requiring only a few seconds. For example, rusting of iron could start quickly, while
+ripening of fruits may be completed in a few days. On the other hand, weathering of
+stone may take more than a decade and the breakdown of plastics in the environment
+takes more than hundred years. However, other reactions, like the combustion of
+gasoline or the explosion of gunpowder occur in a few seconds. Can you add more
+examples from your experience?
+To be useful reactions must occur at a reasonable rate. The area of chemistry that is
+concerned with reaction rates is called chemical kinetics. The word "kinetic" suggests
+movement or change. Chemical kinetics refers to the rate of reaction, which is the
+changeover times in the concentration of a reactant or a product.
+4.2
+The Rate of a Reaction
+At the end of this section, you will be able to:
+define rate of reaction
+describe rate of reaction using graphs
+conduct an experiment to illustrate the relative rate of reactions
+list the pre-conditions for a chemical reaction to occur, and
+explain how collision, activation energy and proper orientation of reactants cause a
+chemical reaction to occur.
+Activity 4.1
+Discuss each of the following questions in a group and present your
+responses to the whole class.
+1. What does "rate" mean?
+2. Does sugar dissolve faster in hot or in cold tea? Why?
+3. How can we measure the rate of reaction?
+4. What is the importance of knowing the rate of reaction?
+194
+UNIT 4
+The Rate of a Reaction
+The rate of a chemical reaction measures the change in concentration of a reactant or
+a product per unit time. This means that the rate of a reaction determines how fast the
+concentration of a reactant or product changes with time.
+For example, for a general reaction:
+Reactants
+Products
+This equation tells us that, during the course of a reaction, reactant molecules are
+consumed while product molecules are formed. As a result, we can follow the progress
+of a reaction by monitoring either the decrease in concentration of the reactants or the
+increase in concentration of the products.
+Consider the progress of a simple reaction in which A molecules are converted to B
+molecules:
+A
+B
+The decrease in the number of A molecules and the increase in the number of B
+molecules with time are shown in Figure 4.1. In general, it is more convenient to
+express the rate in terms of change in concentration with time.
+Change in concentration of substance
+c
+Rate of reaction =
+=
+change in time
+At
+Note that Д denotes the difference between the final and initial state.
+Thus, for the preceding reaction we can express the rate as:
+Rate = 2 1 or rate = At [B]
+in which, [A] and [B] are the changes in concentration (mol L⁻¹) over a period At.
+Because the concentration of A decreases during the time interval, [A] is a negative
+quantity. The rate of a reaction is a positive quantity, so a minus sign is needed in
+the rate expression to make the rate positive. On the other hand, the rate of product
+formation does not require a minus sign because [B] is a positive quantity (the
+concentration of B increases with time).
+UNIT 4
+195
+CHEMISTRY GRADE 11
+40
+A molecules
+Number of molecules
+30
+B molecules
+20
+10
+0
+10
+20
+30
+40
+50
+60
+t (s)
+Figure 4.1: The rate of reaction A -> B, represented as the decrease of A
+molecules with time and the increase of B molecules with time
+For more complex reactions, we must be careful in writing the rate expression.
+Consider, for example, the reaction:
+2A
+B
+Two moles of A disappear for each mole of B that forms, that is, the rate at which B
+forms is one half the rate at which A disappears. We write the rate as either:
+Rate = 2 1 [A] At or rate = [B] At
+Similarly, for the reaction:
+aA + bB
+cC + dD
+the rate is given by Rate = 1 [A] 1 Д B 1 Д C 1 Д D
+a
+At
+b
+At
+c
+At
+d
+At
+196
+UNIT 4
+The Rate of a Reaction
+Example 4.1
+1. Write the rate expressions for the following reactions in terms of the
+disappearance of the reactants and the appearance of the products:
+a. I⁻(aq) + OC1- (aq)
+1
+Cl⁻ (aq) + OI- (aq)
+b. 30₂(g)
+->
+20₃(g)
+c. 4NH₃(g) + 50₂(g)
+4NO(g) + 6H₂O(g)
+Solution:
+a. Because each of the stoichiometric coefficients equals 1,
+Rate
+=
+At
+At
+At
+At
+b. Here the coefficients are 3 and 2, so
+Rate = 3 1 A[02] At 2 1 [0₃] At
+c. In this reaction:
+1 [NH₃] 1 [02] 1 [NO] 1 [H20]
+Rate
+=
+4
+At
+5
+At
+4
+At
+6
+At
+2. In the reaction of nitric oxide with hydrogen,
+2NO (g) + 2H₂(g)
+->
+N₂(g) + 2H2O (g)
+If the rate of disappearance of NO is 5.0 X 10⁻⁵ mol L⁻¹s⁻¹, what is the
+rate of reaction for the formation of N₂?
+Solution:
+The rate of reaction for the formation of N₂
+Rate = [N2] At 2 1 [NO] At = 2 1 mol L⁻¹s⁻¹)
+Rate = 2.5 X 10⁻⁵ mol L⁻¹s⁻¹
+UNIT 4 197
+CHEMISTRY GRADE 11
+Exercise 4.1
+1. Write the rate expression for the following reaction:
+CH₄ (g) + 202 (g)
+CO2 (g) + 2H2O (g)
+a. the formation of CO2 and H2O
+b. the disappearance of CH₄ and O₂
+2. The reaction for the formation of ammonia is given as
+N₂(g) + 3H₂(g)
+2NH₃(g)
+Write the rate reaction for:
+a. the formation of NH3
+b. the disappearance of N₂ and H₂
+3. Consider the reaction of:
+4NO₂(g) + O₂(g)
+2N₂O₅(g)
+Suppose that, at a particular moment during the reaction, molecular
+oxygen is reacting at the rate of 0.037 mol L⁻¹s⁻¹.
+a. At what rate is N₂O₅ being formed?
+b. At what rate is NO₂ reacting?
+4. Consider the reaction of:
+4PH₃ (g)
+P₄ (g) + 6H₂ (g)
+Suppose that, at a particular moment during the reaction, molecular
+hydrogen is being formed at the rate of 0.078 mol L⁻¹s⁻¹.
+a. At what rate is P₄ being formed?
+b. At what rate is PH₃ reacting?
+Determination of Rate of Reaction
+Reaction rate is change in an observable property over time. The observable property
+should be selected based upon what can be measured in the laboratory. This could
+be a colour change, a temperature change, a pressure change, a mass change, or
+the appearance of a new substance (for example, amount of precipitate formed).
+The observable (measurable) properties can be used to determine the change in
+concentration over time.
+198
+UNIT 4
+The Rate of a Reaction
+Consider, for example, the thermal decomposition of gaseous dinitrogen pentoxide,
+N₂O₅, to give the brown gas nitrogen dioxide:
+2N₂O₅(g)
+4NO₂(g) + O₂ (g)
+Colorless
+Brown Colorless
+Changes in concentration as a function of time can be determined by measuring the
+increase in pressure as 2 gas molecules are converted to 5 gas molecules. Alternatively,
+concentration changes can be monitored by measuring the intensity of the brown color
+due to NO₂ formation. Reactant and product concentrations as a function of time at 55
+°C are listed in Table 4.1. Using this data, we can calculate the rate:
+Rate of reaction = 2 1 [N₂O₅] At = 4 1 [NO₂] At [0₂] At
+Table 4.1: Concentrations (mol L⁻¹s⁻¹) as a function of time at 55 °C for the
+thermal decomposition of gaseous dinitrogen pentoxide (N₂O₅)
+Time (s)
+N2O5
+NO2
+O2
+0
+0.0200
+0
+0
+100
+0.0169
+0.0063
+0.0016
+200
+0.0142
+0.0115
+0.0029
+300
+0.0120
+0.0160
+0.0040
+400
+0.0101
+0.0197
+0.0049
+500
+0.0086
+0.0229
+0.0057
+600
+0.0072
+0.0256
+0.0064
+700
+0.0061
+0.0278
+0.0070
+Note: The concentrations of NO₂ and O₂ increase as the concentration of N₂O₅
+decreases. In the decomposition of N₂O₅, the rate of formation of O₂ is given by the
+equation:
+Rate of formation of O₂ = [0₂] = Conc. of O₂ at time t₂ Conc. of O₂ at time t₁
+t₂⁻t₁
+During the time period 300 to 400 s, for example, the average rate of formation of O₂
+is 9 X 10⁻⁶ mol L⁻¹s⁻¹:
+UNIT 4
+199
+CHEMISTRY GRADE 11
+Rate of formation of O₂ = [0₂] At 0.0049 M - 0.0040 M = 9 X 10⁻⁶ mol
+400 S - 300 S
+The average rate of formation of NO₂ during the time period 300-400 S is
+3.7 X 10⁻⁵ mol L¹ s⁻¹, which is four times the rate of formation of O₂, as with the
+4:1 ratio of the coefficients of NO₂ and O₂ in the chemical equation for the decomposition
+of N₂O₅.
+Rate of formation of NO₂ = [NO₂] At = 0.0197 M 0.0160 M = 3.7 X 10⁻⁵ mol L¹s¹
+400 S 300 S
+Similarly, during the time period 300-400 S, the average rate of decomposition of
+N₂O₅ is 1.9 X 10⁻⁵ mol s⁻¹;
+Rate of formation of N₂O₅ = [N₂O₅] At = - (0.0101 0.0120 M)
+400 S - 300 S
+= 1.9 X 10⁻⁵ mol L¹s¹
+It's also important to specify the time when quoting a rate because the rate changes
+as the reaction proceeds. For example, the average rate of formation of NO₂ is
+3.7 X 10⁻⁵ mol L⁻¹ during the time period 300 - 400 s, but it is only 2.2 X 10⁻⁵ mol
+L⁻¹s⁻¹ during the period 600 -700 S.
+In general, the rate of reaction at the beginning is fast and it decreases as the reaction
+proceeds.
+What could be the possible reason for this decrease in the rate of reaction with time?
+Plotting the data of Table 4.1 gives the three curves in Figure 4.2. Looking at the
+time period 300 - 400 S on the O₂ curve, [0₂] and At is represented, respectively,
+by the vertical and horizontal sides of a right triangle. The slope of the third side,
+the hypotenuse of the triangle, is 4[02]/At, the average rate of O₂ formation during
+that period. The steeper the slope of the hypotenuse, the faster the rate. For example,
+compare the hypotenuse of the triangle defined by [NO₂] and At during the time
+period 300 - 400 S and 600 -700 S.
+200
+UNIT 4
+The Rate of a Reaction
+0.03
+NO₂
+The slope of the hypotenuse of each
+triangle gives the average rate of
+[NO₂] = 0.0022 M
+change of the product or reactant
+concentration during the indicated
+A/=100s
+time interval
+0.02
+Concentration (M)
+A [NO₂] = 0.0022 M
+A 100
+0.01
+[N,O,] -0.0019 M
+A 100
+O₂
+A [O₂] = 0.0009 M
+N2O5
+A 100
+0.00
+0
+100
+200
+300
+400
+500
+600
+700
+800
+Time (s)
+Figure 4.2: Concentration as a function of time when gaseous N2O₅
+decomposes to gaseous NO2 and O2 at 55 °C
+It is important to realize that, given the initial concentrations in Table 4.1 the
+concentrations of NO₂(g) and O₂(g) can be calculated from the concentration of
+N₂O₅(g) at any time. The following example illustrates such a calculation.
+UNIT 4
+201
+CHEMISTRY GRADE 11
+Example 4.2
+Using the data in Table 4.1, if [N₂O₅] = 1.20 X 10⁻² mol L⁻¹ at 300 s,
+calculate [NO₂] and [O₂] at t = 300 S.
+Solution:
+The chemical equation is: N₂O₅( (g)
+2NO₂ (g) + ½ O2 (g). The number of
+moles per liter of N₂O₅ (g) that have reacted in 300 S is the difference between
+the initial concentration and the concentration at 300 S [N₂O₅]. From Table
+4.1. [N₂O₅]₀ = 2.00 X 10⁻² mol L⁻¹.
+Molarity of N₂O₅(g) reacted = [N₂O₅]₀ - [N₂O₅]
+= 2.00 X 10⁻² mol L⁻¹ - 1.20 X 10⁻² mol L⁻¹
+= 0.8 X 10⁻² mol L⁻¹.
+According to the chemical equation, 2 moles of NO2 (g) are provided for
+every mole of N₂O₅ (g) that reacts. So, per liter, we have:
+Molarity of NO₂ (g) produced = 0.8 X 10⁻² mol L⁻¹
+=1.6 X 10⁻²mol L⁻¹
+Similarly, for O2 (g) we have:
+1
+mol
+L⁻¹
+NO₂
+Molarity of O2 (g) produced = 0.8 X 10⁻² mol L⁻¹N₂O₅
+1
+mol
+L⁻¹
+N₂O₅
+= 0.4 X 10⁻² mol L⁻¹
+Often, chemists want to know the rate of a reaction at a specific time t rather than
+the rate averaged over a time interval At. For example, what is the rate of formation
+of NO₂ at time t = 350 s? Such instantaneous rate is calculated from the slope of a
+tangent drawn at any points on the graph of concentrations versus time (Figure 4.2).
+The slope of tangent taken at the initial point of the graph is assumed to be equal to its
+initial rate. In the initial rate the change in concentration of a reactant or product as a
+function of time is measured within minutes (or seconds) the reaction starts.
+202
+UNIT 4
+The Rate of a Reaction
+Example 4.3
+Consider the gas-phase reaction that occurs when we mix 1.000 moles of
+hydrogen and 2.000 moles of iodine chloride at 230 °C in a closed 1.000-liter
+container.
+H₂(g)
++
+2ICl(g)
+I₂(g)
++
+2HCl(g)
+From the experimental data given in the table below, determine the
+instantaneous rate of reaction at time, t = 2 S.
+Time (s)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[ICI] (mol L-¹)
+2.000
+1.348
+1.052
+0.872
+0.748
+0.656
+0.586
+0.530
+0.484
+[H2] (mol L-¹)
+1.000
+0.674
+0.526
+0.436
+0.374
+0.328
+0.293
+0.265
+0.242
+Solution: First, plot H2 concentration versus time for the reaction of 1.000MH₂
+with 2.000MICI. Then, draw a tangent line to the curve. The instantaneous rate of
+reaction at any time, t, equals the negative of the slope of the tangent to this curve
+at time t. Figure 4.3 shows how to find the instantaneous rate at t=2 = seconds.
+- Slope = initial rate
+1.000 M
+- slope = -Д[H2] = rate at (t = 2.0 s) = (0.300 - 0.600) M = 0.107 M*s-1
+[H2]
+At
+(3.95 - 1.15) S
+0.600 M
+[H2]
+0.300 M
+AI
+0
+0
+2
+4
+6
+8
+10
+12
+14
+1.15
+3.95
+Time (s)
+Figure 4.3: A plot of the hydrogen concentration versus time,
+using data of the above table
+UNIT 4
+203
+CHEMISTRY GRADE 11
+Exercise 4.2
+1. Using the initial concentrations and the fact that
+[O₂] = 0.64 X 10⁻² mol. L⁻¹ at t = 600 S in Table 4.1,
+calculate [N₂O₅] and [NO₂] at t = 600 S.
+2. Consider the reaction:
+2C2H₄ (g) C₄H₈ (g)
+From the experimental data given in the table below, plot a graph for
+the consumption of ethylene, C₂H₄, versus time.
+a. Calculate the rate of reaction between the time intervals 10 S to 30 S.
+b. Calculate the rate of reaction at 45 S.
+Time (s)
+0
+10
+20
+40
+60
+100
+0.884
+0.621
+0.479
+0.328
+0.250
+0.169
+[C2H₄] (mol L-¹)
+Experiment 4.1
+Measuring the Rate Reaction
+Objective: To measure the rate of reaction between marble chips (CaCO₃) and
+dilute HCl acid.
+Apparatus: Direct reading balance, 100 mL conical flask, stopwatch, cotton
+wool.
+Chemicals: 2M dilute HCl acid, and marble chips/CaCO₃.
+Procedure:
+1. Set up the apparatus as shown in Figure 4.4, but without the marble
+chips at first.
+2. Add 20 g of pure marble chips, in a clean 100 mL conical flask.
+3. Add 40 mL of 2M dilute HCl acid to the conical flask.
+4. Plug the cotton wool in position immediately.
+5. Read the mass of the flask and its contents and start the stopwatch.
+6. Record the mass at one minute intervals for 10 minutes.
+204
+UNIT 4
+The Rate of a Reaction
+Cotton plug
+Conical flask
+40mL of 2M dilute
+hydrochloric acid
+Gas bubbles
+20g marble chips
+Digital balance
+Figure 4.4: The laboratory set up for the measurement of rate of reaction
+Observations and analysis:
+1. Use the following table to record your observations.
+Time (min)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Mass (g)
+Decrease in mass (g)
+Plot a graph with time (minutes) on the horizontal axis and rate on the vertical
+axis. Draw a smooth curve through as many points as possible.
+Note that in this experiment change in mass is proportional to change in
+concentration.
+2. What happens to the mass during the reaction? Explain this with the help of
+a balanced equation.
+3. What information can be obtained from the slope of this graph at any point?
+4. Why is the graph
+a. steep at the start of the reaction?
+b. less steep in the middle of the reaction?
+c. horizontal at the end of the reaction?
+UNIT 4
+205
+CHEMISTRY GRADE 11
+5. Calculate:
+a. The average rate of the reaction. b. The rate of reaction at 2 minutes.
+6. Describe how the rate of reaction changes with time.
+7. Can we measure the rate of this reaction by measuring the amount /volume
+of CO2 evolved?
+8. Draw a graph of the expected result by plotting volume of CO2 evolved vs
+time.
+Conditions needed for a chemical reaction
+Activity 4.2
+Form a group of three and discuss each of the following questions, then
+present your responses to the whole class.
+1. Ethanol can easily burn in air due to the following reaction:
+CH₃CH₂OH + O2
+CO2 + H2O
+In actual practice, you are required to use a lighter (igniter) to start the
+reaction. Why?
+2. Consider the following reaction NO₂C1
++
+Cl
+NO₂ + Cl
+CT
+o
+N
+0
+-
+CI
+Z
+C1
++
+CI
+O
+O
+A
+R
+Which of the above collisions might be successful to form the product?
+Chemical reactions are usually explained by the collision theory. The assumption of
+the collision theory is that chemical reactions take place due to collisions between
+molecules.
+Collisions between reactants
+The collision theory of rate of reaction is that, in order for a reaction to occur between
+reacting species (atoms, ions or molecules), they must first collide (come in contact).
+The rate of reaction is directly proportional to the number of collisions per second (the
+frequency of collision).
+206
+UNIT 4
+The Rate of a Reaction
+number of collisions
+Rate α
+second
+1.
+Proper Orientation
+According to collision theory, the more collisions there are the faster the rate of reaction
+would be. However, not all collisions between reacting species result in a reaction.
+This is because collisions between reactants can be either effective or ineffective.
+Effective collisions are collisions that result in a reaction to form the desired products.
+Ineffective collisions are collisions that do not result in a reaction to form the desired
+products. Thus, the collision between molecules should have the proper orientation
+(Figure 4.5).
++
++
++
++
+NO
+O₃
+Ineffective collision
+NO
+O3
++
++
+NO
+O₃
+Effective collision
+NO2
+O2
+Figure 4.5: The effect of molecular orientation on the reaction of NO and O3
+2. Activation energy
+If the collisions between the reactant molecules do not have sufficient energy, then
+no reaction will occur. Therefore, for the reaction to take place collision must always
+occur with sufficient energy to break the bonds in the reactants and form new bonds
+in the product. Thus, minimum amount of energy needed for the reaction is known
+as activation energy, Eₐ.
+According to the kinetic molecular theory, the average kinetic energy of the particles
+of a substance is directly proportional to the absolute temperature. As the temperature
+of the reacting species is raised, the average kinetic energy of the reacting particles
+increases considerably. This causes the particles of the reactants to collide more
+frequently and with greater energy. This results in increase in reaction rate.
+UNIT 4
+207
+CHEMISTRY GRADE 11
+4.3
+Factors Affecting the Rate of a Chemical Reaction
+At the end of this section, you will be able to:
+list factors that affect the rate of a chemical reaction
+describe the effects of changes in temperature, concentration or pressure
+and surface area on the rates of a chemical reaction
+explain the effect of catalysts on the rates of chemical reaction
+do an experiment on how the factors affect the rate of chemical reaction.
+Activity 4.3
+Discuss each of the following questions in groups, and present your
+responses to the whole class.
+1. How is the burning of charcoal affected by
+a. increasing the amount of air used
+b. adding more charcoal
+2. How can you increase the rate of combustion of a given block of wood?
+3. Why do sugar crystals dissolve more easily in hot water than in cold water?
+4. Why does powdered sugar dissolved easily as compared to equivalent
+amounts of sugar crystals?
+The rates at which reactants are consumed and products are formed during chemical
+reactions vary greatly. Even a chemical reaction involving the same reactants may
+have different rates under different conditions. Change in temperature, concentration,
+nature of reactant, surface area and presence of a catalyst, result in changes in rate of
+reaction.
+i.
+Nature of the reactants
+Activity 4.4
+Compare how fast the following substances burn and present your
+responses to the whole class.
+a. paper
+b. wood charcoal
+c. alcohol
+d. copper wire
+Consider Experiment 4.2 to study the effect of the nature of reactants on rate of
+reaction.
+208
+UNIT 4
+Factors Affecting the Rate of a Chemical Reaction
+Experiment 4.2
+The Effect of Nature of Reactants on Rate of Reaction
+Objective: To study the effect of the nature of reactant for the reaction of copper
+and magnesium metals with hydrochloric acid.
+Apparatus: Balance, test tubes, test tube stand.
+Chemicals: Copper (Cu), magnesium (Mg), 2M hydrochloric acid (HCI).
+Procedure:
+1. Measure equal masses of copper and magnesium metals using a balance.
+2. Record the weighed mass of these metals and add each to separate test
+tubes.
+3. Assemble the test tubes as shown in Figure 4.6.
+4. Add equal volume of 5 mL of 1M HCl to both the test tubes.
+Wear your safety goggles and gloves.
+5. Observe relative rates of reaction in both test tubes and record your
+observations.
+Test tube containing
+Mg and HCI
+Gas
+delivery
+tube
+Graduated
+cylinder
+filled with tap
+water and
+turned upside
+down
+Beaker
+containing
+water
+Figure 4.6: The reaction of magnesium with HCl acid Observations
+and analysis
+1. Which of these two metals, copper or magnesium, reacts faster? Why?
+UNIT 4
+209
+CHEMISTRY GRADE 11
+2. Write the balanced chemical equation for the reaction of
+a. copper with HCl acid b. magnesium with HCl acid
+3. What do you learn from this experiment?
+4. Perform a similar activity using different metals such as aluminum, and
+zinc. In which case do you expect the reaction to be faster and why?
+The rate of a reaction depends on the chemical nature of the substances in the reaction.
+The combination of two oppositely charged ions usually occurs very rapidly. For
+example, the reaction of an acid with a base is:
+H3O+ + OH⁻
+2H2O
+The acid-base reaction of HCl and NaOH is much faster than the decomposition of
+hydrogen peroxide, which involves the reorganization of molecules.
+2H₂O₂
+2H₂O+O₂
+Even similar reactions may have different rates under the same conditions. For
+example, if small pieces of the metal iron and sodium are left in air, the sodium reacts
+completely overnight, whereas the iron is barely affected. The active metals sodium
+and calcium both react with water to form hydrogen gas and the corresponding metal
+hydroxide. Yet calcium reacts at a moderate rate, whereas sodium reacts so rapidly
+that the reaction is almost explosive.
+Can you write the balanced equation for the reaction of sodium and calcium with water?
+ii. Surface Area of Reactants
+Activity 4.5
+Form a group of three or four and answer the following questions, then
+present your responses to the whole class.
+1. Why does a wood fire burn faster if the logs are chopped into smaller
+pieces?
+2. Which form of zinc metal is easier to dissolve in dilute HCl, large pieces
+of Zn or powdered Zn? Why? Consider the Experiment 4.3 to study the
+effect of surface area on rate of reaction.
+210
+UNIT 4
+Factors Affecting the Rate of a Chemical Reaction
+Experiment 4.3
+Effect of surface Area on Reaction Rate
+Objective: To study the effect of surface area of reactants on the rate of reaction
+using cube chalk and powdered chalk with dilute hydrochloric acid.
+Apparatus: Direct reading balance, 100 mL conical flask, stopwatch, cotton
+wool.
+Chemicals: Cube chalk, powered chalk and 2M dilute HCl solution
+Procedure: Repeat Experiment 4.1 but use 20 g of small cubical chalk and then
+powdered chalk in place of marble chips.
+Observations: In which case is the gas produced faster?
+Observations and analysis:
+1. Compare the rate curve, average rate and reaction rate at 2 minutes with that
+of Experiment 4.1. Explain your observations.
+2. Sketch a graph for the consumption of each size of chalk (cube chalk and
+powdered chalk) against time on the same graph sheet.
+3. Write a conclusion to the experiment.
+Reactions can be classified as homogeneous (same phase) and heterogeneous (different
+phases). For example, the combustion of graphite is a heterogeneous reaction because
+it involves a solid with gas. In this case, the reaction occurs only at the interface
+(boundary) between two phases. A homogeneous reaction occurs only in one phase.
+For example:
+NO (g)
+¹/₂N₂(g) + ¹/₂O₂(g)
+Except for substances in the gaseous state or in solution, reactions occur at the
+boundary, or interface, between two phases. Hence, the rate of reaction between
+two phases depends to a great extent on the surface area of contact between them.
+Finely divided solids, react more rapidly than the same amount of the substance
+in a large body because of the greater surface area available.
+UNIT 4
+211
+CHEMISTRY GRADE 11
+iii. Concentration of Reactants
+Activity 4.6
+Answer the following questions in groups and present your responses to the
+whole class.
+1. Why does wood burn more rapidly in pure oxygen than in air?
+2. Why does limestone (CaCO₃) deteriorate more rapidly in highly
+polluted air than in less polluted air?
+Consider Experiment 4.4 to study the effect of concentration of acid on the rate of
+reaction between CaCO₃ and hydrochloric acid.
+Experiment 4.4
+Effect of Concentration on Reaction Rate
+Objective: To study the effect of concentrations of hydrochloric acid on rate of
+reaction with marble chips.
+Apparatus: Direct reading balance, 100 mL conical flask, stopwatch, cotton
+wool
+Chemicals: 1M HCl, 2M HCl dilute solutions and marble chips (CaCO₃).
+Procedure: Repeat Experiment 4.1 but you have to use 1M dilute HCl acid in
+place of 2M dilute HCl acid.
+Observations and analysis:
+1. Compare the rate of reaction with that in Experiment 4.1. Which reaction
+is more vigorous? Explain.
+2. Which of the two reactions will produce more carbon dioxide? Explain
+your answer.
+3. What would happen to the rate curve and average rate if:
+a. 1M HCl is replaced with 4M dilute HCl acid? Explain.
+b. 1M HCl is replaced with 0.5M dilute HCl acid? Explain.
+4. Sketch a graph for each of 0.5 M, 1M, 2M and 4M dilute HCl acid against
+time on the same graph sheet.
+212
+UNIT 4
+Factors Affecting the Rate of a Chemical Reaction
+At a fixed temperature, the rate of a given reaction depends on the concentration of
+the reactants. Reaction rates often increases when the concentration of one or more of
+the reactants increases. This is because increasing the concentration produces more
+contacts between the reacting particles, which results in increasing the rate of reaction.
+In the case of reactions that involve gaseous reactants, an increase in pressure can
+increase the concentration of the gases which may lead to an increase in the rate of
+reaction. However, pressure change has no effect on the rate of reaction if the reactants
+are either solids or liquids.
+iv. Temperature of Reactants
+Activity 4.7
+Form a group and answer the following questions, then present your
+responses to the whole class.
+1. Why do we keep foods in refrigerator rather than at room temperature?
+2. Compare the oxidation of wood or coal at ordinary and high
+temperatures?
+In Experiment 4.5, you will study the effect of temperature on the rate of reaction of
+Na₂S₂O₃ with HCl.
+Experiment 4.5
+The Effect of Temperature on Reaction Rate
+Objective: To study the effect of temperature on the rate of reaction between
+sodium thiosulphate and hydrochloric acid.
+Apparatus: 100 mL beakers, test tubes, thermometers, white paper, pencil.
+Chemicals: 0.5M HCl acid, 0.1M Na₂S₂O₃ solution, pieces of ice.
+Procedure:
+1. Take 25 mL of 0.1M Na₂S₂O₃ solution in a test tube and 25 mL of 0.5M HCl
+acid in another test tube.
+2. Prepare three such sets and maintain them at different temperatures.
+Set (i) at 0 °C [by keeping them in an ice bath as shown in Figure 4.7 (a)].
+Set (ii) at room temperature.
+Set (iii) at 40 °C (by heating the two solutions in a water bath).
+UNIT 4
+213
+CHEMISTRY GRADE 11
+3. Put a cross sign on a white cardboard and place a clean dry 100 mL beaker
+above it.
+4. Now, pour the contents of set (i) in the beaker and start a stopwatch
+immediately.
+5. Carefully stir the mixture with thermometer and record the time taken for
+the cross to disappear [Figure 4.7 (b)].
+6. Repeat steps 3, 4, and 5 with set 2 and set 3, respectively.
+7. Tabulate your results as temperature in °C versus time in minutes.
+Stopwatch
+25 mL of
+25 mL
+0.1 M Na2S₂O₃
+of 0.5M HCI
+Thermometer
+250 mL
+Beaker
+Ice
+Mixture of HCI
+and Na2S₂O₃
+A
+B
+Figure 4.7: Laboratory set-up for the study of the effect of
+temperature on rate of reaction
+Observations and analysis:
+1. What was the appearance of the mixture at the start of the reaction, and at the
+end of the reaction? Explain the changes using the equation for the reaction.
+2. Plot the graph of time (minutes) on the horizontal axis against rate on the
+vertical axis.
+3. Under which condition of temperature does the cross take:
+a. the shortest time to disappear, and
+b. the longest time to disappear.
+4. Draw a conclusion about the relationship between the average reaction rate
+and temperature.
+214
+UNIT 4
+Factors Affecting the Rate of a Chemical Reaction
+Temperature usually has a major effect on the rate of reaction. Molecules at higher
+temperatures have more thermal energy. Generally, an increase in the temperature
+of a reaction mixture increases the rate of chemical reactions. This is because, as the
+temperature of the reaction mixture raises, the average kinetic energy of the reacting
+particles increases. So, they collide more frequently and with greater energy.
+The effect of temperature on rate of reaction can be experienced in our daily life. For
+example, foods cook faster at higher temperature than at lower ones. We use a burner
+or a hot plate in the laboratory to increase the speed of reactions that proceed slowly at
+ordinary temperatures. In many cases, the rate of a reaction in a homogeneous system
+is approximately doubled by an increase in temperature of only 10 °C.
+V.
+Presence of a Catalyst
+Activity 4.8
+Answer the following questions in groups and present your response to
+the whole class.
+1. How do inhibitors extend the shelf-life of a package of food?
+2. What catalyst do you know in your body and the surroundings?
+3. Why is yeast added to the dough in the making of bread? What
+happens if you don't add yeast to the dough?
+Now, you will perform Experiment 4.6 to study the effect of a catalyst on the rate of
+decomposition of hydrogen peroxide, H2O2
+Experiment 4.6:
+The Effect of a Catalyst on the Rate of Reaction
+Objective: To investigate the effect of a catalyst on rate of decomposition
+of hydrogen peroxide.
+Apparatus: Conical flask, gas syringe, delivery tube.
+Chemicals: 0.5% by volume H2O2 solution, MnO₂.
+UNIT 4
+215
+CHEMISTRY GRADE 11
+Procedure:
+1. Set-up the apparatus as shown in Figure 4.8. Set the volume of the gas
+syringe at 0 mL. Add 25.0 mL of 0. 1M H2O2 solution, but without manganese
+(IV) oxide, MnO₂, and start stopwatch immediately.
+2. Record the volume of gas collected in gas syringe at minute intervals until
+each reaction is almost complete.
+3. Repeat steps 1 and 2 with 1 g of MnO₂.
+Observations and analysis:
+1. Identify the gas and write a balanced chemical equation for the reaction.
+2. Under which condition does gas syringe contains more of the gas at any one
+time? Give an explanation for this observation.
+3. Describe the appearance of MnO₂ before and after the reaction.
+4. Plot graphs of rate on the vertical axis and time (minutes) on the horizontal
+axis for two different sets of readings. Which set of reading were used? Why?
+5. Write a conclusion about the reaction rate:
+a. in the presence of a catalyst
+b. in the absence of a catalyst
+Gas syringe
+25 mL of 0.1 M
+H₂O₂ solution
+Figure 4.8: Investigation into the effect of manganese (IV) oxide
+on hydrogen peroxide
+216
+UNIT 4
+Factors Affecting the Rate of a Chemical Reaction
+A catalyst is a substance that changes reaction rate by providing a different reaction
+mechanism one with a lower activation energy, Eₐ. An activation energy is the minimum
+energy required to start a chemical reaction. Catalysts are not used up by the reactions,
+rather they are recovered at the end of the reaction. Although a catalyst speeds up the
+reaction, it does not alter the position of equilibrium.
+Activation Energy
+Reactants
+Effect of a catalyst
+Products
+Figure 4.9: A catalyst provides an alternate pathway with a lower
+activation energy barrier for the reaction
+Chemical catalysts can be either positive or negative. Positive catalysts increase the
+rate of reaction by lowering the Eₐ.
+Example 4.4
+2SO₂ (g) + O₂(g)
+2SO₃ (g); V₂O₅ (s) as catalyst.
+Negative catalysts or inhibitors decrease the rate of reaction by increasing the value
+of Eₐ.
+Example 4.5
+OCl⁻ (aq) + I⁻ (aq)
+OI- (aq) + Cl⁻ (aq); OH- (aq) as inhibitor.
+UNIT 4
+217
+CHEMISTRY GRADE 11
+Example 4.4 represents heterogeneous catalysts as state of reactants and catalyst is
+different, while Example 4.5 represents homogeneous catalyst as both reactants and
+catalyst are in same state.
+A substance that catalyzes one reaction may have no effect on another reaction,
+even if that reaction is very similar. Many of the most highly specific catalysts are
+those designed by nature. The chemical reactions in living things are controlled by
+biochemical catalysts called enzymes.
+UNIT SUMMARY
+Chemical kinetics is the study of the rates and mechanisms of chemical reactions.
+A chemical reaction occurs when atoms, molecules or ions undergo effective
+collisions.
+The higher the activation energy, the slower a chemical reaction and vice versa.
+In general, reaction rates increase with temperature, because higher temperature
+increases both the frequency of collisions and the number of molecules possessing
+enough energy to undergo effective collision.
+Reaction rate is expressed as the change in concentration of a reactant or product,
+per unit time.
+Reaction rates must be determined experimentally, often by gathering data on
+the variation of concentration over time.
+Reaction rates are influenced by the concentrations of reactants, temperature,
+catalysts and the degree of contact between reactants (surface area).
+CHECKLIST
+KEY TERMS
+Activation energy
+Homogeneous catalyst
+Average rate
+Initial rate
+Catalyst
+Instantaneous rate
+Chemical kinetics
+Kinetics
+Collision theory
+Rate of reaction
+Effective collision
+Surface area
+Heterogeneous catalyst
+218
+UNIT 4
+Factors Affecting the Rate of a Chemical Reaction
+REVIEW EXERCISE
+Part I: Choose the correct answer from the given alternatives
+1.
+When the concentration of reactant molecules is increased, the rate of reaction
+increases. The best explanation is: As the reactant concentration increases,
+a. the average kinetic energy of molecules increases.
+b. the frequency of molecular collisions increases.
+c. the rate constant increases.
+d. the activation energy increases.
+2.
+A catalyst:
+a. actually participates in the reaction.
+b. changes the equilibrium concentration of the products.
+c. does not affect a reaction energy path.
+d. always increases the activation energy for a reaction.
+3.
+Which items correctly complete the following statement? A catalyst can act in
+a chemical reaction to:
+(I) increase the equilibrium constant.
+(II) lower the activation energy.
+(III) provide a new path for the reaction.
+a. only I & II
+b. only II
+c. only II & III
+d. only I & III
+4.
+The combustion of ethane (C₂H₆) is represented by the equation:
+2C₂H₆(g) + 70₂(g)
+I
+4CO₂(g) + 6H₂O(1) In this reaction:
+a. the rate of consumption of ethane is seven times faster than the rate of
+consumption of oxygen.
+b. CO2 is formed twice as fast as ethane is consumed.
+c. water is formed at a rate equal to two-thirds the rate of formation of CO2.
+d. the rate of consumption of oxygen equals the rate of consumption of water.
+5.
+The speed of a chemical reaction
+a. is constant no matter what the temperature is.
+b. is independent of the amount of contact surface of a solid involved.
+c. between ions in aqueous solution is extremely rapid because there are no
+bonds that need to be broken.
+d. varies inversely with the absolute temperature.
+UNIT 4
+219
+CHEMISTRY GRADE 11
+6.
+A graph of volume of hydrogen released vs time for a hypothetical reaction
+between zinc and dil. HCl is given in Figure 4.10. On the basis of this mark
+the correct option.
+V₃ - V₂
+Vₛ₄
+a. Average rate up to 40 S is
+40
+V₃
+V₃ V₂
+b. Average rate up to 40 S is
+40 + 30
+V²,
+V₃
+c. Average rate up to 40 S is
+40
+0 20 30 40 50
+d. Average rate up to 40 S is V₃-V₁
+Figure 4.10: A reaction between
+40 20
+zinc and dilute hydrochloric acid
+7.
+Consider the graph given in Figure 4.10. Which of the following options does
+not show instantaneous rate of eaction at 40th second?
+V₅ - V₂
+V₄
+V₂
+V₃ V₂
+a.
+b.
+c.
+50 30
+50-30
+50 30
+d. 40 V₃ 20 V₁
+8.
+Which of the following statements is correct?
+a. The rate of a reaction decreases with passage of time as the concentration
+of reactants decreases.
+b. The rate of a reaction is same at any time during the reaction.
+c. The rate of a reaction is independent of temperature change.
+d. The rate of a reaction decreases with increase in concentration of reactant(s).
+9.
+Which of the following expressions is correct for the rate of reaction given
+below? 5Br-(aq) + BrO₃⁻(aq) +
+3Br₂(aq) + 3H₂O(1)
+Br
+H⁺
+Br
+6
+Д
+H⁺
+a.
+=
+5
+b.
+At
+At
+At
+5
+At
+Br
+5
+Д
+H⁺
+Д
+Br
+H⁺
+b.
+d.
+II
+6
+At
+6
+At
+At
+At
+10.
+During the decomposition of H2O2 to give dioxygen, 48 g O₂ is formed per
+minute at certain point of time. The rate of formation of water at this point is
+a. 0.75 mol min⁻¹ b. 1.5 mol min⁻¹ c. 2.25 mol min⁻¹ d. 3.0 mol min⁻¹
+220
+UNIT 4
+Factors Affecting the Rate of a Chemical Reaction
+Part II: Give short answers to each of the following questions
+11.
+What variable of a chemical reaction is measured over time to obtain the reaction rate?
+12.
+How does an increase in pressure affect the rate of a gas phase reaction? Explain.
+13.
+A reaction is carried out with water as the solvent. How does the addition of
+more water to the reaction vessel affects the rate of the reaction? Explain.
+14.
+How does an increase in temperature affect the rate of a reaction? Explain the
+two factors involved.
+15.
+What is the difference between an average rate and an instantaneous rate?
+16.
+What is the difference between an initial rate and an instantaneous rate?
+17.
+Give two reasons to measure initial rates in a kinetics study.
+18.
+For the reaction A(g)
+B(g), sketch two curves on the same set of axes that show
+a. The formation of product as a function of time
+b. The consumption of reactant as a function of time
+19.
+The compound AX2 decomposes according to the equation
+2AX2(g)
+2AX (g) + X₂ (g). In one experiment, [AX₂] was measured
+at various times and these data were obtained:
+Time (s)
+0
+2
+6
+8
+10
+20
+[AX2] (mol L⁻¹)
+0.05
+0.0448
+0.03
+0.0249
+0.0209
+0.0088
+a. Find the average rate over the entire experiment.
+b. Is the initial rate higher or lower than the rate in part (a)? Use graphical
+methods to estimate the initial rate.
+20.
+Express the rate of reaction in terms of the change in concentration of each of
+the reactants and products: A (g) + 2B (g)
+C (g) When [B] is decreasing
+at 0.5 mol L⁻¹ s⁻¹, how fast is [A] decreasing?
+21.
+Reaction rate is expressed in terms of changes in concentration of reactants and
+products. Write a balanced equation for
+Rate = 2 1 [N₂O₅] At 4 1 [NO₂] At [0₂] At
+22.
+Although the depletion of stratospheric ozone threatens life on Earth today, its
+accumulation was one of the crucial processes that allowed life to develop in
+prehistoric times: 30₂(g)
+20₃(g)
+a. Express the reaction rate in terms of [O₂] and [0₃].
+b. At a given instant, the reaction rate in terms of [O₂] is
+2.17 X 10⁻⁵ mol L⁻¹s⁻¹. What is it in terms of [O₃]?
+UNIT 4
+221
+CHEMISTRY GRADE 11
+5
+Rate
+UNIT
+0
+Time
+CHEMICAL EQUILIBRIUM

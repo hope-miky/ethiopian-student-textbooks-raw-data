@@ -1,0 +1,1664 @@
+Unit Outcomes
+At the end of this unit, you will be able to:
+discuss how equilibrium is established
+explain characteristics of dynamic equilibrium
+state the law of mass action and write an expression for equilibrium
+constants, K C and Kₚ from a given chemical reaction
+apply the law of mass action to calculate Kc, Kₚ concentration and
+pressure of substances in equilibrium
+explain how the reaction quotient is used to indicate position of the
+equilibrium
+state Le-Chatlier's principle and use it to predict and explain the effects
+of changes in temperature, pressure, concentration and presence of a
+catalyst on a reaction
+perform an activity to demonstrate the effects of changes in concentration
+on the position of equilibrium and to determine Kc or Kₚ values
+explain how equilibrium principles may be applied to optimize the
+production of industrial chemicals (e.g., production of ammonia and
+sulphuric acid)
+describe scientific enquiry skills along this unit: observing, predicting,
+comparing and contrasting, communicating, asking questions and making
+generalizations.
+222
+UNIT 5
+Introduction
+Start-up Activity
+Form a group and perform the following activity:
+Mix 10 mL of 0.1 mol L⁻¹ HCI solution with 10 mL of 0.1 mol L⁻¹
+NaOH solution. Now, discuss each of the following questions:
+a. What is the concentration of NaCl formed?
+b. How much HCl and NaOH remain unreacted?
+c. Is the reaction complete?
+Share your ideas with the rest of the class.
+5.1
+Introduction
+In Unit 4 you have learned about the rate of reaction. You have also studied the time
+taken for half of the reaction to be completed. However, some questions have not
+been answered yet. These questions include: Do all reactions reach to completion?
+If not then how much of the reactants remain unreacted, that is, what is the extent of
+the reaction it took? Why does the reaction reach to completion? Why does it attain
+equilibrium? These questions can be answered after studying chemical equilibrium.
+In this unit, you will learn about chemical equilibrium, how it is attained, and factors
+that affect the position of chemical equilibrium.
+5.2
+Chemical Equilibrium
+At the end of this section, you will be able to:
+explain reversible and irreversible reactions
+define dynamic chemical equilibrium
+state the necessary conditions for attainment of equilibrium
+describe the microscopic event that occur when a chemical system is in
+equilibrium
+explain the characteristics of chemical equilibrium
+state the law of mass action
+define equilibrium constant
+write the equilibrium constant expression for chemical reactions that
+involve concentration
+UNIT 5
+223
+CHEMISTRY GRADE 11
+calculate values for equilibrium constant involving concentration
+state the relationship of Kₑq to the relative amounts of products and
+reactants in a given reaction
+write the equilibrium constant expression for chemical reactions that
+involve partial pressure
+calculate values for equilibrium constant involving partial pressure
+show the relationship between Kc and Kₚ
+distinguish between homogeneous and heterogeneous equilibrium
+reactions
+define reaction quotient
+use the equilibrium quotient to predict the direction of the reaction and
+the position of equilibrium
+calculate equilibrium concentrations given initial concentrations
+determine whether the reactants or products are favored in a chemical
+reaction given the equilibrium constant
+list factors that affect chemical equilibrium
+state Le-Chatliers principle
+use Le-Chatliers principle to explain the effect of changes in temperature,
+pressure, concentration and presence of catalyst on a reaction
+state the effect of changes in concentration, pressure/volume and
+temperature on Kₑ₄
+perform an activity to demonstrate the effect of changes in concentration
+on the position of equilibrium
+perform an activity to demonstrate the effect of changes in temperature
+on the position of equilibrium
+perform an activity to determine Kc for esterification of an organic acid;
+define optimum conditions
+explain how Le-Chatliers principle is applied in the Haber process
+(production of NH3 ) and in the Contact process (production of H₂SO₄).
+224
+UNIT 5
+Chemical Equilibrium
+5.2.1
+Reversible and Irreversible Reactions
+Activity 5.1
+Perform the following activities in pairs and write a report of your findings.
+Consider the reactions that involve both gaseous reactants and products.
+What will happen if the reaction takes place in:
+a. an open vessel (container)?
+b. a closed vessel?
+Share your findings to the whole class.
+Many chemical reactions proceed to completion. In such types of reactions, the
+reactants, are converted to the products and the amount of reactants left after the
+reaction is very small. Such reactions are called irreversible reactions or one-way
+reactions. When the equation for an irreversible reaction is written, a single arrow
+()
+is used to indicate that the reaction proceeds in only one direction. For instance,
+the reaction between carbon and oxygen is an irreversible reaction:
+C(s)
++
+O₂(g)
+CO₂(g)
+On the other hand, some reactions do not go to completion. Such reactions are called
+reversible reactions or two-way reactions. These reactions usually proceed both in
+the forward and reverse reactions. The reaction in which the original reactants form
+products is the forward reaction and the reaction in which the products are converted
+to the original reactant is the reverse (backward) reaction. When the equation for a
+reversible reaction is written, a double arrow (=) indicates the reaction that goes from
+reactants to products to the right and from the products to the reactants to the left.
+Reversible reactions have the following general form:
+aA
++
+bB
+cC + dD
+Where A and B are reactants, C and D are products and a, b, c, and d are balancing
+coefficients. In this reaction:
+aA
++
+bB
+cC + dD
+Forward reaction
+cC
++
+dD
+aA + bB
+Reverse reaction
+For example, the formation of ammonia is a reversible reaction:
+N₂ (g) + 3H₂(g)
+2NH3 (g)
+UNIT 5
+225
+CHEMISTRY GRADE 11
+Another example of a reversible reaction is the formation of hydrogen iodide from
+hydrogen gas and iodine vapours:
+H₂ (g)
++
+I₂ (g)
+2HI (g)
+Exercise 5.1
+Answer the following questions:
+1. How do you distinguish between reversible and irreversible reactions?
+2. Give examples of reversible and irreversible reactions.
+5.2.2
+Attainment and Characteristics of Chemical Equilibria
+Activity 5.2
+Discuss the following idea in pairs and present your findings to the whole class.
+Why do chemical reactions reach an equilibrium state?
+For a reversible reaction, the rate with which the reactants form products is the forward
+reaction rate (rf) and the rate with which the products combine to produce the original
+reactants is called the reverse reaction rate (r). At the beginning of the reaction,
+the forward reaction has a high rate, but gradually decreases with time. The reverse
+reaction has a very small rate at the beginning, but gradually increases (as the products
+concentration increase) until equilibrium is established. The equilibrium is attained
+when the rate of the two opposing reactions become equal. That is at equilibrium:
+Rate of forward reaction (rf) = Rate of reverse reaction (r,)
+226
+UNIT 5
+Chemical Equilibrium
+5.2.3
+Conditions for Attainment of Chemical Equilibria
+Activity 5.3
+Sit in a group of three or four and discuss the following reactions. Share
+your findings with the whole class.
+1. Dimerization of nitrogen dioxide is a reversible reaction:
+2NO₂(g)
+N₂O₄(g)
+Dark brown
+Colourless
+When NO₂ is placed in an evacuated, sealed glass vessel, the intensity of
+the initial dark brown color gradually decreases. However, after sometime
+the intensity of the brown color becomes constant.
+a. Why does the dark brown colour intensity decrease at the start?
+b. Why does the brown colour become constant, eventually?
+c. What will happen to the colour, if you check after a month?
+Chemical equilibria are dynamic equilibria, i.e., reactants and products are
+interconverted continually, even though the overall composition of the reaction mixture
+does not change. Once the equilibrium is established, a change in one direction is
+balanced by changes in the other direction.
+To understand the concept, consider Figure 5.1, which shows the change in the
+reaction rate with time for the forward and reverse reactions. The rate of the forward
+reaction depends upon the concentration of reactants, whereas the rate of the reverse
+reaction depends upon the concentration of the products. Initially, only the reactants
+are present, therefore, the rate of the forward reaction is fast. The reaction in the
+reverse direction does not take place as no product is present yet.
+As the reaction progresses, the concentration of the reactants decreases and hence,
+the rate of forward reaction also decreases. However, due to the increase in the
+concentration of products, the rate of the reverse reaction increases. As the reaction
+further progresses a point will be reached when the rate of forward reaction becomes
+equal to the rate of reverse reaction. When this stage is attained, the concentrations of
+reactants and products do not change. The reaction has reached chemical equilibrium.
+UNIT 5
+227
+CHEMISTRY GRADE 11
+Equilibrium
+Forward
+Rate
+reaction
+Equal rates
+Reverse
+reaction
+0
+Time
+Figure 5.1: Change in the rate of reaction with time for forward
+and reverse reactions
+For example, synthesis of ammonia from nitrogen and hydrogen is a reversible process.
+N₂ (g) + 3H₂ (g)
+2NH₃(g)
+At the beginning of the reaction, only nitrogen and hydrogen are present. They combine to
+form ammonia at a large rate. As the reaction progresses, the concentrations of nitrogen
+and hydrogen decrease so the rate of formation of ammonia decreases. As more and
+more ammonia molecules are formed, some of the molecules start decomposing to
+give back nitrogen and hydrogen molecules. As the reaction progresses, the number
+of ammonia molecules increases, the rate of decomposition of ammonia also increases.
+As the reaction proceeds, the rate of formation of ammonia decreases while the rate of
+decomposition ammonia increases. At a given point the two rates become equal, and
+equilibrium is reached.
+Note that the concentrations of products and reactants are not necessarily equal at
+equilibrium, only the rate of forward and reverse reactions are equal. Generally, a
+reaction at equilibrium has the following characteristics:
+The reaction is reversible in nature.
+There is no net change in the concentrations of the reactants and products
+of the reaction.
+The rates of the forward and reverse reactions are equal.
+The reaction should take place in a closed vessel to react at equilibrium.
+The equilibrium is dynamic in nature.
+The concentrations of reactants and products are generally not equal.
+228
+UNIT 5
+Chemical Equilibrium
+Exercise 5.2
+Answer the following questions
+1. Explain trends of the rates of the forward and reverse reactions for the
+following graph, using the labels a, b and c.
+Rate
+a
+c
+b
+0
+Time
+2. Explain what happens to the Concentration of the reactants and the
+concentration of the products in the graph using the labels a, b and c..
+a
+Concenrration
+c
+b
+0
+Time
+3. What are the conditions that remain constant at equilibrium?
+5.2.4 Equilibrium Expression and Equilibrium Constant
+A.
+Law of Mass Actions
+Mathematically the equilibrium constant is written based on the law of mass action or
+law of concentration action proposed by Cato Maximilian Guldberg and Peter Waage,
+in 1864. The law of mass action states that "the rate at which A and B combine is
+directly proportional to the product of their concentration terms each raised to the power
+of its respective coefficient in the balanced chemical reaction."
+UNIT 5
+229
+CHEMISTRY GRADE 11
+The general equation that represents a reversible reaction is:
+aA
++
+bB
+cC + dD
+For the forward reaction A and B are reactants, and C and D are products. Assume
+that the reaction is homogeneous, in which all the reactants and the products are in the
+same state.
+The rate of forward reaction (r,) depends upon the concentrations of A and B as well
+as the rate of reverse reaction (rᵣ) depends upon the concentrations of C and D. These
+relations are expressed as follows:
+α [A]ᵃ[B]ᵇ
+or
+α [C]ᶜ[D]ᵈ
+or
+rᵢ = k,[C]ᶜ[D]ᵈ
+Where [A], [B], [C] and [D] are the concentrations of A, B, C and D, and kƒ and kᵣ are
+rate constants for the forward and reverse reactions, respectively.
+At equilibrium, the rate of forward reaction is equal to the rate of reverse reaction.
+Therefore, rf = r₁ or
+kƒ and kᵣ are constant. Therefore, the ratio of kƒ to kᵣ is also constant.
+The ratio of kƒ and kᵣ is represented by Kₑq' which is called equilibrium constant. [A],
+[B], [C] and [D] are concentrations of A, B, C, D, and A at equilibrium, respectively.
+When their concentrations are expressed in molarities, the Kₑq is shown by Kc. When
+the reaction reactants and the products are gaseous, their concentrations can be
+expressed in terms of partial pressures. In such cases, the Kₑq is denoted by Kₚ.
+B.
+Equilibrium constant expression involving concentration, Kc.
+In homogeneous reactions, all reactants and products are present in the
+same physical state. While writing equilibrium constant expressions for
+such reactions, the following rules are followed.
+The concentrations of all the substances formed as products are written in
+the numerator (the top of the fraction).
+The concentrations of all the reactants are written in the denominator
+(the bottom of the fraction).
+230
+UNIT 5
+Chemical Equilibrium
+The equilibrium concentrations of each species are raised to a power equal
+to the coefficient of that species written in the balanced chemical equation.
+For a general reaction at equilibrium:
+aA
++
+bB
+cC + dD
+The expression for Kc is: Kc = [A]B]
+The unit of Kc depends upon the number of moles of the reactants and products
+involved in the reaction. Therefore, for the above general reaction, the Kc unit will be:
+Kc -
+=
+Example 5.1
+KC expressions and units as well as KC value determinations:
+1. NH3(g) + CH₃COOH(aq) NH₄⁺ (aq) + CH₃COO⁻(aq)
+KC [NH₃][CH₂COOH] NH,][CH,COO⁻] = (mol L⁻¹)(mol L⁻¹) (mol L⁻¹) (mol L⁻¹) =
+1
+2. HF (aq)
+H⁺(aq) + F⁻(aq)
+KC = THE] H⁺ = (mol L⁻¹) (mol L⁻¹) (mol L⁻¹) = mol L⁻¹
+3. 2NO (g) + (g)
+2NOBr (g)
+KC = [NO]²[Br₂] [NOBr]² = [mol L⁻¹²(mol L⁻¹) [mol L⁻¹]² = = [mol L⁻¹⁻²
+4. For the reaction
+H2 (g) + F2 (g)
+2HF (g)
+An equilibrium mixture at 425 °C contains 4.79 X 10-4 mol/L of H2,
+4.79 X 10-4 mol/L of F2 and 3.53 X 10⁻³ mol/L of HF. Determine the equilibrium
+constant of the reaction.
+UNIT 5
+231
+CHEMISTRY GRADE 11
+Solution:
+Given: [H2] = [F₂] = 4.79 X 10-4 mol/L
+[HF] = 3.53 X 10⁻³ mol/L
+KC expression for the reaction is KC = [H₂][F₂] [HF]²
+Substitution of the give values in the expression gives:
+[3.53 X 10⁻³ mol/L]²
+KC = (4.79 X 10⁻⁴ mol (4.79 X 10⁻⁴ mol/L)
+= 5.43
+Exercise 5.3
+1. Write the equilibrium constant expressions (KC) for the following reactions:
+NH₃ (aq) + HF (aq)
+NH₄⁺ (aq) + F⁻ (aq)
+2PBr₃ (g) + Cl₂ (g)
+2PCl₃(g) + 3Br₂ (g)
+2. For the reaction N₂ (g)
++
+3Cl₂(g)
+2NCl₃ (g) an analysis of an
+equilibrium mixture is performed at a certain temperature. It is found
+that [NC1₃] = 1.9 X 10⁻¹ M, [N₂] = 1.4 X 10⁻³M, and [C1₂] = 4.3 X 10⁻⁴
+M. Calculate Kc for the reaction at this temperature
+C.
+Equilibrium constant expression involving partial pressure, Kₚ
+When all the reactants and the products are gases, their concentrations can be
+written in terms of partial pressures. In such cases the equilibrium constant is
+denoted by Kₚ, which is expressed as:
+[Pc]ᶜ[Pₚ]ᵈ = Kₚ
+For the formation of ammonia: N₂ (g) + 3H₂(g)
+2NH3 (g)
+The expression of equilibrium constant in terms of molarities is:
+[N₂][H₂]³ [NH₃]² = Kc
+The expression of Kₚ is:
+[Pₙ₂][Pµ₂] [PNH₃]² = Kₚ
+232
+UNIT 5
+Chemical Equilibrium
+The unit of Kₚ is decided by the unit of pressure. If the partial pressure is expressed in
+atm, then the unit of Kₚ, will be:
+Kₚ
+If the partial pressure is measured in kPa, then the unit of Kₚ will be (kPa)(ᵐ⁺ⁿ)-(a+b)
+Example 5.2
+Kₚ expressions and units as well as Kₚ value determinations:
+1. N₂ (g) + 3H2 (g)
+2NH₃ (g)
+Kₚ
+2. 2HI (g) Kₚ : =
+1
+(atm)²
+3. N₂O₄(g)
+2NO₂(g)
+Kₚ
+=
+=
+atm
+(atm)
+4. The reaction for the formation of nitrosyl chloride was studied at 25 °C
+2NO (g) + Cl₂ (g)
+2NOCI (g)
+At equilibrium, the partial pressures were found to be 1.2, 5.0 X 10⁻²
+and 3.0 X 10-¹ atm for NOCI, NO and C12, respectively. Calculate the
+value of Kₚ for this reaction at 25 °C.
+Solution:
+Given: P NOCI = 1.2 atm, PNO = 5.0 X 10⁻² atm and PC1₂ = 3.0 X 10-¹ atm
+Kₚ expression for the reaction is
+(P) Cl₂
+Substitution of the give values in the expression gives:
+[1.2 atm]²
+Kₚ = (5.0 X 10⁻² atm)² 10⁻¹ atm) = 1.920 atm⁻¹
+UNIT 5 233
+CHEMISTRY GRADE 11
+Exercise 5.4
+1. Write the equilibrium constant expressions (Kₚ) for the following reactions:
+a. 2SO₂(g)+O₂(g)
+2SO₃ (g)
+b. N₂ (g) + (g) + Br₂ (g)
+2NOBr (g)
+2. The following equilibrium pressures were observed at a certain
+temperature for the reaction 2NO₂(g)
+2NO (g)
++
+O2
+(g)
+PNO₂ = 0.55 atm
+Pₙ₀ = 6.5 X 10⁻⁵ atm,
+PO₂ = 4.5 X 10⁻⁵ atm
+Calculate the value for the equilibrium constant at this temperature
+D.
+Equilibrium constant for heterogeneous reactions
+In heterogeneous reactions, the reactants and products are present in more than
+one physical state. For example, thermal decomposition of calcium carbonate is an
+example of heterogeneous reaction. See these examples:
+CaCO₃(s)
+CaO
+(s)
++
+CO₂(g)
+NH₄Cl(s)
+NH3 (g)
++
+HCl (g)
+CO₂(g)
++
+H₂O (1)
+H+
+(aq)
++
+HCO3
+(aq)
+When we write the equilibrium constant expression for heterogeneous reactions, we
+do not include the concentration of pure solids or pure liquids in the expression. This
+is because, the position of equilibrium does not depend on the amounts of pure solids
+or pure liquids present. The molar concentrations of pure solids liquids are constant at
+a given temperature.
+234
+UNIT 5
+Chemical Equilibrium
+Example 5.3
+The equilibrium constant expressions for some heterogeneous reactions are
+shown below:
+1. CaCO₃(s)
+CaO (s)
++
+CO₂(g)
+Kc = [CO₂] or Kₚ = Pco₂
+2. NH₄Cl (s)
+NH₃
+(g)
++
+HCl (g)
+KC = [NH₃][HC1] or Kₚ = PHC₁
+3. CO2 (g) + H₂O (1)
+H+ (aq)
++
+HCO₃⁻(aq)
+KC = H⁺][HCO₃ [CO₂]
+Exercise 5.5
+Write the equilibrium constant expression for the following reactions:
+1.
+Fe³⁺
+(aq)
++
+30H⁻
+(aq)
+Fe (OH)₃ (s)
+2. PCl₅ (s)
+PC1₃(1)
++
+Cl₂ (g)
+3. 2NBr₃ (s)
+N₂ (g)
++
+3Br₂ (g)
+4. HCl (aq) + H2O (1)
+H₃O⁺(aq) + Cl- (aq)
+E.
+Relation between KC and Kₚ
+For the general reaction
+aA
++
+bB
+cC + dD
+Kc and Kₚ expressions are:
+Kc
+Kₚ
+Assume that all gaseous species behave like an ideal gas. Thus, according to the ideal
+gas equation, the partial pressure (P) of a gas is given by:
+P = nRT/V and n/V = C
+Where n is amount of the gaseous species in moles, R is gas constant, T is temperature
+UNIT 5
+235
+CHEMISTRY GRADE 11
+in kelvin, V is volume of the reaction mixture and C is concentration in molarity.
+Thus, partial pressure of each species for the above general reaction is:
+Pₐ = nART/V = CART
+Kₚ = [πCRT/V]"[nDRT/V]" [nART/V]"[nBRT/V]" =
+Where An = (c + d) - (a + b) for gaseous species
+C
+When the number of gaseous reactants and products are equal then, a +b=c+d
+Therefore, An = 0 and, hence Kₚ = Kc
+Example 5.4
+1. The equilibrium constant (Kₚ) for the reaction:
+2SO₃ (g)
+2SO₂ (g) + O2 (g) is 1.8 X 10⁻³ kPa at 427 °C.
+Calculate KC for the reaction at the same temperature.
+Solution:
+Given: Kₚ = 1.8 X 10⁻³ kPa = 1.8 Nm⁻², T = 427°C = 700 K and R =
+8.314 N m K⁻¹ mol⁻¹
+We know that Kp = KC (RT)⁴ⁿ
+For the given reaction, An = (2 + 1) - 2 = 1
+Therefore, Kc = Kₚ(RT)
+KC = RT Kₚ = KC = 8.314 N m K⁻¹ 1.8 Nm⁻² mol⁻ X 700 = 3.1x10⁻⁴ m⁻³ mol
+2. What are the values of Kp and Kc at 1000 °C for the reaction
+CaCO3 (s)
+1L
+CaO (s) + CO2 (g) if the pressure of CO2 in equilibrium
+with CaCO₃ and CaO is 3.87 atm?
+236 UNIT 5
+Chemical Equilibrium
+Solution:
+Enough information is given to find Kp first. Writing the Kp expression
+for the reaction: Kₚ = PCO₂ = 3.87 atm,
+R = 0.082 L atm K-¹ mol⁻¹ and
+T = 1273 K
+Then to get Kc, rearrange the equation, Kp = Kc(RT)⁴ⁿ Where n, the
+change in the number of moles of gas in the reaction is +1.
+KC = 0.082 L.atm. 3.87 K⁻¹ atm mol⁻¹ X 1273 K = 0.037 mol = 0.037 M
+3. At 400 °C, Kc = 64 for the reaction
+H2 (g) + I₂ (g)
+1L
+2HI (g)
+a. What is the value of Kp for this reaction?
+b. If at equilibrium, the partial pressures of H2 and I₂ in a container
+are 0.20 atm and 0.50 atm, respectively, what is the partial pressure
+of HI in the mixture?
+Solution:
+The equation relating Kₚ to KC is:
+The change in the number of moles of gas An is:
+An = 2 mol HI - 1 mol H2- 1 mol I2 = 0
+Since, An = 0, Kₚ = KC
+b. Write the equilibrium constant expression:
+[P]
+by rearranging the above equation, we can find PHI
+PHI = /Kp_PH₂__P₁₂_ = X 0.2 atm X 0.5 atm = 2.53 atm
+UNIT 5 237
+CHEMISTRY GRADE 11
+Exercise 5.6
+1. At 327 °C, the equilibrium concentrations are
+[CH₃OH] = 0.15 M, [CO] = 0.24 M and [H2] = 1.1 M for the reaction:
+CH3OH (g)
+CO (g) + 2H2 (g)
+Calculate Kₚ at this temperature.
+2. At 1100 K, Kₚ = 0.25 for the reaction:
+2SO₂ (g) + O₂ (g)
+2SO₃ (g)
+What is the value of Kc at this temperature?
+3. When 0.500 mol of N₂O₄ is placed in a 4.00 L reaction vessel and heated
+at 400 K, 79.3% of the N₂O₄ decomposes to NO₂. The decomposition
+reaction is: N₂O₄(g)
+2NO₂ (g)
+Calculate Kc and Kₚ of the reaction at 400 K.
+Consider the reactions in which the product species in one equilibrium system are
+involved in the second equilibrium process.
+A
++
+B
+C + D
+(i)
+C
++
+D
+E+F
+(ii)
+The equilibrium constant expressions for reaction (i) and (ii), respectively, are
+K₁ KIB and K2 = [C][D] [E][F]
+The overall reaction is given by the sum of the two reactions:
+A+B
+C+D
+C+D
+E+F
+Overall reaction :
+A+B
+E+F
+The equilibrium constant expression for the overall reaction is:
+K = [A][B] [E][F] = K₁ X K2 = [A][B] X [C][D] E F
+Note that if a reaction is the sum of two or more reactions, the equilibrium constant
+of the overall reaction is equal to the product of the equilibrium constants of the
+individual reaction. That is: K overall = K₁ X K2 X K3
+238 UNIT 5
+Chemical Equilibrium
+Example: 5.5
+1. Determine KC for this reaction:
+1/2N₂ (g) + 1/202 (g) + ¹/₂Br₂ (g)
+NOBr (g)
+from the following information at 298 K.
+2NO (g)
+N₂ (g) + O (g)
+(i) K₁ = 2.4 X 10³⁰
+NO (g) + 1/2Br₂ (g)
+NOBr (g)
+(ii) K2 = 1.4
+Solution:
+To calculate KC of the overall reaction, reactions (i) and (ii) must add up to
+give the overall reaction. To do this, first reverse reaction (i) and multiply
+½, so that it will have the form:
+1/2N₂ (g) + 1/202 (g)
+NO (g)
+(iii)
+Since the reaction equation is reversed and multiplied by 1/2, the equilibrium
+constant for reaction (iii), K₁ is calculated as:
+6.5x10⁻¹⁶
+Now, add reactions (ii) and (iii):
+NO (g) + ½Br₂(g)
+NOBr (g) K2 = 1.4
+1/2N₂ (g) + 1/202 (g)
+NO (g)
+K₁ = 6.5.5 10⁻¹⁶
+Overall reaction: 1/2N₂ (g) + 1/202 (g) + 1/2Br2 (g)
+NOBr (g)
+Thus, the equilibrium constant for the overall reaction is:
+Koverall = K2 X K1 = 1.4 X 6.5 X 10⁻¹⁶ = 9.1x10⁻¹⁶
+UNIT 5 239
+CHEMISTRY GRADE 11
+Exercise 5.7
+1. The following equilibrium constants were determined at 1123 K:
+C (s) + CO2 (g)
+2CO (g)
+KC1 = 1.4 X 10¹²
+CO (g) + Cl₂ (g)
+COC1₂ (g)
+KC2 = 5.5 X 10¹
+Write the equilibrium constant expression Kc and calculate the
+equilibrium constant at 1123 K for the following reaction.
+C (s) + CO2 (g) + 2C1₂ (g)
+2COCI₂ (g)
+2. For the reaction:
+H₂ (g) + Br₂ (g)
+2HBr (g)
+Kp = 7.1 X 10⁴ at 700 K.
+What is the value of Kₚ for the following reactions at the same
+temperature?
+a. 2HBr (g)
+H2 (g) + Br₂ (g)
+b. ¹/₂H₂ (g) + ½ Br₂ (g)
+HBr (g)
+3. Calculate a value for the equilibrium constant for the reaction:
+O₂ (g)
++
+O
+(g)
+O₃ (g) from the following information
+NO₂ (g)
+NO
+(g)
++
+O
+(g)
+Kc = 6.8 X 10⁻⁴⁹
+O₃ (g)
++
+NO (g)
+NO₂
+(g)
++
+O₂
+(g)
+Kc
+=
+5.8
+X
+10⁻³⁴
+5.2.5
+Applications of Equilibrium Constant
+Useful information can be obtained from the value of equilibrium constant of a given
+reaction at a particular temperature. The equilibrium constant of a reaction enables us to:
+predict the composition of an equilibrium mixture (or predict extent of reaction);
+predict the direction of the reaction
+calculate the equilibrium concentrations of reactants and products from initial
+concentrations.
+A.
+Predict the composition of an equilibrium mixture
+Kc or Kₚ value is used predict the extent of the reactions at equilibrium. Very large
+values of KC or Kₚ indicate that at equilibrium the reaction system consists of mainly
+products and the equilibrium lies to the right, i.e., the reaction goes near to completion.
+An equilibrium mixture contains about as much product as can be formed from the
+given initial amounts of reactants.
+240
+UNIT 5
+Chemical Equilibrium
+However, if Kc or Kₚ values are very small, the equilibrium mixture consists of mainly
+reactants and the reaction lies far to the left.
+Note that a reaction goes essentially to completion if Kc or Kₚ > 10¹⁰ and not at all if
+Kc or Kₚ < 10⁻¹⁰.
+Exercise 5.8
+1. Predict whether the formation of product is favoured for the following
+reactions:
+a. N₂ (g) + 3H, (g)
+2NH₃ (g)
+Kc = 3.6 X 10⁸
+b. N₂O₄ (g)
+2NO₂ (g)
+KC = 5.0 X 10⁻³
+c. 2CO₂ (g)
+2CO (g) + O₂ (g)
+Kc = 4.45 X 10⁻²⁴
+2. Arrange the following reactions in order of their increasing tendency
+to proceed towards completion (least extent to greatest extent):
+a. CO + Cl₂
+COC1₂
+Kc = 13.8
+b. 2CO₂
+2CO + O₂
+Kc = 2.0 X 10⁻⁶
+c. 2NOCI
+2NO + Cl2
+Kc = 4.7 X 10⁻⁴
+B.
+Predict the direction of the reaction
+Activity 5.4
+Form a group and discuss the following. Share your ideas with the rest of the
+class.
+The equilibrium constant, Kc for the following reaction is 54.3 at 430 °C.
+H₂ (g) + I₂ (g)
+2HI (g)
+Suppose that in a certain experiment, 0.243, 0.146, and 1.98 moles of H2, I₂
+and HI, respectively, are placed in a 1.0 L container at 430 °C. Will there be
+a net reaction to form the H2, O2 or more HI?
+To predict the direction of a reaction of a reaction, we first calculate the reaction
+quotient (Qc) and compare it with the value of the equilibrium constant. The reaction
+quotient is the ratio of concentrations of products to the concentrations of reactants
+each raised to the power equal to its stoichiometric coefficient. Qc has the same form
+as Kc, but involves concentrations that are not necessarily equilibrium concentrations.
+UNIT 5
+241
+CHEMISTRY GRADE 11
+For the general reaction:
+aA + bB
+cC + dD
+Q = [A]°[B]ᵇ
+Where [A], [B], [C] and [D] are concentrations at any stage during the reaction. At
+the initial stages of the reaction, the amount of product formed is low, therefore, the
+value of Q is small. As the reaction progresses, the value of Q also increases due to
+the increase in concentration of the products. When the reaction attains equilibrium,
+Q becomes equal to the equilibrium constant.
+To predict the direction of the reaction, Q is compared with Kₑq:
+(1) Q = Kₑq' the reaction is at equilibrium.
+(2) Q < Kₑq' then the reaction will proceed to the right (the forward direction)
+to consume the reactants and to form more products untill the equilibrium
+is reached.
+(3) Q > K the reaction will proceed to the left (the reverse direction) to reduce
+the products until the equilibrium is reached.
+Example 5.6
+1. At a certain temperature, the reaction:
+CO (g) + Cl2 (g)
+COC12 (g)
+has an equilibrium constant Kc = 13.8. Is the following mixture an
+equilibrium mixture? If not, to which direction (forward or backward) will
+the reaction proceed to reach equilibrium?
+[CO]₀ = 2.5 mol L⁻¹; [C1₂]₀ = 1.2 mol L⁻¹, and [COC1₂]₀ = 5.0 mol L⁻¹.
+Solution:
+Given: [CO]₀ = 2.5 mol L-1
+[COC1₂]₀ = 5.0 mol L-¹
+[C1₂]₀ = 1.2 mol L-¹
+KC = 13.8
+The expression for Qc is:
+Qc = [CO][C1₂] [COC1₂] = 2.5 mol 5.0 L⁻¹ mol x1.2 mol L⁻¹ = 1.67
+L⁻¹
+Qc < Kc thus the reaction mixture is not an equilibrium mixture. So, the
+reactants should combine to form more products to reach equilibrium, i.e., the
+reaction should proceed further to the right (the forward direction).
+242
+UNIT 5
+Chemical Equilibrium
+Exercise 5.9
+1. At a start of a reaction, there are 0.0218, 0.0145, ad 0.0783 moles of
+H2, I₂ and HI, respectively, in a 3.5 liter reaction vessel at 430 °C.
+Decide whether or not the reaction is at equilibrium. If not, predict in
+which direction the reaction will proceed. The equilibrium reaction is:
+H2 (g)
++
+I₂ (g)
+2HI (g)
+Kc = 54.3 at 430 °C
+2. At a very high temperature, the following reaction has Kc = 1.0 X 10⁻¹³
+2HF (g)
+H2 (g)
++
+F2 (g)
+At a certain time, the concentrations of HF, F2 and H2 were 0.4 M,
+0.004 M and 0.001 M, respectively. Is the system at equilibrium? If not,
+what must happen for the equilibrium to be reached?
+3. The decomposition of NOBr is represented by the equation:
+2NOBr (g)
+2NO (g) + Br₂ (g)
+K C = 0.0169
+At equilibrium the concentrations of NO and Br₂ are 1.05 X 10⁻² M
+and 5.24 X 10⁻³ M, respectively. What is the concentration of NOBr?
+C.
+Calculat the equilibrium concentrations
+Once equilibrium constant is determined for a reaction, it can be used to calculate the
+concentrations or partial pressures in an equilibrium mixture. To calculate equilibrium
+concentrations, follow the following steps:
+1. Write the balanced equation for the reaction and then the KC or Kₚ expressions.
+2. List the initial concentrations.
+3. Calculate Qc or Qₚ to determine the direction of the reaction, if initial
+concentrations of the reactants and products are given.
+4. Define the change in concentration needed to reach equilibrium and find the
+equilibrium concentrations by using the change of the initial concentrations.
+5. Substitute the equilibrium concentrations into the KC or Kₚ expression, solve
+for the unknown.
+6. Check whether the calculated equilibrium concentrations give the correct
+value of Kc or Kₚ.
+UNIT 5
+243
+CHEMISTRY GRADE 11
+Example 5.7
+1. The equilibrium constant, KC is 69 for the following reaction:
+H2 (g) + I₂(g) 11 2HI (g)
+Given that 1 mole of H₂and 2 moles of I2 were added to a 500 mL reaction
+vessel. Determine the molar concentrations in the mixture at equilibrium.
+Solution:
+1. The equation for the reaction is:
+H₂(g) + I₂(g)
+2HI (g)
+Kc=
+05
+1 mol
+=2M
+2. No need to calculate Qc since [HI]₀ = 0
+3. Let the number of moles of H2 (or I₂) consumed per liter to reach an
+equilibrium is x. Since the stoichiometric proportion of each reactant
+(H₂ and I₂) and the product HI is 1:2, for every x of both reactants
+consumed the concentration of HI formed is 2x. These changes are shown
+here:
+Concentration
+H2
++
+I2
+2HI
+Initial
+2.0 M
+4.0 M
+0
+Change
+-x
+-x
++2x
+Equilibrium
+2.0 M-x
+2.0 M-x
+2x
+4. Substituting the equilibrium concentrations:
+Kc
+64 = (2.0 M - x)(4.0 M - x) (2x)² = (2x)² 6x + 8
+244 UNIT 5
+Chemical Equilibrium
+By rearranging, we get:
+4x2 = 64x² - 384x + 512
+By rearranging again, we get:
+60x² - 384x + 512 = 0
+This is a quadratic equation of the general formula ax² + bx + c = 0
+The values of X can be obtained from the quadratic formula:
+x -b± √b² - 4ac
+=
+2a
+In this example a = 60, b = -384 and c = 512. Therefore:
+— (-384) ± √(-384)² - 4(60 X 512)
+x =
+2x60
+384 ± √2.5 X 10⁴ 384±158
+=
+=
+120
+120
+x = 1.9 M or 4.5 M
+But the change in concentration cannot be greater than the initial concentrations
+of the H2, i.e., 2 M. Thus, only 1.9 is a reasonable value. Therefore, the
+equilibrium concentration of each species is:
+[H2] = 2.0 - x = 2.0 M - 1.9 M = 0.1 M
+[I2] = 4.0 - x = 4.0 M - 1.9 M = 2.1 M
+[HI] = 2x = 2(1.9 M) = 3.8 M.
+Check KC = [H₂][I₂] [HI]² = 0.1M (3.8 X M)² 2.1M 68.76 ≈ 69
+=
+Therefore, the calculated equilibrium concentrations are correct.
+UNIT 5 245
+CHEMISTRY GRADE 11
+Exercise 5.10
+1. For the equilibrium:
+N₂O₄ (g)
+2NO₂ (g)
+K = 0.36 at 100 °C
+C
+A sample of 0.25 mol N₂O₄ is allowed to dissociate and come to
+equilibrium in a 1.5 L flask at 100°C. What are the equilibrium
+concentrations of NO₂ and NO? 2
+2. At 400 °C, the equilibrium constant for the reaction is 64:
+H2 (g) + I₂ (g)
+2HI (g)
+A mixture of 0.250 mol H2 and 0.250 mol I₂ was introduced into an empty 0.75 L
+reaction vessel at 400 °C, find the equilibrium concentrations of all components.
+5.2.6
+Changing Equilibrium Conditions: Le-Chatelier's Principle
+Consider a chemical reaction that is initially at equilibrium. Often a change in
+conditions will displace the reaction from equilibrium. The reaction then shifts
+toward one direction or the other (left to right or right to left as the equation is
+written) as it changes to a new equilibrium state. The direction of an equilibrium
+reaction will shift when a change in conditions occurs is predicted by Le Chatelier's
+principle.
+Le Châtelier's principle states that if a change is imposed on a system at equilibrium,
+the position of the equilibrium will shift in a direction that tends to reduce that
+change.
+The factors whose change may affect a reaction equilibrium include concentration of
+a reactant or product, reaction volume or applied pressure, and temperature.
+A.
+Effect of Change in The Concentration
+Activity 5.5
+Sit in pair and discuss the following idea. Share your discussion with the whole
+class. Consider the following equilibrium reaction:
+N₂ (g)
++
+3H2 (g)
+2NH3 (g)
+Suppose at equilibrium position the concentrations of [N2] = 0.399 M,
+[H2] = 1.197 M, and [NH₃] = 0.202 M.
+a. What will happen if 1.000 M of N₂ is suddenly injected into the system?
+246
+UNIT 5
+Chemical Equilibrium
+b. What are the new concentrations of [N₂], [H2] and [NH₃] after the
+system reaches the new equilibrium? (Hint: assume the KC value at
+both equilibrium positions is equal.)
+When a system at equilibrium is disturbed by a change of concentration of one of the
+components, the system reacts in the direction that reduces the change. That is:
+If the concentration increases, the system reacts to reduces some of it.
+If the concentration decreases, the system reacts to produce some of it.
+Consider the general reaction:
+A +BC+D
+An increase in the concentration of A or B, or both, shifts the equilibrium position to
+the right, that is, toward the formation of more products. Similarly, a decrease in the
+concentration of C or D, or both, shifts the equilibrium position to the right. However,
+an increase in the concentration of C or D, or both (or a decrease in A or B, or both)
+shifts the equilibrium position to the left.
+Consider the following reversible reaction:
+H₂(g)
++
+I₂(g)
+2HI(g)
+Kc = [H₂ [HI]² ][I₂]
+If you wish to convert as much H2 to HI as possible, you might increase the
+concentration of I₂. To understand the effect of this, first suppose that a mixture of
+H2, I₂, and HI is at equilibrium. If I₂ is now added to this mixture, the equilibrium is
+disturbed. Thus, the reaction will now go in the direction that will use up some of the
+added I₂. Consequently, adding more I2 has the effect of converting a greater quantity
+of hydrogen to HI.
+Note that adding or removing reactants or products changes the value of Qc. It does
+not change the value of Kc.
+Exercise 5.11
+A and B react to produce C according to the following chemical equation:
+A
++
+B
+C
+Amounts of A and B are added to an equilibrium reaction mixture of A, B,
+and C such that when equilibrium is again reached, the amounts of A and B
+are doubled in the same volume. How is the amount of C changed?
+UNIT 5
+247
+CHEMISTRY GRADE 11
+Experiment 5.1
+The Effect of Change in Concentration on Equilibrium Position
+Objective: To study the effect of concentration on the position of equilibrium.
+Apparatus: Test tubes, test tube stands, 100 mL beakers
+Chemicals: 0.1M HNO3 solution, 0.05M Fe (NO₃)₃ solution in 0.1M HNO3,
+0.01M KSCN solution in 0.1M HNO₃.
+Procedure:
+1. Take 5 test tubes and label them as 1, 2, 3, 4 and 5. Keep them in a test tube
+rack.
+2. Take 50 mL of 0.05 M solution of Fe( NO₃) 3 in a beaker.
+3. In separate beakers take 10 mL of 0.01 M KSCN solution and 20 mL of
+0.1 M HNO3 acid solution.
+4. Mix the solutions as in the given table to prepare 5 different solutions
+Volume in mL of:
+Test tube
+0.05M Fe(NO₃ ) 3
+0.1M HNO3
+0.01M KSCN
+1
+1.0
+4.0
+5.0
+2
+2.0
+3.0
+5.0
+3
+3.0
+2.0
+5.0
+4
+4.0
+1.0
+5.0
+5
+5.0
+0.0
+5.0
+5. Note the color of the solution in each test tube.
+6. Arrange the test tubes in increasing order of color intensity.
+Observations and analysis:
+1. Which direction is exothermic and which is endothermic? Explain your
+results.
+2. Correlate the colour intensity with the concentration of Fe³⁺ in the test tube.
+Hint: Fe³⁺ forms deep red colour complex with SCN ions.
+Fe³⁺ (aq) + SCN (aq)
+Fe (SCN) 2+ (aq) deep red
+3. By taking different volumes of Fe(NO₃)₃ in the test tubes the concentration of
+Fe³⁺ is varied in the solution. Calculate the concentration of Fe³⁺ ions in each
+test tube and correlate with the color intensity.
+248
+UNIT 5
+Chemical Equilibrium
+4. In the test tube take 1.0 mL of Fe(NO₃)₃ solution and add 4.0 mL of HNO3
+solution followed by 1.0 mL of KSCN solution. Mix well and note the color.
+Add 1.0 mL of Fe(NO₃)₃ solution and again note the color of the solution.
+Test tube
+Test tube rack
+0.05 M Fe(NO₃)₃ 0.01 M KSCN 0.01 M HNO3
+Figure 5.2: Laboratory set-up for the effect of changes in concentration
+on equilibrium of Fe³⁺(aq) and SCN-(aq)
+B.
+Effect of Change in Pressure
+Activity 5.6
+Explain why changes in pressure have little effect on the concentrations of
+solids or liquids. Hint: Refer to Unit 3 Physical States of Matter.
+A change in pressure affects only equilibrium systems that involve gases. Pressure
+changes can occur in three ways:
+changing the concentration of a gaseous component
+adding an inert gas
+changing the volume of the reaction vessel.
+Adding an inert gas has no effect on the equilibrium position. The reason is that inert gas
+molecules do not take part in the reaction and therefore cannot affect the equilibrium
+in any way. However, the addition of an inert gas increases the total pressure but
+has no effect on the concentrations or partial pressures of the reactants or products.
+A pressure change obtained by changing the volume can affect the yield of product in
+a gaseous reaction if the reaction involves a change in total moles of gas. According
+to Le Chatelier's principle, if a pressure at equilibrium is increased (volume
+UNIT 5
+249
+CHEMISTRY GRADE 11
+decreased) then the reaction will proceed in the direction that relieves the pressure.
+Thus, an increase in pressure of the system at a constant temperature shifts the
+equilibrium in the direction that produces a smaller number of gaseous molecules,
+whereas a decrease in pressure shifts in the direction of greater number (moles) of
+gaseous molecules.
+For a general reaction:
+aA + bB
+cC + dD
+The effect of pressure is decided by:
+If An > 0, the total moles of products is greater than the total moles of reactants.
+Lowering of pressure will favor the reaction in the forward direction.
+If n < 0, the total moles of products is less than the total moles of reactants.
+Increasing the pressure will favor the reaction in the forward direction.
+If An = 0, the change in pressure has no effect on the position of equilibrium.
+For example, in the formation of ammonia:
+N₂ (g) + 3H2 (g)
+2NH3 (g)
+An=2-(1+3)=2 =
+Therefore, an increase in pressure at equilibrium will favor the forward reaction.
+For the dissociation of dinitrogen tetroxide:
+N₂O₄ (g)
+2NO₂ (g)
+10-2-1-1 Il II
+The decrease in pressure at equilibrium, favors the forward reaction.
+Exercise 5.12
+1. Look at each of the following equations and decide whether an
+increase of pressure obtained by decreasing the volume will increase,
+decrease, or have no effect on the amounts of products.
+a.
+CO
+(g)
++
+Cl₂ (g)
+COC1₂ (g)
+b. 2H2S (g)
+2H₂ (g)
++
+S₂ (g)
+c.
+C
+(s)
++
+S₂ (g)
+CS2 (g)
+250
+UNIT 5
+Chemical Equilibrium
+C.
+Effect of Change in Temperature
+Activity 5.7
+Sit in pair and discuss the similarities and differences between to the following two
+reactions. Share your discussion with the whole class.
+1.
+H2 (g) + I₂ (g)
+2HI (g)
+2.
+N₂ (g) + O₂(g)
+2NO (g)
+№ rxn = +182.6 kJ
+Temperature has a profound effect on most reactions. Reaction rates usually increase
+with an increase in temperature, meaning that equilibrium is reached sooner. Many
+reactions have very low rates at room temperature, but speed up at higher temperatures.
+Change of temperatures also changes the equilibrium constant values of a reaction.
+Consider the Kc values of the methanation reaction at different temperatures:
+CO(g) + 3H₂(g)
+CH₄(g) + H₂O(g)
+AH° = 206.2 kJ
+KC for methanation at different temperatures
+298
+4.7 X 10²⁷
+800
+1.38 X 10⁵
+1000
+2.54 X 10²
+1200
+3.92
+Reversible reactions are endothermic in one direction and exothermic in the other.
+Consider a general reaction:
+A
++
+B
+A + D + heat, which is an exothermic reaction.
+If we consider heat as a reaction component of the aquarium system, a rise in
+temperature "adds" heat to the system and a drop in temperature "removes" heat from
+the system. As with a change in any other component, the system shifts to reduce the
+effect of the change. Therefore, an increase in temperature at a constant pressure and
+concentration favours the endothermic reaction. Whereas, a decrease in temperature
+favors the exothermic reaction.
+For example, formation of ammonia is an exothermic process:
+N₂(g)+3H₂(g)
+2NH3 (g) + 92 kJ
+AH° ₙₙ = 92 kJ
+UNIT 5
+251
+CHEMISTRY GRADE 11
+From the equation we can see that 92 kJ of heat is released when NH₃ is produced from
+N₂ and H2. Therefore, the forward reaction is exothermic, while the reverse reaction is
+endothermic. Thus, an increase in temperature favors the decomposition of ammonia
+to N₂ and H2, i.e, shifts the equilibrium to the left or reactant side. Whereas, a decrease
+in temperature favors the formation of ammonia (shifts the equilibrium to the right or
+product side).
+Exercise 5.13
+Consider the possibility of converting CO2 to CO by the endothermic
+reaction:
+CO2 (g) + H2 (g)
+CO (g) + H2O (g)
+Is a high or a low temperature more favorable for the production of carbon
+monoxide? Explain.
+Experiment 5.2
+The Effect of Change in Temperature on the Equilibrium Position
+Objective: Determination of the effect of changes in temperature on the position
+of equilibrium of iodine and starch.
+Apparatus: Test tubes, water bath, stands, Bunsen burner, thermometer.
+Chemicals: Iodine, starch.
+Procedure:
+1. Add a few drops of iodine to some starch solution in a test tube. Record
+your observations.
+2. Heat the solution to about 80°C using a water bath. Record your observation.
+What do you conclude from this?
+3. Cool the container by placing it in an ice box. Record your observation.
+252
+UNIT 5
+Chemical Equilibrium
+Thermometer
+Stand
+Test tube containing
+solution of iodine
+and starch
+Water bath
+Bunsen burner
+Beaker containing ice
+Figure 5.3: Laboratory set-up for the effect of changes in temperature
+on equilibrium of iodine and starch
+Observations and analysis:
+1. Is this reaction an example of an equilibrium reaction?
+2. Which direction is exothermic and which is endothermic? Explain your
+results.
+3. What can you conclude based on your observations?
+D.
+Effect of Catalyst
+As we learned in Unit 4, a catalyst is a substance that increases the rate of a reaction
+but is not used up in the reaction. A catalyst is shown over the arrow in an equation
+for a chemical reaction and does not appear in an equilibrium constant or in the
+reaction quotients.
+For instance, SO₃ is formed by the reaction of SO₂ with O₂:
+Catalyst
+2SO₂ (g) + O₂ (g)
+2SO3 (g)
+H°rxn = -197.6 kJ/mol
+The reaction is very exothermic, but very slow. It is catalyzed commercially in the
+Contact process by Pt, SiO₂, or V₂O₅, at high temperatures (400 to 700 °C).
+UNIT 5
+253
+CHEMISTRY GRADE 11
+Addition of a catalyst does not shift the equilibrium position. Because a catalyst
+increases the rates of both forward and reverse reactions by the same factor, it has no
+effect on the equilibrium composition of a reaction mixture. It speeds up reaching
+equilibrium but does not change either the value of the equilibrium constant or the
+equilibrium concentrations.
+Exercise 5.14
+Predict the effect of the following changes on equilibrium;
+2SO₂
+(g)
++
+O₂
+(g)
+2SO₃
+(g)
+№
+=
+197.78
+kJ
+rxn
+a. increasing pressure at constant temperature
+b. increasing temperature at constant pressure
+c. adding a catalyst.
+5.2.7
+Equilibrium and Industry
+Industrial processes are designed to give maximum possible yield of the products. The
+conditions for carrying out the reactions are varied based on Le Chatelier's principle.
+The following processes demonstrate application of Le Chatelier's principle in the industry.
+A.
+Haber Process for the Manufacture of Ammonia
+In 1909, Fritz Haber established the conditions under which atmospheric nitrogen,
+N₂, would be converted to ammonia, NH₃, by reacting it with hydrogen, H2. The
+Haber synthesis was developed into an industrial process by Carl Bosch.
+The reaction between N₂ and H2 to produce NH₃ is an exothermic equilibrium reaction.
+It releases 92.4 kJ/mol of energy at 298 K.
+heat, pressure
+N₂ (g) + (g)
+= -92 kJ mol-1
+2NH3 (g)
+catalyst
+According to Le Chatelier's principle, the production of ammonia is favoured by high
+pressure and low temperature. However, the rate of the reaction at lower temperature
+is extremely slow, so a higher temperature must be used to speed up the reaction which
+results in a lower yield of ammonia. The equilibrium expression for the reaction is:
+254
+UNIT 5
+Chemical Equilibrium
+As the temperature increases, the equilibrium constant decreases and the yield of
+ammonia decreases.
+Temperature (°C)
+Keq
+25
+6.4 X 10²
+200
+4.4 X 10⁻¹
+300
+4.3 X 10⁻³
+400
+1.6 X 10⁻⁴
+500
+1.5 X 10⁻⁵
+In the industrial production of NH₃ by Haber process, the reaction rate is increased by:
+adding a catalyst such as iron. It speeds up the reaction by lowering the
+activation energy so that the N₂ bonds and H₂ bond can be more readily
+broken.
+increasing reaction temperature. When temperature is increased, reactant
+molecules will get sufficient energy to overcome the energy barrier
+(activation energy) so that the reaction is faster at higher temperatures, but
+the yield of ammonia is lower at higher temperature.
+At 200 °C and pressure above 750 atm, the yield of ammonia is almost 100%, i.e., the
+reactants are completely converted to ammonia. Increasing the pressure increases the
+final yield of ammonia, however high pressures are expensive to produce and difficult
+to manage. So, the Haber process is carried out at pressures between 200 and 400 atm
+and a temperature of 500 °C. The effect of temperature and pressure on the percentage
+yields of ammonia for the Haber process in shown in Figure 5.4.
+UNIT 5
+255
+CHEMISTRY GRADE 11
+200 °C
+800
+80
+300 °C
+400 °C
+% ammonia
+60
+500 °C
+40
+600 °C
+20
+700 °C
+0
+200
+400
+600
+800
+1000
+Pressure (atm)
+Figure 5.4: The effects of temperature and pressure on the percentage
+yields of ammonia for the Haber process
+In the commercial production of ammonia, NH₃ is continuously removed as it is
+produced. Removing the products causes more N2- and H2 to combine according to Le
+Chatelier's principle. The reaction never reaches equilibrium as the gas mixture leaving
+the reactor is cooled to liquefy and remove the ammonia. The remaining mixture
+of reactant gases is recycled through the reactor. The heat released by the reaction is
+removed and used to heat the incoming gas mixture. Figure 5.5 shows a simplified
+flow diagram for the Haber process:
+Nitrogen
+from the air
+Nitrogen and Hydrogen
+Iron catalyst
+400-450°C
+1:3 by volum
+200 atm
+Hydrogen
+from natural gas
+Gases are cooled
+Untreated gas
+and ammonia
+Ammonia
+recycled
+turns to liquid
+Figure 5.5: A flow diagram of the Haber process
+256
+UNIT 5
+Chemical Equilibrium
+Exercise 5.15
+Answers the following questions:
+1. Which compound is manufactured by the Haber process?
+2. What are the raw materials used in the Haber process?
+3. What is the role of iron in the Haber process?
+B.
+Contact Process for the Manufacture of Sulphuric acid
+The Contact process is the production of sulphuric acid, H2SO₄, by the catalytic
+oxidation of sulphur dioxide, SO₂, to sulphur trioxide, SO₃. It is a reversible reaction:
+2SO₂(g)
++
+O₂ (g)
+2SO₃ (g)
+AH = - -196 kJ
+The Contact process involves the following steps:
+i.
+Preparation of sulphur dioxide gas, SO₂, by burning pure sulphur in the presence
+of excess air:
+S (s)
++
+O2 (g)
+SO₂ (g)
+To improve the efficiency of a catalyst (in the nest step), various impurities present
+in the mixture of SO₂ and air are first removed.
+ii.
+Conversion of SO₂ to sulphur trioxide, SO₃
+Oxidation of SO₂ to SO₃ takes place at 450 °C in the presence of a catalyst, a
+vanadium (V) oxide (V₂O₅):
+2SO₂ (g)
+O₂ (g)
+V₂O₅
++
+450 °C
+2SO₃ (g)
+iii. Converting sulfur trioxide into sulfuric acid, H2SO4
+SO₃(g) is dissolved in concentrated H2SO₄ (98%) to produce disulphuric acid
+or pyrosulpuric acid, also known as fuming sulphuric acid or oleum, H₂S₂O₂:
+SO₃ (g)
++
+H₂SO₄(1)
+H₂S₂O₂(1)
+Converting sulfur trioxide to sulfuric acid cannot be done just by adding water,
+as the reaction is so uncontrollable that it creates a fog of sulfuric acid:
+iv. Dilution of H₂S₂O₇ to obtain H2SO4
+A calculated amount of water is added to obtain sulphuric acid of desired strength:
+H2S2O7 (1)
++
+H₂O (1)
+2H2SO₄(1)
+UNIT 5
+257
+CHEMISTRY GRADE 11
+The oxidation of SO₂ to SO₃ (step ii) is an exothermic reaction. So, according to Le
+Chatelier's principle, higher temperatures will force the equilibrium position to shift
+to the left, favoring the production of SO₂, whereas lower temperatures would favor the
+production of SO₃. However, the rate of reaching equilibrium at the lower temperatures
+is extremely low. At higher temperature, equilibrium is reached rapidly but the yield of
+SO₃ is lower. The temperature about 450 °C is a compromising situation whereby a
+faster reaction rate results in a slightly lower yield.
+Similarly, at higher pressures, the equilibrium position shifts to the least numbers of
+gaseous molecules, i.e., SO₃. In the Contact process, V₂O₅ is also used to speed up
+the rate of the reaction. Figure 5.6 shows the Contact process for the manufacture
+of H₂SO₄.
+S(s) + O₂(g) - SO₂(g)
+SO₂(g) + O₂(g) - 2SO₃(g)
+Sulphur
+SO2
+SO₃
+Burning in air
+450 - 500 °C
+1 atm, V₂O₅
+Dissolved in
+Conc. H2SO₄
+Dilution in water
+H2SO4
+H2S2O7
+H₂S₂O₂(I) + H₂O(I) - 2H2SO₄(I)
+Figure 5.6: A flow diagram of the Contact process
+Exercise 5.16
+Answer the following questions:
+1. What is a mixture of H2SO₄ and free SO₃?
+2. What are the raw materials for making SO₂ in the Contact process?
+3. Why is SO₃ not directly added to make H₂SO₄?
+258
+UNIT 5
+Chemical Equilibrium
+Unit Summary
+A system is said to be at equilibrium when its macroscopic properties like
+temperature, pressure, concentration and energy do not change with time without
+any outside help.
+The equilibrium is dynamic in nature which means that although the macroscopic
+properties do not change, the processes do not stop at molecular level.
+Chemical equilibrium is the state of the reaction when the macroscopic properties
+like temperature, pressure, volume and concentration of the reaction do not
+change with time.
+According to the law of mass action the rate at which A and B combine is directly
+proportional to the product of their concentration terms each raised to the power
+of its respected coefficient in the balanced chemical reaction.
+For a general reaction at equilibrium a A+ bB
+mM + nN the expression
+for KC is:
+KC
+The expression for Kp is Kp=
+provided that all A, B, M and N are
+in gaseous state.
+The unit of KC is (mol + - and the unit of Kp is (atm)
+(m + n) - (a + b)
+When KC > 1 the formation of products is favored at equilibrium.
+When KC < 1, So the formation of products is not favored at equilibrium.
+When KC = 1, it indicates that the reactants and the products are present in equal
+amounts.
+The reaction quotient is the ratio of concentrations of products to the
+concentrations of reactants raised to the power of their respective coefficients at
+any stage after the start of the reaction.
+UNIT 5
+259
+CHEMISTRY GRADE 11
+For the reaction, aA + bB
+mM + nN the expression for the reaction
+quotient is:
+[N]"
+When Q < K, then the reaction will proceed in the forward direction and more
+products will be formed till the equilibrium is reached.
+When Q > K, then the reaction will proceed in the reverse direction and more
+reactants will be formed till the equilibrium is reached.
+When Q = K, then the reaction has reached equilibrium.
+Le Chatelier's principle gives the effect of any one or more of temperature,
+pressure or concentration on equilibrium.
+For exothermic reactions the yield of products is increased by performing the
+reaction at lower temperatures.
+For endothermic reactions the yield of products is increased by performing the
+reaction at higher temperatures.
+When An > 0 the decrease in pressure favors the formation of products.
+When An < 0 the increase in pressure favors the formation of products.
+Removing the products from the reaction vessel shifts the reaction in the forward
+direction.
+CHECKLIST
+KEY TERMS
+Chemical equilibrium
+Le Chatelier's principle
+Components
+Reaction quotient
+Equilibrium constant
+Haber process
+Law of mass action
+Contact process
+260
+UNIT 5
+Chemical Equilibrium
+REVIEW EXERCISE
+Part I: Multiple Choice Type Questions
+Choose the correct answer from the given alternatives
+1.
+Which of the following is correct about a reaction at equilibrium?
+a. The concentrations of reactants and products are equal.
+b. The system is static in nature.
+c. The forward and backward rates are equal.
+d. None.
+2.
+For a reaction to shift towards the product direction, which of the following
+conditions holds true?
+a. Q₀=K₀=0
+c. Qc > K
+b. Q<Kc <
+d. Qc=Kc
+3.
+Given the equation 2C(s) + O₂(g)
+2CO(g), the expression for Kc c is:
+2[CO]
+[CO]²
+a.
+c.
+2[C][O₂]
+[O₂]
+[CO]²
+2[CO]
+b.
+d.
+[C]²[O₂]
+[O₂]
+4.
+In which of the following cases does the reaction go fastest towards completion:
+a. K = 10³
+b. K = 10⁻²
+c. K = 10
+d.K=1 =
+5.
+For the reaction C(s) + CO2 (g)
+2CO (g), the partial pressures of CO2 and
+CO are 2.0 atm and 4.0 atm, respectively, at equilibrium. What is the value of
+Kp for this reaction?
+a. 0.5 atm
+b. 4.0 atm
+c. 8.0 atm
+d. 32.0 atm
+6.
+The equilibrium partial pressures of SO₂, O₂ and SO₃ are 0.1 atm, 0.25 atm and
+0.5 atm respectively. The equilibrium constant for the reaction
+SO₃ (g)
+SO₂ (g) + 1/202 (g) is:
+a. 0.1
+b. 10
+c. 0.05
+d. 20
+7.
+Which of the following is likely to happen when pressure is applied to the
+following system at equilibrium:
+H₂O(s)
+H₂O(1)
+a. More water will be formed
+c. Water will evaporate
+b. More ice will be formed
+d. No change occurs
+UNIT 5
+261
+CHEMISTRY GRADE 11
+8.
+The equilibrium constant for the reaction N₂ (g) + 3H₂ (g)
+2NH3 (g) is
+K1 and for the reaction 2NH3 (g)
+N₂ (g) + 3H₂ (g) is K2. The relation
+between K₁ and K2 is:
+a. K₁ = K2
+c. K₁ = - K2
+b. K₁ = 1/K₂
+d. K1 = (K₂) 0.5
+9. What will happen when CaO is added to the following reaction at equilibrium?
+CaCO3 (s)
+CaO (s) + CO2 (g)
+a. No change occurs.
+c. More CaCO₃ is formed
+b. Reaction shifts in the forward
+d. Total pressure increases
+direction
+10. Under what conditions are Kp and Kc equal?
+a. n = 1
+c. n = -1
+b. n = 0
+d. They can never be equal
+Part II: Answer the following questions
+11. For the reaction at equilibrium: 2SO₂ (g) + O₂ (g)
+2SO₃ (g)
+H = - 196 kJ/mol. Predict the direction of the change on:
+a. Removal of SO₂
+b. Addition of noble gas (argon) at constant pressure
+c. Decreasing volume of the system
+d. Increasing temperature of the system
+e. Addition of a catalyst
+12. Balance the following equations and write the equilibrium constant expressions,
+in terms of KC and Kₚ.
+a. NH3 (g) + O₂ (g)
+N₂ (g) + H₂O (g)
+b. N₂ (g) + H₂(g)
+NH₃(g)
+c. CaCO₃ (s)
+CaO (s) + CO2 (g)
+13. For the reaction at 200 °C: 2A (g) + B (g)
+3C (g) the equilibrium
+constant is 3.0. Given the following information,
+Species
+Concentration
+[A]
+2.0 M
+[B]
+3.0 M
+[C]
+2.0 M
+predict the direction in which the reaction should proceed to reach equilibrium.
+262
+UNIT 5
+Chemical Equilibrium
+14. Given the reaction: 2CO₂ (g)
+2CO (g) + O₂ (g) what is the concentration of
+CO in equilibrium at 25 °C in a sample of gas originally containing 1.00 mol L⁻¹
+of CO2? For the dissociation of CO2 at 25 °C, Kc = 2.96 X 10⁻⁹².
+15. Hydrogen and iodine react according to the equation:
+a. H2 (g) + I₂ (g)
+2HI (g)
+Suppose 1.00 mol H2 and 2.00 mol I₂ are placed in a 1.00 L vessel. How many
+moles of substances are in the gaseous mixture when it comes to equilibrium at
+458 C? The equilibrium constant Kc at this temperature is 49.7.
+16. 5.0 moles of ammonia were introduced into a 5.0 L reaction chamber in which it
+partially decomposed at high temperatures;
+a. 2NH3 (g)
+3H₂ (g) + N₂ (g)
+b. At equilibrium at a particular temperature, 80.0% of the ammonia had
+reacted. Calculate Kc for the reaction.
+17. 1.25 mol NOCI was placed in a 2.50 L reaction chamber at 427 °C. After
+equilibrium was reached, 1.10 moles of NOCI remained. Calculate the
+equilibrium constant Kc for the reaction.
+2NOCI (g)
+2NO (g) + Cl₂ (g)
+18. A sample of nitrosyl bromide was heated to 100°C in a 10.0 L container in order
+to partially decompose it.
+2NOBr (g)
+2NO (g) + Br₂ (g)
+At equilibrium the container was found to contain 0.0585 mole of NOBr, 0.105
+mole of NO, and 0.0524 mole of Br₂. Calculate the value of Kc.
+19. The brown gas NO₂ and the colorless gas N₂O₄ exist in equilibrium.
+N₂O₄ (g)
+2NO₂ (g)
+0.625 mole N₂O₄ was introduced into a 5.00 L vessel and was allowed to
+decompose until it reached equilibrium with NO₂. The concentration of N₂O₄ at
+equilibrium was 0.0750 M. Calculate Kc for the reaction.
+20. Calculate Kₚ for the following reactions at the indicated temperature.
+a. 2NOBr (g)
+2NO (g) + Br₂ (g)
+Kc = 6.50 X 10⁻³ at 298 K
+b. NH₄I (s)
+NH3 (g) + HI (g)
+Kc = 7.00 X 10⁻⁵ at 673 K
+UNIT 5
+263
+CHEMISTRY GRADE 11
+6
+R-C-O-H + H-O-R'
+UNIT
+H+
+R-C-O-R' + H-O-H
+SOME IMPORTANT OXYGEN-CONTAINING
+ORGANIC COMPOUNDS

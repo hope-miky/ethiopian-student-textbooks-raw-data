@@ -1,0 +1,1141 @@
+UNIT 2
+VECTORS
+Introduction
+Many physical quantities in nature have both magnitude (size) and direction. To describe
+the motion of an airplane for instance, we must state its speed and the direction of its
+motion. To describe a force, we use a number to tell how big the force is and indicate its
+direction of application. The principal aim of this unit is to discuss ways of describing
+two dimensional 2-D vector physical quantities and the mathematical operations involving
+vectors.
+After completing this unit you should be able to:
+familiarize themselves with basic principles of vector operations
+interpret physical phenomena using the concept of vector
+develop skills of using the concept of vector in solving various problems.
+2.1 Vectors and Types of Vectors
+After completing this section, you should be able to:
+describe the difference between vector and scalar quantities.
+list down the common vector quantities in our everyday life.
+discuss geometric representation of vectors.
+give the definitions of the different types of vectors.
+?
+Brainstorming
+1. Why do we need to know the direction of some quantities in order to have a
+complete sense of them? If a girl told you that the velocity of a delivery truck
+was 50 km/h, has she fully expressed the motion of the truck?
+17
+Physics
+Student Text Book
+Some physical quantities such as mass, speed, distance, density, etc., can be expressed
+completely by their magnitudes and units only. But many others that are common in
+our day to day activities such as force, velocity, acceleration, displacement need both
+their magnitude as well as direction for their specification.
+To refresh your memory of category of vectors, the table below has some of the most
+common physical quantities.
+?
+Activity 2.1
+Categorize the quantities listed in Table 2.1 as scalars or vectors and prepare your
+own list of vector and scalar quantities that are common in our daily practices.
+Table 2.1 Table of physical quantities
+Quantity
+Scalar/vector
+Quantity
+Scalar/Vector
+Area
+Density
+Distance
+Weight
+Pressure
+Representation of vectors
+In Grade 10 you have learnt that a vector can be represented graphically by an arrow.
+Recall that the length of the arrow drawn to scale represents the magnitude and the
+tip of the arrow represents the direction of the vector. When drawing diagrams with
+vectors, we use a scale similar to those used for maps. For example, a displacement of
+10 km might be represented in a diagram by a vector 1 cm long and a displacement
+of 20 km by a vector 2 cm long. In a diagram for velocity vectors, a vector that is 1
+cm long might represent a velocity of magnitude 5 m/s. A velocity of 40 m/s would
+then be represented by a vector 8 cm long.
+y
+y
+y units
+D
+0°
+29.1°
+90°
+9 units
+(a)
+(b)
+(c)
+Figure 2.1 Representing a vector by an arrow drawn to scale. Ruler, Protractor and
+Graph paper used
+18
+Grade 11
+Illustration of the concept of vectors in practice
+Typical forces for a dam
+Weight
+Head water
+of Dam
+Tail wa
+Hydro power Dam
+Heal
+Toe
+Uplift
+Figure 2.2 Hydro power dam and force vectors
+By researching the size and direction of all forces on a dam, engineers design a
+structure that is able to resist all these forces, Figure 2.2
+While rowing a boat, the person
+F1
+F2
+pushes the water backward using
+oars and the water exerts a
+forward force on the boat. There
+are also the weight of the boat
+man rowing a Canoe boat
+A Tug-of-war
+and an upward force (upthrust)
+(a)
+(b)
+exerted by the water on the boat,
+Figure 2.3a.
+Figure 2.3 Force vectors in action
+In a tag-of-war the rope is the means to transfer forces, Figure 2.3b. The concepts of
+vectors plays important role in analyzing all of the above situations
+?
+Activity 2.2
+Ask your friend to stand at a mark in the middle of the volleyball field. Tell her to
+walk through a certain distance in any direction she chooses. Use a measuring tape
+to measure the distance between her starting point and the ending point. Take the
+starting point as the origin of coordinates with the x axis pointing toward East and
+the y axis toward North. Show the displacement of the girl graphically on a graph
+paper.
+Types of vectors
+Parallel vectors: Vectors that are in the same direction are said to be Parallel,
+Figure 2.4a.
+19
+Physics
+I
+Student Text Book
+Antiparallel vectors: When vectors have opposite directions, whether their
+magnitudes are the same or not, they are Antiparallel, Figure 2.4b.
+Equal vectors: If two vectors representing the same quantity have the same
+magnitude and the same direction, they are Equal vectors, Figure 2.4c, no
+matter where they are located in space.
+Collinear vectors: These are vectors that lie along the same line or parallel
+lines. Two vectors are collinear if they are parallel to the same line irrespective
+of their magnitudes and direction.
+Co-planar vectors: Three or more vectors lying in the same plane or parallel to
+the same plane are known as co-planar vectors.
+Zero vector: A zero vector is a vector when the magnitude of the vector is zero
+and the starting point of the vector coincides with the terminal point.
+Orthogonal vectors : Vectors that are perpendicular to one another.
+A unit vector: A vector which has a magnitude of unit length is called a unit
+vector.
+The vector-A in Figure 2.6d is not equal to vector À because its direction is
+opposite to that of A. We define the Negative of a vector as a vector having the
+same magnitude as the original vector but the opposite direction. The negative of
+vector A is denoted as- A.
+Á/B/C/₅/
+À
+B
+(a) Parallel vectors
+(b) Antiparallel vectors
+Ã
+À'
+À
+TO
+(c) Equal vectors
+(d) Negative of a vector B =
+Figure 2.4 (a) Parallel vectors,
+(b) Antiparallel vectors,
+(c) Equal vectors,
+(d) Negative of a vector
+Example 2.1
+Find the negative of each of the following vectors.
+a. dosplacement vector= 60km toward North
+b. Velocity vector = 100km/h towards 200 southeast.
+20
+Grade 11
+Solution
+The negative of a vector has the same magnitude as the original vector in opposite
+direction.
+(a) If S = 60 km, toward North, then - S = 60 km, toward South
+(b) S = 100 km/h, toward 20o South of East, then - S = 100 km/h, toward 20o
+North of West
+Review questions 2.1
+1. How do you represent a vector graphically?
+2. Why do we use of scale diagram in vector drawing?
+3. How does vector À differ from vector - À?
+2.2 Graphical Method of Addition of Vectors in Two
+Dimensions (2-D)
+After completing this section, you should be able to:
+define the term resultant vector.
+explain the geometric method for addition and subtraction of vectors in a
+plane.
+apply geometric method of addition of vectors to find resultant of vectors in
+two dimensions.
+?
+Brainstorming
+1. In grade 10 physics you have studied the properties of vectors in one dimension.
+Is it possible to add two vector quantities such as displacement vectors the
+way we do with scalar quantities like mass? Share your answer with your
+classmates.
+N
+W/O-E
+There are two commonly used methods
+B
+2.0km
+C
+employed to determine the vector sum of
+two or more vectors. The two methods that
+1.2 km
+ß
+Resultant displacement
+we will discuss in this unit are Graphical
+A
+method and Analytic (algebraic) method
+Figure 2.5 A vector diagram with
+of vector addition.
+scale of a trip in a park
+21
+Physics
+Student Text Book
+In your physics lesson in grade 10 you have learnt about vectors in one dimension
+(1-D). Here we are going to develop further the concept of vectors in two dimensions
+(2-D) which in physics has physical representation and importance in our daily lives.
+Graphical method of vector addition gives visual understanding of vectors and it is
+commonly used in navigation. Figure 2.5 represents a trip that starts at point A then
+to point B and ending at point C. You see that total distance traveled for the whole
+trip is 1.2 km + 2 km = 3.2 km, but what is the displacement from A to C? How do
+you get the resultant displacement given displacements from A to B and from B to C?
+In this section we will discuss Triangle law, Parallelogram law and Polygon law of
+addition of vectors.
+When two or more vectors are added they must have the same units. For example,
+it doesn't make sense to add a force vector carrying units of newtons, to a velocity
+vector carrying units of meters per second. Scalars obey the same rule: It would
+be similarly meaningless to add mass to volume or density to time intervals.
+Graphical method of addition of vectors involves the use of equal vectors. As long as
+its length is not changed, a vector is not altered if it is displaced parallel to itself. This
+process is known as Translating a vector.
+Triangle Law of Vector Addition
+Suppose a particle undergoes displacement S₁ followed by a second displacement
+S₂. The final result is the same as if the particle had started at the same initial point
+and undergone a single displacement S.
+We call displacement S the vector sum, or resultant, of displacements ASI S₁ and S₂ We
+express this relationship symbolically as
+S=S₁+S₂
+This can be shown graphically by placing the vectors head to tail and then the arrow
+drawn from the tail of the first vector to the head of the second vector represents the
+resultant, Figure 2.6. This is known as Triangle Law of vector addition.
+S1
+S2
+S,
+S2
+Figure 2.6 Triangle law of addition of vectors: S1 and S2 are placed head to tail.
+22
+Grade 11
+?
+Activity 2.3
+1. Use graph paper, a protractor, and a ruler and apply triangle law of vector
+addition to show that A+B=B+A. Use vector A of magnitude 5 units
+and vector B of 9 units, and the angle between the vectors to be 60°.
+Parallelogram law of vector addition
+Two vectors can also be added graphically
+by constructing a parallelogram using the
+5₂
+vectors as the sides of the parallelogram.
+$
+The vectors are now placed tail to tail
+and the diagonal drawn from the tails of
+the vectors to the opposite corner of the
+Figure 2.7. Paralelogram Law of addi-
+parallelogram represents the resultant,
+tion of vectors: : S1 and S2 are placed
+Figure 2.7.
+tail to tail.
+?
+Activity 2.4
+Discussion with your classmates
+It's a common error to conclude that if C = A+B, then the magnitude C should
+equal the magnitude. A plus the magnitude B. What is wrong with this conclusion?
+When we need to add more than two vectors, we may start with one of the vectors
+and then place the tail of the next vector to the head of the first and do the same
+until all the vectors are included. The vector drawn from the tail of the first vector to
+the head of the last vector represents the resultant. This is known as polygon law of
+addition of vectors, Figure 2.8.
+R=A+B+C+D
+C
+B
+À
+C
+À
+D
+B
+TO
+TR
+Figure 2.8 polygon law of vector addition
+Exercise 2.1
+What is the result of adding a vector to the negative of itself?
+23
+Physics I Student Text Book
+?
+Activity 2.5
+How can you add individual displacement vectors to determine total displacement?
+Materials
+A 20 m tape measure, Field marker (or flag), Graph paper
+ruler and Protractor
+Procedure
+Mark a point at the center of the field with a flag.
+Indicate the North-South direction taking the marked point as the origin
+Ask your friend to walk the following distances starting from the flag: 12
+m toward North, and 16 m toward East, 10 m toward South-East.
+Mark the final point and use the measuring tape to measure magnitude
+of his/her displacement from the starting point.
+Show your vector diagram on a graph paper
+Use a scale of 1 cm for 1 m of displacement.
+Use a protractor to determine the direction if displacement.
+What is the magnitude and direction of the displacement?
+Subtraction of Vectors
+We can subtract vectors as well as add them. Recall that vector -B has the same
+magnitude as B but the opposite direction. Subtracting a vector is the same as
+adding a vector of the same magnitude but opposite in direction.
+We define the difference A-B of two vectors and B to be the vector sum of À
+and -B, Figure 2.9.
+C=A-B=A+(-B)
+®
+A
+B
+C
+B
+A
+Figure 2.9 Subtraction of vectors
+24
+Grade 11
+Review questions 2.2
+1. Which one of the vector diagrams (Figure 2.10) satisfies the vector equation
+C=A+B?
+B
+(a)
+(b)
+B
+(c)
+B
+À
+C
+À
+C
+À
+C
+Figure 2.10
+2. Three displacement vectors A,B,C are specified by their magnitudes A = 10
+cm, B = 7 cm, C=8 cm, respectively, and by their respective direction angles
+(with the +x direction) of α = 53°, ß = 120°, γ = 210°. Choose a convenient
+scale and use a ruler and a protractor to find the magnitude and direction of
+the vector sum:
+(a) R = À + B
+(b) P=A-B (c) Q = A - 2B+C Q
+a) the magnitude C equal to the sum of the magnitude A and magnitude B?
+b) the magnitude C equal to the difference of magnitude A and magnitude B?
+3. Suppose an insect lands on a sheet of graph paper at a point located 12 cm to
+the right of the left edge and 8 cm above the bottom edge and walks slowly
+to a point located 7 cm from the left edge and 4 cm from the bottom edge.
+Choose the rectangular coordinate system with the origin at the lower left-side
+corner of the paper and find the displacement vector of the insect. Use a ruler,
+a graph paper and make use of graphical representation of vectors
+4. What is the minimum number of vectors of equal magnitudes required to
+produce a zero resultant?
+25
+Physics
+Student Text Book
+2.3 Algebraic Method of addition of vectors in Two
+Dimensions (2-D)
+After completing this section, you should be able to:
+apply algebraic method to find the resultant of two collinear vectors, and
+perpendicular vectors.
+apply trigonometry to determine the direction of a resultant vector in terms of
+the angle it forms with a reference direction.
+compare the resultant of two given vectors as determined by way of geometric
+construction and by analytic method.
+resolve a vector into its components.
+find the resultant of two or more vectors applying component method.
+define unit vector and determine a unit vector in the direction of a given
+vector.
+apply the unit representation of vectors to determine the resultant of two or
+more vectors.
+?
+Brainstorming
+Do you recall the different ways in which vectors that represent similar quantities
+can be added to/ subtracted from one another? Mention two ways of vector addition
+based on your physics lesson in grade 10.
+Adding two collinear vectors
+As scalars are fully described by their magnitude, addition or subtraction of scalars
+can be done by applying simple arithmetic. Vector addition, on the other hand
+involves both the magnitude and direction of the vectors.
+Before beginning to add vectors in two dimensions, let us review important points
+about addition of vectors in one dimension.
+Consider two force vectors F1 and F2 acting at a point along the same direction,
+Figure 2.11a. The resultant of these vectors R has a magnitude equal to the sum of
+the magnitude of each of the vectors and it is directed along the direction of any one
+of the vectors, Figure 2.11b.
+26
+Grade 11
+TW
+THE
+THE
+F
+(a)
+a
+Figure 2.11 Vectors in the same direction
+We write the resultant vector R symbolically as
+=
+When force vectors F₁ and F₂ are acting in opposite directions, Figure 2.12a, their
+resultant Ř will have magnitude equal to the absolute value of the difference in
+magnitudes of the vectors and it is directed along the direction of the larger vector,
+Figure 2.12b.
+THE
+F₁
+THE
+F2
+&
+(a)
+(b)
+Figure 2.12 Vectors in opposite directions
+Exercise 2.2
+The magnitudes of two vectors À and B are 13 units and 9 units, respectively.
+What are the largest and smallest possible values for the magnitude of the
+resultant vector R=A+B?
+Example 2.2
+A man rows his boat along the direction of flow of a river (downstream). If the
+boat can sail in still water at 0.50 m/s, and the river flows at 0.30 m/s, what is the
+resultant velocity of the boat?
+Let the magnitude of velocity of the river be A and that of the boat be B.
+A = 0.30 m/s
+B = 0.50m/s
+The resultant velocity is R=A+B
+27
+Physics
+Student Text Book
+Since both vectors are along the same direction, the magnitude of the resultant
+velocity is given by:
+R = A + B = 0.30 m/s + 0.50m/s.
+R = 0.80 m/s.
+The direction of the resultant is along the direction of the river flow.
+Therefore, the resultant velocity is:
+R = 0.8m/s, downstream
+Exercise 2.3
+If the man in Example 2.2 rows his boat upstream (in opposite direction to the
+river flow), what would his resultant velocity be?
+Example 2.3
+Two men are pushing a block along a
+horizontal surface by exerting oppositely
+directed forces of magnitudes 200 N and
+100 N respectively, as shown in Figure
+2.13. What is the resultant force applied
+on the block by the two men?
+Figure 2.13 Two men pushing the block
+in opposite directions
+Solution:
+The two men applied two different forces on the same block.
+Let the magnitude of the force exerted by the man on the right be F1 = 200 N and
+that of the man on the left be F2 = 100 N.
+Ř = F₁+₂
+The magnitude of the resultant force is
+R = F 1 -F2 = 200N - 100N = 100 N
+The direction of the resultant is along the direction of the 200 N (larger) force.
+R = 100N, toward the right.
+28
+Grade 11
+Adding two perpendicular vectors
+The rules for addition of vectors that lie in a plane - that is, when they are in two
+dimensions become more complicated than the rules for addition of vector in
+one dimension. We have to use graphical method of vector addition to construct
+resultant vectors, followed by trigonometry to find magnitudes and directions. To
+get the resultant vector of two perpendicular vectors, A and Figure 2.14, we use
+Pythagorean theorem for the magnitude of the resultant and apply trigonometry for
+the direction of the resultant.
+Recall
+According to Pythagoras theorem applied on a
+c
+right angled triangle, Figure 2.14, the square of
+the hypotenuse, c, is equal to the sum of squares
+8
+of the other two sides, a and b.
+Figure 2.14 A Right-angled triangle
+sin Θ = hypotenuse opposite b/c = c
+a
+Example 2.4
+An ant, starting at a point, walked through a distance of 40 cm due South and then
+50 cm due West. What is the resultant displacement of the ant from its starting
+point?
+Solution
+Placing the tail of the vectors at the origin of coordinates, the vector diagram of
+the motion is shown in Figure 2.15.
+North
+S₂ = 50 cm, East
+East
+0
+$1 = 40 cm, South
+S
+Figure 2.15 Vector diagram of motion of the ant
+29
+Physics | Student Text Book
+using pythagorean theorem, the magnitude of the resultant displacement is
+S = S1² + S2 = /(40cm) 2 + (50cm) = /4100cm² = 64cm
+Direction of the reultant displacement is shown by the angle Θ, where
+tan Θ = adjacent = = 0.8, Θ = 38.6°
+the resultant is $ = 64cm, 38.6° South of West
+Components of a vector
+In the previous sections we discussed addition of vectors by applying graphical
+method (a scale diagram) and by using properties of right angled triangles. Graphical
+method offers only very limited accuracy and calculations with right triangles work
+only when the two vectors are perpendicular. This section introduces a simple but
+general method for adding vectors known as Component Method.
+In your mathematics lesson you have studied about rectangular (Cartesian)
+coordinate system of axes. Consider a vector placed on the xy-plane with its tail at o,
+the origin of the coordinate system, Figure 2.16.
+The projection of the vector on the coordinate axes is known as component of the
+vector. The projection of vector À on the X axis, Aₓ, is known as the X component
+of vector À and that on the y axis, A,, is known as the y component of vector À
+Components Ax and A y-, are numbers but they are not vectors. Aₓ and Ä, are the
+vector components of A and in symbols
+y
+y
+À
+À
+Ay
+Ay
+α
+Θ
+O
+X
+O
+X
+Ax
+Ax
+(a)
+(b)
+Figure 2.16 Vector \vec{A} in terms of its vector components Àₓ and Ä,
+The x and y components of vector A (Figure 2.16a) have magnitudes of Aₓ = A COS Θ
+and Ay = A sin Θ, respectively. In the arrangement shown in Figure 2.16a, both
+components are positive numbers. But in a more general situations, components
+may be positive or negative umbers depending on how the vector is oriented, i.e., the
+angle it makes with the X axis. The process of breaking up a vector into its components
+is known as resolution of a vector.
+30
+Grade 11
+Note that: In finding the x- and y- components of a vector, we associate cosine
+with the x-component and sine with the y-component, as in Figure 2.16a. This as-
+sociation is due to the fact that we chose to measure the angle α with respect to the
+positive x-axis. If the angle were measured with respect to the y-axis, as in Figure
+2.16b, the components would be given by
+Aₓ = Asin and Ay = Acos α
+Key terms
+Component of a vector: the projection of a vector on the coordinate axes.
+Resolution of a vector: Breaking a vector into its components
+Example 2.5
+A force vector 1/4 of magnitude of 35 N is pushing on a box placed on the horizontal
+ground as shown in Figure 2.17a. If the force makes an angle of 40° above the
+negative X axis, what are the X and y components of the force?
+Fπ
+F,
+(a)
+E
+Figure 2.17 A pushing force
+Solution
+Force F can be A placed on the xy plane as shown in Figure 2.17b. Remember that
+translation of a vector does not alter the magnitude and direction of the vector.
+The X component of the force is Fx = F cos 40° = 35 N x (0.766) = 26.8 N, and the
+y component is Fy = -F sin 40° = -35 N X (0.643) = -22.5 N
+Finding the resultant of vectors by component method
+In order to determine the resultant of two or
+more vectors using component method, we
+resolve each of the vectors into their x and y
+y
+components. The X component of the resultant,
+TB
+Rx, will be the sum of the X components of
+X
+the individual vectors and the y component
+of the resultant, Ry, will be the sum of the y
+Figure 2.18 Vectors \vec{A} and
+components of the individual vectors, Figure
+\vec{B} added by Component
+2.18.
+Method
+31
+Physics
+I
+Student Text Book
+In terms of the vector components we write
+R = Rx + Rᵥ, where Rx = + Bₓ, and Ry = Äᵥ + By
+The magnitude of the resultant vector will be;
+Rx = Ax + Bₓ, and Ry=Ay+By (taking the signs of the components into consideration)
+The direction of the resultant is given in terms of the angle it makes with the X axis.
+Place Řₓ and Ry on the xy-plane and find the angle as
+tan Θ = R
+Attention
+if both Rx and Ry are positive numbers, angle Θ is above the +X axis
+if Rx is negative number and Ry is positive number, angle Θ is above
+the -X axis
+if both Rx and Ry are negative numbers, angle Θ is below the -x axis
+if Rx is positive number and Ry is negative number, angle Θ is be-
+low the +X axis
+Exercise 2.4
+Under what circumstances would a vector have components that are equal in
+magnitude?
+Exercise 2.5
+A vector has an x-component of - 35 units and a y-component of 40 units.
+Find the magnitude and direction of the vector considering that the positive X
+direction indicates East and that the positive y direction indicates North.
+Example 2.6
+Consider two displacement vectors À and B of magnitudes 100 m and 200
+m respectively, Figure 2.21 Find the magnitude and direction of the resultant
+displacement vector.
+32
+Grade 11
+y
+y
+B
+À
+R
+30°
+50°
+X
+Ry
+Θ
+X
+Rx
+(a)
+(b)
+Figure 2.19
+Solution
+We first resolve the vectors into their X and y components.
+Using trigonometry, we get Ax = A cos 50° = 100(0.643) m = 64.3 m, and
+Ay = A sin 50° = 100(0.766) m = 76.6 m
+Bx x = -B cos 30° = -200 (0.866) m = - -173.2 m, and
+By = B sin 30° = 200(0.50)m = 100 m
+The vector components of the resultant are Rx = Àₓ + Bₓ, and Rᵥ = Ä, + By
+,
+where Rx = Ax + Bx = 64.3 m + (-173.2 m) = -108.9 m and Ry = =Ay + By = 76.6
+m + 100 m = 176.6 m.
+Then we place the components of the resultant on the xy-plane as in Figure 2.19
+(b). The magnitude of the resultant is
+= √(- 108.9m) 2 + (176.6m)² = 207.5m
+and Θ = tan -1 176.6m 108.9m = tan -1 (1.62) = 58.3°
+Therefore, Ř = 207.5m, Θ = 58.3° above the negative x axis
+Exercise 2.6
+Vector À has a magnitude of 30 units and points in the positive y-direction.
+When vector B is added to A, the resultant vector À + B points in the
+negative y-direction with a magnitude of 10 units. Find the magnitude and
+direction of B.
+33
+Physics I Student Text Book
+Example 2.7
+A girl walked across a large field through the following distance in the given
+order:72 m toward 32° East of North, 57 m toward 37°South of West, 18 m toward
+South. Find the magnitude and direction of the resultant displacement of the girl?
+Solution
+The displacement vectors are placed on the xy-plane as shown in Figure 2.20.
+Y
+37°
+57m
+B
+A
+À
+N
+72m
+3Z
+18
+C
+W-O-E
+32°
+I
+S
+7
+(a)
+(b)
+Figure 2.20 (a) The actual path the girl followed, (b) Vector diagram
+Solution
+The components of the displacement vectors are calculated as in Table 2.2 below.
+Table 2.2
+X component
+y component
+S₁
+72 (sin 32°) m = 38.2 m
+72 (cos 32°) m = 61.1 m
+S₂
+-57|cos 37°) m = - 45.6 m
+-57 (sin37°) m = -34.2 m
+S₃
+O m
+-18 m
+Rx = S₁y + S₂y + S₃y = 8.9 m
+R =
+= 7.4m)² + (8.9m)² = 11.6m
+and Θ = tan⁻¹ (8.9m) (7.4m) = tan⁻¹ (1.2) = 50.2° above the nagative x axis
+Therefore, R = 11.6m, Θ = 50.2° N of W
+Did you know?
+Analytic methods of vector algebra are used routinely in mechanics, electricity, and mag-
+netism. They are important mathematical tools of physics.
+34
+Grade 11
+Exercise 2.7
+A car travels 20 km due north and then 25 km in a direction 60° West of North.
+Use both graphical and algebraic methods to find the magnitude and direction of
+a single vector that gives the net effect of the car's trip.
+Unit Vectors
+As we have seen in the previous discussion we defined a unit vector as a vector of
+magnitude one, with no unit. Unit vectors are used to represent the direction of
+vectors in space. The symbol of unit vectors is denoted by a 'hat' (^) to distinguish it
+from ordinary vectors.
+In an xy-coordinate system we define a unit vector i that points in the direction of
+the positive x-axis and a unit vector \hat{j} that points in the direction of the positive
+y-axis, see Figure 2.21.
+Y
+Y
+À
+Aⱼⱼ
+j
+,,
+X
+X
+O
+i
+O
+i
+Axi
+Figure 2.21 Unit vectors on the xy-plane
+Vector components of vector \vec{A} and its components are related as
+Äₓ = Aₓᵢ
+Ä, = Aᵥⱼ
+Vector A can be written in vector equation as
+=
+Using the unit vectors the resultant of two vectors A and B can be expressed as
+R=A+B
+=
+35
+Physics I Student Text Book
+The unit vector along the direction of a given non-zero vector is defined as the vector
+divided by its magnitude.
+If vector A À = Aₓᵢ + Aⱼⱼ, then the unit vector along À is
+Example 2.8
+Given force vector F = (12i 16ⱼ) N, what is a unit vector along F ?
+solution
+of
+See that the magnitude of ÜFis UF = √(0.6)² + (0.8)² = 1
+Example 2.9
+Vector À has X and y components of 4 units and 2 units, respectively and vector
+B has the corresponding components of -9 units and 3 units respectively. Find
+(a) the vector components of their resultant,
+(b) the magnitude and direction of their resultant.
+solution
+Given À = + = (4i units
+The resultant
+Ř = i + (Ay = (4 9) i + (2 + 3) = (-5j+5j) units
+(a) The X and y components of
+(b) the magniture of
+R is R = + R² = 2 + 5² = 50 = 5 √2 units
+As Ř is along the negative X direction and Ry is along the positive y direction, we
+see that Ř is in the second quadrant and it makes angle of 45° above the negative X
+axis.
+36
+Grade 11
+Example 2.10
+An unknown vector D is added to vector C = (- 4i + 5j) units and the resultant
+R = C+D has X and y components of each -1 and 1 units, respectively Find the
+magnitude of the unknown vector.
+Solution
+Given C = (- 4ᵢ + 5ⱼ), D = and Ř = (-î+j)
+For Ř = C + D, we have Rx = Cₓ + Dx, - 1 = - 4+Dx, Dₓ = 3 units
+Ry = C₄ + Dy, 1 = 5 + Dy, Dy = 4 units
+Vector D = (3i 4)) units
+Exercise 2.8
+The vector sum P + Q is a unit vector along the positive X axis. If Φ = i - j,
+find Q.
+Exercise 2.9
+If vector 0.4 i + b j j is a unit vector, then what is the value of b?
+Example 2.11
+Traditional Maresha
+A farmer is ploughing the field using traditional Maresha (plow) pulled by two
+oxen Figure 2.24a. The two animals are pulling the beam (Mofer) with a force F2
+of 1200 N at angle of 40° from the horizontal and the farmer's force F1 on the
+handle (Erf) is 150 N at 60° above the horizontal as shown in Figure 2.24b. Find
+the resultant horizontal pulling force exerted by the farmer and the oxen on the
+Maresha? At this point assume all the forces are acting at point K.
+For the whole system to work the resultant downward vertical force must be
+slightly greater than the upward. Explain why.
+37
+Physics
+I
+Student Text Book
+60
+F2
+k
+Mofer
+Erf
+Figure 2.22 (a) A farmer plowing his
+(b) Schematic diagram of the Maresha
+farm
+Solution
+The forces that are acting on the Maresha are the force exerted by the farmer on the
+Erf, F1, and the pulling force on the Mofer, F2.
+Both F1 and F2 have X components and the sum of these components gives the
+resultant horizontal pulling force. Both F1x and F2x are along the positive X direction.
+Fx = F₁ₓ + F₂x = F₁ cos Θ₁ + cos
+= 150N cos 60° + 1200N cos 40°
+= 75N + 919N = 994.3 N.
+If the upward forces on the marseha exceed the downward focrces(which is the
+sum of weight of the plow and the downward component of the force exerted on
+the Erf), the maresha will be lifted above the ground and plaughing will not be
+possible.
+Review Questions 2.3
+1. Two vectors give a resultant of magnitude 8 units when are parallel and 2
+units when they are antiparallel. Determine the possible values of each of the
+vectors.
+2. State the condition where the vector sum of two vectors is a null vector.
+3. Suppose you are in a large hall and that you mark a point on the floor and
+start walking the following distances in the given order: 50 m [forward],
+10 m [backward], 10 m [forward], 10 m [backward], 20 m [forward], 10 m
+[backward], 40 m [forward], and 10 m [backward].
+A. What is the total distance you traveled?
+B. What is the magnitude and direction of your displacement from the starting
+point?
+4. What vector must be added to vector C of 10km, East in order to give a
+resultant vector of
+A. 15 km, East?
+B. 15 km, West
+38
+Grade 11
+5. A sailor boards a paddle boat and heads the boat Westward directly across a
+river. The river flows South at 50 cm/s and the woman paddles the boat with
+a speed of 100 cm/s.
+A. Determine the resultant velocity of the boat - - both magnitude and direction.
+B. How far down stream relative to the straight-across direction will woman
+be when she reaches the opposite shore?
+6. Given three displacement vectors B, C, and D such that
+B = i + 2j) m, C = 3i 2j) m D of unknown components, determine
+the magnitude and direction of D for 3B - C + D = 0
+7. Given displacement vectors of $₁ and √ₛ₂ as S₁ = (3ᵢ+ 6ⱼ) m, =
+S₂ = 2i - 4j) m, find a unit vector along the direction of
+8. Five displacement vectors A,B,C,D and È are placed on the coordinate
+axes as shown in Figure 2.23. Fill Table 2.3 with the correct values of the
+components of the vectors. (Hint: A vector on either of the coordinate axis has
+only one component).
+y
+X component
+y component
+B
+À
+B
+À
+37°
+X
+30°
+C
+C
+53°
+È
+D
+DI
+È
+Figure 2.23 The five vectors on the xy plane
+2.4 Product of Vectors
+After completing this section, you should be able to:
+define dot product of a vector
+apply the technique of dot product to solve practical problems
+In the previous sections you have learnt about different techniques of finding a
+resultant vector. We can also express many physical relationships by using products
+of vectors. Vectors are not ordinary numbers, so we can't directly apply ordinary
+multiplication to vectors.
+There are two different kinds of products of vectors: Scalar (Dot) product and Vector
+(Cross) product. The scalar product of two vectors yields a result that is a scalar
+quantity while the vector product of two vectors yields another vector. In this section
+we will discuss the scalar product of two vectors.
+39
+Physics
+I
+Student Text Book
+?
+Brainstorming
+Do you know any physical quantity that can be
+expressed as a product of two vector quantities?
+Multiplying or dividing a vector by a number or scalar
+A vector quantity such as a force can be multiplied by a scalar quantity (an ordinary
+number). Multiplying a vector by a number gives a vector. When we multiply a
+vector À by a scalar c, the result c À has a magnitude equal to |c| À (the absolute
+value of c multiplied by the magnitude of vector A). If c is positive, À and c À are in
+the same direction (they are parallel) but if c is negative, A and c À are in opposite
+directions (they are antiparallel).
+For example, if vector À is multiplied by a scalar number 2, the result, represented
+by 2 A, is a vector with magnitude two times that of À pointing along the direction
+of À. On the other hand, if vector À is multiplied by a scalar number -2, the result,
+represented by -2A, is a vector with magnitude two times that of À pointing in
+opposite direction to A, see Figure 2.24.
+À
+À
+2À
+-2A
+Figure 2.26 (a) À and 2\ À are parallel (b) À and -2 À are antiparallel
+Example 2.12
+Displacement vector given as $ =35km, towards 6060° North of east. Find the
+magnitude direction of a) 1.2 S and b) -1.2 S ?
+Solution
+Given $ =35km, towards 6060° North of east
+a) Vector 1.2 S is a displacement with magnitude 1.2 times that of S along the
+direction of S.
+1.2S= 1.2 X 35=42km and =42km, 60° North of East.
+b) Vector -1.2 $ a displacement vector with magnitude 1.2 times that of $
+pointing opptisite to the direction S. Therefore -1.2 $ =42km, 60° South of West.
+40
+Grade 11
+Dot product
+The scalar product of two vectors is denoted by A.B. Because of this notion, the
+scalar product is also called the dot product. Although À and B are vectors, the
+quantity A.B is a scalar.
+The dot product of vectors À and B is defined as
+A.B=ABcosΘ
+where Θ is the angle between the vectors, Figure 2.25 notes that the righthand side
+of the equation is a number (without direction).
+B
+Place the vectors tail to tail
+Θ
+À
+Figure 2.25 Vectors are placed tail to tail to form angle Θ
+The angle between the vectors ranges from 0° to 180° and it is the angle formed
+when vectors are joined tail to tail.
+Depending on the value of the cosine of the angle between the vectors, the scalar
+product A B may be positive, negative, or zero.
+Key terms
+Scalar (dot) product: product of vectors that yields a scalar.
+Angle between vectors: the angle two vectors form when placed tail to tail
+As shown in Figure 2.26a, or the magnitude of the component of B in the direction
+of À , as shown in Figure 2.26b.
+B
+Acos Θ
+B
+RO
+RO
+A
+A
+B cos Θ
+(a)
+(b)
+Figure 2.26: Alternative ways of finding the dot product of À and B
+41
+Physics I Student Text Book
+Exercise 2.10
+The dot product of À and B can be defined alternatively as the magnitude
+of multiplied by the component B of in the direction of À. Find the angle
+between each of the following pairs of vectors.
+a) 3i - jandi - 2j
+b) 3i - 2j and i - 2j
+c) 3i — 2ⱼ and 4i + 6ⱼ
+?
+Activity 2.6
+Group discussion
+Apply the definition of dot product to show that the dot product of a unit vector
+with itself is one (unity) while the dot product of a unit vector with another unit
+vector is zero, and use the result to prove that
+P Q = where P = + and
+Note that
+There are two ways of writing the dot product of two vectors:
+A.B=ABcos0
+A.B=AB+AB
+y
+Exercise 2.11
+Given a position vector What is the cosine of the angle between P
+and (a) the x-axis? (b) the y-axis? (The cosine of the angle between a vector and
+the positive coordibate axis is called direction cosine of the vector.
+Example 2.13
+Vector À = i + and vector B + 3j.
+What is (a) the scalar product of À and B?
+(b) the nagle between À and B?
+Solution
+(a) A.B = + Ay.By = (1) + (1) (3)
+(b) From A.B = AB cosΘ = A.B AB
+=
+cos AB AB = 1 = 0.196, A = (0.196) = 78.7ᵃ
+42
+Grade 11
+Example.2.14:
+Force and displacement
+Consider a block placed on a horizontal surface and that force F is applied on the
+block to move the block through displacement S. The work done by the force is
+defined as the dot product of the force and the displacement. If F = (5i + 3j) N
+and $ = (- 2î + 4ⱼ) m, what is the work done by the applied force?
+solution
+Work W = F.S = (5i + 3j) N. 2i + 4j) m = 2) + 3 (4) = 2Nm = 2J
+Example 2.15:
+Force and velocity
+Consider force F of a certain machine is applied on a body to move the body
+with an average velocity V. The power developed by the machine is defined as
+the dot product of the force and the average velocity. If F = (50i + 30j) and
+V = (3î+4j) m/s, what is the power developed by the machine?
+Solution
+The power
+= 50 (3) + 30 (4) = 270Nm/s = 270W
+Review Questions 2.4
+1. What is the dot product of vector À with itself?
+2. Show that the dot product of two vectors obeys:
+(a) commutative property, A.B=B.A?
+(b) distributive property, A. (B + C) = (A. B) + (A C)
+3. Is B = B.A?
+4. For what angle between À and B will A.B be equal to B.A
+5. The force applied on a body and the displacement it underwent are given
+respectively as F = (25i 30j) N and $ = (-2î-3j) m. What is the work
+done by the force?
+6. For what values of the angle between À and B will the dot product A.B be
+positive, negative or zero?
+7. If D = (5î-3j) N and È = (2î+j), what is the angle between D+E and
+the X axis?
+8. If P.Q = PQ, what is the angle between P and Q ?
+43
+Physics I Student Text Book
+UNIT2SUMMARY
+c
+When a physical quantity is described by a single number, we call it a scalar
+quantity. In contrast, a quantity described by both a magnitude (the "how much"
+or "how big" part) and direction in space is a vector.
+c
+Depending on their direction, magnitude and orientation we can categorize
+vectors as collinear, coplanar, parallel, antiparallel, equal, null, unit vector etc.
+c
+Graphical method of vector addition makes use of translation of vectors.
+c
+Triangle law - Vectors are connected head to tail to form a triangle.
+c
+Parallelogram law - vectors are connected tail to tail and a parallelogram is
+constructed using the vectors as its sides.
+c
+Polygon law - used to find the resultant of more than two vectors. The vectors are
+joined head to tail without regard to the order they are taken. The vector drawn
+from the tail of the first vector to the head of the final vector represents the resultant.
+C
+Analytic methods of vector addition/subtraction allow us to find resultant of sums
+or differences of vectors without having to draw them. They are exact, contrary to
+graphical methods which are approximate.
+c
+The resultant of two vectors in the same direction has a magnitude equal to the
+sum of the magnitude of each of the vectors and it is directed along the direction
+of any one of the vectors.
+C
+The resultant of two vectors at right angles has a magnitude equal to the square
+root of the sum of the squares of the magnitude of each of the vectors and the
+direction of the resultant is determined by the angle it makes with respect to a
+reference line (commonly the X axis).
+C
+A unit vector vector along the X axis is denoted by i and that along the y axis is
+denoted by j A vector that is represented by its vector components as À = Aₓ Aᵥ
+can also be represented interms of its components as =
+c
+If Ř is the resultant of À and B then Ř = Rₓᵢ + Rⱼⱼ, where
+Ry = Aᵥ + By. The angle that Ř makes with the X axis is Θ = tan -1 (R)
+c
+The scalar product of two vectors À and Bis defined as A.B = AB COS and also
+c
+The scalar product of two vectors can be used to determine the angle between the
+vectors and it can also be used to determine the component of one of the vectors
+in the direction of the other.
+44
+Grade 11
+END OF UNIT 2 QUESTION
+1. Identify the following quantities as vectors and scalars: Speed, velocity, Displace-
+ment, Volume, Acceleration, Power.
+2. Which one of the following is not true about the three vectors shown in Figure
+2.27?
+a. -A=B+C
+À
+B
+c. c=-A-B
+C
+d. A+B-C=0
+Figure 2.27
+3. If you and your friend have to apply a force to move an object, what would be the
+best way to apply the forces to maximize your resultant force?
+4. What is the least number of unequal vectors required to produce a zero resultant?
+5. If you and your friend have to apply a force to move an object, what would be the
+best way to apply the forces to maximize your resultant force?
+6. What is the least number of unequal vectors required to produce a zero resultant?
+7. Suppose you are adding two vectors P and Q, how would you add them to get the
+resultant with the least magnitude?
+8. What will happen to the magnitude of the resultant of two vectors as the angle
+between them increases from 0° to 180?
+9. A vector À lies in the xy plane. For what orientations of À will both of its compo-
+nents be negative? For what orientations will its components have opposite signs?
+10. Two vectors have unequal magnitudes. Can their sum be zero? Explain.
+11. Given
+displacement
+vectors
+S₁ = + 3j) m. Find the magnitude and direction of the resultant displace-
+ment
+12. Three force vectors A, B and C are acting at a point. If À = 4i 3j, B = 2i
+, ,andA+B-C=0.Find
+a) the magnitude and direction of vector C and
+b) a unit vector along C.
+13. Determine a velocity vector that has a magnitude of 5 m/s directed along the di-
+rection of vector D=1.5î+2ⱼ.
+14. The angle between vector À and vector B is 20°. If the magnitude of vector À is
+6 units and that of B is 4 units, what is the component of vector along the direc-
+tion of vector B
+15. The initial position vector of a particle on the xy plane is (5,2) and its final position
+vector is (-2,-3). If distance is measured in centimeter,
+a) what is the displacement of the particle?
+b) what is the magnitude and direction of the displacement?
+45
+Physics
+I Student Text Book
+16. A postal employee drives a delivery truck
+N
+STOP
+W-O-E
+along the route shown in Figure 2.30. De-
+S
+2 km
+termine the magnitude and direction of the
+4 km
+45°
+resultant displacement by drawing a scale
+diagram.
+3 km
+N
+W-O-E
+START
+S
+Figure 2.28 Path of the truck
+17. A girl pushes a box placed on the floor with
+a force of 50 N at an angle of 37° below the horizontal. If the box moves toward the
+positive X direction, what are the vector components of the force?
+18. The Tug-of-War Game
+Four dogs nicknamed A, B, C, and D play a tug-of-war game with a toy, Figure
+2.31. A pulls strongly with a force of magnitude A = 160 N. B pulls even stronger
+than A with a force of magnitude B = 200 N, and C pulls with a force of magnitude
+C = 140 N. When D pulls on the toy in such a way that his force balances out the re-
+sultant of the other three forces, the toy does not move in any direction. With how
+big a force and in what direction must D pull on the toy for this to happen? (Hint:
+If the toy does not move, the vector sum of the four forces, FA + FB + Fc + FD = 0.
+North
+У
+y = 55°
+ß = 60
+C
+B
+East
+A
+a = 55°
+D
+Figure 2.29 Dogs enjoying the tug-of-war game
+19. Given two vectors X and Y such that X = 4i + and Y = 6i + 3j, ,
+(a) what is the angle between the two vectors?
+(b) Find the component of X along the direction of Y ?
+20. What is the vector product A.B of the
+vectors shown in Figure 2.30?
+y
+130
+À
+i
+Figure 2.32 Vectors on the xy
+53.°
+x
+plane - x axis as a reference line
+i
+for measuring angles
+46
+HAILE

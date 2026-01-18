@@ -1,0 +1,2411 @@
+UNIT 6
++
++
+ELECTROSTATICS
++
+AND ELECTRIC CIRCUIT
+Introduction
+In this unit we will study the two branches of electricity, namely electrostatics
+(static electricity) and current (dynamic) electricity. Under electrostatics we study
+the properties of electric charges at rest and under current electricity we study the
+properties of charges in motion. The main difference between static and current
+electricity is that with static electricity, the charges are stationary and build on
+the surface of an insulator, while in current electricity electron flowing through a
+conductor form what we call an electric current.
+Learning outcomes: Students will be able to:
+calculate the electric field resulting from a point charge.
+determine the magnitude and direction of the electric force among any
+point charges.
+acquire knowledge and understanding in electrostatic phenomenon
+demonstrate an understanding of the components and functions
+of electrical circuits that are commonly found at home and in the
+workplace
+construct, analyze, simple electrical circuits, using schematic
+diagrams, working with electrical tools and components, and
+examining small everyday electrical devices and appliances
+define a capacitor and explain some of its applications in life.
+apply Kirchhoff's rules to solve circuit problems.
+217
+Physics
+Student Text Book
+6.1 Coulomb's Law
+By the end of this section, you will be able to:
+state Coulomb's law.
+calculate the magnitude and direction of electric force between any two
+charges.
+solve problems involving Coulomb's law.
+explain Coulomb's law using the idea of vectors.
+explain the meaning of a coulomb.
+?
+Brainstorming Questions
+1. What are the compositions of an atom?
+2. What are the two types of charges and what are their origin?
+3. How can a body be charged positively and negatively?
+4. What does the law of electrostatics say?
+Properties of Electric Charges
+Charge
+Before we go into discussing Coulomb's law, we need to revise what you have
+learnt in the previous grades about charge and its properties. Charge is the
+fundamental property of matter associated with electrons and protons which are
+found in any atom. There are only two types of charges: negative and positive
+charges. By convention, negative charges are carried by electrons and positive
+charges are carried by protons.
+When the number of electrons and protons in an object are equal that object is
+said to be electrically neutral. However, if this electrical balance is disturbed, then
+the object is said to be electrically charged. A negatively charged object contains
+more electros than protons, but a positively charged body contains more protons
+than electrons.
+Properties of charges
+Property I: There are two kinds of electric charges: Positive and Negative.
+Property II: Two similarly charged bodies repel each other and two oppositely
+charged bodies attract each other.
+218
+Grade 11
+—
++
++
++
+Figure 6.1: Like Charges repel and unlike charges attract each other.
+Property III: Electric charge is always conserved, i.e., it cannot be created
+or destroyed. In any charging process, the number of electrons gained by one
+object is equal to the number of electrons lost by the other.
+Property IV: Electric charge is quantized. Charge comes in discrete packets, it
+means that charge (q) always occurs as some integral multiple of the charge of
+an electron, e. It can be written as: q = ±ne (where n = 1,2,3,...)
+The smallest unit of charge that is carried by one electron or proton is called the
+elementary charge, e. The magnitude of the charge of an electron is:
+1e=-1.6x10⁻¹⁹C
+The charge carried by a proton is also the same as that of the charge carried by an
+electron except it is positive.
+1p=+1.6x10⁻¹⁹C
+Example 6.1
+What number of protons needed to make a charge of +1.0 C?
+Solution:
+n = q e = 1.6x10⁻¹⁹ 1.0C = 6.25x10¹⁸ X protons
+Similarly, the number of electrons needed to make a charge of -1.0 C is
+6.25x10¹⁸ electrons.
+219
+Physics
+Student Text Book
+?
+Activity 6.1:
+Discuss in pair about the following questions. Present what you have
+agreed in your group to the class.
+1. What would happen if electrons were positively charged and protons
+negatively charged?
+2. Is the Earth charged or neutral? Discuss why is so.
+3. Is there a force of attraction or repulsion between a charged and a neutral
+body?
+4. Can positive charges move and create electric current electrostatically?
+Exercise 6.1
+(a) How many electrons are needed to form a charge of -2.0 nC?
+(b) How many electrons must be removed from a neutral object to leave a net
+charge of +0.50 µC?
+Electrostatic Force
+A force of attraction or repulsion between two charged bodies, is known as the
+electrostatic force. Electrostatic force is either attractive or repulsive, unlike the
+gravitational force which is only attractive. If the objects have opposite charges
+they attract each other, while if their charges are similar, they repel each other.
+F
+q₁
+q₂
+F
+q₁
+F
+F
+q₂
++
++
++
+r
+r
+a)
+b)
+Figure 6.2: Like charges repel and Unlike charges attract each other.
+In 1785, the French physicist Charles Coulomb, proposed a law that describes the
+force that one charged particle exerts on another. This law is remarkably similar
+in form to Newton's law of gravitation. Coulomb's law states that any two-point
+charges exert an electrical force on each other that is directly proportional to the
+product of their charges and inversely proportional to the square of the distance
+between them. where q₁ is the charge on the one particle, q₂ is the charge on the
+second, and r is the distance between the two.
+220
+Grade 11
+q₁
+q₂
+Figure 6.3: Coulomb's Law
+Then, the magnitude of the electrostatic force between two point-charges is given
+by:
+The proportionality constant k is called the electrostatic, or Coulomb constant.
+It can also be written in terms of the permittivity of free space E₀ whose value is,
+ε₀ = 8.85 X 10⁻¹² C² / N.m². With this, the value of k becomes:
+1 = 4x3.14x8.85x10⁻¹²C² / N.m² 1 /
+Example 6.2:
+Two tiny spherical water drops with identical charges of -, have a center-to-center
+separation of 1.0cm. a) What is the electrostatic force acting between them? b)
+How many excess electrons are on each drop giving it its charge imbalance?
+Solution:
+Step I: Conceptualize the problem: There are two identical negative charges of
+water drops. We are required to find the electrostatic force from Coulombs law (a)
+and the number of excess electrons that gives this charge imbalance by the charge
+is quantized property of electric charges.
+Step II: Identify the given and required quantities:
+What you have is: q₁ = q₂ = X r = =
+what you need to determine is: a) F =?
+b) n = ?
+=
+Step III: Apply the appropriate equation that best fits for the solution.
+F = k 0
+q
+221
+Physics
+I
+Student Text Book
+That means 6.25 X 10⁸ electrons give this charge imbalance so that the two charged
+water drops exert 9.0x10⁻¹⁷ N of repulsive force to each other.
+Exercise 6.2:
+1.
+What are the similarities and differences between Newton's law of universal
+gravitation and Coulomb's law?
+2.
+Which force is greater between an electron and a proton, the gravitational or
+the electrostatic? By how much is one larger than the other?
+?
+Activity 6.2:
+1. Take a balloon or plastic comb and rub against your hair. Then take it near a
+stream of water falling from a tap. Discuss and try to explain what you observe.
+Figure 6.4: A charged body (balloon) attracts a neutral body (stream of water)
+?
+Activity 6.3
+A positively charged light metal ball is suspended between two oppositely charged
+metal plates on an insulating thread as shown below. Describe the motion that the
+ball undergoes.
+Figure 6.5: Coulomb's Law in Vector Form
+222
+Grade 11
+Force on a Charge due to Multiple Electric Charges
+Electrostatic force is a vector quantity. Therefore, if there are more than one force
+acting on a charged particle, then the resultant force acting on the particle will be the
+vector sum of all these forces. This is known as the superposition principle.
+Consider a system of n stationary charges q₁,q₂, q₃....qₙ in vacuum. The force on
+q₁ due to q₂, q₃ qₙ is obtained by taking the vector sum of the individual forces.
+Where, F₁₂ is the force that charge q₂ exert on q₁, F₁₃ is the force that q₃ exert on q₁
+,
+F₁ₙ is the force that qₙ exert onq₁.
+Example 6.3:
+Three point charges are placed on the x-axis: q₁ = +6µC at x₁ = 5.0cm
+, q₂ = -5µC at x₂ = -3.0cm, and q₃ = = +2µC at the origin (x=0). = What is
+the magnitude and direction of the total electrostatic force acting on q₃?
+Solution:
+The first step should be determining the magnitude of the force each charge exerts
+on q₃, using Coulomb's law:
+The force charge q₁ exerts on charge q₃ is given by:
+Similarly, the magnitude of the force charge q₂ exerts on charge q₃, F₂₃ is given
+by
+After the magnitude of each force is determined the next step will be determining
+the directions of the forces exerted on q₃ due to q1 and q2 by considering the sign of
+the pair of these charges.
+q2
+q₃
+q₁
++
++
+x = - 3 cm =
+x = 0 =
+x = 5cm
+223
+Physics I Student Text Book
+Charge q₁ (positive) repels charge q₃ (positive) towards left: F₁₃ = 43.2N - i
+Charge q₂ (negative) attracts charge q₃ (positive) towards left: F₂₃ = 100.0N i
+Therefore, since these forces act in the same direction (both to the left), the resultant
+force, Fᵣ acting on charge q₃, will be their sum.
+Fᵣ = F₁₃ = 143.2Nᵢ + 100.0Ni) = - 143.2Nᵢ
+Thus, the magnitude of the resultant force acting on charge q₃ is 143.2N, and the
+force is directed along the negative x-axis.
+Exercise 6.3:
+Referring to the question on the above example 6.3, determine the magnitude and
+direction of the total electrostatic force acting (a) on q₁, and (b) on q₂.
+Review questions 6.1
+1. State Coulomb's law in your own words.
+2. Write Coulomb's law mathematically both in a scalar and vector form.
+3. What is the meaning of a Coulomb?
+4. Two charges +3µC and +12µC are fixed 1 m apart, with the second one to the
+right. Find the magnitude and direction of the net force on a -2 µC charge
+when placed halfway between the two.
+5. Two small, identical conducting spheres repel each other with a force of 0.050
+N when they are 0.25 m apart. After a conducting wire is connected between
+the spheres and then removed, they repel each other with a force of 0.060 N.
+What is the original charge on each sphere?
+6. In the picture below, X is a small negatively charged sphere with a mass of
+1.0kg. It is suspended from the roof by an insulating rope which makes an
+angle of 60 degrees with the roof. Y is a small positively charged sphere
+which has the same magnitude of charge as X. Y is fixed to the wall by means
+of an insulating bracket. Assuming the system is in equilibrium, what is the
+magnitude of the charge on X?
+224
+Grade 11
+60°
+10kg
+Y
+X
++
+50cm
+Figure 6.6: Question 6
+6.2 Electric Fields
+By the end of this section, you will be able to:
+define the terms, electric field, and electric flux.
+sketch electric field lines.
+solve problems involving electric field.
+Tap an electric field lines pattern using electric lines of force.
+calculate the magnitude and direction of electric field due to a point charge
+and two point charges.
+?
+Brainstorming
+1. What is a gravitational field?
+2. What causes gravitational field?
+3. Discuss the concepts and recall the equations of (a) gravitational field lines,
+and (b) gravitational field strength.
+225
+Physics
+I
+Student Text Book
+An electric field is a region in space
+where one charge experiences a force
+from another charge. Let us consider a
+q
+point charge Q placed in vacuum, at point
+P
+O. If we place another point charge q at a
+point P, where OP = r, then the charge Q
++
+Q
+will exert a force on q as per Coulomb's
+law. We say that the charge Q produces an
+electric field in its surrounding.
+Figure 6.7: Electric field of a charge Q
+Electric field lines
+The electric field produced by a charged particle can be represented by lines of force
+called electric field lines. It is drawn in the direction that a positive charge would
+move if placed at a point in the field. Electric field lines are helpful to visualize the
+vector nature of an electric field. The Figures 6.8 (a) to (f) shows the electric field
+lines for different arrangement of charges.
+9
+4
+(a)
+(b)
+q
+q
+4
+4
+N.
+Z
+Neutral point
+(e)
+(d)
+q
+9
++
+(e)
+(f)
+Figure 6.8: Electric field lines of (a) a positive point charge, (b) a negative point charge,
+(c) two equal positive charges, (d) two equal negative charges, (e) an electric dipole, and
+(f) a uniform field of oppositely charged parallel plates.
+226
+Grade 11
+Properties of electric Field lines
+Electric field lines have the following properties
+1. Electric field lines do not cross each other.
+2. Electric field lines begin on positive charges and radiate away from them toward
+negative charges, where they terminate.
+3. Electric field lines are always perpendicular to the surface of the charged body.
+4. The closer the lines, the stronger the electric field, and the farther apart they are the
+weaker is the field.
+5. Equally spaced electric field lines indicate the field is uniform. The electric field
+between two parallel plates, shown in Figure 6.8, is a common example of a uniform
+electric field.
+?
+Activity 6.4:
+1. Form a group containing 3 or 4 members. Discuss in your group on the
+mechanism to investigate the nature of electric field lines between two similar
+and opposite charges.
+2. What would happen when (a) a conductor and (b) an insulator is placed in an
+electric field?
+The Electric field strength
+The magnitude and direction of the electric field is expressed by a quantity
+called electric field strength or electric field intensity (E). Electric field strength, is
+the force acting per unit positive charge for a stationary point charge. In equation
+form:
+E=Fg
+q
+Electric Field of Point Charge: The electric field of a point charge can be obtained
+from Coulomb's law. From Coulomb's law, the equation for the force between two
+electric charges is:
+F=k9Q F
+The electric field strength is then the force per unit of charge.
+where E is the electric field strength due to a point charge Q, and r is the distance
+from charge Q to the point of interest. From the above equation of electric field
+227
+Physics I Student Text Book
+strength, we see that the electric field is depend only on the source charge Q and the
+distance r; it is independent of the test charge q.
+The SI unit for the electric field strength is newton per coulomb (N/C). The direction
+of the electric field will be in the direction of the force the source charge exerted on
+a positive test charge. Thus, electric field lines will direct away from a positive source
+charge and towards a negative source charge.
+Example 6.4:
+Calculate the strength and direction of the electric field E due to a point charge of
+2.0 nC (nano-Coulombs) at a distance of 5.0 mm from the charge.
+Solution:
+Step I: Conceptualize the problem: the strength of the field is its magnitude at a
+distance of 5mm = 5x10⁻³m. We are therefore required to find the magnitude of
+the electric field.
+Step II: Use appropriate equation that best fits for the required quantity.
+E
+Since the source charge is positive in sign, the field is directed away from Q.
+Exercise 6.4:
+What electric force does the electric field found in the above example 6.4. would
+exert on a point charge of -0.25 µC?
+Electric field for multiple point charges
+The electric field from multiple point charges can be obtained by taking the vector
+sum of the electric fields of the individual charges. Consider n number of charges
+whose electric fields have magnitudes of E₁ E₂ at a given point. The net
+electric field is found by taking the vector sum of each electric field:
+Note that the direction of E₁ is the direction of the force q₁ exerted on the positive
+test charge placed at that point, and the direction of E₂ is the direction of the force
+q₂ exerted on the positive test charge placed at that point, and so on.
+228
+Grade 11
+Example 6.5
+Two-point charges q₁ = 5nC and q₂ = -4nC are separated by a distance of 10 cm.
+What is the magnitude of the electric field in between the charges?
+Solution:
+q₂ = - 4nC
+The magnitude of the electric field at point P due to q₁ is:
+Since q₁ is positive it exerts a repulsive force to the right on the positive test charge
+placed at point P.
+Thus,
+Similarly, the magnitude of the electric field at point P due to q₂is:
+Since q₂ is negatively charged it exerts an attractive force to the right on the positive
+test charge placed at point P.
+Thus, E₂ =1.44x10⁺N/mᵢ
+Finally,
+Exercise 6.5:
+Repeat example 6.5, if (a) both q₁ and q₂ are positively charged, and (b) they are
+both negatively charged.
+Electric flux
+One of the properties of electric field lines is that, the number of field lines crossing
+a unit area, placed normal to the field at a point, is a measure of the strength of
+electric field at that point. This means that the number of field lines per unit area, is
+proportional to the magnitude of the electric field, or E ~ N/A. We can rewrite this
+proportion as the number of field lines is proportional to the product of E and A, N
+~ EA.
+229
+Physics
+I
+Student Text Book
+We can now define electric flux. Electric flux is a measure of the number of electric
+field lines that crosses a given area. The product of the electric field and the surface
+area, A, perpendicular to the field is called the electric flux and represented by the
+symbol Φ.
+Φ = EA
+If the surface under consideration is not perpendicular to the field, as in Figure 6.9
+(b), the expression for the electric flux became,
+Φ = EAcosΘ
+E cosΘ is the projection of area normal to E. In a vector form, the above equation can
+be written as the dot product of the electric field vector and area vector.
+Φ=E.A
+The area vector of a flat surface of area A has the following magnitude and direction:
+Magnitude is equal to area of the surface (A)
+Direction along normal or perpendicular to the surface.
+This means, if the electric field vectors are tangent to the surface at all points, that
+is if they don't penetrate the surface, the electric flux through the surface is zero.
+Electric flux Φ is a scalar quantity, whose SI unit is N.m2/C.
+Area = A
+A
+ar-
+Θ
+E
+Electric
+field
+Figure 6.9: Field lines of a uniform electric field penetrating a plane of area A perpendic-
+ular to the field. The electric flux Φ through this area is equal to EA.
+Example 6.6:
+A 2cm X 2cm square lies in the xy-plane. Find the electric flux through the square
+for the electric field vectors, E = (50k + N /
+Solution:
+In this case direction of the area vector, which is perpendicular to the surface, is
+in the z-axis. Because the square lies in the xy-plane.
+230
+Grade 11
+A=(2cmx2cm)k=4cm²k,
+Φ = A = À = 4x /
+= 4 X 10⁻⁴ X 50 + / = 0.02N. / C
+Exercise 6.6:
+Find the electric flux through the surface with sides of 15cmx 15cm positioned in
+a uniform electric field of E = 150N/C as shown in the figure below.
+n
+E
+30°
+Review Questions 6.2
+1. Define the following terms, (a)electric field, (b) electric field strength, (c)
+electric field lines, and (f) electric flux.
+2. Map electric field lines for different arrangement of charges.
+3. Compare and contrast the following gravitational quantities with their
+counterpart electrical quantities:
+A. gravitational field and electric field.
+B. Gravitational field strength and electric field strength.
+4. For the following figures find the possible region where the electric field could
+be zero.
+I
+II
+III
+I
+II
+A.
+P
+P
+B.
+P
+5. How field lines indicate the magnitude of the field they represent?
+6. What is the net electric field strength at point P in the system shown below.
+2.0 m
+1.0 m
+1.0 µC
+-3.0 µC
+P
+231
+Physics
+Student Text Book
+7. A particle of charge 2 X 10-8C experiences an upward force of magnitude 4 X
+10-6 N when it is placed in a particular point in an electric field. (a) What is
+the electric field at that point? (b) If a charge q = -1.0 X 10-8 C is placed there,
+what is the force on it?
+6.3 Electric Potential
+By the end of this section, you will be able to:
+Define the terms electric potential, equipotential surface.
+Solve problems involving electric potential.
+Explain the meaning of a volt, potential difference, and emf.
+?
+Brainstorming Questions
+U
+Discuss the concepts and recall the equations of (a) gravitational potential,
+and (b) gravitational potential energy.
+U
+What is the relationship between the following pair of quantities?
+a. electric potential and electrical potential energy?
+b. electrical potential energy, and electric work?
+C. Electric potential and potential difference?
+d. Potential difference and electric field?
+e. Electrical potential and gravitational potential?
+Electric Potential Energy
+The concept of electric potential energy is similar to that of gravitational potential
+energy. In raising a ball with mass m to any height, you are giving it gravitational
+potential energy. Electric potential energy is similar but with charges instead of
+masses. Instead of raising a ball in the gravitational field of the Earth, you move a
+charge in the electric field of another charge.
+In order to move one positive charge closer to another positive charge, (charge q
+closer to charge Q in Figure 6.10) work has to be done by an external agent. This is
+simply because there is a force of repulsion between the charges. In the process of
+doing work, energy is transferred from you to the charge that you are pushing. As a
+result, the charges gain electrical potential energy.
+We define electrical potential energy of a test charge q in terms of the work done on
+the charge q. Work done by external force in bringing a unit positive charge from
+232
+Grade 11
+point A to B, in Figure 6.10 is the electrical potential energy of q.
+W
+If we take point A to be at infinity, i.e., rA ≈ inf inity
+W = k r
+A
+B
+q
+Q
+Figure 6.10: Work must be done to push one positive charge towards another.
+Thus, the potential energy of a test
+U = ?
+charge 'q' in the vicinity of a source
+r
+q
+charge 'Q' will be:
+U=k9Q U
+Q
+Figure 6.11: Electric potential energy
+Electric Potential
+Electric potential is another concept which helps us to visualize the behavior of
+electric fields. In unit 4, gravitational potential is defined from the idea of potential
+energy. The potential at a point is the potential energy of unit mass at that point.
+We will approach the idea of electrical potential in the same way. Electric potential
+(denoted by V) is equal to the work done per positive charge in carrying it from
+infinity to that point in an electric field. The work to be done is equal to the change
+in the potential energy of the test charge in the field of the source charge.
+The potential due to a single point charge
+In electrostatics the zero of potential is at infinity, at a larger distance from the source
+charge, because the electric field and force approach zero there. In the same way as
+we consider gravitational potential energy at the ground to be zero, electric potential
+233
+Physics I Student Text Book
+is defined as the work done per unit positive charge to move a positive test charge
+from infinity to its current position within an electric field.
+Mathematically:
+Q
+k
+W
+r
+Q
+V =
+=
+k
+q
+r
+V=?
+r
+Thus, the equation for electric potential at a distance r
++
+from a source charge Q is given by:
+Q
+Figure 6.12: Electric Po-
+tential
+V = k Q r
+Electrical potential is a scalar quantity. Its SI unit is Volt (V) in the honor of
+Alessandro Volta. 1V=1C 1V 1C
+Electrical Potential Difference
+Consider a positive test charge +q placed at
+A in the electric field of a source charge Q.
+The test charge moves towards B under the
+influence of the electric field of the source
+B
++Q
+charge. In the process the test charge loses
++q
+electrical potential energy and gains kinetic
+energy. Thus, at A, the test charge has more
+potential energy than at B, A is said to have a
+higher electrical potential than B.
+Figure 6.13: Potential Difference
+The potential difference between two points (A and B in this case) in an electric field
+is defined as the work required to move a unit positive test charge from the point of
+lower potential to that of higher potential.
+If an amount of work W is required to move a charge Q from one point to another,
+then the potential difference between the two points is given by,
+AV=W W
+234
+Grade 11
+?
+Activity 6.5:
+A difference in height is needed for water
+to flow, see the figure below. What is then
+needed for current to flow? Discuss in pairs.
+Figure 6.14: Gravitational potential
+difference
+Example 6.7
+Determine the electric potential produced by a charge of 1µC at a distance of
+1mm from it.
+Solution = kq Nm² / X X 10⁻⁶ C
+r
+1x10⁻³m
+=9x10°J/C =9x10°V X
+= 9MV
+Potential difference in a uniform electric field
++
+Figure 6.15, below shows a uniform
++
++
+electric field produced between two
++
+Ed
++
+equally and oppositely charged parallel
++
+plates.
++
++
+V
+Figure 6.15: Potential difference in a
+uniform electric field
+To measure the potential difference between two points in the field, we equate the
+work done in moving a charge from one point to the other with the gain in electrical
+potential energy.
+W = ДРЕ
+Fd = qV
+qEd = qV
+V = Ed
+235
+Physics I Student Text Book
+Thus, the electrical potential difference between the two plates is expressed as, the
+electric field strength times the distance between the plates.
+From the previous section, we already know the units for electric field is newtons
+per coulomb. We now got the unit of electric field to be volt per meter. Thus, the
+following relation among units is valid:
+1N/C = 1V / m
+Potential due to a system of point charges
+Consider a system of charges q₁,,,, ..., qₙ with position vectors r₁, r₂, rₙ relative
+to some origin (Figure 6.16). The potential at P due to the charge q₁ is V₁=kₙ.
+Similarly, the potential at P due to q₂ is and the potential at P due to q₃
+are given by
+where r₁ is the distance between q₁ and point P, r₂ is the distance between q₂ and
+point P, and so on. By the superposition principle, the potential V at P due to the
+total charge configuration is the algebraic sum of the potentials due to the individual
+charges.
+The total potential at P is:
+q3
+q4
+q1
+q2
+q5
+p
+Figure 6.16: Potential of multiple charges
+(for n po ch arg es)
+Note that the sum in this equation is an algebraic sum. It is not a vector sum. It means
+the signs of the charges are used in calculating the potential. As a result, the potential
+of a positive charge is positive and the potential of a negative charge is negative.
+236
+Grade 11
+Example 6.8
+Two charged particles are placed on the x-axis of a coordinate system. The first (
+q₁ = 2µC) is at the origin. The second (q₂ = -5µC) is at x = 1.0m. Determine the
+potential at x = 0.2 m.
+Solution:
+V
+V = k
+1
+V = 3.375x10⁴V
+Exercise 6.7:
+Referring to example 6.8, (a) determine the potential at x = 1.5m. (b) At what
+point in between these two charges the electric potential is zero?
+Example 6.9
+Calculate the change in electrical potential energy in moving a from 5 cm to 0.1
+cm from a charged sphere with a charge of.
+Solution:
+X
+W = 7.2x10⁻¹ = 72mJ
+Equipotential line or surface
+We can represent electric potentials (voltages) pictorially, just as we drew pictures to
+illustrate electric fields. Equipotential lines are lines connecting points of the same
+electric potential. When these points lie on a two- or three-dimensional surface,
+such as the surface of a metallic sphere, they are called equipotential surfaces. If a
+charge moves along the equipotential line then, there is no change in its potential
+and hence, no electrical work is done.
+237
+Physics I Student Text Book
+Characteristics of equipotential lines/surfaces:
+1. Two equipotential surfaces never intersect each other.
+2. The equipotential lines of a uniform field are parallel to each other and the equipotential
+lines of a point charge are concentric sphere (see Figure 6.17)
++
+Figure 6.17: Equipotential lines of (a) a uniform field, (b) a point charge.
+3. Since the electric field (E) is stronger near the charge, so equipotential surfaces of
+point charge are crowded near the charge as shown in the Figure 6.17.
+4. No work is required to move a charge along an equipotential line because there is no
+change in potential.
+5. Equipotential lines are always perpendicular to the electric field lines.
+W=F.S=Fscos0=qEscos0
+Since the work done is zero,
+qEscos)=0
+Key term
+Equipotential lines are lines connecting points of the same potential
+238
+Grade 11
+Review Questions 6.3
+1. Write the definition of the following terms in your own words. (a) electric
+potential, (b) potential difference, (c) volt, and (d) equipotential line/surface.
+2. Write two units of electric field strength.
+3. If the potential is constant in a certain region, what is the nature of the electric
+field at that region?
+4. What would happen to its electrical potential energy (a) when an electron
+is released in a uniform electric field, and (b) when a proton is released in a
+uniform electric field?
+5. How are electric field lines and equipotential lines drawn relative to each
+other?
+6. What is the strength of the electric field between two parallel conducting plates
+separated by 1.0 cm and having a potential difference between them of 1.5V?
+7. Two-point charges are located on the corners of a rectangle with a height oh
+0.05 m and a width of 0.15 m. The first charge (q₁ =- 5µC) is located at the
+upper left-hand corner, while the second charge ( q2 =+ 2µC) is at the lower
+right-hand corner. (a) Determine the electric potential at the upper right-hand
+corner of the rectangle. (b) What is the potential difference for a point at the
+right-hand corner of the rectangle relative to the lower left-hand corner?
+8. Two charges 3 X 10⁻⁸ C and -2 X 10⁻⁸ C are located 15 cm apart. At what point
+on the line joining the two charges is the electric potential zero? Take the
+potential at infinity to be zero.
+9. What are the signs and magnitudes of a point charge that produces a potential
+of -2.0 V at a distance of 1.0 mm?
+10. Two point charges 10pC and -2pC are separated by a distance of 1.0 Find
+the potential mid-way between them.
+239
+Physics
+Student Text Book
+6.4 Electric Current, Resistance and ohm's law
+By the end of this section, you will be able to:
+define the terms electric current, current density, resistance, conductivity,
+resistivity and drift velocity.
+explain the effect on the current (brightness) and potential difference of
+connecting light bulbs in series.
+explain the effect on the current (brightness) and potential difference of
+connecting light bulbs in parallel.
+draw electric circuits consisting of three resistors connected in series and
+parallel.
+determine equivalent resistance of resistors connected in series and parallel.
+describe the principles of potentiometer and wheatstone bridge.
+describe how to convert galvanometer to a voltmeter and ammeter.
+explain the meaning of an ohm, resistance.
+explain the si units of electric current, current density, resistance, resistivity,
+conductivity.
+state and apply Kirchhoff's laws.
+solve problems involving network of resistors.
+?
+Brainstorming
+U
+Write down what you understand, from previous grades, by the terms current,
+potential difference, emf and resistance.
+U
+Set up a simple circuit to measure the current in a lamp and the potential
+difference across it? Sketch the circuit and swap it with a classmate to check.
+U
+What drives the current in a conductor?
+U
+How the flow of electrons are produced through a conductor?
+U
+Why does current flows through a conductor but not through an insulator?
+Electric Current, Resistance and Ohm's law
+Electric current
+Electric current is a flow of charge. In metals, current is due to a flow of electrons.
+When a voltage source is connected to a conductor, it applies a potential difference
+V that creates an electric field. The electric field in turn exerts force on the free or
+conduction charges of the conductor, causing current. Even though it is electrons'
+motion that produces current, for historic reason, what we call electric current is the
+conventional flow of protons. Hence, it flows from the '+' terminal of a battery or
+power supply through the circuit to the '_' terminal.
+240
+Grade 11
+Electric current is defined as the rate of flow of charges through some cross-sectional
+area. if is the net charge that flows through a cross-sectional area A in time (t),then
+the current I is given by the equation:
+I=At =
+The SI unit of electric current is ampere, denoted by A. One ampere is a flow of
+one coulomb (1 C) of charge in 1 S. Small currents are measured in milliampere
+(mA), and microampere (µA). 1mA = 10⁻³A and A=10⁻⁶.
+?
+Activity 6.6:
+Discuss in group what is needed to store water in a tanker and distributed to the
+needy. Compare it with how current is distributed to resistors using the source of
+voltage, see the Figure below.
+Electric Circuit
+Battery
++
+electron flow!
+Figure 6.18: Analogy of water current (a) and electric current (b)
+Electric current and current density
+Current density is a quantity which is used to describe the density of an electric
+current. It is denoted by the symbol J, and defined as the magnitude of the electric
+current per cross-sectional area.
+J = A I
+The SI unit of current density is amperes per square meter. Current density is a
+vector quantity, which means it has both magnitude and direction.
+Current density is also assumed to be proportional to the electric field, (E), that
+produces it, and the conductivity (σ) of the conductor through which it flows. The
+conductivity of a conductor is a measure of its ability to conduct electricity, whereas
+resistivity is the reverse of conductivity. With this, the relationship between electric
+field E and the current density J became:
+241
+Physics | Student Text Book
+J=0E=E
+Where σ = conductivity of the conductor, and p resistivity. The SI unit of Pis Ohm-
+meter (Ω.m), where 1 Ω.m = 1 V/A, and the SI unit of p is Siemens per meter (S/m),
+or Ω-¹.
+Example 6.10
+A current of 6 mA, flows through a copper wire of correctional are 12 mm². What
+is the current density?
+Solution:
+X
+Exercise 6.9
+Since current density is a vector quantity it has both magnitude and direction.
+What is then its direction?
+Drift velocity
+A conductor contains a large number of loosely bound electrons which we call free
+electrons or conduction electrons. The remaining material of which the conductor
+is made keep on vibrating about their mean positions. The average amplitude of
+vibration depends on the temperature. While the free electrons are moving through
+the conductor, they collide with these materials/ions. As a result, the speed and
+direction of the electron changes randomly at each such collision, causing the
+electron to move in a zig-zag path as shown in the Figure 6.19, below.
+Figure 6.19: Motion of electrons through a conductor
+The potential difference provided by the source creates an electric field inside the
+conductor. This field exerts a force on each electron in the direction opposite to the
+field. In every collision the electrons lose their kinetic energy and start to drift. The
+242
+Grade 11
+average velocity by which the free electrons move through a conductor is called their
+drift velocity.
+Conductor
+Free electron
+Current flow
+Electron flow
+-
+I
+-
++
+Figure 6.20: When a conductor is not connected to source, the free electrons will make a
+random motion (a), but when a pd is applied they will make a directional motion (b).
+In a time interval t, an electron moves a distance d=vAt along the wire. If the
+number of electrons per unit volume of wire is n then the number of electrons in the
+shaded cylinder of Figure 6.15 is nAvAt. Therefore, the total charge on this volume
+of electrons is nAvAte, where e is the charge of one electron.
+A
+d
+V
+Figure 6.21:
+The current in the circuit will then be:
+I = At Q = nAve.
+J = A I = nvde
+243
+Physics
+|
+Student Text Book
+Exercise 6.9
+1.
+Calculate the mean drift velocity of the electrons in a copper wire of cross-
+sectional area 5.0x10⁻⁶m² carrying a current of 1.0 A. There are 8.5 x10-6m²
+free electrons in one m³ of copper.
+2.
+What are the directions of the following quantities in an electric circuit? (a)
+electrons, (b) electric current, (c) current density, (d) electric field, and (d)
+drift velocity.
+?
+Activity 6.7:
+The drift speed of electros in a copper wire is very slow, a fraction of a millimeter
+per second, but as a generator is switched on in a power plant, far away from our
+house, a bulb gives off light almost instantly. How could this happen? Discuss in
+group and present your group's opinion to the class.
+Resistance and Ohm's Law
+Resistance
+An electric wire is made of metal. Inside a metal, there are negatively charged
+electrons that are free to move about. We call these conduction or free electrons,
+because they are the particles that allow a metal to conduct an electric current. The
+atoms of a metal bind tightly together; they usually form a regular array, as shown
+in Figure 6.21. In a typical metal, such as copper or silver, one or more electrons
+from each atom breaks free to become conduction electrons. Since there are equal
+numbers of free electrons (negative) and ions (positive), the metal has no overall
+charge - it is neutral.
+When electrons are moving through a conductor, they collide with each other and
+with the fixed positive ions of the material. This electric property that impedes
+current is called resistance. Resistance is therefore defined as a measure of the
+opposition to current flow in an electrical circuit.
+ions
+electrons
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+Figure 6.22: In a metal, conduction electrons are free to move among the fixed positive ions.
+244
+Grade 11
+Ohm's Law
+The German physicist Georg Simon Ohm (1787-1854) demonstrate experimentally
+that the current in a metal wire is directly proportional to the potential difference
+between its ends, provided that physical conditions, such as temperature, remain
+constant. This means that, for a metal at constant temperature, the graph of I against
+V will be a straight line through the origin.
+V
+<
+Figure 6.23: Current vs. voltage for an ohmic and non-ohmic conductors
+Whenever one quantity is proportional to another quantity, there must always be
+some constant that relates the two quantities. In this case the constant that relates
+voltage and current according to Ohm's law, is the resistance, R. Thus, for a conductor
+(resistor) which passes current I when the pd across it is V, its resistance R is given
+by the equation
+R = V
+The SI unit of resistance is Ohm denoted by'Ω, a Greek letter read as Omega.
+1Q = 1V / A.
+Large resistances are measured in Kilo Ohm (KΩ) and Mega ohm (MΩ).
+1KΩ=103Ω Ω and 1MΩ=106Ω.
+Note that this equation is valid for wires and resistors at constant temperature, which
+are called ohmic. For non ohmic conductors, such as a filament lamp, the current is
+not directly proportional to the potential difference. Filaments are materials used in
+lamps that are composed of metals that glow when a certain amount of current flows
+through them. The resistance of a filament depends on its temperature. A filament
+bulb gives a curve with a decreasing gradient because its resistance increases with
+temperature, Figure 6.23 (b).
+245
+Physics
+I
+Student Text Book
+Example 6.11
+What is the resistance of an automobile headlight through which 2.50 A flows
+when 12.0 V is applied to it?
+Solution
+Rearranging Ohm's law for R and substituting known values gives
+2.5A 12V 4.8Ω.
+Exercise 6.10
+The current through a component is 2.0 mA when connected to a source which
+provides 12 V. Assuming its resistance is unchanged, what pd is required across the
+component when the current is 2.0µA?
+?
+Activity 6.8:
+1. The potential difference (PD) across a resistor means that there is a change in
+potential across the resistor. Is there any change in current as it passes through
+a resistor? Explain
+2. How is the potential difference (PD) drop in a resistor similar to the pressure
+differencein a fluid flowing through a pipe.
+Resistors
+An object of conducting material, having a resistance of desired value, is called a
+resistor. In an electric circuit, a resistor is represented by symbol shown in Figure
+6.24.
+or
+or
+Figure 6.24: Symbol of (a) resistor and (b) variable resistor
+Combination of Resistors
+Usually, we find circuits where more than two components are connected together.
+There are two basic ways in which to connect more than two resistors. They are
+series and parallel.
+246
+Grade 11
+Resistors in Series.
+In series connection components are connected end-to-end in a line to form a single
+path for electrons to flow. The defining characteristic of a series circuit is that there
+is only one path for electrons to flow.
+R₁
+R2
+R3
+V₁
+V₂
+V₃
+V
+Figure 6.25: Three resistors (R₁, R₂, and R₃), connected in series.
+In series circuit the amount of current is the same through any component in the
+circuit.
+I=I₁=I₂=I₃...
+Using Ohm's law (V = IR), the potential difference across each resistor is given
+by:
+The potential difference V across all three resistors is given by
+The total resistance R of the three resistors is then given by
+R=R₁+R₂+R₃
+Resistors in parallel
+Figure 6.26 below shows a circuit
+R1
+containing three resistors of resistances
+R₁, R₂, and R₃ connected in parallel. In
+i1
+P
+N
+parallel connection, there are more than
+12
+R₂
+one path for electrons to flow. The defining
+characteristic of a parallel circuit is that all
+i₃
+i
+R3
+components are connected between the
+same set of electrically common points
+(P and N). In a purely parallel circuit, the
+IV
+potential difference across any resistor is
+the same,
+Figure 6:26 Resister connected in parallel
+V=V₁=V₂=V₃.
+247
+Physics | Student Text Book
+To find the equivalent resistance of the combination, let us apply a potential difference
+V between the points P and N. The current 'I' is divided at the junction P. Suppose a
+current I₁ goes through R₁, I₂ through R₂ and I₃ through R₃. These combine at N to
+give a total current. Therefore, I=I₁+I₂+I₃.
+So,
+V = V₁ + V₂ + V
+R R₁ R₂ R₃
+Since the pd across each resistor is the same, V = V₁ = V₂ = V₃. This gives
+-=-+-+- V V V V
+R R₁ R₂ R₃
+V cancels throughout to give
+-=-+-+- R 1111 R₁ R₂ R₃
+For only two resistors connected in parallel, the equivalent resistance can be
+determined by the equation.
+?
+Activity 6.9:
+Discuss in group and give a mathematical reason for the following fact.
+1. For resistors connected in series, the total resistance is larger than the resistance
+of the resistor with the largest resistance, but for resistors connected in parallel,
+the total resistance is smaller than the resistance of the resistor with the smallest
+resistance.
+Example 6.12
+For the circuit shown in the figure below, determine (a) the equivalent resistance
+of the circuit, (b), the current through each resistor, and the potential difference
+across each resistor.
+248
+Grade 11
+R1=5n
+R₂=
+=
+R3=
+=
+24V
+4A
+12 A
+R4=8n
+We start by combining resistors R₂ and R₃ in parallel.
+Then, all the three are connected in series, Therefore,
+Ω
+The current from the battery can then be determined by using Ohm's law.
+24V 16Ω =1.5A
+Since R₁, R₂₃ and R₄ are in series with the source, they will have the current of
+the source. Thus,
+Using Ohm's law:
+V₂₃ = I₂³R₂₃ = 1.5 Ax3Q= 4.5V
+I₂ = V₂₃ R2 = 4.0Ω 4.5V = 1.125 A and I₃ = V₂₃ R₃ = 4.5V 12Ω = 0.375 A
+249
+Physics
+I
+Student Text Book
+Exercise 6.11
+1. For the circuit shown below, list resistors that are connected (a) in series, and (b)
+in parallel.
+R₂
+R3
+R₁
+R₄
+2. What is the equivalent resistance of the circuit shown in the figure? (b) What
+current flows through the 5Ω resistor?
+5.5 Ω
+10:52
+159
+24 V
+52
+200
+10Ω
+?
+Activity 6.10:
+Use the links below to perform virtual experiment on DC Circuits. You may
+need your teacher's guidance on how to use it.
+https://phet.colorado.edu/en/simulations/circuit-construction-kit-dc
+http://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/
+latest/circuit-construction-kit-dc-virtual-lab_en.html
+Title: Verification of the laws of combination of resistance
+250
+Grade 11
+Objectives:
+1. To study the characteristics of resistances connected in series.
+A. Compare the measured value with the calculated value or resistors connected
+in series.
+B. Verify that the same current flows through all resistors that are connected in
+series.
+C. Verify that voltage is added for resistors connected in series.
+2. To study the characteristics resistances connected in parallel.
+A. Compare the measured value with the calculated value for resistors connected
+in parallel.
+B. Verify that the same potential difference is found is across resistors that are
+connected in parallel.
+C. Verify that current is added for resistors connected in parallel.
+Theory:
+Materials Required:
+Digital multimeters (2)
+DC power supplies, 0-15 V (2)
+Resistors and connecting wires (3)
+Circuit board (1)
+Procedure:
+Series Circuit
+I. Record the resistances of three resistors (R₁, R₂ and R₃) determined by mea-
+surement
+II. Construct a series circuit with these resistors.
+III. Measure the equivalent resistance Rₑq' of the circuit by connecting the termi-
+nals of the multimeter across the beginning of R₁ and end of R3. Then compare
+your measured value with that determined by the equation: R eq = R₁ + R₂ + R₃
+Connect power supply. Using the multimeter measure the potential differences
+across all the resistances and the current flowing in the circuit. Then apply ohms
+law (R= V/I). Finally, compare your result with what you have found in number
+iv.
+251
+Physics I Student Text Book
+V. Measure the potential differences across each of the resistors. Add the poten-
+tial differences. Do they add up to the voltage across the power supply?
+Calculation: In Series circuit
+I. Experimental value of Req =
+ohm
+II. Theoretical value of Req =
+ohm
+III. Difference (if any) =
+ohm
+Note the following.
+Have your lab instructor approve the circuit before plugging in the
+power
+supply.
+Whenever you use the multimeter, do not forget to adjust the scale of
+the multimeter to the quantity being measured.
+Parallel Circuit
+I. Connect the above three resistors in parallel with each other on the circuit
+board. Have your instructor check the circuit before plugging in the power
+supply. After approval, plug in the power supply.
+II. Record this voltage. Now measure the potential difference across the resistor
+R1 and record this voltage. Do the same for the R2 and the R3 resistors. Are
+the values the same?
+III. Measure current vs. potential as before. Graph current vs. voltage on the
+same plot as the series graph and determine the total equivalent resistance of
+the circuit.
+IV.Disconnect the power supply from the circuit and measure the total resistance
+of the circuit with the multimeter as before.
+Calculations in parallel circuit
+(a) Experimental value of R eq =
+ohm
+(b) Theoretical value of R eq =
+ohm
+(c) Difference (if any) =
+ohm.
+252
+Grade 11
+Measuring Instruments
+Measurement of Current
+An ammeter is a device used to measure current flowing in a circuit. To measure the
+current flow in a circuit the ammeter must be connected in series with the resistor, so
+that the same current passes through both the resistor and the ammeter. The internal
+resistance of an ammeter should be as small as possible, so that little energy is dissipated
+in it.
+A
++
+Ammeter
+Ipc
++
+CIGITAL
+VOLT&
+AMVETER
+Source
+Load
+****
+Figure 6.27: Ammeters and How to connect them.
+Exercise 6.12:
+In the circuit, shown below, an ammeter has a resistance of 0.5Ω. Determine
+the current in the circuit, (a) before an ammeter is introduced, and (b) after it is
+introduced. (c) Based on your result of question (b), discuss the effect of inserting
+the ammeter.
+6.0V
+4.052
+Figure 6.38: Investigating the effect of ammeters
+Measurement of Voltage
+Voltmeter is a device used to measure the potential difference between two points in
+the circuit. For this reason, they are connected in parallel. It could be voltage across
+the terminal of a battery or across a resistor or any other circuit element. Voltmeters
+253
+Physics
+Student Text Book
+should have a very high resistance to take as little current as possible. The ideal
+resistance of a voltmeter would be infinite.
+Digital Voltmeter
+Voltmeter
++
+Line.10
+220
+ε
+R
+V
+Line.20
+V,
+AC 50-400V
+AH-076
+Figure 6.29: Voltage measuring devices
+Exercise 6.13
+A voltmeter shown in the figure below which can measure up to 6V has a
+resistance of 50 k Ω. Determine the pd across the 20 k Ω in the circuit, (a) when
+the voltmeter is not in place, and (b) when the voltmeter is in place. (c) Based on
+your result of question (b), discuss the effect of inserting a voltmeter.
+6.0V
+E
+kΩ
+20 kS2
+Figure 6.30: Investigating the effect of a voltmeter
+Conversion of galvanometer to ammeter and voltmeter
+A galvanometer is an instrument used for measuring small electric current in electric
+circuit. It works by deflecting a pointer in response to an electric current flowing
+through a coil in a constant magnetic field. A galvanometer has a coil pivoted (or
+suspended) in a magnetic field. When an electric current passes through the coil, it
+deflects. The deflection is proportional to the current passed.
+There are different types of galvanometers. The most common type, shown in
+Figure 6.31, is the moving coil galvanometer in which it consists of a light coil of
+wire suspended from a metallic ribbon between the poles of a permanent magnet.
+254
+Grade 11
+Scale
+Pointer
+N
+S
+Permanent
+Soft
+Current
+Magnet
+Iron Core
+Carrying Coil
+Figure 6.31: The moving-coil galvanometer
+converting a galvanometer into an ammeter?
+Since a galvanometer is a very sensitive instrument it can't measure heavy currents.
+In order to convert a galvanometer into an ammeter, a very low resistance known as
+"shunt" resistance is connected in parallel to it, as shown in Figure 6.32. The shunt
+allows most of the current passes through it and the remaining small current through
+the galvanometer.
+RG
+I
+RG
+G
+G
+I g
+Galvanometer
+Ish
+Rsh
+Ammeter
+Figure 6.32: Converting galvanometer to an ammeter
+Let R₈ be the resistance of the galvanometer and I₈ be the current for full scale
+deflection in the galvanometer. The value of the shunt resistance required to convert
+the galvanometer into an ammeter is,
+V₈ = Vₛₕ
+Rₛₕ = 1
+255
+Physics I Student Text Book
+Example 6.14
+A galvanometer of full-scale deflection 5 mA is to be converted into a 10 A
+ammeter. If its coil has a resistance of 50 Ω, what value shunt must be fitted?
+Solution:
+Rₛₕ (1
+Converting a galvanometer into voltmeter
+A galvanometer can be converted
+I₈
+RM
+Rg
+into voltmeter by connecting
+G
+with it with a very high resistance
+called multiplier in series with it
+as shown in Figure 6.33.
+V
+Figure 6.33: Converting a galvanometer into voltmeter
+Let R₈ be the resistance of a galvanometer and Rₘ the resistance of the multiplier
+connected in series with it. Let V volt be the potential difference to be measured by
+the voltmeter and I₈, be the current. Potential difference across the two resistors
+in the circuit is the sum of potential difference across galvanometer and potential
+difference across the multiplier.
+This is the required value of multiplier resistance which must be connected in series
+to the galvanometer to convert it into a voltmeter.
+256
+Grade 11
+Example 6.14
+A galvanometer has a resistance of 40 Ω and is of 3 mA full scale
+deflection.
+How would you modify it to a 0 - 10 V voltmeter.
+Solution:
+Rₛₕ = V R₈ = 5 X 10 10⁻³ 40
+g
+Rₛₕ = 1960 Ω
+Exercise 6.14
+Explain how you will convert a galvanometer into (a) an ammeter, and (b) a
+voltmeter.
+The Potential divider
+A potential divider consists of two or more
+resistors in series with each other and
+R1
+with a source of fixed potential difference.
+The potential difference of the source is VIN
++
+divided between the components in the
+R2
+circuit, as they are in series with each
+Vour
+other, Figure 6.34.
+Figure 6.34: Potential divider circuit
+For the potential divider circuit in Figure 6.34
+The total resistance of the combination is: Rπ = R₁ +R₂
+The current through the resistors is: I = Rπ V = R₁ V + R₂
+The potential drop across resistor R₁: V₁ = IR₁ = R₁ R₁ + R₂ V
+The potential drop across resistor R2 : V₂ = IR₂ = R₁ R₂ + R₂ V
+257
+Physics
+Student Text Book
+Potentiometer
+A potentiometer is a three-terminal resistor with a sliding or rotating contact that
+forms an adjustable voltage divider. It works by varying the position of a sliding
+contact across a uniform resistance wire. In a potentiometer, the entire input voltage
+is applied across the whole length of the resistor, and the output voltage is the
+voltage drop between the fixed and sliding contact as shown in Figure 6.35. Thus, a
+potentiometer is essentially a type of potential divider circuit.
+Object, whose linear
+displacement is to be measured
+Slider/Wiper
+Mandrel
+Resistance wire
++
+eᵢ
+Figure 6.35: Potentiometer
+The Potentiometer can also be used for the following purposes.
+to measure the emf of a given cell,
+to measure the internal resistance of a cell,
+to compare the emf of different cells, and
+as a variable resistor.
+Figure 6.36 shows the two symbols of a potentiometer in an electric circuit.
+or
+Figure 6.36: Symbols of a potentimeter
+Potentiometer to measure the emf of a cell
+A potentiometer consists of a piece of resistance wire, usually 1 m in length, stretched
+horizontally between two points. In Figure 6.37, the ends of the wire are labelled A
+and B. A driver cell is connected across the length of wire. Suppose this cell has an
+emf of 2.0V. We can then say that point A is at a voltage of 2.0V, B is at OV and the
+258
+Grade 11
+midpoint of the wire is at 1.0 V. In other words, the voltage decreases steadily along
+the length of the wire.
+cell
+Y
+jockey
+5,
+Figure 6:37 A potentiometer connected measure the e.m.f. of cell X,
+Now, suppose we wish to measure the emf. Eₓ of cell X (this must have a value less
+than that of the driver cell). The positive terminal of cell X is connected to point A.
+(Note that both cells have their positive terminals connected to A.) A lead from the
+negative terminal is connected to a sensitive galvanometer, and a lead from the other
+terminal of the galvanometer ends with a metal jockey. This is a simple connecting
+device with a very sharp edge that allows very precise positioning on the wire.
+If the jockey is touched onto the wire close to point A, the galvanometer needle will
+deflect in one direction. If the jockey is touched close to B, the galvanometer needle
+will deflect in the opposite direction.
+Clearly, there must be some point Y along the wire that, when touched by the jockey,
+gives zero deflection. In finding this position, the jockey must be touched gently
+and briefly onto the wire; the deflection of the galvanometer shows whether the
+jockey is too far to the left or right. It is important not to slide the jockey along the
+potentiometer wire as this may scrape its surface, making it non-uniform so that the
+voltage does not vary uniformly along its length.
+When the jockey is positioned at Y, the galvanometer gives zero deflection, showing
+that there is no current through it. This can only happen if the potential difference
+across the length of wire AY is equal to the emf. of cell X. We can say that the
+potentiometer is balanced. If the balance point was exactly halfway along the wire, we
+would be able to say that the emf. of X was half that of the driver cell. This technique
+- finding a point where there is a reading of zero - is known as a null method.
+259
+Physics
+I
+Student Text Book
+To calculate the unknown emf. Eₓ we measure the length AY. Then we have:
+where E₀ is the emf. of the driver cell.
+Potentiometer to compare the emf of two cells
+Suppose we have two cells whose emfs
+Eₓ and Eₓ we want to compare. Each is
+connected in turn to the potentiometer,
+C
+giving balance points at C and D, see
+A
+e
+Figure 6.38. (In the diagram, you can
+t
+see immediately that Eₓ must be greater
+than Eₓ because D is further to the
+1
+right than C.)
+Figure 6.38: Comparing two emfs using a potentiometer.
+The ratio of the emfs of the two cells will be equal to the ratio of the two lengths AC
+and AD:
+Eₓ Eₓ = AD AC
+If one of the cells used has an accurately known emf, the other can be calculated with
+the same degree of accuracy.
+Measurement of Resistance
+Resistance can be measured directly by using ohmmeter. Experimentally resistance
+is measured using the following two methods.
+1. The ammeter-voltmeter method.
+In this method the current is measured using an ammeter and the voltage using
+the voltmeter, see Figure 6.39. Then, using Ohm's law (R=V), resistance will
+be determined. The variable resistor is used to adjust the current and voltage as
+necessary.
+260
+Grade 11
+Source
+Variable
+resistor
+Resistor
+A
+V
+Figure 6.39: Circuit to measure resistance
+2. Using Wheatstone bridge
+Another more precise method of measuring resistance is using a Wheatstone bridge.
+A Wheatstone bridge is an arrangement of four resistances which can be used to
+measure one of them in terms of the rest. The arrangement is shown in Figure 6.40.
+C
+i₁
+R1
+i₁
+i
+R₂
+A
+G
+B
+i₂
+R3
+D
+i₂
+R4
+Figure 6.40: A Wheatstone bridge
+Four resistors with resistances R₁, R₂, R₃ and R₄ are connected to form a loop.
+There are four joints A, B, C and D. A battery is connected between two opposite
+joints A and B and a galvanometer is connected between the other two opposite
+joints C and D.
+The current i from the battery is divided at A in two parts. A part i₁ goes through
+R₁ and the rest i₂ goes through R₃. When no current is flowing through, the bridge,
+it is said to be balanced. In this case, the current in R₂ is the same as the current in
+R₁ and the current in R₄ is the same as that in R₃. As there is no current through the
+galvanometer, the potential difference across its terminals is zero.
+This is the condition for which a Wheatstone bridge is balanced. To measure the
+resistance of a resistor, it is connected as one of the four resistors in the bridge. Given
+the other three resistors, the value of the fourth unknown resistor will be easily
+determined.
+261
+Physics
+I
+Student Text Book
+?
+Activity 6.11:
+In a small group, research some applications of a Wheatstone bridge. Present your
+findings to the rest of the class in a form of your choice.
+Example 6.15:
+Find the value of R in the figure below so that there is no current in the 50 Ω
+resistor.
+10Ω 0
+20 Ω Ω
+50 Ω
+R
+40 Ω
+Solution:
+R₁ = 4Ω, R₂ = R, R₃ = 20Ω, R₄ = 40Ω
+R2 = R₁R₄ R₃ = 10x40 20 = 20Ω
+?
+Activity 6.12:
+Experiment, WHEATSTONE BRIDGE
+OBJECTIVE
+The objective of this experiment is to determine the unknown resistance
+using Wheatstone bridge.
+APPARATUS
+Galvanometer, various medium resistors, multimeter, power supply (DC)
+THEORY:
+262
+Grade 11
+A
+I₂
+I₁
+R₁
+R₂
+SW₁
+C
+G
+D
+1₃
+I₄
+E
+R₃
+R₄
+B
+Figure 6.41: Wheatstone bridge
+Setup the circuit that is shown in the figure.
+Do the required measures to complete the table with the results of your
+experiments.
+Determine the resistances of any unknown resistors using a multimeter.
+Compare those values to the value obtained using the balancing equation.
+Parameter
+Rx
+Experimental
+Theoretical
+% of error
+% of error = Theoretical Experimental - Experimental x100%
+DATA ANALYSIS
+Compared to the direct measurement of resistance using a multimeter, what
+level of accuracy may be expected when applying a Wheatstone bridge?
+Comparing the Brightness of Bulbs
+?
+Activity 6.13:
+What are you referring when you buy a light bulb from electric shops? Discuss in
+pairs.
+We usually see the wattage to buy a bulb that give us a brighter light. Watts are not
+a measure a brightness, they're a measure of energy consumption per unit time. It
+measures, how much electricity a bulb uses. The amount of light emitted by a bulb
+(brightness) is measured in Lumens. So, when buying light bulbs see their Lumens
+263
+Physics
+Student Text Book
+instead of their wattage. The higher the lumens, the more light the bulb emits.
+Of course, we can use power (watts) to compare the brightness of bulbs. The higher
+the wattage rating, the more energy consumed, and brighter the bulb will be. From
+the equation for electric power, P = R, we see that brightness depends on current
+and resistance.
+Key term
+The amount of light emitted by a bulb (brightness) is measured in Lumens.
+Example 6.16
+Compare the brightness of two lamps arranged in parallel with the brightness of
+similar lamps arranged in series (Both arrangements having one cell)?
+Solution:
+In parallel, both the bulbs will have the same voltage across them as that of the
+battery. However, in series connection, the voltage gets divided between the two
+bulbs. So, the bulbs which are connected in parallel will glow brighter.
+Example 6.17
+Compare the brightness of the following the three lamps A, B, and C in the figure
+below.
+A
+B
+C
+Figure 6.42:
+Solution:
+Of all the three bulbs, Bulb A is brightest, because it gets the full current from the
+battery. At the junction, the current then splits, resulting to the current in bulbs
+B and C to be half of that in A (assuming the bulbs to be identical). Thus, Bulbs B
+and C will have the same brightness but less than that of A.
+264
+Grade 11
+Exercise 6.15:
+What would happen to the brightness of the bulbs in example 6.17, if another
+bulb D is connected in parallel to that of bulbs B and C, See Figure 6.43 below?
+A
+B
+C
+D
+Figure 6.43:
+?
+Activity 6.14:
+Look at the data in the table below. The Lumens, and wattage of Incandescent,
+compact fluorescent light (CFL) and Light Emitting Diodes (LED) bulbs are given.
+Discuss in group the advantages and disadvantages of using CFL od LED lamps
+over the incandescent lamps.
+Table 6.2: Comparing Incandescent, CFL and LED lamps.
+Lumens
+Incandescent
+CFL Watts
+LEDs Watts
+Watts
+450
+40W
+8 - 12W
+6 7W
+800
+60W
+13 - 18W
+7 - 10W
+1100
+75W
+18 - 22W
+12 - 13W
+1600
+100W
+23 - 30W
+14 - 20W
+2600
+150W
+30 - 55W
+25 - 28W
+Kirchhoff's Rules
+The following two circuit rules, which are called Kirchhoff's rules, can be used to
+analyze any dc circuit, regardless of how many loops and cells are in the circuit.
+265
+Physics I Student Text Book
+Kirchhoff's First Rule (Junction rule)
+Kirchhoff's first rule states that, at any junction
+in a circuit, the total current entering the
+i4
+junction is equal to the total current leaving
+the junction. This means, the sum of all the
+i1
+i₃
+currents directed towards a junction in a circuit
+is equal to the sum of all the currents directed
+i₂
+away from that junction.
+Figure 6.44: Kirchhoff's junction rule
+Thus, in Figure 6.44, the currents I₁ and I₂ enters into the junction, while the
+currents I₃ and I₄ leave the junction.
+Thus,
+I₁+I₂=I₃+I₄
+Kirchhoff's junction rule is based on the law of conservation of charge. The fact that
+no point in a circuit keeps on accumulating charge or keeps on supplying charge,
+the net charge coming towards the point should be equal to that going away from it
+in the same time.
+Exercise 6.16:
+The figure below is part of a circuit.
+wire X
+Calculate the current in the wire X. State
+the direction of this current (towards P
+3.0 A
+P
+2.5 A
+or away from P).
+7.0 A
+Kirchhoff's Second Rule (Loop Rule)
+Kirchhoff's loop rule is stated as:
+For any complete loop of a circuit, the sum of the emfs round the loop is equal to the
+sum of the potential drops around the loop.' It follows from the law of conservation
+of energy.
+When using this rule, one starts from a point on the loop and goes along the loop,
+either clockwise or anticlockwise, to reach the same point again. In using Kirchhoff's
+loop rule consider the following points.
+266
+Grade 11
+1. Assume all voltage sources and resistances are given. (If not label them
+V₁, V₂, R₁, R₂ etc
+2. Label each branch with a branch current. (I₁, I₂, I₃ etc)
+3. Apply junction rule at each junction.
+4. Applying the loop rule for each of the independent loops of the circuit.
+5. Solve the equations by substitutions.
+For Kirchhoff's loop rule, the following convention is used:
+1. The e.m.f of the cells is taken as positive when the direction of motion is from
+negative terminal to the positive terminal, but negative when traversing from positive
+to negative terminal.
+2. The potential difference across a resistor (IR) is taken as positive if we move in the
+opposite direction to the current, and negative when moving in the direction of the
+current.
+Example 6.17:
+Find the currents I₁, I2 and I₃ in the circuit shown below.
+7V
+10
+B
+C
+4
+20
+l₃
+80
+A
+D
+b
+F
+E
+10
+30
+36V
+Solution:
+Applying Kirchhoff's first rule to junction A: I₁+I₂=I₃ (1)
+Applying Kirchhoff's second rule for loop ABCDA (clockwise)
+-7 +I₁(1) +1₁(2) +I,(8) =0
+3I₁+8I₃=7
+(2)
+Applying Kirchhoff's second rule for loop ADEFA (clockwise)
+-I₃ 3 (8) - I2 (3) + 36 - I₂ (1) = 0
+21₃+ I₂ = 9
+(3)
+Substituting I₁ = I₃ - I2 into equation 2
+111, - 31, 7
+(4)
+267
+Physics
+I
+Student Text Book
+Solving equation (3) and (4) simultaneously yields I₃ = 2A
+Substituting for I3 into equation (3) yields I2 = 5A
+Substituting for I2 and I₃ into equation (1) yields I₁ = -3A
+The negative sign tell us that I₁ is opposite in direction to that shown in Figure 6.3:
+Exercise 6.17:
+By using Kirchhoff's second law determine the resistance R of the resistor shown
+in the circuit below.
+R
+0.5 A
+30 V
+10 Ω
+20 Ω
+10 Ω
+0.2 A
+10 V
+Review Questions 6.4
+1. Write the definition of the following terms using your own words: electric
+current, current density, resistance, conductivity, resistivity and drift velocity.
+2. Write the SI units of the following quantities. Electric current, current density,
+resistance, resistivity, and conductivity.
+3. What is the meaning of one ohm?
+4. Explain how a potentiometer works.
+5. What is the use of a Wheatstone bridge? Discuss how it works.
+6. Describe how to convert galvanometer to a voltmeter and ammeter.
+7. State Kirchhoff's first and second laws.
+8. A cell of emf 1.5 V and internal resistance 0.5 Ω is connected to a 2.5 Ω
+resistor. Calculate: (a) the current, (b) the terminal pd, (c) the power delivered
+to the 2.5 Ω resistor, and (d) the power wasted in the cell.
+9. The pd across the terminals of a cell was 1.1 V when the current from the cell
+was 0.20 A, and 1.3 V when the current was 0.10 A. Calculate: (a) the internal
+resistance of the cell, (b) the cell's emf.
+268
+Grade 11
+10. The figure shown below is part of an electric circuit. Determine the value of
+the unknow current Iₓ.
+0.3 A
+0.5 A
+B
+0.1 A
+A
+X
+11. Determine the electric current that flows in the circuit below.
+20Ω
+6V
+10Ω
+40Ω
+12 V
+20Ω
+12. A galvanometer with a resistance of 36Ω is converted into an ammeter using
+a shunt resistance of 4Ω. What fraction of the total current passes through
+the galvanometer?
+13. Determine equivalent resistance between points A and B in circuit shown
+below.
+2Ω
+4Ω
+A
+1Ω
+60
+20
+B
+269
+Physics
+Student Text Book
+6.6 Capacitors and Capacitance
+By the end of this section, you will be able to:
+Define the terms capacitors, capacitances, dielectric.
+Explain the effect of inserting dielectric in the gap between the plates of a
+capacitor.
+Solve problems related to capacitance of parallel plate capacitor.
+Calculate the equivalent capacitance of capacitors connected in series and
+parallel.
+?
+Brainstorming
+1. What is the function of a capacitor?
+2. How is a capacitor is charged?
+3. Mention devices that we use in daily life which uses a capacitor for storing
+energy.
+Capacitor and Capacitance
+A combination of two conductors
++
+-
+placed close to each other but
++
+-
+not touching form a capacitor. In
++
+-
+charging a capacitor one of the plates
++
+-
+is connected to the positive terminal
+Electrons
+and the other to the negative terminal
+of a DC source. The electric field
+created forces electrons to flow from
+the positive plate to the negative plate
+until the potential difference between
+Figure 6.46: A capacitor, with the positive
+the plates of the capacitor becomes
+plate carrying a positive charge and the
+equal to the emf of the battery.
+negative plate an equal amount of negative
+charges.
+Finally, positive charges will be accumulated on the positive plate and negative
+charges on the negative plate, see Figure 6.47.
+270
+Grade 11
+The following are circuit symbols for capacitors.
+Figure 6.47: Circuit symbol of a capacitor
+For a given capacitor, the charge Q stored on the capacitor is proportional to the
+potential difference V between the plates, QαV. Thus,
+Q = CV C C=V V
+The proportionality constant C is called the capacitance of the capacitor. It is
+independent of Q and V but depends on geometrical factors. The SI unit of
+capacitance is farad (F). Small values of capacitances are measured in micro, nano
+and pico farads. 1 µF = 10⁻⁶, 1 nF =10⁻⁹F, = and 1 pF =10⁻¹²F.
+Key terms
+A capacitor is a device used to store electric charge, and hence electric energy.
+A capacitor is a device used to store electric charge, and hence electric energy.
+Parallel-plate Capacitor
+A parallel-plate capacitor consists of two large
+Separation of
+plane plates placed parallel to each other with
+a small separation between them (Figure
+6.48). Suppose, the area of each of the facing
+surfaces is A and the separation between the
+place area
+two plates is d. Also, assume that the space
+between the plates is filled with vacuum.
+Figure 6.48: Capacitor
+If a charge Q is stored on the positive plate, a charge -Q will be stored on the
+negative plate. The charges will appear on the facing surfaces. The charge density
+on each of these surfaces has a magnitude
+σ = Q A
+271
+Physics I Student Text Book
+The electric field between the plates is given by the equation
+E
+The potential difference between each plate is given by:
+V = Ed
+Therefore
+V=Ed=2d Ed
+Substituting this into our defining equation for capacitance we get:
+This equation gives the capacitance of two parallel plates in a vacuum. If a dielectric
+material of dielectric constant k is inserted between the plates, the equation for
+capacitance became:
+C
+Hence, the capacitance of a parallel plate capacitor depends on the size, distance of
+separation of the plates, and the medium between them.
+Example 6.19
+Consider a parallel plate capacitor with plates of area 200 cm² and separated by a
+sheet of mica thickness 2mm and dielectric constant 6. If the capacitor is connected
+to 12V source, determine the charge stored on the plates of the capacitor.
+Solution:
+=5.31x10⁻¹⁰F
+Q=CV=5.31x10⁻ F x12V = 6.37x10°F = 6.37nF
+Key term
+A dielectric is an insulator such as a glass, paraffin, wood or pastic that is inserted
+in the gap between the plates of a capacitor.
+272
+Grade 11
+Exercise 6.18
+The dimensions of a parallel plate capacitor are 5cm by 10m, they are separated
+by a distance of 2mm, and connected to a 24V dc source. If an insulator of
+dielectric constant 5 is inserted between the plates, determine the amount of
+charge stored on the plates.
+?
+Activity 6.15:
+Discuss in group about the following questions.
+If you were asked to design a capacitor with large capacitance, how are you going
+to design?
+Dielectrics
+A dielectric is an insulating or
+nonconducting materials such as glass,
+paraffine, wood or plastic, that is inserted
+in the gap between the plates of a capacitor.
+When a dielectric is inserted in the electric
+field between the plates, there will be some
+charge distribution in it. The positive
+charges within the dielectric are displaced
+lightly towards the negative plate, and the
+negative charges are displaced slightly
+Figure 6.49: Polarization in a dielec-
+towards the positive plate.
+tric inside an electric field of a capac-
+itor
+This slight separation of charge is known as polarization. Due to polarization the
+potential difference and hence the electric field between the plates will decrease.
+Since, the dielectric is not disconnected from the source, the potential difference
+between the plates finally will be that of the source. As a result, the capacitor can
+hold more charge, and thus, its capacitance increased, C = kC₀.
+A dielectric constant, k, also called relative permittivity or specific inductive
+capacity, measures the ability of a capacitor to store charge. It is the property of
+the dielectric. It is equal to the ratio of the capacitance of a capacitor filled with the
+given material to the capacitance of an identical capacitor in a vacuum without the
+dielectric material.
+Capaci tan ce with dielectric
+C
+k =
+=
+Capaci tan ce without dielectric
+C₀
+273
+Physics
+Student Text Book
+The dielectric constant is a number without dimensions. The value of the dielectric
+constant for vacuum is one and for any other material is it is greater than one.
+Inserting a dielectric always increases the capacitance of the capacitor.
+Example 6.20
+If a dielectric is inserted in the gap between the plates of an isolated capacitor, what
+are the effects on (a) the capacitance of a capacitor, (b) the potential difference
+between the plates of a capacitor, (c) amount of the charge stored on the plates,
+and (d) the electric field in the region between the plates of a capacitor.
+Solution:
+When inserting a dielectric in a capacitor its capacitance always increases.
+Due to polarization the potential difference between the plates decreases.
+Since the capacitor is isolated (disconnected from the source) the amount
+of charge stored on the plates remains the same.
+From the equation E = V/d, the electric field in the region between the
+plates decreases.
+?
+Activity 6.16:
+1. Discuss in group the effect of inserting a dielectric on a capacitor which is not
+disconnected from the source on (a) the capacitance of a capacitor, (b) the
+potential difference between the plates of a capacitor, (c) the charge stored on
+the plates, and (d) the electric field in the region between the plates.
+2. What about if a dielectric is withdrawn from a capacitor?
+Dielectric strength
+For any insulator, there is a maximum electric field that can be maintained without
+ionizing the molecules. This means that there is a maximum allowable voltage
+that that can be placed across the conductors. This maximum voltage depends
+on the dielectric in the capacitor. The corresponding maximum field Eb is called
+the dielectric strength of the material. It is the maximum electric field that the
+material can withstand without undergoing electrical breakdown and becoming
+electrically conductive (i.e. without failure of its insulating properties). The table
+below shows the dielectric strength of some materials.
+274
+Grade 11
+Table 6.3: Dielectric constant and dielectric strength of some materials
+Material
+Dielectric Constant
+Dielectric strength (V/m)
+Air
+1.0
+3x10⁶
+Glass
+4.8 10
+30 X 10⁶
+Mica
+4.8 10
+200x10⁶
+Paraffin paper
+2.0
+40 X 10⁶
+Rubber
+3.2
+21 X 10⁶
+Water (distilled)
+78.5
+3 X 10⁶
+?
+Activity 6.22: Project
+Search an internet or read books on how to make a capacitor, and construct it using
+locally available materials. Demonstrate your capacitor to your class by showing a
+practical work, like charging your cell phone.
+Combination of Capacitors
+Capacitors are manufactured in a certain standard capacitance and working voltages.
+But these values may not be compatible with the ones that we effectively need for
+a particular application. In such cases we obtain the desired values by combining
+capacitors in different ways. Two or more capacitors may be connected either in
+series or in parallel.
+Capacitors connected in parallel
+Consider three capacitors connected in parallel as shown in Figure 6.50.
++
++
++
+C₁
+C₂
+C₃
+Figure 6.50: Three capacitors C1, C2 and C₃ connected in parallel.
+The same potential difference is provided for each capacitor.
+a
+V = V₁ = V₂ = V₃
+275
+Physics I Student Text Book
+Charges Q₁ is stored on capacitor C₁, and charge Q₂ ₀n on capacitor C2 and so on. The
+total charge will therefore be:
+Q=Q₁+Q₂+Q₃
+Since potential difference across the capacitors is the same, V. Then,
+Q₁=C,V,Q₂=C₂V and Q₃ =C₃V .
+From which,
+But we know that V Which yields
+For any number of capacitors connected in parallel then
+Capacitors Connected in Series
+Consider three capacitors of capacitances C₁, C₂, and C₃ connected in series to a
+potential difference of V as shown in Figure 6.51.
++
+C₁
+V₁
++
++
+C₂
+V₂
++
+C₃
+V₃
+Figure 6.51: Three capacitors C1, C2 and C₃ connected in series
+Since the capacitors are connected in series and are charged by induction, they will
+all carry the same amount of charge. Thus, the magnitude of charge on all plates is
+the same. That is,
+276
+Grade 11
+Therefore, if V₁ is the voltage across C₁, V₂ is the voltage across C2, and V₃ is the
+voltage across C₃, then
+V₁ = C₁ Q , V₂ = C₂ Q and V₃ = C₃ Q
+V =V₁+V₂ + V₃
+V = C₁ Q + C₂ Q + C₃ Q = Q C₁ 1 + C₂ 1 + C₃ 1
+From which,
+V 1 + 1 + 1
+Q C₁ C₂ C₃
+The equivalent capacitance of the capacitors is given by
+Cₑ₄ C = V Q Q
+Combining these equations, we get
+For any number of capacitors in series therefore,
+The above equation indicates that the equivalent capacitance of a series combination
+of capacitors is always less than any individual capacitance in the combination.
+Exercise 6.19:
+For each circuit in the following figure, are the capacitors connected in series,
+in parallel, or in neither mode? What is your reason to say about their mode of
+connection?
+a)
+b)
+c)
+277
+Physics
+I
+Student Text Book
+Equivalent capacitance for multiple capacitor circuits
+In most electronic circuits, capacitors are connected in series, in parallel or in
+combinations of series and parallel as well. Consider a capacitor network shown in
+Figure 6.54.
+C2
+C₁
+a
+C₃
+b
+Ca
+C₆
+5
+Figure 6.54: A capacitor network.
+We can see in the upper portion of the circuit, C₁ is connected in series to the
+combinations of C2 and C3. But, C2 and C3 are connected in parallel. Again, in the
+lower portion of the circuit, C₆ is connected in series to the combinations of C₄ and
+C₅. Again, C₄ and C₅ are connected in parallel to each other. Therefore, the circuit
+can be reduced as follows.
+Figure 6.55: Reduced equivalent circuit of the network shown in
+Figure 6.54.
+C₂₃ = C₂ +C₃ and C₄₅ = C₄ + C₅ (Since they were connected in parallel)
+Now, refer to the capacitors in upper portion of the circuit in Figure 6.55. C₁ and C₂₃
+are connected in series to each other. Similarly, the capacitors in the lower portion of
+the circuit C₄₅ and C₆ are connected in series. So, the circuit can further be reduced
+as in Figure 6.56.
+Figure 6.56: The equivalent capacitance of the network in Figure 615
+278
+Grade 11
+and
+(Since they are connected in series)
+The equivalent capacitance of the six capacitors between a and b is therefore the
+parallel combination of these two capacitors is
+Cₑ₉ = C₁₂₃+C₄₅₆...
+When numerical values for each capacitors are given, it is advisable to substitute the
+numerical values in each step.
+Exercise 6.20:
+For the network of capacitors shown in the figure below, determine (a) the
+equivalent capacitance, (b) the charge stored on each capacitor, and (c) the
+voltage across each capacitor.
+3uF
+I
+4uF
+200 V
+6uF
+?
+Activity 6.18
+Mention the different applications of a capacitor.
+Review Questions 6.5
+1. Write the definition of the following terms using your own words. capacitors,
+capacitances, dielectric.
+2. Mention the factors that affect the capacitance of a capacitor.
+3. Explain the effect of inserting dielectric in the gap between the plates of a
+capacitor on the following quantities. Its capacitance, (b) the amount of charge
+stored on the plates, (c) the potential difference between the plates, and (d) the
+electric field in the region between the plates.
+4. A pair of parallel flat metal plates are placed a distance of 10 mm apart. The
+279
+Physics
+I Student Text Book
+plates are circular, with a radius of 10 cm. How much charge must be placed
+on each plate to produce an electric field of 500 V/m between them?
+5. For the network of capacitors shown in the figure below, determine (a) the
+equivalent capacitance, (b) the charge stored on each capacitor, and (v) the
+voltage across each capacitor.
+6
+µF
+2 µF
+4
+µF
+9V
+6. Calculate the equivalent capacitance between points A and B for the circuit
+shown in the figure below.
+5.0 uF
+24 uF
+A
+4.0 UF
+12 UF
+B
+6.0 UF
+8.0 UF
+6.7 Electric Circuits in Our Surroundings
+By the end of this section, you will be able to:
+apply the knowledge about electric circuits to explain household electric
+installation.
+?
+Brainstorming
+Make a list of electrical appliances in your home.
+Group them into three, (a) electric power powered, (b) battery powered, and (c)
+280
+Grade 11
+heat powered.
+Household Electric Installations
+In our country Ethiopia, the voltages of the mains are 220 V - 240 V. Heating
+appliances include electric kettle, immersion heater, electric irons, hair driers
+and electric stoves. All heating appliances contain a heating element that converts
+electrical energy into heat energy.
+?
+Activity 6.19:
+Have you visited the new national Science Museum located Addis Ababa? If so,
+present a report about the smart house you visited. If not arrange a means to visit
+this fantastic museum.
+Color Code of Resistors
+Resistors and capacitors that we discussed so far are frequently used in many
+electronic devices and they are said to be the major circuit components for many
+electronic systems. The value of the resistance of resistors in electronic devices is
+labeled by a color code. There are colored rings in any resistor. According to the
+international standard organization ISO, the orders of the rings are arranged and
+each color is represented by a number.
+Band A
+Band B
+Band C
+Band D
+1st Digit
+2nd Digit
+Multiplier
+Tolerance
+Figure 6.56: Color code of resistors
+The first band represents the first digit number, the second band the second digit
+number and the third band represents multiplier to the base 10. The fourth band is
+the tolerance (the permissible percentage error ± of the value.
+The trick in reading color code is noticing that the first three digits (numerical
+values) in a four band resistor are closer in equal gap, whereas the fourth band (the
+tolerance) on the other end is in a bit wider gap! In a five band resistor, the first four
+digits are closer in equal gap and the fifth band (the tolerance) is a bit further
+For example in the illustrated resistor, the numerical value of the resistor can be
+calculated by referring the color code chart and replace the corresponding number
+281
+Physics
+Student Text Book
+for each color. The first three closer bands are: brown, black and red, which represent
+first digit number, second digit number and the multiplier respectively. Referring
+the color chart, the first band is brown =1 the second band is black =0, the third
+band is red=2. Therefore, the numerical value of this resistor is
+10 X 10²= 1000 Ohms =1KO
+The color of the fourth band is gold, the tolerance value of gold in the chart is ±
+5%. This resistor has a value of 1K Ω ± 5%.
+The following chart depicts the ISO standard for each color in the resistor.
+Colour
+1st Band
+2nd Band
+3rd Band
+Multiplier
+Tolerance
+Black
+0
+0
+0
+10
+Brown
+1
+1
+1
+100
+± 1% (F)
+Red
+2
+2
+2
+1000
+± 2% (G)
+Orange
+3
+3
+3
+1KQ
+Yellow
+4
+4
+4
+10KQ
+Green
+5
+5
+5
+100KQ
+± 0.5% (D)
+Blue
+6
+6
+6
+1MΩ
+± 0.25% (C)
+Violet
+7
+7
+7
+10MQ
+± 0.10% (B)
+Gray
+8
+8
+8
+± 0.05%
+White
+9
+9
+9
+Gold
+0.10
+± 5% (J)
+Silver
+0.010
+± 10% (K)
+?
+Activity 6.20:
+Given the following resistor as the color of the first three bands in order are: green,
+blue and yellow, the last band (the tolerance) is silver. What is the numerical value
+of this resistor?
+?
+Activity 6.21: Project
+Go to a nearby radio, television or computer repair house them. Ask them for a
+used electronic components like resistors or capacitors. Read their values by using
+the color code and present as a demonstration to your class
+282
+Grade 11
+UNIT SUMMARY
+C
+Electric charges are quantized and are integral multiples of a fundamental charge
+e.
+C
+There are two types of charges: positive and negative. Unlike charges attract each
+other and like charges repel each other.
+C
+The electrostatic force between two charges is directly proportional to the product
+of the two charges and inversely proportional to the square of the separation
+between them. This law is called Coulomb's law.
+c
+The electrostatic force is positive if the force is repulsive and negative if the force
+is attractive.
+c
+Electric field lines originate from the positive charge and terminate into the
+negative charge.
+c
+Electric field lines do not cross to each other and are perpendicular to the surface
+of the charge source.
+c
+The total resistance of an electrical circuit with resistors wired in a series is the sum
+of the individual resistances:
+c
+Each resistor in a series circuit has the same amount of current flowing through it.
+c
+The total resistance of an electrical circuit with resistors connected in parallel is
+less than the lowest resistance of any of the components and can be determined
+using the formula:
+R
+C
+Each resistor in a parallel circuit has the same full voltage of the source applied to
+it.
+C
+The current flowing through each resistor in a parallel circuit is different, depending
+on the resistance.
+c
+If a more complex connection of resistors is a combination of series and parallel,
+it can be reduced to a single equivalent resistance by identifying its various parts
+as series or parallel, reducing each to its equivalent, and continuing until a single
+resistance is reached.
+c
+Total capacitance in series 1 = C₁ 1 + C2 1 Cₙ 1
+c
+Total capacitance in parallel Ceq=C₁+C₂+C₃+.
+283
+Physics Student Text Book
+c
+If a circuit contains a combination of capacitors in series and parallel, identify
+series and parallel parts, compute their capacitances, and then find the total.
+c
+Capacitors are devices that store charge and electrostatic energy.
+c
+A capacitor consists of two isolated conductors (the plates) with equal and opposite
+charges +q and -q. Its capacitance C is defined from , where V is the potential
+difference between the plates.
+c
+The SI unit of capacitance is the farad. (1 farad = 1 coulomb per volt)
+c
+Other practically applicable units of capacitance are: micro Farad, nano Farad and
+pico Farad.
+c
+When two or more capacitors are connected in series, the reciprocal of the
+equivalent capacitance is the sum of the reciprocals of the individual capacitance
+of the capacitors.
+c
+When two or more capacitors are connected in parallel, the equivalent capacitance
+is the sum of the capacitance of each capacitor.
+END OF UNIT QUESTIONS
+1. If two charges separated by a distance d, have an electrostatic force F, What will be
+the magnitude of the new electrostatic force if their separation is doubled to 2d.
+2. What is the source of an electric field in a certain region?
+3. Which one of the following cannot be the unit of electric field
+a) Volt/meter
+b) newton/ coulomb
+c) newton.coulomb
+4. When resistors are connected in series which property of the resistor is practically
+changed?
+a) The length
+b) the thickness
+c) the resistivity
+5. When resistors are connected in parallel, which property of the material is changed?
+a) The length
+b) the thickness
+c) the resistivity
+6. Two charges Q₁ = -5µC and Q₂ = +2µC are separated by a distance of 4cm.
+Calculate the electrostatic force between these charges. Is the electrostatic force an
+attractive or repulsive force? Why?
+284
+Grade 11
+7. In the above question, what is the electric field produced due to Q2 at a point where
+Q₁ is placed? What is the direction of the electric field? Similarly, determine the
+electric field produced by Q₁ at a point where Q2 is placed. What is the direction of
+the electric field?
+8. What are the largest and smallest resistances you can obtain by connecting a 36.0
+Ω, a 50.0 Ω, and a 700 Ω resistor together?
+9. What is the resistance of ten 75 Ω resistors (a) when connected in series? (b) when
+connected in parallel?
+10. When do you get a brighter light, connecting bulbs in series or in parallel?
+11. Why heating coils like an electric kettle is made of materials with large resistivity?
+12. Why and how the resistivity of conductors depends on its temperature?
+13. Why temperature dependence of the resistivity differs for conductors, semicon-
+ductors and superconductors?
+14. What is the difference between emf and terminal voltage?
+15. What is internal resistance?
+16. How do you connect resistors so as to get larger/smaller equivalent resistance?
+17. How do you connect resistors so as to get larger current from the circuit?
+18. A battery of unknown emf ε and internal resistance r is connected in series with
+an ammeter and a resistance box. The current was 2.0 A when R = 4.0 Ω and 1.5
+A when R = 6.0 Ω. Calculate ε and r.
+19. A 12 V battery causes a current of 3.0 A to flow into the circuit shown in the figure
+below. Find (a) the value of the unknow resistor R2, and (b) the potentiial differ-
+ence across the 3Ω resistor.
+2.0 Ω
+3.0 A
+R2
+3.0 Ω
+12 V
+20. Determine the current that flows through the ammeters, A₁, A2. and A₃ in the cir-
+cuit below.
+100 mA
+A
+A1
+A3
+30 mA
+A
+A
+80 mA
+A2
+285
+Physics
+I Student Text Book
+21. In the circuit shown below, If V1 = 1V, V2 = 2V, V3 = 3V, and let each resistor has
+a 1 Ω resistance. Determine the value of the currents I₁, I₂, and I₃.
+A
+R1
+R3
+I₃
+I₁
+R₂
+V1
+V3
+I₂
+R₄
+V₂
+B
+22. If you want to store a large amount of energy in a capacitor bank, would you con-
+nect capacitors in series or parallel? Explain.
+23. Find the total capacitance of capacitance between points A and B, for the network
+shown in the figure below?.
+2C
+2C
+3C
+A
+B
+4C
+3C
+286
+Pressuriser
+Control rods
+Steam
+Steam
+generator

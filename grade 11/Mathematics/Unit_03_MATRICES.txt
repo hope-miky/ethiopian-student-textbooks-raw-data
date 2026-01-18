@@ -1,0 +1,2453 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+Know basic concepts about matrices.
+Perform operation on matrices.
+Differentiate types of a matrix.
+Know specific ideas, methods and principles concerning matrices.
+Formulate elementary row/column operations.
+Define inverse of an invertible matrix.
+Use elementary row operations to find inverse of square matrices of order 2
+and 3.
+Define system of linear equations.
+Solve linear system of equations by using elementary row operations.
+Apply matrix concepts to model, solve and analyze real-world situations.
+131
+Unit 3: Matrices
+Unit Contents
+3.1 The Concepts of a Matrix
+3.2 Operations on Matrices
+3.3 Special Types of Matrices
+3.4 Elementary Row Operations on Matrices
+3.5 Systems of Linear Equations with Two or Three Variables
+3.6 Solutions of Systems of Linear Equations
+3.7 Inverse of a Square Matrix
+3.8 Applications
+Summary
+Review Exercise
+augmented matrix
+column matrix
+KEY
+Words
+consistent system
+diagonal matrix
+elementary row operations
+inconsistent system
+inverse matrix
+non-singular matrix
+reduced-echelon form
+row echelon form
+row matrix
+scalar matrix
+singular matrix
+skew-symmetric matrix
+symmetric matrix
+transpose of a matrix
+triangular matrix
+zero matrix
+Introduction
+Systems of linear equations occur in many areas such as in Geometry, Engineering,
+Business, Economics, Biology, etc. Solving such systems of linear equations is one
+of the most important applications of mathematics to other fields.
+In Unit 3 of Grade 9, you have learned how to solve systems of linear equations in
+two variables. In this unit, you will learn how to solve systems of linear equations in
+a more systematic way.
+132
+Unit 3: Matrices
+Consider the following two linear equations in the variables x and y, x - y = 1 and
+2x + y = 7. A common solution for these two equations can be found by working
+only on the numbers involved in the two equations. These numbers form a
+rectangular array of numbers as follows:
+2 1 -1 1 7 1
+Such array of numbers is called a matrix. Matrices (plural form of a matrix) are
+involved in different applications of mathematics.
+3.1 The Concepts of a Matrix
+Activity 3.1
+1. Consider the seats in your classroom.
+a. How many rows of seats are there in your classroom?
+b. How many columns of seats are there is your classroom?
+c. For each of the students in your class, identify the row and column that
+the student is found.
+2. Consider the following table, which gives the sections and the numbers of
+male and female students in each section of Grade 11 students of a certain
+school.
+Male
+Female
+Section 1
+25
+26
+Section 2
+28
+24
+Section 3
+30
+20
+Section 4
+15
+35
+a. Find the number of female students in Sections 1, 2, 3 and 4.
+b. Find the number of male students in Sections 1, 2, 3 and 4.
+In most classrooms, seats are arranged in rows and columns. In such arrangements,
+one can assign an ordered pair of numbers to each seat which indicates the position
+of the row and the position of the column that the seat is found.
+-
+133
+Unit 3: Matrices
+The information in Activity 3.1 (2), can be displayed as an array of numbers as
+follows:
+25
+26
+28
+24
+30
+20
+15
+35
+This array of numbers is a matrix and a formal definition of matrices is given below.
+Definition 3.1
+Let m and n be positive integers. A rectangular array of numbers A in R that is
+written as:
+a₁₁
+a₁₂
+a₁ₙ
+a₂₁
+a₂₂
+a₂n
+A =
+...
+...
+aₘ₁
+aₘ₂
+amn
+is called an m by n matrix (or m X n) matrix in R
+In Definition 3.1:
+a. the number m is the number of rows, n is the number of columns and m X n is
+called the size of the matrix and it is read as "m by n".
+b. The number aᵢⱼ is called the ij-entry or ij -element of A. That is, numbers in the
+given array are called elements or entries of A. The ij -entry is an element
+appearing in the ith row and the jth -column of the matrix.
+c. Matrix A can be abbreviated by writing as A = (aᵢⱼ) mxn'
+d. Matrices are usually denoted by capital letters like A, B, C etc and entries of
+matrices by small letters like a, b, c etc.
+134
+Unit 3: Matrices
+Example 1
+Find the size and determine its elements/or entries for each of the following matrices.
+a. A = 3 1 4 2
+b. B = -2 0 3 -1 10 5
+Solution
+a. A has two rows and two columns. Therefore, A is a 2 X 2 matrix.
+The entries of A are:
+i.
+a₁₁ = 1 is the entry found in the first row and in the first column of A;
+ii. a₁₂ = 2 is the entry found in the first row and in the second column of A;
+iii. a₂₁ = 3 is the entry found in the second row and in the first column of A;
+and
+iv. a₂₂ = 4 is the entry found in the second row and in the second column of A.
+b. B has three rows and two columns. Therefore, B is a 3 X 2 matrix.
+The entries of B are:
+i.
+b₁₁ = -2 is the entry found in the first row and in the first column of B;
+ii. b₁₂ = 10 is the entry found in the first row and in the second column of B;
+iii. b₂₁ = 3 is the entry found in the second row and in the first column of B;
+iv. b₂₂ = - 1 is the entry found in the second row and in the second column of
+B;
+V. b₃₁ = 0 is the entry found in the third row and in the first column of B; and
+vi. b₃₂ = 5 is the entry found in the third row and in the second column of B.
+135
+Unit 3: Matrices
+Example 2
+Find the size of the matrix and determine its elements/or entries for each of the
+following matrices:
+1
+0
+a. C = -2
+b. D=(2,1,3,0,-1,4)
+c. E = (-4).
+4
+Solution
+a. Matrix C has four rows and one column. Therefore, C is a 4 X 1 matrix.
+The entries of C are:
+i.
+C₁₁ = 1 is the entry found in the first row and in the first column of C;
+ii. C₂₁ = 0 is the entry found in the second row and in the first column of C;
+iii. C₃₁ = -2 is the entry found in the third row and in the first column of C;
+and
+iv. C₄₁ = 1 is the entry found in the fourth row and in the first column of C.
+b. Matrix D has one row and six columns. Therefore, D is a 1 X 6 matrix.
+The entries of D are:
+i. d₁₁ = 2 is the entry found in the first row and in the first column of D;
+ii. d₁₂ = 1 is the entry found in the first row and in the second column of D;
+iii. d₁₃ = 3 is the entry found in the first row and in the third column of D;
+iv. d₁₄ = 0 is the entry found in the first row and in the fourth column of D;
+V. d₁₅ = - 1 is the entry found in the first row and in the fifth column of D; and
+vi. d₁₆ = 1/4 1 4 is the entry found in the first row and in the sixth column of D.
+c. Matrix E has one row and one column. Therefore, E is a 1 X 1 matrix.
+The entry of E is e₁₁ = -4, the entry found in the first row and in the first
+column of E.
+136
+Unit 3: Matrices
+Exercise 3.1
+1.LetA=3 4 5-1 22710 1210
+Then determine each of the following entries (if it
+exists).
+a. a₁₁
+b. a₂₃
+C. a₃₂
+d. a₄₁
+e. a₁₄
+2. Determine the size and the elements/or entries of each of the following matrices
+a.A=31 H
+b. B = -140 121
+c. C = (1 2 1 3)
+1
+1
+d. D =
+e. E = (5)
+2
+3. Let A = (aᵢⱼ)₂ₓ₃nd aᵢⱼ = j Then determine A.
+3.2 Operations on Matrices
+Applications of matrices involve different operations on matrices and some of these
+operations are addition, subtraction and multiplication of matrices by scalars and
+matrix multiplications. These operations will be considered in this section.
+3.2.1 Equality of Matrices
+Activity 3.2
+Consider the matrices A = 2 11 2 , B = 3 1 2 4 and where Cᵢⱼ = i
+for i = 1,2 and j = 1,2.
+a. Compare each of the corresponding entries of A and B.
+b. Compare each of the corresponding entries of A and C.
+I
+137
+Unit 3: Matrices
+From your responses in Activity 3.2, you have observed that matrices A and C have
+the same size and the corresponding entries of A and C are equal and such matrices
+are called equal matrices.
+For most operations on matrices, equality of two matrices is required and it is defined
+as follows.
+Definition 3.2
+Two matrices and B = (bₗ) with the same size are said to be equal,
+written as A=B, if their corresponding entries are equal. That is, A = B, if
+aᵢⱼ = bᵢⱼ for i = 1, 2, ... , mandj=1,2,2,..,n.
+Let If A = B, then a₁₁ = b₁₁, a₁₂ = b₁₂, a₂₁ =b₂₁ =
+anda₂₂ = b₂₂.
+Example
+Find the values of the unknowns in each of the following, if A = B.
+1. A = -3 1 and B = -(1-3 4) -3
+2. A = (a+b -2) and B B=(3 a-b)
+3. A = a+b 019, 3 -1 4 5 and B
+Solution
+1. If A = B, then the corresponding entries of the two matrices are equal.
+That is, a = 4 and b = 2.
+2. If A = B, then the corresponding entries of the two matrices are equal.
+I
+138
+Unit 3: Matrices
+That is, a + b = 3 and a - b = 1. Adding the two equations gives you 2a =
+4
+a = 2.
+Then solving for b gives you b = 3 - 2 = 1.
+3. If A = B, then the corresponding entries of the two matrices are equal.
+This implies a + b = 1, = a-b=3, C = 9, d = 0 and e = 7.
+Then let us solve the two equations
+a + b = 1
+a-b=3' =
+Adding the two equations gives 2a = 4 which implies a = 2. Then substituting
+a = 2 in either of the equations a + b = 1 or a - b = 3 and solving for b gives us
+b = - 1.
+Therefore, if A = B, then a = 2,b = - 1, C = 9, d = 0 and e = 7.
+Note that equality of matrices are defined only when the two matrices have the same
+size.
+Exercise 3.2
+3 a 2
+d 5 2
+1.LetA=b 1 5 andB=
+4 e 5
+If A = B, then determine the values of
+24c
+ƒ 4 6
+a, b,c,d, e and f.
+2. Let A = 5 8 a+b -1 and B = 5 8 a-b 3 If A = B, then determine the values of a
+and b.
+I
+139
+Unit 3: Matrices
+3. Let A = a+b b 2 0 -1 3 and
+2 2 c
+B
+=
+4 0 -1
+If A = B , then determine the
+4 5 6
+4 d 6
+values of a, b, c and
+3.2.2 Additions of Matrices
+Activity 3.3
+The following two tables give the numbers of child and adult shoes of both sexes,
+male and female, of a certain company in two different shops: Shop A and Shop
+B.
+Number of Shoes in Shop A
+Number of Shoes in Shop B
+Male
+Female
+Male
+Female
+Child
+65
+42
+Child
+15
+21
+Adult
+111
+154
+Adult
+19
+28
+a.
+Find the number of child and adult shoes of both sexes that the company
+has in both shops and present your solutions in a table form.
+b. The following table gives the number of shoes of each type the company
+sells in a particular week from Shop A. Find the number of shoes of each
+type remaining in Shop A at the end of the week.
+Shop A
+Male
+Female
+Child
+33
+20
+Adult
+90
+120
+In Activity 3.3, observe that,
+a. to obtain the number of shoes of each type in both shops, you have added the
+corresponding entries in the two tables;
+140
+Unit 3: Matrices
+b. to obtain the number of shoes of each type in Shop A after a sell in the given
+week, you have subtracted the corresponding entries in the two tables in the
+proper order.
+This leads us to define the first operation on matrices, addition of matrices.
+Addition of two matrices is defined provided that the two matrices have the same
+size. Thus, the sum of the two matrices is a matrix of the same size as the two given
+matrices and its entries are obtained by adding the corresponding entries of the two
+matrices.
+Definition 3.3
+Let m and n be positive integers and and B=(bₗ) = be matrices in
+R. Then
+a. the sum of A and B, denoted by A + B, is an mxnmatrix obtained by adding
+the corresponding entries of A and B.
+That is,A+B=(a,+b,),),
+b. the subtraction of B from A, denoted by A-B, is an m X n matrix obtained
+by subtracting the entries of B from the corresponding entries of A.
+That
+Let A = c and B = f). Then,
+i. A+B= b+f)
+ii. A B = (a-g-f)
+Example 1
+Let A = and B = -1). 2 Then, compute A+B and A - B.
+I
+141
+Unit 3: Matrices
+Solution
+Both A and B are 2 x 2 matrices and hence both A+ B and A - B are defined.
+Thus,
+a. A + B = 3+1 1+0 4+ 2 - 1) = (1 1). 6 1
+b. A - B = (1-0 1-0 3 - 1 2 4 - 2 - = (1 3)
+Example 2
+-1 2 5
+Let A = 4 0 1 -1 2 1 3 5 2 and B = 1 -4 3
+Then compute A+B and A - B.
+0 0 -7
+Solution
+Both A and B are 3 x 3 matrices and hence both A+ B and A - B are defined.
+Thus,
+4+0 1-1 -1+2 1+0 2+5 5-7 4 0 1 1 -2) 7
+b. A-B= 1-(-1) 4-0 0 - 1 2-(-4) -1-2 1-0 5 2-5 3-3 (-7) =160 = 4112 2 -3 -3
+Activity 3.4
+Let A = (-1 3 -4 2), 2 , B = (° 3 5 -2), 2 2 , 0₂ₓ₂ = (° %) and
+0₂ₓ₃ = (° 0 0 %). Then find
+a. A + 0₂x₂
+b. 0₂x₂ + A
+c. B+0₂x₃
+d. 0₂ₓ₃ + B
+142
+Unit 3: Matrices
+From Activity 3.4, observe that,
+(i) A + 0₂ₓ₂ = A = 0₂ₓ₂ + A;
+(ii) B + 0₂x₃ = B = 0₂x₃ + B.
+Thus, matrices 0₂ₓ₂ and 0₂ₓ₃ are called the zero matrices of their respective order
+and do not change matrices on matrix addition.
+Definition 3.4
+Let m and n be positive integers. Consider the m X n matrix whose all entries
+are zero and we denote this matrix by 0ₘxₙ or simply by 0 if the order is clear.
+That is, 0ₘₓₙ= 0 0 0 0 0 0 ... 0 0 0 ...
+and it is called the zero matrix.
+mxn
+Observe that, for any an m X n matrix A = (aᵢⱼ) mxn , if 0 denotes the m X n zero
+matrix, then +0 = mxn = mxn = (0+aᵢⱼ mxn =0+A=A. =
+Therefore, the zero matrix is the identity matrix for matrix addition.
+Exercise 3.3
+1. Let A = -2 1 Compute each of the following
+matrices.
+a. A+B
+b.A+C
+C. A-B
+d. A-C
+123
+3 1 4
+40-1 Compute each of the following
+456
+52-2
+matrices.
+a. A+B
+b. A-B
+c.B-A
+d. A+0
+e. 0+B
+143
+Unit 3: Matrices
+3.2.3 Properties of Matrix Addition
+Activity 3.5
+Let A = (1 3), 3 2 , B = (1¹ 0) and C = (1 _2). -5 Then find
+a. A + B
+b. B+A
+c. A+(B+C)
+d. (A+B) +C
+From Activity 3.5, you observed that:
+(i)
+A+B = B+A; that is, addition of the two given matrices is commutative.
+(ii)
+A+(B+C)=(A+B)+C; that is, addition of the given three matrices is
+associative.
+In general, addition of matrices is both commutative and associative.
+Commutative and Associative Properties of Matrix Addition
+Let m and n be positive integers and A, B and C be m X n matrices in R. Then
+a. A+B=B+A = (Addition of Matrices is Commutative);
+b. A+ (B + C) = (A+B) + C (Addition of Matrices is Associative).
+Example
+Let A = (1 1), 1 B = (1 -2) -5 and C = (1₂ -1). 5 Then determine
+a. A + B
+b. B+A
+c. A+(B+C)
+d. (A+B)+C
+Solution
+a. A+B= 1+1+1 (-2) (-5) -1)
+b. B+A= 2+3 1+1 -5+1
+144
+Unit 3: Matrices
+c.
+B+C= +C=(2+(-2) 1+1 (-2) -5+5 and
+d. 1
+From (a) and (b), observe that A+B=B+A and from (c) and (d) observe also
+that A +(B+C)=(A +B)+C.
+Exercise 3.4
+Let
+Determine each of the following
+matrices.
+a. A+B
+b.B+A
+c.(A+B)+C
+d.A+(B+C)
+3.2.4 Scalar Multiplication of Matrices
+Activity 3.6
+The following table gives the marks of Nigisti and Tadesse out of 50 in three
+subjects: English, Mathematics and Biology.
+Nigisti
+Tadesse
+English
+36
+34
+Mathematics
+40
+42
+Biology
+38
+39
+a. Convert the mark of each subject of the two students out of 100.
+b. Convert the mark of each subject of the two students in the three subjects out
+of 25.
+I
+145
+Unit 3: Matrices
+In Activity 3.6, to obtain the marks of both students in the three subjects, you have to
+multiply
+a. each mark of both students by 2 for the first question;
+b. each mark of both students by 1/2 for the second question.
+In the following definition, multiplying a matrix by a number or scalar is defined.
+Definition 3.5
+Let A = (aij)mxn be a matrix in R and k E R. The scalar multiple of A by k,
+denoted by kA, is the m X n matrix defined by:
+kA
+That is, the entries of kA are obtained by multiplying each entry of A by k.
+If A = (a b) and k is a scalar, then kA = (kc kb).
+Example
+Let A = (12 0) and B = (2, -1 1 3). 3 Then find 3A and -²B. 2 3 B.
+Solution
+a. 3A = (3x1 3x 3x0 (-3) 3 -9 0
+(-3)x-1) b. win (31)x2 (31)x1
+146
+Unit 3: Matrices
+Activity 3.7
+Let A = -1 01 2 and B = (1 ¹). Then find,
+a. 3 (A + B)
+b. 3A+3B
+c. 2(3A)
+d. (2 X 3)A
+e. (2 + 3) A
+f. 2A + 3A
+g. 1A
+From your solutions in Activity 3.7, observe that,
+a. 3 (A + B) = 3A+3B
+b. 2(3A) = (2 X A
+c. (2 + 3) = 2A + 3A
+d. 1A = A
+These properties are true for any two matrices A and B of the same size and for any
+two scalars r and S.
+Properties of Scalar Multiplication of Matrices
+Let m and n be positive integers, A and B be m X n matrices and r, S E R. Then:
+a. r (A + B) = rA + rB. (Scalar multiplication is distributive over additions of
+matrices.)
+b. (r + s)A = rA + sA. (Scalar multiplications are distributive over additions
+of numbers.)
+c. (rs) = r(sA)
+d. 1A = A
+Scalar Multiplication of Matrices and Subtraction of Matrices
+If A and B are m X n matrices, then
+i. (-1)A = -A and A+ (-A) = 0ₘₓₙ = (-A) + A. This implies - A is additive
+inverse of A;
+ii. the subtraction of two matrices A and B, A - B, is given by A - B = A+ (-1)B.
+I
+147
+Unit 3: Matrices
+Exercise 3.5
+1. Let A = 4 1 3 and B = 2 3 -1). -4 -1 Then determine each of the following.
+a. 4A
+b. -¹³ 3 1 B
+C. 2A + 3B
+d. matrix C such that A + 2C = B
+e. A -¹² 2 1 B
+f. 3A - 2B
+2.
+LetA=1-1 4 and= 012 5 1 6 0 1 1 0 0 0 0 2 1
+Then find
+a. 3A
+b. 1-1B 2 1 B
+C. 3A + 2B
+d. matrix C such that A - 2C = B
+e. A - 5B
+f. 3A - 2B
+3. Let A = (1 -2 -5 3), B = ( 4 3 2 0 1) and C = (2 0 2 0). 0 ).
+Then, determine 2A + (-3) B+-C. 2 1
+3.2.5 Multiplication of Matrices
+Activity 3.8
+Consider the following two matrices A and B, where A shows the type and
+quantity of certain types of food items that Paulos (P) and Meti (M) want to buy
+and matrix B shows the cost of the items in two supermarkets X and Y.
+B
+A
+X Y
+C L Po
+M P 245 1 7 3
+120 35 55 110 30 60 Po C L
+where, C = Cereal Packets, L = Loaves of Bread and Po = Potatoes (Kg)
+a. Calculate the shopping bill for items in each supermarket.
+b. Where should they buy, in terms of shopping bill, at X or Y?
+148
+Unit 3: Matrices
+In Activity 3.8, to determine the shopping bill for items in each supermarket, you
+have to add the products of the respective entries of rows of matrix A with the
+columns of matrix B.
+Using this idea, multiplications of matrices are defined as follows.
+Definition 3.6
+Let A = (aij)ₘₓₚ and B = (bₖl)pxn be matrices in R, where T, n and p are
+positive integers. The product of A and B, denoted by AB, is the m X n matrix
+AB = (cij)mxn' where,cᵢⱼ=aᵢ₁b₁ⱼ + aᵢ₂b₂ⱼ + ... +aᵢₚbₚⱼ, for i = 1, m and
+j = 1, ..,n.
+That is, the ijᵗʰ entry of the product AB is the sum of the product of the
+corresponding entries of the ith row of A with the jth column of B.
+1. If A = (a b) and B = (d), then AB = ac + bd, a real number.
+2. If A = (b) and B = (c d), then AB = (ac ad).
+3. If A = a c and B = e , then AB =
+Observe that, if A is an m X n matrix and B is an S X t matrix, then AB is defined
+only when n = S and the product will be an m X t matrix.
+That is, the product AB is defined only when the number of columns of the first
+matrix,A, is equal to the number of rows of the second matrix, B.
+In this case, we say that the two matrices are compatible for matrix multiplication.
+Example 1
+Determine AB for each of the following:
+a. A = (1 2) and B = (3).
+b. A = (1) and B = (3 4).
+c. A = (1 3 4 and B = (5 ⁷)
+d. A = (1 3) and B = (4 9 1 -3). 3 2
+I
+149
+Unit 3: Matrices
+Solution
+a. A is a 1 X 2 matrix and B is a 2 X 1 matrix, then the product AB is a 1 X 1
+matrix or a real number.
+That is, AB = (1 2) (3) = (1 X 3) + (2 X 4) = 3 + 8 = 11.
+b. A is a 2 X 1 matrix and B is a 1 x 2 matrix, then the product AB is a 2 x 2. That
+is AB = (1) (3 4) = 1x3 2 x 3 2 1 X X 4) = (3 4). 4 8
+c. A is a 2 X 2 matrix and B is a 2 X 2 matrix, then the product AB is a 2 X 2.
+That is AB = (1 3 1 2) 6 5 ⁷) = 3 (5) (5) + + 4(6) 2(6) 3(7) 1(7) + + 4(8) (8) = (17, 23).
+d. A is a 2 X 2 matrix and B is a 2 X 3 matrix, then the product AB is defined and
+it is a 2 X 3 matrix, given by
+AB
+= (1(0) + 3(4) 2(0) + 7(4) 2(1) 1(1) + 3(9) + 7(9) 2(-2) 1(-2) + + 7(3), 3(3) = (128 28 65 ¹⁷).
+Note that, for matrices A and B in (d) of Example 1, the product BA is not defined,
+because B is a 2 x 3 matrix and A is 2 x 2 matrix.
+That is, the number of columns of B is not equal to the number of rows of A.
+Example 2
+Consider the following two matrices A = (1 1) and B = (1 1).
+Then, AB= (1 1) (1 1) 2 = (3 3) and BA = (1 1) (1 1) = (2 2).
+This implies both AB and BA are defined, but AB # BA.
+The example illustrates that, in general, multiplication of matrices is not
+commutative.
+150
+Unit 3: Matrices
+Example 3
+Let A = (aᵢⱼ)₃ₓ₂ and B = (bᵢⱼ) . Find numbers m and n such that
+a. AB is defined;
+b. BA is defined;
+c. both AB and BA are defined.
+Solution
+It is given that A is a 3 by 2 matrix.
+a. the product AB is defined, if m = 2 and n can be any positive integers;
+b. the product BA is defined, if n = 3 and m can be any positive integers;
+c. both products AB and BA are defined only when m = 2 and n = 3.
+Exercise 3.6
+Compute the product AB for each of the following cases.
+a. A = (1 2) and B -(4). =
+b. A = and B = (1 3)
+c. A = 2 3 4 1 and B =(3 1) = 1 d. A = 3 1 2 1 and B
+Properties of Multiplication of Matrices
+Definition 3.7
+Let A = (aij)mxn be a matrix. Then A is said to be a square matrix, if the
+number of rows and the number columns of A are equal, m = n. In this
+case, A is called a square matrix of order п.
+151
+Unit 3: Matrices
+Example 4
+a. A = (a b) is a square matrix of order 2.
+b. B = g d a h b e f C i is a square matrix of order 3.
+Activity 3.9
+a b C
+Let A = (a b) , B = g d h e f k , I₂ = (1 °) and I₃ = 0 0 1 0 0 1 0 0 1
+Then, compute
+a. AI₂ and I₂A
+b. BI₃ and I₃B
+In Activity 3.9, you have observed that AI₂ = A = I₂A and BI₃ = B = I₃B. That is,
+a. I₂ is the identity matrix for multiplication of matrices of order 2;
+b. I₃ is the identity matrix for multiplication of matrices of order 3.
+Next, we define the identity matrix for matrix multiplication.
+Definition 3.8
+1
+0
+0
+0
+...
+0 1 0 ... 0
+The square matrix order n of defined by, Iₙ =
+, where 1
+...
+...
+...
+...
+o
+0
+0
+1
+...
+nxn
+on the main diagonal and 0 other wise is called identity matrix for multiplication.
+That is, for any square matrix A of order п, AIn = A = IₙA.
+The identity matrix of order 2 is given by I₂ = (1 ₀), the identity matrix of order
+1 0 0
+3 is I₃ = 0 1 0 and so on.
+0 0 1
+152
+Unit 3: Matrices
+Activity 3.10
+Let A = (12 1), 1 1 B = (1 -1) 2 and C = (21 3). 3 Then compute
+a. A(B + C) and AB+AC.
+b. (B+C)A and BA+CA
+c. A(BC) and (AB)C
+d. 2(AB), A(2B) and (2A)B.
+In your responses in Activity 3.10, you have observed the following properties of
+matrix multiplication:
+a. A(B + C) = AB+AC and (B+C)A=BA+CA, (multiplication of matrices is
+distributive over addition of matrices);
+b. A(BC) = (AB)C, (matrix multiplication of matrices is associative);
+c. 2(AB) = A(2B)=(2A)B.
+These properties are summarized as follows.
+Properties of Matrix Multiplication
+Let A, B and C be matrices in R and k E R. Assume that the indicated operations
+on matrices are defined. Then
+a. A(B + C) = AB + BC (Multiplication of matrices is left distributive over
+addition).
+b. (A + B)C = AC + BC (Multiplication of matrices is right distributive over
+addition).
+c. A(BC) = (AB)C (Multiplication of matrices is associative).
+d. k(AB)=(kA)B=A(kB)
+e. If 0 is the zero matrix of appropriate size, then 0A = 0 and A0 = 0.
+From your knowledge in the set of real numbers, recall that:
+(i) if a and b are real numbers such that ab = 0, then either a = 0 or b = 0 (zero
+product rule);
+(ii) if a, b and C are real numbers such that ab = ac and a # 0, then b = C.
+That is, cancellation of multiplication works on the set of real numbers.
+153
+Unit 3: Matrices
+However, these properties are not true for multiplications of matrices in general as it
+can be seen in the following examples.
+Example 5
+If A = (1 2) and B = (2₁ -2), 1 then find AB.
+Solution
+AB = (° %) and observe that neither A nor B are the zero matrix.
+Example 6
+If
+A = (12 2) , B = (12 3) 3 and C = (-1 3 -4), 4 then find both AB and AC.
+Solution
+AB = (10 14 7 and AC = 10 5 14).
+Then observe that, AB = AC, but B  C.
+Exercise 3.7
+1. Let A = (1 ¹), 2 1 B = (1₁ ¹) and C = (2 3 ¹). Then find:
+a. AB
+b. BA
+C. (AB)C
+d. A(BC)
+e. I₂A
+f. BI₂
+2. Let A be a 2 X 3 matrix and B be an m X n matrix. Find m and n so that:
+a. AB is defined
+b. BA is defined
+C. both AB and BA are defined
+3. Let A -1) -3 -1 and B = 3 -1). -1 Then determine AB.
+4. Let A = 2 2 1 , B = 2 -1 2 and C = -1 4 i). 1 Determine AB
+and AC.
+154
+Unit 3: Matrices
+3.2.6 Transpose of a Matrix and Its Properties
+Activity 3.11
+Let A= ( -4 1 2 3 3) and B = 3 2 1 -4 3 0
+Can you mention how B is obtained
+from A?
+From your responses in Activity 3.11, you have observed that the rows of A are
+columns of B and the columns of A are rows of B.
+That is, B is obtained from A by changing rows of A to columns of B and columns of
+A to rows of B and this process is called transposing a matrix.
+Definition 3.9
+Let A = (aᵢⱼ) mxn be an m X n matrix. Then the matrix B = (bⱼᵢ) nxm where
+bji = aᵢⱼ for 1 ≤ j ≤ n and 1 ≤ i ≤ m is called the transpose of A and denoted
+by At.
+all a₁₂ ... a₁n
+Cul1
+a₂₁
+...
+aₘ₁
+a₂₁
+a22
+...
+a₂ₙ
+That is, if A =
+then At =
+a₁₂
+a₂₂
+...
+aₘ₂
+,
+aₘ₁
+aₘ₂
+amn
+a₁ₙ
+a₂n
+amn
+Example 1
+Find the transpose of each of the following matrices.
+1 -4
+a. A = (1 3 1 2)
+b. B = 2 3 0 1
+Solution
+a. At = (1 3 1 4 2 = (1 3)
+b. Bt = 2 3 1 0 1 = -4 1 3 0 2).
+155
+Unit 3: Matrices
+Activity 3.12
+Let A = (1 2) and B = (2 -1). -2 Then find,
+a. (A + B)t and At+Bt
+b. (3A)t and 3At
+c. (AB)t and BtAt
+d. (At)t
+From your response in Activity 3.12, observe that;
+a. (A + B)t = At+Bt
+b. (3A)t = 3At
+c. (AB)t = BtAt
+d. (At)t = A.
+These properties of transposes of matrices are true in general and they are given as
+follows.
+Properties of Transposes of Matrices
+Let A and B be matrices such that the given operations are defined and k E R.
+Then
+a. (A + B) = At + Bt b. (kA) = kAt c. (AB) = BtAt d. (At)t = A
+Example 2
+Let A = (3 2) and B = (1 2). Then, compute (A + B)ᵗ, 5Aᵗ, (AB)t and (Bt)t
+Solution
+At = (1 3) and Bt = (2 ¹). 0 1 Then,
+a. (A+B) = At + Bt = (1+0 3+ 1+ ¹) = (1 4). 4
+b. 5At = 5 x 2 5 x 1 5x3) = 10 5 15). 15 5 ).
+c. (AB)t = BtAt = (2 ¹) (1 3) = (C2 X X 1) 1) + + (1 (0 X X 2) 2) (0 (2 X X 3) 3) + + (0 (1 X X 1) =
+(2 1)
+d. (Bt)⁺ = (2 1)² = (1 2) = B.
+156
+Unit 3: Matrices
+Exercise 3.8
+1.
+Let A = (1 ³) and B = 01 3 Then
+find
+a. At
+b. Bt
+C. (A + B) t
+d. (AB) t
+e. (Bt)ᵗ
+f. (4AB)⁺
+2. Let A = 123 789 456 and B = 002 0 100 1 0 Then find
+a. At
+b. (A + B) t
+c. Bt
+d. (AB) t
+e. (Bt)ᵗ
+f. (2AB)⁺
+3.3 Special Types of Matrices
+3.3.1 Symmetric and Skew Symmetric Matrices
+Activity 3.13
+Let A = (1 2) and B = (_°₂ 2) Find
+a. At
+b. Bt
+c. B + Bt
+From your responses in Activity 3.13, observe that
+a. At = A
+b. Bt = -B
+c. B+Bt = 0 =
+Definition 3.10
+Let A = (aᵢⱼ) nxn be a square matrix of order n. Then A is said to be
+a. a symmetric matrix, if A = At.
+That is, A is a symmetric matrix, if aᵢⱼ = aji for 1 ≤ i, j ≤ n.
+b. a skew-symmetric matrix, if A = -At.
+That is, A is a skew symmetric matrix if A + At = 0ₙₓₙ.
+Equivalently A is skew symmetric matrix if aᵢⱼ = -aji for 1≤i,j ≤ n.
+I
+157
+Unit 3: Matrices
+Note that, if matrix A = (aᵢⱼ), nxn is skew symmetric matrix, then aᵢᵢ = 0 for
+i = 1,2, ..,n.
+Example 1
+Identify the following matrices as symmetric, skew-symmetric or neither.
+123
+0 -2 3
+103
+Iₙ, for a positive integer n, A = 254 , B = 20-4 andC=5 0 7
+349
+-340
+-324,
+Solution
+a. Itn = Iₙ and hence Iₙ is a symmetric matrix.
+b. A⁺ = 123 349 2 5 4
+= A, hence A is a symmetric matrix.
+c. B'=  -2 0 4 02-3 3-40
+and Bt = -B. This implies B is a skew-symmetric matrix.
+d.C'=002 15-3 3 7 4
+This implies C # Ct and , hence C is neither a
+symmetric matrix nor a skew-symmetric matrix.
+Example 2
+123
+Consider the matrix A = -438 Then find
+6 -10 5
+a. B=¹₂(A+A')
+b.C = 1 )
+c.B+C
+158
+Unit 3: Matrices
+Solution
+1 -4 6
+The transpose of A is A⁺ = 2 3 3 8 -10 5
+Thus,A + At = -2 2 9 -2 -2 6 -2 10 9 and A - At = -6 0 3 -18 6 0 -3 18 0
+Then,
+9
+a. matrix B = 2 1 (A + Aᵗ) = 2 1 -2 9 2 -2 -2 6 -2 10 9 = -1 1 -1 -1 3 -1 5 2 is symmetric
+a
+2
+matrix;
+3
+b. matrix C = 1 (A At) = 2 1 -6 0 3 -18 0 6 -3 18 0 = -3 0 3 -9 3 0 3/2 9 0 2
+is a skew-
+2
+symmetric matrix.
+Observe that B + C = 1 (A + Aᵗ) + 1/2 2 1 (A - At) = A hence A is written as sum of a
+symmetric matrix and a skew-symmetric matrix.
+Exercise 3.9
+1. Identify each of the following matrices as symmetric, skew-symmetric or neither
+A
+= 2 3 1 2 0 1 3 5 0 , B = -1 0 2 -3 0 1 -2 3 0 , C = 0 0 1 2 0 1 2 3 5 , D = 0 0 2).
+1 2 3
+2. Let A =
+246
+Find a symmetric matrix B and a skew-symmetric matrix
+3 1 5
+C so that A = B+C
+1 a 2
+3. Let A =
+010
+Find the values a, b, C so that A is a symmetric
+b C 5
+159
+Unit 3: Matrices
+3.3.2 Diagonal Matrices and Triangular Matrices
+Definition 3.11
+Let A=(aₗ), be a square matrix of order n.
+a. The elements a₁₁, a₂₂, ..., ann are called diagonal elements of A.
+b. The sum of the diagonal elements of A is called the trace of A and denoted
+by tr(A). That is,
+c. A is called a diagonal matrix if aᵢⱼ = 0 for all i # j. That is, A is a diagonal
+matrix, if
+A = a₁₁ 0 : 0 a₂₂ 0 0 : ... aₙₙ 0 0 :
+d. A is called a scalar matrix if A is a diagonal matrix and aii = α for some
+α E R and for i = 1, 2, , n. That is, A is scalar matrix, if
+α
+0
+0
+...
+0
+a
+0
+...
+A =
+for some α E R.
+... ... ...
+0
+0
+α
+AXA
+160
+Unit 3: Matrices
+Definition 3.12
+Let A = (aij)ₙxₙ be a square matrix of order n.
+a. If aᵢⱼ = 0 for all i > j, then A is called an upper triangular matrix. That is,
+a₁₁
+a₁₂
+a₁ₙ
+0
+a₂₂
+a₂ₙ
+A is said to be an upper triangular matrix if A =
+;
+...
+...
+0
+0
+...am
+b. A is called a strictly upper triangular matrix if aᵢⱼ = 0 for all i ≥ j. That is,
+A is said to be a strictly upper triangular matrix if
+0 a₁₂ a₁(n-1) aᵢₙ
+00
+a₂(n-1)
+a₂ₙ
+A =
+...
+!
+;
+...
+0
+0
+0
+0
+...
+c. A is called a lower triangular matrix if aᵢⱼ = 0 for all i <j. That is A is said
+to
+be
+a
+lower
+triangular
+matrix
+if
+a₁₁
+0
+0 0
+...
+a₂₁
+a₂₂
+... 0 0
+A =
+...
+...
+:.
+...
+...
+;
+aₙ₁
+an2 an(n-1)ann
+d. A is called a strictly lower triangular matrix if aᵢⱼ = 0 for all i ≤ j That is A
+is said to be a strictly lower triangular matrix if
+0
+0
+... 0 0
+a₂₁
+0
+... O 0
+A =
+...
+...
+:.: ...
+aₙ₁
+aₙ₂
+aₙ(n-1)
+0
+I
+161
+Unit 3: Matrices
+Example
+Identify each of the following matrices as diagonal, scalar or triangular matrices.
+a. A = 103 0 0 -2 0 -6 5
+b.B=
+-1 0 0 2 0 0 0 0 0
+c.
+C = -2 0 0 -2 0 0 -2) 0 0
+Solution
+a.
+A = 0 0 1 -2 0 0 -6 3 5
+is an upper triangular matrix, because all the entries below
+the main diagonal are 0.
+b.
+B = -1 0 O 2 0 0 0 0 0
+is a strictly lower triangular matrix, because all the entries
+below the main diagonal and on the main diagonal are 0.
+c.
+C = -2 0 0 -2 0 0 -2 0 0
+is both a scalar and a diagonal matrix, because all the entries
+below and above the main diagonals are 0 and the entries in the main diagonal
+are all -2.
+Exercise 3.10
+1. Identify each of the following matrices as diagonal, scalar or triangular matrices.
+A
+= 0 0 1 2 0 1 0 5 3 , B = -1 0 2 -3 0 0 -3 0 0 , C = 0 0 5 0 0 5 0 5 0 , D = (° 2).
+2. Let A =
+0
+1 a 2). 2
+1
+0
+Find a, b, C such that A is an upper triangular matrix.
+b c 5
+162
+Unit 3: Matrices
+3.4 Elementary Row Operations of Matrices
+Activity 3.14
+Consider the system
+x + y = 1 =
+x - 2y = 11
+a. Multiply the first equation by 2 and add the result to the second equation.
+b. Multiply the result in (a) by 113 and solve for x.
+The operations you have performed in Activity 3.14 are operations on the rows of the
+matrix (1 -2 1 -11) of the given system.
+A familiar method of solving a set of linear equations is by elimination of the
+unknowns. We shall systematize this method by working only on the numbers
+involved in the given set of linear equations.
+Definition 3.13
+Let m and n be positive integers and A be an m X n matrix with entries inR. An
+elementary row operations on A is any one of the following operation.
+Swapping: Interchanging two rows of matrix A:
+Swapping of the iᵗʰ row and the jth row of A is denoted by Rᵢ
+Rj.
+Scaling: Multiplying a row of A by a non-zero constant:
+Multiplying the iᵗʰ row by a nonzero scalar k is denoted by R₁
+kRᵢ.
+Pivoting: Adding a nonzero constant multiple of one row of A onto another
+row of A.
+Adding k times the iᵗʰ row of A onto the jth row is denoted by R,
+R/ + kR,
+I
+163
+Unit 3: Matrices
+Example 1
+Let A = (4 3) Apply each of the following elementary row operations one after
+the other on A and obtain a new matrix.
+a. R₁
+R2
+b. R₂ R₂ - 4R₁
+c. R2
+1/R2
+Solution
+a. A = 4 1 3 2 R₁ R₂ (1 2 3 (Interchanging R₁ by R₂).
+b. 4 1 2 3 R₂ R₂ 4R₁ 1 -10 3 (Replacing R₂ by R₂ - 4R₁)
+c. 0 1 -10 3 R₂ 10 1 R₂ 0 1 3 1 (MultiplyingR₂by - ¹
+Thus, 0 1 3 1 is an upper triangular matrix.
+Example 2
+Let A = 4 2 2 4 7 5 12 6 6
+Apply appropriate elementary row operations to change A
+into an upper triangular matrix.
+Solution
+1
+R₁
+1
+2
+3
+A = 4 2 2 4 7 5 12 6 6 R₁
+4
+5
+6
+(Multiplying R₁by¹) 1)
+2
+7
+12
+R₂-R₂-4R₁
+R₃-R₃-2R₁
+0 0 1 -3 3 2 -6 3 6
+(Replacing R₂ by R₂ - 4R₁ and R₃by
+R₃ - 2R₁)
+164
+Unit 3: Matrices
+1
+2
+3
+R₃
+R₃
+R₂
+0
+-3
+-6
+(Replacing R₃by R₃ + R₂)
+0
+0
+0
+The matrix
+0 0 1 -3 2 0 -6 0 3
+is an upper triangular matrix obtained from A.
+Definition 3.14
+The inverse operation of an elementary row operation is an elementary row
+operation of the same type. That is,
+a. The inverse of the elementary row operation Rᵢ
+Rⱼis Rⱼ
+Rᵢ, which
+is again an elementary row operation.
+b. For a nonzero real number k, the inverse of the elementary row operation
+Rⱼ
+kRjis Rⱼ
+1Rⱼ k 1 which is again an elementary row operation.
+c. For a scalar k the inverse of the elementary row operation Rᵢ
+Rᵢ + kRj is
+Rᵢ
+Rᵢ — kRj which is also an elementary row operation.
+Example 3
+Let A = 1 2 5 Then, find the inverse of the following elementary row operations:
+A
+= 1 1 2 (Interchanging R₁ and R₂)
+R₁ 0 -3 5 (Replacing R₂ by R2 R₁)
+I
+165
+Unit 3: Matrices
+Solution
+Let us apply the inverse elementary row operations of the above three elementary
+row operations on the matrix (1 5) as follows.
+(1 5 R₂ 3R₂ 0 5) (Multiplying R₂ by -3, which is the inverse of the
+elementary row operation, , multiplying R₂by - 1). 1
+R₂ 1 5) (Replacing R₂by R₂ + R₁, which is the inverse of the elementary
+row operation, replacing R₂by R₂ - R₁).
+R₂ R₁ 1 1 2) (Interchanging R₂and R₁)
+In Example 3, observe that
+a. R₂
+- 3R₂ is the inverse of R₂
+b. R₂
+R₂ + R₁ is the inverse of R₂
+R₂ - R₁ and
+c. R₂
+R₁ is the inverse of R₁
+R₂
+Elementary Column Operations
+There are also column operations on matrices.
+Swapping: Interchanging two columns of a matrix.
+Scaling: Multiplying a column of a matrix by a non-zero constant.
+Pivoting: Adding a constant multiple of one column of a matrix onto another
+column.
+However, in this textbook, we use only elementary row operations in solving system
+of linear equations.
+166
+Unit 3: Matrices
+Exercise 3.11
+1. Let A = 4 3 1 2 5 6 -5 3 6
+.
+Find the matrix obtained from A by applying the following
+elementary row operation.
+a. R₁
+R₃
+b. R₂ -> R₂ 4R₁
+c. R₃ 1R3 3 1
+2. Let B=-2 1-5 2 1 3 1 -1 2
+Determine the inverse of each of the following elementary
+row operations on B.
+a. R₂
+R₃
+b. R₃
+R₃ + 2R₁
+C. R₂ 4R2
+Row Echelon Form (REF) of a Matrix
+Definition 3.15
+Given two matrices A and B of the same size, A and B are said to be row-
+equivalent if one of the matrices is obtained from the other by successive
+applications of a finite number of elementary row operations and this relation is
+denoted by A ≡ B.
+Example 4
+Let A = (1 -2). 1 2 Find three matrices that are row equivalent to A.
+I
+167
+Unit 3: Matrices
+Solution
+(Interchanging R₁and R₂)
+R₂
+-R₁ 0 1 -3 1 (Replacing R₂ by R2 - R₁)
+R₂ R₂ (1 1) (Replacing R₂by-¹R₂)
+Then the matrices (1 _1), (1 1₃) and (1 1) are all row equivalent to matrix
+A.
+Note
+Row equivalence of matrices helps us to transform a given matrix to a matrix
+with greater number of zeros than the original matrix and this simplifies
+operations on matrices.
+Definition 3.16 (Row Echelon Form (REF))
+An m X n matrix A is said to be in it Row Echelon Form (REF) if it satisfies
+the following.
+(a) All rows consisting entirely zeros, if any, are at the bottom of the matrix.
+(b) If Rᵢand R(i+1)are any two successive nonzero rows of A, the number of
+zeros preceding the leading element of the (i+1) row is greater than the
+number of such zeros in ith row.
+Note
+By a zero row we mean that a row in which all the entries of the row are zero.
+The matrix A =
+1 0 0 a 0 0 b 0 2 C 0 e f g d
+is in Row Echelon Form.
+168
+Unit 3: Matrices
+Example 5
+Determine if each of the following matrices are in Row Echelon Form.
+1 -1 2
+11-10
+122
+010
+0000
+A=
+011 , B =
+, C =
+,
+001
+0013
+001
+000
+0001
+1104
+(121-2
+0100
+0200
+D =
+and E =
+.
+0013
+0010
+0011
+0001
+Solution
+a. Matrices A, B and E are in Row Echelon Form.
+b. Matrix C is not in Row Echelon Form, because C has a zero row, the second
+row, but this zero row is not at the bottom as the third row is not a zero row.
+c. Matrix D is not in row echelon form, because the number of zeros preceding the
+leading element of the third and the fourth row are both two.
+Exercise 3.12
+Determine if each of the following matrices in Row Echelon Form.
+123
+1213
+1212
+a.
+006
+b.
+0450
+c.
+0003
+110
+0001)
+0114
+169
+Unit 3: Matrices
+Reduced Row Echelon Form (RREF) of a Matrix
+Activity 3.15
+123
+111
+Consider the matrices A =
+000
+and
+B
+=
+123
+012
+021
+a. Give your reason why matrices A and B are not in Row Echelon Form
+b. Apply the elementary row operation R2
+R₃ on A and obtain matrix C.
+c. Apply the elementary row operations R2
+R2 - R₁ and R₃
+R3 -2R₂
+respectively on matrix B and obtain matrix D.
+d. What is the relationship between matrices C and D in (b) and (c) above
+respectively?
+The matrices you have obtained in your responses in Activity 3.15 are matrices in
+Row Echelon Form. Thus, any matrix is row equivalent to a matrix in Row Echelon
+Form.
+Example 6
+1302
+Reduce the matrix A =
+2112
+into a matrix in Row Echelon Form.
+-1 0 -2 -4
+Solution
+A is not in REF, because the number of zeros preceding the first nonzero element in
+the second row is zero which is the same as the number of zeros preceding the first
+nonzero element in the first row.
+Therefore, to reduce A into a matrix in REF, choose appropriate elementary row
+operations.
+170
+Unit 3: Matrices
+1302
+1302
+A = 2112
+R₂ R₂-2R₂
+0-51-2
+R₃R₃+R₁
+-1 0 -2 -4
+0 3 -2 -2)
+1302
+0 -5 1 -2 = B.
+0 0 -2
+5
+The last matrix, B is in Row Echelon Form (REF), obtained from A by applying the
+three successive elementary row operations, R₂
+R₂ - 2R₂, R₃
+1
+R₃ + R₁ and
+R₃ R₃+³R₂.
+Definition 3.17
+Given positive integers m and n, an m X n matrix A is said to be in Reduced
+Row Echelon Form (RREF) if A is in Row Echelon Form (REF) and the
+leading element in each nonzero row is 1 and it is the only nonzero number in its
+column.
+Example 7
+Determine which of the following matrices are in Reduced Row Echelon Form.
+100
+1025
+I₃ = 010 0 100 0 1
+A =
+012
+B =
+0126
+,
+,
+,
+001
+0000
+1 0 0
+100
+001
+C =
+001
+D =
+,
+.
+000
+010
+0 0 0
+-
+171
+Unit 3: Matrices
+Solution
+The matrices I₃, B and D are in RREF, because all the three matrices satisfy the
+requirements of the definition of a matrix in RREF.
+(a) Matrix A is not in RREF, because the leading element of the third row of A,
+which is 1, is not the only nonzero element in its column.
+(b) Matrix C is not in RREF, because the number of zeros preceding the leading
+element of the second row is two and the number of zeros preceding the leading
+element of the third row is one.
+However, you can reduce both A and C in the above example to RREF by applying
+appropriate elementary operations.
+Activity 3.16
+1 0 0
+100
+Consider the matrices
+A
+=
+012
+and
+C
+=
+001
+001
+0 1 0
+a. Apply the elementary row operation R2
+R2 - 2R3 on matrix A.
+b. Apply the elementary row operation R2
+R3 on matrix C.
+In your responses for (a) and (b) of Activity 3.16, observe that the matrices obtained
+after the proposed elementary operations are in Reduced Row Echelon Form (RREF).
+Activity 3.16 also illustrates that you can use proper elementary operations to reduce
+a matrix into a matrix in Reduced Row Echelon Form (RREF).
+Remark
+Every m X n matrix is row equivalent to an m X n matrix in Reduced Row
+Echelon Form (RREF).
+172
+Unit 3: Matrices
+Example 8
+1002
+0 1 1 2
+Reduce the matrix A =
+into a matrix in Reduced Row Echelon
+00 -2 -4
+0 0 0 0
+Form.
+Solution
+A is not in RREF, because
+a. the first nonzero element in the third row is -2, not 1;
+b. the first nonzero element of the third row is not the only nonzero element in its
+column.
+Therefore, to reduce A into a matrix in RREF, choose appropriate elementary row
+operations.
+1002
+1 0 0 2
+0 1 1 2
+1
+R₃
+R₃
+0 1 1 2
+A =
+2
+0 0 -2 -4
+0 0 12
+0 0 0 0
+0 0 0 0
+1002
+0 1 00
+R₂ R₂ R₃
+= B.
+0 0 1 2
+0 0 0 0
+The last matrix, B, obtained from A by applying the two successive elementary row
+1
+operations, R₃
+R₃ and R₂
+1
+R₂ - R₃ is in RREF.
+2
+I
+173
+Unit 3: Matrices
+Exercise 3.13
+1. Reduce each of the following matrices into Row Echelon Form.
+123
+1213
+1212
+a.
+456
+b.
+2450
+c.
+1313
+17
+0101
+1414
+2. Reduce each of the following matrices into Reduced Row Echelon Form.
+121
+1231
+a.
+2121 1212
+b.
+212
+c.
+4562
+131
+7893
+3.5 Systems of Linear Equations with Two or Three
+Variables
+One of the main reasons of studying matrices is to solve systems of linear equations.
+In this section, you will learn techniques or methods of solving systems of linear
+equations.
+Activity 3.17
+The sum of two natural numbers is 30 and the second number is 4 more than the
+first number. Find the numbers.
+In your responses in Activity 3.17, if you let the first number by x and these second
+number by y, then you need to find a common solution to the two solutions x + y =
+30 and y = x + 4.
+The two equations x + y = 30 and y = x + 4 are called linear equations and the
+two equations together form a set of linear equations called a system of linear
+equations.
+174
+Unit 3: Matrices
+Definition 3.18
+An equation of the form a₁x₁ + a₂X₂ + ... + anxₙ = b, where a₁, a₂, , aₙ, b
+are real numbers, is called a linear equation in then variables x₁, x₂, , xₙ. The
+variables X1, x₂, Xₙ are also called unknowns.
+Example 1
+a. The equation 2x - y = 5 is a linear equation in two variables, x and y.
+b. The equation 2x + 3y + 4z = 5 is a linear equation in three variables, x, y and Z.
+c. The equation x₁ + πx₂ + 4x₃ + x₄ + 3 1 x₅ = 0 is a linear equation in five
+variables, x₁, X₂,X₃, x₄and x₅.
+Remark
+A linear equation does not involve product of variables, quotient of variables or
+roots of variables and all the variables that occur in the equation are only to power
+one.
+Example 2
+Give your reasons why each of the following equations is not a linear
+equation.
+3x² + 5y = 7, xy - 2z + W = 1 and x - √y + 4z = 0.
+Solution
+a. The equation 3x² + 5y = 7 is not a linear equation, because it
+involves x².
+b. The equation xy 2z + W = 1 in not a linear equation, because it
+involves xy.
+c. The equation x - √y + 4z = 0 is not a linear equation, because it
+involves √y.
+I
+175
+Unit 3: Matrices
+Activity 3.18
+Consider the equation x - y = 5.
+a. Substitute x = 2 and y = 3 and determine the result.
+b. Substitute x = 6 and y = 1 and determine the result.
+In your responses in Activity 3.18,
+a. the ordered pair (2,3) gives you a false statement;
+b. the ordered pair (6,1) gives you a true statement.
+Thus, the ordered pair (6,1) is a solution to the given equation, whereas the ordered
+pair (2,3) is not a solution.
+Definition 3.19
+An n — tuple of numbers (C₁,c₂,...,cₙ) is said to be a solution to a linear
+equation
+if the equation is satisfied when we substitute x₁ = C₁,X₂ = C₂, , xₙ = Cₙ in
+the equation, that is, if a₁c₁ + a₂C₂ + + aₙcₙ = b.
+The set of all the possible solutions of a given linear equation is called the
+solution set or the general solution set of the given linear equation.
+Example 3
+Consider the linear equation 2x + y = 4. =
+a. Which of the ordered pairs (2,0), (0,2) and (1,2) are solutions of the given
+linear equation?
+b. Find the solution set of the given linear equation.
+176
+Unit 3: Matrices
+Solution
+a. For x = 2 and y = 0, we have (2 X 2) + 0 = 4 + 0 = 4.
+This implies, the ordered pair (2, 0) is a solution to the given linear equation.
+For x = 0 and y = 2, we have (2 X 0) + 2 = 0 + 2 # 4.
+This implies, the ordered pair (0, 2) is not a solution to the given linear equation.
+For x = 1 and y = 2, you have (2 X 1) + 2 = 2 + 2 = 4.
+This implies, the ordered pair (1, 2) is a solution to the given linear equation.
+b. From the given equation if you solve for y in terms of x gives you
+2x + y = 4 y = + 4.
+This implies, the solution set of the given linear equation is the set of
+all ordered pairs of numbers (x,y) such that 2x + y = 4 and
+y = 4 - 2x.
+Therefore, the solution set of the given equation is {(x, 4 - 2x): x E R}
+Exercise 3.14
+1. Give your reasons why each of the following equations is not a linear
+equation.
+x + 5y² = 7, x + yz + W = 0 and x - y + 4√z = 0.
+2. Consider the linear equation x - 3y = 5.
+a. Which of the ordered pairs (1,1), (2, 1)and (5,0) are solutions of the
+given linear equation?
+b. Find the solution set of the given linear equation.
+Augmented Matrix of a System of Linear Equations
+The main objective of this section is to find the set of all common solutions of
+a finite number of linear equations having the same variables.
+I
+177
+Unit 3: Matrices
+Definition 3.20
+Let aᵢⱼ, bᵢ E R, for i = 1,2, , m and j = 1,2, , n. . A finite set of linear
+equations:
+II
+is called a system of m linear equations in n variables;
+Activity 3.19
+Let A = (1 3 2 X = (x) and B = (1).
+a. Find AX
+b. Find the values of x and y such that AX = B.
+In Activity 3.19 part (b), to find the values of x and y, you have to find a solution for
+x + 2y = 1
+the system
++ 3y = -4' which is a system of two linear equations in two variables.
+Then, the expression AX = B is called a matrix form of the system.
+Remark
+Consider the following system of linear equations.
+The system can be written in matrix form as AX = B,where
+A = (aᵢⱼ) X = xₙ x₁ and B =
+178
+Unit 3: Matrices
+The matrix A = (aᵢⱼ) mxn is called the coefficient matrix of the system and the
+matrix
+(A|B) =
+aₘ₁ a₂₁ a₁₁ ... aₘ₂ a₂₂ a₁₂ ... ... ... ... : a₂ₙ a₁ₙ aₘₙ : bₘ b₁
+obtained by adjoining B to A is called the augmented matrix of the system.
+The coeeficient matrix and the augmented matrix of a given system play important
+roles in determining the solution set of the given system.
+Example 4
+Find the coefficient and the augmented matrix of the system.
+x+y+z=8
+x + 2y = 5
+y + 3z = 9
+Solution
+The system can be rewritten in matrix form as:
+0 1 1 2 1 1 3 0 1 y x Z = 8 9 5
+1 1 1
+The matrix
+120
+is the coefficient matrix of the system and the matrix
+0 1 3
+1 1 18
+1 2 0 5
+0 1 3 9
+is the augmented matrix of the given system.
+I
+179
+Unit 3: Matrices
+Exercise 3.15
+Find the coefficient matrix and the augmented matrix of each of the following
+systems of linear equations.
+x+y+z=1 =
+2x+y=5
+a.
+b. 2x-y-z=0 =
+x-3y=7
+3x+5y-9z=1 =
+Solution Set of a System of Linear Equations (1)
+Definition 3.21
+Consider a system AX=B of m linear equations in n variables.
+An order n -tuple of numbers C = (c₁,c₂,...,Cₙ)t is a solution to the system
+AX = B if AC = B and the set of all solutions of AX = B is called the solution set
+of the given system.
+Example 5
+Solve the following system of linear equations
+x+2y=1 =
+j 0=28+1 II
+Solution
+Solving for y in terms of Z from the second equation gives us y = 3z.
+Substituting y = -3z in the first equation, x + 2y = 1, and solving for x in
+terms of Z gives us x = 1 2y = 1 - 2(-3z) = 1 + 6z.
+Therefore, the solution set of the given system is {1+6z,-3z,z): :z E R}.
+If we let Z = 0, then x=1+6(0)=1 and y=-3(0)=0. = =
+Therefore, (1, 0, 0) is a particular solution to the given system.
+180
+Unit 3: Matrices
+Activity 3.20
+Consider the system
+x-y=1 =
+-2x+2y=0 =
+Multiply the first equation by -2, add the two equations and obtain the result.
+In your responses to the question in Activity 3.20, you have obtained the expression
+0 = 1, which is false and hence the given system does not have a solution.
+Definition 3.22
+A system of linear equations that has at least one solution is called a
+consistent system and a system that does not have a solution is called an
+inconsistent system.
+Example 6
+Determine if the following system of linear equation is consistent.
+x-2y=1
+-x+3y=0
+Solution
+Adding the two equations gives us y = 1.
+Then, from the first equation, x - 2(1) = 1 = x = 3.
+This implies (3,1) is a solution to the given system, hence the given system is a
+consistent system.
+Example 7
+Determine if the following system of linear equations is consistent.
+x - y = 1 =
+-2x + 2y = 0
+I
+181
+Unit 3: Matrices
+Solution
+Multiplying the first equation by 2 and adding the two equations give us 0 = 2, =
+which is always false.
+Therefore, the given system has no solution and hence the system is an inconsistent
+system.
+Exercise 3.16
+Determine if each of the following system of linear equations is consistent or
+inconsistent.
+a. 2x-y=2 x + y = 1 =
+b. 2x - 4y = -4 -x+2y=5 =
+Solution Set of a System of Linear Equations (2)
+Activity 3.21
+Find the point(s) of intersections of each of the following pairs of lines (if there is
+any).
+a. l₁:x+y = 2 and l₂:x -y =0;
+b. S₁ - y = 2 and S₂: + 2y = 6;
+c. t₁: - y = 1 and t₂: + 2y = -2.
+From your responses in Activity 3.21, observe that,
+a. l₁ and l₂ intersect exactly at one point;
+b. S₁ and S₂ do not intersect and they are two parallel lines;
+c. t₁ and t₂are identical lines.
+To find out all the possibilities regarding the solutions of systems of linear
+equations, consider the case when you have a system of two linear equations
+in two variables.
+182
+Unit 3: Matrices
+Consider a general system of two linear equations in two variables
+a₁x + b₁y = C₁ (a₁, b₁ not both zero)
+a₂x + b₂y = C₂ (a₂, b₂ not both zero)
+These are equations of two lines, say l₁: a₁x + b₁y = c₁and
+l₂:a₂x+b₂y=c₂.
+There are only three possibilities about the intersection points of these two
+lines.
+a. The lines l₁ and l₂ intersect exactly at one point and this point of intersection is
+the only solution of the given system of linear equations, see Figure 3.1.
+5
+y
+4
+3
+|;a,x+b₁y=c₁ =
+2
+1
+-1.5
+-1
+-0.5
+0
+0.5
+1
+1.5
+2
+2.5
+x
+-1
+-2
+l₂a₂x+b₂y=c₂ =
+-3
+Figure 3.1: Intersecting Lines
+b. l₁ and l₂ are two parallel lines and they do not intersect. In this case the
+given system of linear equations has no solution, see Figure 3.2.
+I
+183
+Unit 3: Matrices
+y
+4
+x + b₁y = c₁
+2
+-3
+-2
+-1
+1
+2
+3
+4
+O
+x
+-2
++ b₂ = C₂
+-4
+-6
+Figure 3.2: Parallel Lines
+c. The lines l₁ and l₂ coincide (or identical). In this case, all the ordered pairs of
+numbers satisfying one of the two equations of the given system on one of the
+two lines are solutions of the given system and hence the system has infinitely
+many solutions, see Figure 3.3.
+y
+6
+4
+l₁:a₁x + b₁y = C₁
+2
+-2
+-1
+1
+2
+3
+x
+2 x + b₂y = C₂
+2
+-4
+-6
+Figure 3.3: Identical Lines
+I
+184
+Unit 3: Matrices
+Thus, a given system of linear equations has either one solution, no solution
+or infinitely many solutions.
+A consistent system has either only one solution or infinitely many solutions.
+Example 8
+Determine if each one of the following system of linear equations has only one
+solution, no solution or infinitely many solutions.
+a. x-y=3 x+y=1
+b. x-y=0
+-2x+2y=3
+II
+c. 3x+6y=9 x + 2 y 3 = =
+Solution
+a. Adding the two equations gives us 2x =4  x =2. = =
+Then, solving for y from the equation x+y=1 = y = 2 = 1.
+Therefore, (2, -1) is the only solution of the given system.
+b. Multiplying the first equation by 2 and adding the two equations gives us 0 = 3, =
+which is always false. Therefore, the system has no solution.
+c. Multiplying the first equation by 3 and subtracting it from the second equation
+gives us 0 = 0. This implies, the two equations are identical and hence the
+system has infinitely many solutions.
+Exercise 3.17
+Determine if each one of the following system of linear equations has unique
+solution, no solution or infinitely many solutions.
+a. x+y=5 x-y=1
+b. 2x+2y=4 x+y=1 =
+x-2y=1
+c.
+-2x+4y=2
+I
+185
+Unit 3: Matrices
+Homogeneous Systems of Linear Equations
+Activity 3.22
+Consider the system x-2y=0 x+y=0
+a. Write the given system in matrix form, AX=B.
+b. What type of matrix is B in (a)?
+The matrix B in your responses of Activity 3.22 is the zero matrix and the system is
+called a homogenous system.
+Definition 3.23
+Consider a system of linear
+equations
+II
+If b₁ = b₂ = ... = bₘ = 0, then the system is called a homogeneous,
+otherwise, it is called a non-homogeneous system.
+Note
+A homogenous system is a system of the form AX = 0.
+Example 9
+Write the following system in matrix
+form.
+x+y+z=0
+2y+z=0 =
+x + 3z = 0 =
+186
+Unit 3: Matrices
+Solution
+The system in matrix form is
+103. 021 1 1 1 y x Z = 0 0 0
+and the system is
+homogeneous system.
+Remark
+Consider a homogeneous system of linear equations
+=
+=
+...
+a. The given system has always a solution; namely, x₁ = x₂ = ... =
+xₙ = 0. =
+This solution is called the trivial solution of the homogenous
+system.
+b. A solution (x₁,x₂,...,xₙ)t of the given system for which xᵢ # 0, for
+some i = 1,2,...,n, is called a non-trivial solution of the given
+homogenous system.
+Example 10
+Determine the coefficient matrix and the augmented matrix of the following system
+of linear equations.
+x + 2y + z = 0
+y + z = 0
+x + y = 0
+I
+187
+Unit 3: Matrices
+Solution
+The given system in matrix form is
+121 011 1 1 0 y x Z = 0 0
+121
+Then the coefficient matrix of the system is A =
+011
+and the augmented
+110
+matrix of the system is
+0110 1100 1 2 1 0
+Exercise 3.18
+Find the coefficient matrix and the augmented matrix of each of the following system
+of linear equations.
+x+y-z=0
+2x+3y-z=0 =
+x + y = 0
+a.
+b. 2x + y + z 0 =
+c. x-y+z=0
+2x - 3y = 0
+x-y-z=0
+x+y-z=0 =
+3.6 Solutions of Systems of Linear Equations
+In this section, you will learn how to solve systems of linear equations that were
+introduced in Section 3.5, using the concept of elementary row operations.
+Activity 3.23
+Solve each of the following systems of Linear Equations.
+a. x + y = 1 =
+b. - x + y = 3 =
+y = 2 =
+x + y = 1 =
+From your solutions in Activity 3.23, observe that the two systems have the same
+solution and such systems are called equivalent systems.
+188
+Unit 3: Matrices
+Definition 3.24
+Two systems of linear equations over R, the set of real numbers, with the same
+number of unknowns are said to be equivalent if every solution of one system is
+a solution of the other system.
+Example 1
+Solve the following system of linear equations.
+x + y = 1 =
+x - y = 3 =
+Solution
+The augmented matrix of the system is (4) 11
+Then, reduce this matrix into a matrix in Row Echelon Form using appropriate
+elementary row operations as follows.
+111 and this last matrix is in Row Echelon Form.
+Thus, the systems with augmented matrices -13 11 and -2 11 have
+the
+same solution set.
+Then, solve the system
+x+y=1 =
+-2y=2 =
+From the second equation, we get y = - 1 = and substituting this in the first equation
+gives us that x = 1 - (-1) = 2.
+Therefore, the solution set of the given system is {(2,-1)}.
+I
+189
+Unit 3: Matrices
+Note
+A system of linear equations that is equivalent to a given system AX = B can be
+obtained by applying appropriate elementary row operations on the augmented
+matrix (A|B).
+Consider a system AX = B.
+(a) If the matrices (A|B) and (C|D)are row equivalent augmented matrices of
+two systems, then the systems AX = B and CX = D have the same
+solutions.
+(b) The method of solving the system AX = B by reducing (A|B) into Row
+Echelon Form (REF) is called Gaussian Elimination Method..
+(c) The method of solving the system AX = B by reducing (A|B) into Reduced
+Row Echelon Form (RREF) is called Gauss-Jordan Reduction Method.
+Example 2
+Solve the following system of linear equations using Gaussian Elimination Method.
+x+y+z=1 =
+x-y-z=5 =
+x+y-z=3 =
+Solution
+1111
+The augmented matrix of the system is
+1-1-5
+11 -1 3
+Reduce this matrix into a matrix in Row Echelon Form using appropriate elementary
+row operations as follows.
+1111
+1111 11 1 -1 -1 -13 5 R₃R₃-R₁
+0
+-2
+-2
+4
+0 0 -2 2
+and the last matrix is in Row Echelon Form.
+190
+Unit 3: Matrices
+Thus, the systems with augmented matrices
+1 1 1 -1 1 1 1) -1 -1 1 3 5 1 and
+1
+1
+1
+1
+0
+-2
+-2
+4
+are equivalent systems and hence they have the same solution
+0
+0
+-2
+2
+set.
+Then, the solution set of the system can be obtained using the augment matrix
+1
+1
+1
+1
+0
+-2
+-2
+4
+and the system with augmented matrix
+0 0 1 -2 0 1 -2 -2 1 4 2 1 is
+0
+0
+-2
+2
+x+y+z=1
+2y - 2z = 4
+-2z = 2
+From the last equation, -2z = 2, we have z = - 1. =
+Consider the second equation,- 2y - 2z = 4, with z = - 1 = from above and solving
+for y gives us that y = - 1. =
+Use the first equation,x +y+z = 1 and y = -1 and Z = -1 from above to solve
+for x.
+Then, solving for x gives you that, x = 3.
+Therefore, the solution set of the given system is {(3,-1,-1)}.
+Example 3
+Solve the following system of linear equations.
+x + 2y - Z = 0
+2x+y-z=3 =
+Solution
+The augmented matrix of the system is (1 2 1 -1 -1 | 3)
+Then reduce the augmented matrix of the system using appropriate elementary row
+operations as follows.
+I
+191
+Unit 3: Matrices
+21-13 12 R₂ R₂-2R₁ (1) and the last matrix is in REF.
+Therefore, the given system is equivalent to the system with augmented matrix:
+(1)
+That is, the given system is equivalent to the system
+x+2y-z=0 =
+-3y+z=3
+From the second equation, solving for Z in terms of y, you getz = 3y + 3.
+From the first equation, x= -2y+z =-2y+3y+3 = y+3.
+Therefore, the system has infinitely many solutions and the solution set is given by:
+{(y+3,y,3y+3):ye|R}.
+Exercise 3.19
+Solve each of the following systems of linear equations using Gaussian Elimination
+Methods.
+x+y+z=3
+x + y = 5 =
+x-y-z=0
+II
+a. x - 2y = - 4
+b. x - 2y + 3z = 1 =
+c. 2x+y+2z=3
+2x+y-z=2
+3.7 Inverse of a Square Matrix
+Activity 3.24
+Let A = (1 4 3 and B = ( ⁴ ₁ -3). -3 1 Then find both AB and BA.
+In your responses in Activity 3.24, you have observed that AB = I₂ = BA. Then
+matrix B is called an inverse for matrix A.
+192
+Unit 3: Matrices
+Definition 3.25
+Let A be a square matrix of order n. Then A is said to be invertible (or has an
+inverse), if there exists a square matrix B of order n such that AB = In = BA. If
+such matrix B exists, then it is called an inverse of A.
+Let A be an invertible matrix of order n. If B and C are inverses of A, then BA =
+Iₙ = AC.
+Using the associatively property of matrix multiplication, we have
+B = BIₙ = B(AC) = (BA)C = = C.
+This implies, B = C.
+Thus, if A is an invertible matrix, then its inverse is unique.
+Notation
+If a square matrix A is invertible, then its inverse is unique and it is denoted by
+A⁻¹.
+Example 1
+Let A = (1 2). Find the inverse of A (if it exists).
+Solution
+If A has an inverse, say A⁻¹ A-¹=(a), then we have AA⁻¹ = I₂.
+This implies
+Then, by the equality of matrices, a = 1,b = = 0, C = 0 and 2d = 1 d = 1. = 1/2
+Therefore, A is invertible and A⁻¹ -(')
+I
+193
+Unit 3: Matrices
+Example 2
+Let A = (1 1). Find its inverse if A is invertible.
+Solution
+If A has an inverse, say A⁻¹ (a), then we have AA⁻¹ = I₂. =
+This implies 2b b+d)=(1) b+d
+Thus, we have two systems of linear equations. The first system of linear equations is
+a + c = 1 =
+2a+2c=0
+The second system of equations is
+b + d = 0 =
+2b + 2d = 1 =
+But each one of these two linear systems has no solution.
+Therefore, matrix A has no inverse.
+Exercise 3.20
+Find the inverse of each of the following matrices, if it exists.
+a. (1/3 0)
+b. (1 3 1 2)
+(1) -2
+Properties of Inverses of Matrices
+Activity 3.25
+Let A = (1 2) and B = (2 0). Then find
+a. A⁻¹, (A⁻¹)⁻¹ and B⁻¹ b. (AB)⁻¹ and B⁻¹A⁻¹ c.
+194
+Unit 3: Matrices
+In your responses in Activity 3.25, you have observed that (A⁻¹)⁻¹ = A, (AB) =
+These properties are the following properties of invertible matrices.
+Properties of Invertible Matrices
+Let A and B be invertible matrices of the same size. Then
+a. A⁻¹ is invertible and (A⁻¹)⁻¹ = A.
+b. At is invertible and (At)⁻¹ = (A⁻¹)ᵗ.
+c. AB is invertible and(AB)⁻¹ = B⁻¹A⁻¹.
+Example 3
+Let A and B be two square matrices of order 2 such that A⁻¹ = (1 1) and B⁻¹ =
+(1 ¹). 0 1
+Then, find the inverses of the matrices A⁻¹, AB and A⁺.
+Solution
+a. Given that A is an invertible matrix, A⁻¹ is invertible and (A⁻¹)⁻¹⁻ A and =
+computing (1) we get
+b. Since A and B are invertible matrices, AB is invertible and
+=
+c. Because it is given that A is invertible, At is invertible and
+= t = 1).
+I
+195
+Unit 3: Matrices
+Definition 3.26
+An invertible matrix is also called a nonsingular matrix and a matrix that
+is not invertible is called a singular matrix.
+Exercise 3.21
+Let A = (1 3) and B = (1 ¹). 0 1 Then, determine
+a. (A⁻¹)ᵗ
+b. (Aᵗ)⁻¹
+C. (AB)⁻¹
+d. B⁻¹A⁻¹
+e. (A⁻¹)⁻¹
+Invertibility of a Matrix and Elementary Row Operations
+Activity 3.26
+Consider the matrix A = (1 1).
+a. Find the matrix obtained by applying the elementary row operation
+R₁
+R₁ - 2R2 on A.
+b. Let B be a matrix obtained by applying the elementary row operation
+R₁
+R₁ - 2R2 on I₂.
+c. Find the products AB and BA.
+From your solution of (c) in Activity 3.26, observe that B is the inverse of A
+and B is obtained from A by applying the same elementary row operation that
+transforms A to I₂.
+196
+Unit 3: Matrices
+Procedures on How to Determine Invertibility of a Matrix Using
+Elementary Row Operations
+Let A be a square matrix of size n.
+Step 1: Augment A with Iₙ to form the n X 2n matrix (A|Iₙ);
+Step 2: Apply appropriate elementary row operations and reduce the
+matrix (A|Iₙ) to a matrix in Row Echelon Form, say (B|C).
+Step 3: If B = Iₙ in Step 2, then A is invertible and A⁻¹ = C, otherwise A
+is not invertible.
+Example 4
+Using elementary row operations, determine the invertibility of each of the
+following matrices.
+a. A = (1 1)
+b. B = (1 2)
+c. C = 0 0 1 0 1 1 2 1 1
+Solution
+a. First augment A with I₂ and obtain
+Then, reduce this matrix to a matrix in Row Echelon Form using
+appropriate elementary row operations as follows:
+(A|I₂) = 210 11 0 1 R₂-R₂-R₁ 0 1 11 1l-1 1/1 0)
+1) 1).
+Then, the last matrix is in Row Reduced Echelon Form and A is reduced
+into I₂.
+Therefore, A is invertible with its inverse is given by:
+A⁻¹ = (2₁ 1). 1
+I
+197
+Unit 3: Matrices
+b. Augment B with I₂ and obtain (B|I₂) = (1).
+Then, reduce it to a matrix in Row Echelon Form using appropriate
+elementary row operations as follows.
+(B|I₂) = (1 211) R₂ R₂ 2R₁ (1 21 0 2 0)
+R₂ 1/2R2 2
+1
+R₁ R₁ R₂
+The last matrix is in Row Reduced Echelon Form, but B is not reduced
+into I₂.
+Hence, B is not invertible.
+1 1 11 0 0
+c. Augment C with I₃ and obtain (C|I₃) = 012010
+0 0 10 0 1
+111100
+10-11-10
+(CI₃)= 0 1 20 1 0
+R₁
+-R₂
+0 1 2 0 1 0
+001001
+0 0 1 0 0 1
+1001-11
+1 0 01 -1 1
+R₁
+012010
+R₂ R₂-2R₃
+0 1 00 1 -2
+0 0 1 001
+0 0 1001
+The last matrix is in Reduced Row Echelon Form and C is reduced
+into I₃.
+1 -1 1
+Hence, C is invertible and
+C⁻¹
+=
+01 -2
+.
+0 0 1
+198
+Unit 3: Matrices
+Exercise 3.22
+Using appropriate elementary row operations determine the invertibility of each of
+the following matrices and for those that are invertible, find their inverses.
+a. A = (1 3)
+b. B = (_⁴₂ -2) 1 2
+c. C = 0 0 1 2 0 1 2 3 1
+3.8 Applications
+In this section, different applications of matrices will be considered.
+Example 1
+In a triangle, the smallest angle measures 10° more than half of the largest angle. The
+middle angle measures 12° more than the smallest angle. Find the measure of each
+angle of the triangle.
+Solution
+Let x be the measure of the smallest angle, y be the measure of the middle angle and
+Z be the measure of the largest angle of the triangle.
+Then, from the given information and the sum of the measures of the three angles of
+a triangle is 180, you have the following system of linear equations.
+x + y + z = 180 =
+1
+x = 2 + 10
+y = 12 + x.
+The system can be written as
+x + y + z = 180 =
+x 2 1 = 10
+-x+y=12.
+I
+199
+Unit 3: Matrices
+and the augmented matrix of the system is
+1
+1
+1
+180
+1 0 -0.5
+10
+-1 1 0
+12
+Apply appropriate elementary row operations to reduce the augmented matrix into
+REF as follows.
+111180
+1
+1
+1
+180
+10 -0.5
+10
+R₂-R₂-R₁
+0 -1 -1.5
+-170
+R₃R₃+R₁
+-1
+1
+0
+12
+0
+2
+1
+192
+1
+1
+1
+180
+R₃-R₃+2R₂
+0
+-1
+-1.5
+-170
+0
+0
+-2
+-248
+and this matrix is in Row Echelon Form.
+Thus, the given system is equivalent to the system
+x + y + z = 180
+3
+-y 2 Z = 170
+-2z = 148
+From the last equation, you get 2z = - 148 Z = 74.
+From the second equation -y-3z= 3 - 170, we have -y = - 170 + 3/2 (74) = -59.
+This implies y = 59.
+Then, from the last equation, x + y + z = 180, solving for x, gives us
+x = 180 - (y +z) = 180 - (59 + 74) = 47.
+Therefore, the three angles of the given triangle are 47°, 59⁰ and 74⁰.
+200
+Unit 3: Matrices
+Example 2
+The perimeter of a given triangle is 30 cm. The shortest side is 4 cm shorter than the
+longest side of the given triangle. The longest side is 6 cm less than the sum of the
+other two sides of the given triangle. Find the length of each side of the triangle.
+Solution
+Let a, b and C be the shortest, the middle and the longest sides of the given triangle
+respectively. Then, from the given information, you have the following system of
+linear equations:
+a + b + c = 30
+c=a+4
+c + 6 = a + b
+Then, the given set of linear equations is equivalent to the following system of linear
+equations:
+a + b + c = 30
+a - c = - 4
+a+b-c=6
+11130
+and the augmented matrix of the given system is
+10-1
+-4
+11-16
+Use appropriate elementary row operation to reduce the augmented matrix to a
+matrix in REF as follows:
+11130
+11130
+10-1
+-4
+R₂R₂-R₁
+0-1-2-34
+R₃R₃-R₁
+11
+-1
+6
+00-2 -24
+The last matrix is in REF and the given system has the same solution as the system:
+a + b + c = 30 =
+-b - 2c = 34
+-2c = 24
+From the last equation, you have - 2c = 24 C = -24/2 -24 -2 = 12 and from the second
+equation,
+b = 34 - 2c = 34 -2(12) = 34 - 24 = 10.
+201
+Unit 3: Matrices
+Then, from the first equation a = 30 - - (b + c) = 30 - 22 = 8.
+Therefore, the sides of the triangle are 8cm, 10cm and 12cm.
+Example 3
+If a 30% salt solution is to be mixed with a 20% salt to form a mixture of a 25% salt
+solution of 500 liters, how much of each is needed?
+Solution
+Let x represent the amount of 30% salt solution needed and y be the amount of 20%
+salt solution needed.
+The total amount of the mixture must be 500 liters.
+Thus, x + y = 500
+The amount of salt in the end result is 25% of 500 liters, which is 0.25 X 500 =
+125.
+That is, 0.3x+0.2y=125.
+Then, we have the following system of linear equations:
+x + y = 500
+0.3x+0.2y=125
+The augmented matrix of the system is (1) 500
+This implies the given system is equivalent to the system
+x + y = 500
+-0.1y=25
+Thus, -0.1y = 25 y = -0.1 -25 = 250 and x = 500 - y = 500 - 250 = 250.
+202
+Unit 3: Matrices
+Exercise 3.23
+1. In a triangle, the smallest angle measures 10° less than half of the largest angles.
+The middle angle measures 20° more than the smallest angle. Find the measure
+of each angle of the triangle.
+2. The perimeter of a triangle is 55 cm. The measure of the shortest side is 8 cm less
+than the middle side. The measure of the longest side is 1 cm less than the sum of
+the other two sides. Find the lengths of the sides.
+3. A chemist has 6% salt solution and 12% salt solution. How much of the 6% salt
+solution and 12% salt solution must be added to get a 300 g of 10% salt solution?
+Problem Solving
+1. The perimeter of a triangle is 50 m. The longest side of the triangle measures
+20 m. more than the shortest side. The middle side is 3 times the measure of
+the shortest side. Find the lengths of the three sides of the triangle.
+2. A train travels 700 kilometers in the same time that a truck travels 500
+kilometers. Find the speed of each vehicle if the train's average speed is 10
+kilometers per hour faster than the truck's speed.
+3. Almaz, Birkti, and Chaltu work in a boutique. One day the three had
+combined sales of Birr 14800. Almaz sold Birr 1200 more than Birkti. Birkti
+and Chaltu combined sold Birr 2800 more than Almaz. How much did each
+person sell on that particular day?
+203
+Summary and Review Exercise
+Summary
+1. A rectangular array of numbers arranged in rows and columns is called a matrix.
+2. A matrix with only one column is called a column matrix.
+3. A matrix with only one row is called a row matrix.
+4. A matrix with equal number of rows and columns is called a square matrix.
+5. A matrix with all entries 0 is called a zero matrix.
+6. A square matrix that has zeros everywhere except possibly along the main
+diagonal is called diagonal matrix.
+7. A diagonal matrix where all elements of the diagonal are equal is called a scalar
+matrix.
+8. The diagonal matrix where all the elements of the diagonal are 1 is called the
+identity matrix.
+9. A square matrix whose elements below the main diagonal are all zero is called an
+upper triangular matrix.
+10. A square matrix whose elements above the main diagonal are all zero is called a
+lower triangular matrix.
+11. Let A = (aᵢⱼ)mxₙand B = (bᵢⱼ)ₘxₙ¹ be two matrices and k be a real number.
+Then
+a. The sum of A and B is given by, A+B= (aᵢⱼ bᵢⱼ)
+b. The difference A and B is given by = mxn
+c. The scalar multiple of A by k is defined by kA =(kaᵢⱼ)ₘxₙ
+12Let A = (aᵢⱼ)ₘₓₚ and be matrices, where m, n and p are
+positive integers. The product of A and B, denoted by AB, is the m X n
+matrix AB = (cᵢⱼ)ₘₓₙ· where, cᵢⱼ = aᵢ₁b₁ⱼ aᵢ₂b₂ⱼ + +aᵢₚᵇⱼ, for i =
+1, .m andj = 1, ...n.
+204
+Summary and Review Exercise
+12. Given a matrix A, the matrix obtained by interchanging the rows of A to columns
+and the columns of A to rows is called the transpose of A and it is denoted by A⁺.
+13. The following operations are called Elementary Row operations.
+I. Swapping: Interchanging two rows of a matrix.
+II. Scaling: Multiplying a row of a matrix by a non-zero constant.
+III. Pivoting: Adding a constant multiple of one row of a matrix on another row.
+14. A given matrix is said to be in Row Echelon Form, if the following are satisfied:
+a. if there are any rows with no leading entries (rows having zeros entirely) they
+are at the bottom.
+b. the leading entry (the first non-zero entry) in each row after the first is to the
+right of the leading entry in the previous row.
+15. A is said to be in Reduced Row Echelon Form (RREF) if A is in Row Echelon
+Form (REF) and the leading element in each nonzero row is 1 and it is the only
+nonzero number in its column.
+Review Exercise
+1. Find the size of each of the following matrices.
+a. A (12)
+b. B = (-1 2 -3) 000 120
+c. C ( )
+D 010 3-23 123 210
+1
+d. =
+e. E = (o 1 -3 -1)
+f.
+F
+d
+Il
+-3
+2
+2. Let 23 1 1 , B = 0 302 1 0 , 1 and = 232 111 Then find each
+of the following matrices.
+a. A - 3C
+b. AB CD
+C.
+2B+3D
+d. B'C+D'A
+-
+205
+Summary and Review Exercise
+3. Identify each of the following matrices as symmetric, skew-symmetric, diagonal,
+scalar, upper triangular or lower triangular matrices.
+200
+a. A = (-1 2 -1) 005 000
+b. B =
+000
+c. C = (0 2 -1) -203 1-30
+004
+300
+d.D=211 123 314,
+e. E = -200 42-5 100
+f.F=030
+003
+4. Find the reduced row echelon form of each of the following matrices.
+a. A = -(12)
+b.B=212
+121 323
+5. Solve each of the following systems of linear equations using Gaussian
+Elimination Method.
+x+y+z=1
+a. 2x+y=2 x-y=1
+b. y+z=3
+x-2y+z=-5
+6. Determine the inverse of each of the following matrices, if it exists.
+a. A = 13 14
+b. B =(24 -1) -1)
+C. C=1-21 (212) 122
+d.1-33 (-1 2 -2) 1 1 -1)
+7. A farmer has two types of milk, one that is 20% butterfat and another which is
+15% butterfat. How much of each should he use to end up with 50 gallons of 20%
+butterfat?
+206
+UNIT
+4
+DETERMINANTS AND THEIR
+PROPERTIES

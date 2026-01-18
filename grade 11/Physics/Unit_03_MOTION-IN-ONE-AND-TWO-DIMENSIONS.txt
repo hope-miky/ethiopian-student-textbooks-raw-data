@@ -1,0 +1,1681 @@
+UNIT 3
+MOTION IN ONE AND TWO
+DIMENSIONS
+Introduction
+Motion is one of the significant topics in physics. Everything in the universe moves. If
+you give a glimpse to your environment, you might see several things in motion: a car
+on a road, children playing on a playground, an airplane flying in the sky, even an ant
+crawling on the ground. An object is said to be in motion if its position changes with
+time.
+The concept of motion is a relative. A body that may be in motion relative to one
+reference system, may be at rest relative to another. For example, if you are sitting in the
+classroom, you are at rest with respect to the earth; but actually, you are in motion with
+respect to the Sun.
+In this unit we will learn about motion in one dimension relative to any fixed reference
+frame, and its applications in our day-to-day life. In addition to motion in 1D, we will
+also discuss uniform circular motion as an example of motion in 2D.
+Learning outcomes: Students will be able to:
+gain an understanding of the fundamental principles of kinematics in one
+and two dimensions.
+develop skills in applying equations of motions to solve practical
+problems.
+recognize the effect of air resistance and force of gravity on motion of a
+body.
+describe technological advances related to motion; and identify the effects
+of societal influences on transportation and safety issues.
+47
+Physics
+Student Text Book
+3.1 Uniformly Accelerated Motion in 1D
+By the end of this section, you will be able to:
+explain a uniformly accelerated motion in 1D;
+explain the difference between average velocity and instantaneous velocity;
+and
+solve problems involving average velocity, instantaneous velocity and
+acceleration.
+?
+Brainstorming
+After revising what you have learnt in grades 9 and 10 about motion in a straight
+line and uniformly accelerated motion discuss about the following questions in
+group and present your group's answers to the class.
+1. Define the terms position, distance, displacement, speed, and velocity in
+motion.
+2. Explain the relationship between
+U
+position and displacement,
+U
+distance and displacement,
+U
+distance and speed,
+U
+displacement and velocity,
+U
+average velocity and instantaneous velocity.
+3. When do we say an object is accelerating?
+4. How will it be possible for a car to move but not accelerating?
+Acceleration
+An object is said to accelerate when its velocity changes in magnitude, in direction
+or both in magnitude and direction. Acceleration is a vector quantity, and is defined
+as the rate of change of velocity or change in velocity per unit time. The SI unit of
+acceleration is m/s².
+Negative acceleration may or may not be deceleration, and deceleration may or may
+not be considered negative acceleration. If the velocity and acceleration have the same
+sign whether positive or negative it is speeding up. If the velocity and acceleration
+have different signs, then the object is slowing down.
+48
+Grade 11
+?
+Activity 3.1:
+Discuss in group and present your group's understanding of the following
+questions to the class.
+1. Does negative acceleration necessarily mean slowing down?
+2. Does positive acceleration necessarily mean speeding up?
+Average acceleration
+The average acceleration, aₐᵥ of a particle is defined as the ratio of the change in
+velocity to the time interval
+a
+where vf is the final velocity, vᵢ is the initial velocity and t is the time interval. The
+SI unit of acceleration is m/s² = ms⁻²
+Key term
+Acceleration is the rate of change of velocity. It is a vector quantity, with a unit of
+m/s².
+Example: 3.1
+If the speed of a certain car is increased from rest to 20m/s in 6 seconds, what is
+the average acceleration of the car?
+Solution
+We have v₀ = 0, = at and at t₀ =0, = , and Vf = at tf = 6s
+1 3.67m/s²
+Instantaneous acceleration
+1
+Instantaneous acceleration, ains or acceleration at a specific instant in time, is
+obtained using the same process discussed for instantaneous velocity. That is, we
+calculate the average acceleration between two points in time separated by At and
+let At approach zero.
+49
+Physics
+I
+Student Text Book
+Example 3.2.
+The velocity of a particle that moves along a straight line varies as a function
+of time with a velocity equation as: v(t) = t² - 2t. Find the acceleration of the
+particle at t = 2 s.
+Solution:
+To find the acceleration at t =2s, we first find the acceleration at any time t, that is
+a
+Since,v(t) = t² - 2t
+a
+=
+=
+= t0 tim(21)
+= = im(2r+(At)-2)),SinceAt0 ≈
+= (2t-2)
+This expression is the acceleration of the particle at any time t. Substituting the
+given time t = 2s in this expression gives us the acceleration of the particle at t =2s.
+Therefore a(t= 2s)=2(2)-2=2m/ s²
+Motion with Constant Acceleration
+Although there is a possibility to have varying acceleration (non-uniform
+acceleration) in reality, in many common types of one-dimensional motion, the
+acceleration is assumed to be constant or uniform. It means that, the velocity of the
+object is changing by equal amount in equal interval of time. Such a motion is known
+as a uniformly accelerated rectilinear motion. In this case, the average acceleration
+equals the instantaneous acceleration, and the average velocity is the average of the
+initial and final velocities.
+50
+Grade 11
+Exercise 3.1:
+A Cheetah, shown in the figure, is
+the fastest land animals. It could run
+up to 120 km/h. Starting from rest a
+Cheetah can reach to a speed of 96.6
+km/h in only three seconds. What is
+its (a) average acceleration? and (b)
+average velocity in these 3 seconds?
+?
+Activity 3.2:
+Experiment
+In this experiment the acceleration of a ball/wooden block/trolley/tin can
+is determined by rolling or sliding it down a slight incline plane. To do so, the
+distances they covered in successive time intervals is measured.
+Apparatus and Materials
+Ball/wooden block/trolley/tin can
+Ramp,
+meter stick.
+electronic stopwatch
+Ticker-timer with power supply unit
+Ticker-tape
+Sellotape
+Ramp Construction
+For the ramp you can use any flat, level object such as a board or a cardboard box.
+It should be at least 1.25 meters long. If you don't have anything like that then you
+will have to improvise. It doesn't matter what the ramp is made of as long as it is flat
+and strong enough to support your rolling/sliding object without bending.
+To raise one end of the ramp, use a pile of books. You may not be able to get the top
+of the ramp at exactly the height given in the instructions. Get it as close as you can
+and record the actual height in data tables A and B.
+51
+Physics
+Student Text Book
+Figure 3.1
+Objectives
+1. Become familiar with the concept of hypothesis testing by experiment.
+2. Observe and measure motion on an inclined plane.
+3. Understand the relationships between distance, time, and acceleration.
+4. Understand how to draw and interpret a "best fit" or regression line on a graph
+of experimental data.
+5. Appreciate the difficulties in analyzing experimental data to make conclusions,
+even if the data is carefully and correctly collected.
+Procedure
+1. Measure distance, d along the ramp with arbitrary starting point.
+2. Set up the ramp with h = 0.10 m above the table, (as shown in Figure 3.9)
+3. Starting with the ball/wooden block/trolley/cylinder at rest, use the stopwatch
+to measure the time to roll distance d = 1.8 meter down the ramp.
+4. Take 6, time measurements, record in data table. Cross out the highest and
+lowest times and determine the average of the remaining four times. (Sum four
+times and divide by four to find the average.)
+5. Repeat steps 2 to 4 for distances of 1.6 m, 1.4 m, 1.2 m, and 1.0 m (see data
+table).
+6. Using cell-phone record the video of the motion and use it for plotting the S vs.
+t, V vs. t and a vs. t graphs.
+A countdown of "3, 2, 1" is a good way to begin the timing whether there is one
+person or two involved in the experiment.
+To stop the timing, it is best to use a flat object such as a ruler or the cover of a book
+52
+Grade 11
+as a physical stop. This allows you to use your sense of hearing along with sight to
+coordinate the stopwatch with the stopping point.
+Data Table
+Make six trials and discard the highest and lowest in each trial so you will average
+the middle three values. Enter the average time in the data table. In each case use
+t(avg) for the times to calculate t squared.
+d (m)
+t₁
+t₂
+t₃
+4
+t₅
+t₆
+tₐᵥ
+t²ₐv
+a=2d
+II
+1.8
+1.6
+1.4
+1.2
+1.0
+1. Draw a graph of distance versus average time squared for your data, (d vs. t2)
+2. Determine the slope the best fit line.
+3. The value of acceleration is twice the slope.
+4. Analyze the data using spreadsheet (Microsoft excel).
+5. Using distance 'd' and average time draw: distance vs. time, velocity vs. time
+and acceleration vs. time graph of the motion using spreadsheet (Microsoft
+excel).
+N.B. Contact your IT teacher to get an assistance about how to use Microsoft
+excel in analyzing your data and draw graphs.
+1. Compare the measured acceleration with the theoretical estimate
+(a= = g sin Θ) , friction neglected by making the surface as smooth as possible.
+2. Write a report on your findings.
+53
+Physics
+|
+Student Text Book
+Review Questions 3.1
+1. Define the terms average and instantaneous acceleration.
+2. State the conditions in which an object is said to speed up and slow down.
+3. What is the relationship between acceleration and deceleration?
+4. A car driver accelerates her car by 1.4 m/s², starting from rest. (a) How long
+does it take her to reach a speed of 2.0 m/s? (b) If she then brakes to a stop in
+0.8 seconds, what is her deceleration?
+5. A particle is in motion and is accelerating. The velocity of the motion as a
+function of time is given by: v(t) = 20t - m/s. Find (a) the functional
+form of the acceleration, (b) the instantaneous velocity at t = 3s, and (c) the
+instantaneous acceleration at t = 3 S.
+3.2 Equations of Uniformly Accelerated Motion in 1D
+By the end of this section, you will be able to:
+derive and apply the equations of uniformly accelerated motion in 1D.
+solve various problems of uniformly accelerated motion in 1d.
+Derivation of equations of motion for uniformly accelerated motion
+in a straight line.
+The symbols used have the following meanings:
+S = displacement, vᵢ = initial velocity, vƒ = final velocity,
+t = time for the acceleration, and a = acceleration
+Directly from the definition of acceleration, we get
+, which can be written as
+vf = vᵢ + at
+Equation 1
+From the definition of average velocity, we get
+s = vₐᵥt, =
+but for uniformly accelerated motion,
+Equation 2
+54
+Grade 11
+Remember that average velocity and instantaneous velocities are different.
+Instantaneous velocity is the velocity at a particular instant of time, but average
+velocity is the velocity that represents a motion in a certain interval of time.
+Substituting this equation of average velocity into the above equation of displacement
+gives
+Equation 3
+By substituting for final velocity from equation 1 into equation 2 and rearranging
+gives
+S
+(1)
+Equation 4
+Instead of final velocity if we substitute for initial velocity into equation 2 and
+rearranging gives
+s=v,t-1at²
+Equation 5
+Rearranging equation 1 for time (t) and substituting into equation 2 gives
+(-)-
+v² = vᵢ² + 2as
+Equation 6
+Note that, the above 6 equations all refer to uniformly accelerated motion in a
+straight line. It means that, they do not apply if the acceleration is changing.
+The above equations are important kinematics equations to solve any problem of
+motion with constant acceleration. They summarized in Table 3.1 below.
+Table 3.1: Kinematics equations for uniformly accelerated motion
+Equation
+Missing quantity
+vf = vᵢ + at
+Displacement (S)
+Displacement (s), acceleration (a), and time (t)
+55
+Physics I Student Text Book
+Acceleration (a)
+Final velocity (vƒ)
+s=v,t-1at²
+Initial velocity (vᵢ)
+v²ⱼ = v² + 2as
+Time (t)
+Note that the above equations are vector equations, it means that we need to take of
+the direction of the quantities to be added. If they are in the same direction we add,
+but if they point in opposite directions we subtract.
+Example 3.3
+A car accelerates uniformly from rest to a speed of 72 km/h in 8.0 S. (a) Find the
+acceleration of the car. (b) Find the distance the car travels. (c) If the car brakes to
+a stop over a distance of 50 m, then find its uniform deceleration.
+Solution:
+(a) In this problem we are given vᵢ = 0,vƒ = / h = 20m/ and t = 8.0 s
+Using the equation
+(b) To find the distance that the car travelled, we can use the equation:
+thus
+The distance can also be found from the equation: S
+So that
+(c) In this case the car breaks from 20m/s to a stop over a distance of 50 m, then
+its deceleration will be:
+This negative acceleration implies that the car's speed decreases from time to time.
+56
+Grade 11
+Misconception Alert !!!
+Note that all negative accelerations are not always decelerations. Negative acceleration
+can also occur due to the change in direction with respect to a certain fixed reference
+point.
+Example: 3.4
+The Ethiopian Airlines Boeing airplane lands on one of the Bole international
+airport runways with an initial velocity of 40.0 m/s and then decelerates at 1.50
+m/s². (a) What length of runway will it need? (b) For how long will it move on the
+runway?
+Solution:
+Identify the known quantities: Vᵢ = 70m/s, a = -1.5m Vf = 0
+S = 2a = 2(-1.5) -1600 -3.0 = 533.3m
+The time to stop is
+:
+Determining the stopping distance of a vehicle
+What is stopping distance?
+When brakes are applied to a moving vehicle, the distance it travels before stopping
+is called stopping distance. Calculating stopping distance is important for avoiding
+potential hazardous situations. There are many factors that can affect the stopping
+distance of a moving vehicle. Here are some;
+Speed of the vehicle
+Weight of the vehicle
+Road conditions (slick, icy, snow, dry, wet)
+Vehicle brake conditions (old or worn pads and rotors)
+Braking technology in the vehicle
+Tire conditions
+This leads us to the actual formula for working out braking distances. The formula
+is based on the velocity (speed) of the vehicle and the coefficient of friction between
+the wheels and the road (µ).
+Braking distance
+57
+Physics I Student Text Book
+This is because, for a car coming to a stop due to friction: a = µg. Experiments have
+shown that for dry roads, the coefficient of friction is about 0.7, and for wet roads it
+is about 0.4. The stopping distance is then the sum of reaction distance and braking
+distance.
+Stopping distance
+Reaction
+distance
+Braking distance
+Hazard
+Braking
+The car
+detected
+begins
+stands still
+Figure 3.2: Stopping distance
+The reaction distance is the distance you travel from the point of detecting a hazard
+until you begin braking or swerving. The time between being where we first start
+measuring, and where the car begins braking, is called the reaction time. As an
+equation, looking at the car's speed, v, the distance v it travels over a period of
+time v is:
+The reaction distance = The car's speed X reaction time.
+Reaction distance (sᵣ) =
+Stopping distance = reaction distance + braking distance
+Stoppind distance = vt +
+Example 3.2:
+(a) Compare the stopping distance for the following speeds of an automobile.
+Assumes the road is dry and the co-efficient of friction between the tire and
+the road is 0.70. (b) Discuss the potential damage that could be caused by the
+automobile running with 80 km/h compared to that moving with 20 km/h.
+reaction distance
+Speedometer
+Speedometer
+braking
+Stopping
+distance
+distance
+reading
+reading
+=
+(km/h)
+(m/s)
+t = your reactiontime
+Sb 2 v²
+Sr
+80 km/h
+60 km/h
+30 km/h
+20 km/h
+58
+Grade 11
+?
+Activity 3.3:
+1. Discuss in group about the meanings of the traffic signs shown in the figure
+below and the consequences resulted if one is going to miss it.
+2. Discuss about the main causes of car accidents in your area, and the ways to
+reduce the accidents. Your teacher can invite a guest from traffic offices.
+RCP 9168 00318
+HThChe and
+me one
+OVERTAKING LANE
+PASSENGER CAR LANE
+TRUCK LANE
+120
+80
+100
+80
+80
+60
+30
+km/h
+Figure 3.3: Traffic sign
+Review Questions 3.2
+1. Derive the five kinematic equations.
+2. It is found experimentally that, if a street surface is dry, a good driver can
+safely decelerate an automobile with reasonably good tires at the rate of about
+4.57 m/s². So, for a car moving at 60 km/h what should be the minimum
+distance between two cars so that they won't crash during a sudden stop?
+3. A driver of a vehicle traveling at a speed of 30 m/s on a motorway brake
+sharply to a standstill in a distance of 100m. Calculate the deceleration of the
+vehicle.
+4. A motorist travelling at 18 m/s approaches traffic lights. When he is 30 m from
+the stop line, they turn red. It takes 0.7 S before he can react by applying the
+brakes. The car slows down at a rate of 4.6 m/s². How far from the stop line
+will he come to rest and on which side of it?
+5. The driver of a train travelling at 40 m/s applies the brakes as the train enters
+a station. The train slows down at a rate of 2m/s. The platform is 400 m long.
+Will the train stop in time?
+6. The distance covered in n seconds and the distance covered in the nth second
+are different questions. Derive the equation for the distance covered in the nth
+second.
+59
+Physics
+I Student Text Book
+3.3 Graphical Representation of Uniformly
+accelerated Motion in 1 D
+By the end of this section, you will be able to:
+graphically, represent position versus time graph, displacement time graph,
+velocity time graph, and acceleration time graph of a uniformly accelerated
+motion in 1d.
+interpret a graph of velocity vs. time, displacement vs. time and acceleration
+vs. time.
+draw graphs from the kinematic equations.
+determine the velocity of a motion from the slope of displacement-time graph,
+and acceleration from the slope of velocity - time graph.
+determine the displacement covered from the area under velocity - time
+graph.
+In this section, we will discuss about graphs that help us picture the concepts of
+displacement, velocity and acceleration.
+3.3.1 Displacement-Time Graphs
+?
+Brainstorming
+What are dependent and independent variables in drawing graphs, and what
+is the relationship between them?
+Displacement-Time Graph
+A displacement-time graph shows how displacement changes with time. In drawing
+displacement-time graph, we record displacement and time for the motion, and
+the displacement (the dependent variable) is plotted on the Y-axis, and time (the
+independent variable) is plotted on the X-axis.
+The slope of displacement-time graph
+Slope is a measure of the steepness of a line. It is given by the equation:
+Slope = run Horizontal Vertical increase increase x₂ t₂⁻t₁
+60
+Grade 11
+x (m)
+x2
+rise
+run
+T1
+t₁
+t₂
+t (s)
+Figure 3.4: Slope of Position-time graph
+This expression for slope is the same as the definition of velocity:
+velocity =
+So, the slope of a position-time graph equals the velocity of the motion.
+a. Displacement-time graph for uniform motion
+For a body moving at constant velocity (uniform motion), its graph of displacement
+against time is a straight line with a constant slope/gradient, Figure 3.5 (b). This is
+because distance is directly proportional to time =
+b. Displacement-time graph for uniformly accelerated motion
+For a body moving at constant acceleration, its graph of displacement against time
+is a parabola (curved upward), Figure 3.5 (c). This is because distance is directly
+proportional to the square of time In this case slope is increasing (sloping
+up or getting steeper), hence velocity is increasing resulting in a positive acceleration.
+Displacement-time graph for uniformly decelerated motion
+Figure 3.5 (d), shows the case where the velocity of an object is decreasing, slope is
+decreasing, resulting to a deceleration.
+61
+Physics
+Student Text Book
+Displacement
+Displacement
+Displacement
+Displacement
+Time
+Time
+Time
+Time
+(A)
+(B)
+(C)
+(D)
+Figure 3.5: Some common displacement-time graphs
+Interpreting a displacement-time graphs
+In interpreting or describing the motion of an object, we decide whether the object
+is moving at a constant speed, accelerating or decelerating or is the object stationary
+(at rest). To understand how to interpret these graphs, we need to know something
+about the slope of a line. The slope of a line on a graph tells you how quickly the
+quantity being graphed is increasing or decreasing. For this purpose, we use the
+following properties of the slope of a dispacement time-graph.
+A flat line (slope equals zero), means that the object is at rest.
+An upwards straight line means that the object is moving forwards at a
+constant speed.
+For an upward curved line, for each second that ticks on the horizontal
+time axis, the distance travelled is greater than the second before. In
+other words, distance is increasing at an increasing rate. We say that
+the object is accelerating.
+If the line on the distance-time graph curves the other way (when the
+slope becomes flatter), then the object will be decelerating, as each
+second the distance travelled is less than the previous second.
+So, the displacement vs. time graphs of Figure 3.5 are interpreted as follows.
+a. shows the graph for an object stationary over a period of time. The slope is
+zero, so the object has zero velocity.
+b. shows the graph for an object moving at a constant velocity. You can see
+that the displacement is increasing as time goes on. The slope, however,
+stays constant (remember: it's the slope of a straight line), so the velocity is
+constant. Here the slope is positive, so the object is moving in the direction we
+have defined as positive.
+62
+Grade 11
+c. shows the graph for an object moving at a constant acceleration. You can see
+that the slope of the curve increases with time (becomes more vertical); thus,
+the velocity is increasing with time and the object is accelerating.
+d. shows the graph for an object moving at a constant deceleration. You can see
+that the slope of the curve decreases with time (becomes more horizontal);
+thus, the velocity is decreases with time and the object is decelerating.
+Example 3.5:
+Draw the displacement-time graph of a ball thrown directly upwards and caught
+when it returns.
+Solution:
+Immediately after leaving the throwers hand, the velocity is positive and
+large so the slope is positive and large.
+As the ball rises, its velocity decreases so the slope decreases.
+At the maximum height, its velocity is zero so the slope is zero.
+As the ball descends, its velocity becomes increasingly negative,
+corresponding to increasing speed in a downward direction. So, the slope
+becomes increasingly negative.
+The slope of the line represents the object's acceleration. This is constant and
+negative, equal to the acceleration of free fall, g. The acceleration of the object
+is the same when it descends as when it ascends so the slope of the line is always
+equal to -9.8m/
+The area under the line represents the displacement of the object from its starting
+position.
+The area between the positive
+displacement
+section of the line and the time
+maximuum
+axis represents the displacement
+height
+during the ascend.
+The area under the negative
+section of the line and the time
+axis represents the displacement
+during the descent.
+Summing up theses two areas gives
+0
+0
+time
+zero. This corresponds to zero total
+displacement, because it returns back
+Figure 3.6: Displacement-time graph of an
+to the thrown point.
+object thrown vertically upward
+63
+Physics
+I
+Student Text Book
+Exercise 3.2:
+For the motion of a ball thrown vertically upward whose displacement-time
+graph is shown in Figure 3.13, draw its distance time graph.
+Velocity-Time Graph
+A velocity-time graph shows how velocity
+changes with time. In drawing velocity-time
+graph, we record velocity and time for the
+motion, and the velocity (the dependent
+variable) is plotted on the Y-axis, and time (the
+independent variable) is plotted on the X-axis.
+That is vertical axis represents the velocity of the
+velocity
+object, and the horizontal axis represents the
+At
+time taken. Figure 3.7, shows the velocity-time
+time
+graph of a motion with a constant acceleration,
+Figure 3.7: Slope of
+i.e., the velocity increases by equal amount in
+velocity-time graph
+equal interval of time.
+slope = Vertical increase At
+Horizontal increase
+This is just the expression for acceleration. So, the slope of a velocity graph represents
+the acceleration of the motion. Because the slope is the same at all points on this
+graph, the acceleration is constant.
+We can also get the displacement travelled from the velocity vs. time graph by finding
+the area of the region between the line and the time axis.
+Note:
+The slope of a velocity-time graph gives the acceleration.
+The area between a velocity-time graph and the `time' axis gives the
+displacement of the object.
+The velocity-time graph for (a) uniform motion, (b) uniformly accelerated motion,
+and (c) uniformly decelerated motion is shown in the Figure 3.8, below.
+64
+Grade 11
+Velocity
+Velocity
+Velocity
+Time
+Time
+Time
+(For body moving
+(For uniform
+(For uniform
+with constant velocity)
+accelerated motion
+accelerated motion
+with increasing velocity)
+with decreasing
+velocity)
+Figure 3.8: Some common velocity-time graphs:
+Key terms
+Slope of displacement-time graph give average velocity.
+Slope of velocity-time graph give the acceleration of the motion.
+The area under the velocity-time curve and the time axis gives the magnitude of
+the displacement covered.
+Exercise 3.4
+By looking a velocity vs. time graph, you can tell if an object is accelerating,
+decelerating, or moving at a constant velocity. Forming a group with 5 members
+make a discussion and interpret the above three velocity vs. time graphs.
+Example 3.6
+Draw the velocity-time graph of a ball thrown directly upwards and caught when
+it returns.
+Solution:
+The velocity of the ball decreases from
+maximum height occurs
+its initial positive (upward) value
+at time I = u/g
+to zero at a maximum height then
+increases in the negative (downwards)
+velocity
+o
+time
+direction as it falls. Figure 3.9 shows
+how the velocity of the ball changes
+with time.
+Figure 3.9 Velocity-time graph of a ball
+thrown vertically up and came back to
+the throwers hand
+65
+Physics
+Student Text Book
+Exercise 3.5
+There is a difference between displacement vs. time graph and distance vs. time
+graph of a motion, and also between velocity vs. time and speed vs. time graph
+of a motion. Draw (a) distance vs. time, and (b) speed vs. time graph of a ball
+thrown vertically upward and returns back to the throwers hand.
+Acceleration-Time Graph
+Acceleration-time graph shows how acceleration changes with time. In drawing
+acceleration-time graph, we record acceleration and time for the motion, and
+the acceleration (the dependent variable) is plotted on the Y-axis, and time (the
+independent variable) is plotted on the X-axis. In this section, we will only deal
+with objects moving at a constant acceleration, thus all acceleration-time graphs are
+parallel to the time axis. Figure 3.10 below shows acceleration vs. time graph of a
+uniform motion (a), a uniformly accelerated motion (b), and a uniformly decelerated
+motion (c).
+acceleration
+acceleration
+0
+Time (s)
+a)
+time
+b)
+time
+Figure 3.10 acceleration-time graph of (a) uniform motion, (b) uniformly
+accelerated motion, (c) uniformly decelerated motion.
+Example 3.7:
+A car starts from rest and accelerates at a rate of 2.0m/s² for 5seconds, then
+maintains its speed for 4 seconds. It then applied the brakes and stopped within
+2 seconds. Then it moves at a constant speed of 15m/s in the opposite direction
+until it reaches the starting point.
+Determine the position of the car for each interval of time.
+a) Draw the displacement versus time, velocity versus time and acceleration b)
+versus time graph of the motion of the car.
+c) From the velocity time graph, show that the displacement is zero.
+66
+Grade 11
+Solution:
+a) The car has different motions in the four intervals of time.
+In the first interval of time between t = 0 and t = 5s it accelerates from
+rest at a rate of 2.0m/s2. The displacement S in this interval will then be:
+In the second interval of time, it maintains its speed for 4 seconds (i.e. between
+t=5s and t = 9s). The constant speed it attained is the final speed at t = 5s. That
+speed is
+=
+The displacement in the second interval will then be
+s₂ = vt = (10m/ s)(4s) = 40m
+Since S = X2 - X1 then the position of the car x² at the end of the second interval
+will be
+x =S₂+S₁=40m+25m = 65m
+In the third interval of time, the car applied its brakes and reduces its speed at
+a constant rate for 2 seconds until its velocity becomes zero from 10m/s. The
+acceleration during this time interval is
+0-10m/s
+The displacement during this time interval will therefore be
+S₃ -100m² / s² -10m/s² = 10m
+The position of the car at the end of the third interval will be
+x₃ = x₂ +s₂ = 65m+ 10m= 75m
+In the fourth interval of time, the car moves at a constant speed of 15m/s in
+opposite direction until it reaches Xf = 0 to the place where it started the motion.
+(i.e. V = 15m/s since it is moving in the opposite direction.)
+The final position xf = 0 and the time it takes to the initial position can be obtained
+from the equation,
+t = =
+67
+Physics I Student Text Book
+b) The displacement vs time graph, and the corresponding velocity vs. time
+graph is shown below.
+The displacement-time graph will have
+a parabolic shape in the first interval
+x(m)
+(speeding up); straight line with a positive
+7
+6
+slope in the second interval (constant
+2
+speed); parabola inverted downward in
+0
+5
+9
+11
+16
+t(s)
+the third interval which indicates the
+v(m/s)
+10
+decreasing of speed in magnitude (slowing
+0
+5
+9
+11
+16
+t(s)
+down); and in the last interval, it is a straight
+line with a negative slope that indicates the
+reverse in direction.
+One of the three features of the velocity versus time graph is the area under the
+curve is the displacement. From the lower part of the graph in Figure 3.18, the
+sum of the area of the regions sum up to give us the displacement.
+The area of the triangle in region 1 is: Area₁ = 2 1 = 25m
+The area of the triangle in region 2 is: Area₂ = (10m/s)x(4s)=40,
+The area of the triangle in region 3 is: Area₃ = 2 1 =
+The area of the triangle in region 4 is: Area₁ = -(15m/s)(5s) = -75m
+The total area is: Area₁ + Area₂ + Area₃ + Area₄ = 25m + 40m + 10m - 75m = O
+This value of the displacement coincides with the value clearly seen in the
+displacement vs. time graph.
+Review Questions 3.4
+1. Interpret the following the following velocity-time graphs.
+2. Interpret the following displacement (s) VS. time graphs.
+68
+Grade 11
+S
+S
+S
+S
+S
+1
+a)
+b)
+c)
+d)
+e)
+3. By finding the area of the region
+Vf
+between the velocity-time curve
+and the time axis of the velocity
+VS, time graph shown below, derive
+Velocity
+the equation for displacement:
+Vi
+S = vᵢ 2 t
+Time
+4. Starting from rest a car moves along a straight level road with uniformly
+increasing velocity for 20 minutes, until its velocity becomes 15 m/s, north.
+Then it maintained this velocity for half an hour. In the next 10 minutes, its
+velocity uniformly decreases until it becomes zero. Then it continuous moving
+in the opposite direction for 20 minutes until its velocity is equal to 20 m/s,
+south. (a) Draw the velocity VS. time, and displacement VS. time graph of the
+motion. (b) determine the distance and the magnitude of the displacement
+covered during the motion.
+?
+Activity 3.4:
+Phet simulation for motion graphs
+Learning Objectives
+Examine velocity-time graphs and compare them to position-time graphs.
+In addition, compare the slopes of the position-time and velocity-time graphs, as
+well as the area to the time axis of the velocity-time and acceleration-time graphs.
+Procedure:
+Use the following links to run the simulation. https://phet.colorado.edu/en/
+simulation/legacy/moving-man for more information.
+69
+Physics
+Student Text Book
+Then navigate to https://phet.colorado.edu/en/legacy/moving-man.
+Beginning at rest, a man walks eastward over a straight level road at a constant
+velocity of 2 m/s for 10 meters. The object then goes continually in the opposite
+direction at a constant velocity of 1 m/s, which is apparent in the simulation graph
+below. In the simulation, the motion is represented by a displacement vs. time
+graph and a velocity vs. time graph. The total required time is 15 seconds.
+a. Compute the distance covered in each motion using the formula the area of
+the region in the graph and compare them.
+b. Determine the time required to go east, t₁ = , the time necessary to go
+west,
+t₂ = S₂ , and compute the total duration? V₁
+c. Why is the acceleration V₂ 0 in the motion?
+d. What are your thoughts on the computed and simulated st values?
+Displacement-time graph
+10.0
+5.0
+0.0
+-5.0
+-10.0
+Velocity-time graph
+4.8
+2.4
+0.0
+-2.4
+-4.8
+3.4 Vertical Motion
+By the end of this section, you will be able to:
+describe what vertical motion is.
+solve various problems of vertical motion
+describe the motion of objects that are in free fall.
+calculate the time, position and velocity of an object given the initial velocity
+of an object under vertical motion
+solve problems related to an object thrown vertically upwards, downwards,
+and a freely falling bodies.
+Freely Falling Bodies
+When things move vertically either up or down under the force of gravity alone,
+the resulting motion is called free fall. The acceleration of a freely falling body is
+constant and is known as acceleration due to gravity, denoted by the letter g. When
+70
+Grade 11
+air resistance is negligible, all objects dropped under the influence of gravity near
+Earth's surface fall toward Earth with this acceleration. Near the surface of the Earth
+its magnitude is constant and is equal to 9.8 m/s². Therefore, for free fall near the
+surface of the earth the equations of motion with constant acceleration discussed so
+far can be applied. The only change in those equations is the replacement of a by g,
+and taking care of directions.
+The expression freely falling object doesn't necessarily refer to an object dropped
+from rest. A freely falling object is any object moving freely under the influence of
+gravity alone, regardless of its initial motion. Objects thrown upward or downward
+and those released from rest are all considered freely falling
+1.v=u+gt
+3. v² = +
+Note that these equations are vector equations, meaning that we need to take care
+of the directions of the vector quantities such as velocities, displacements and
+acceleration.
+One way to investigate the free fall of an object is to make a multiflash photo of
+the object's flight as it falls after being released from rest (Figure 3.11). As seen in
+the figure the displacement the ball covered in equal intervals of time is increased
+from time to time uniformly. That means the velocity of the falling ball is increased
+uniformly through time and hence it is accelerating.
+cm
+orm
+#4
+10
+5
+#6
+20
+#7
+30
+#8
+40
+09
+50
+Figure 3.11: Motion of freely falling bodies
+For an object thrown vertically upward the initial velocity, и is directed up and is
+taken as positive, but because g is always directed down towards the center of the
+71
+Physics I Student Text Book
+Earth it is taken as negative. Thus, for an object thrown vertically upward, the above
+equation may be written in scalar form as follows:
+v=u-gt
+y=ut-18t²
+v² = u² - 2gy
+Here y is the height above the origin at time t, u is the initial velocity in the
+y-direction at t = 0.
+For an object thrown vertically downward, since both й and g have the same
+downward directions, the above equations become:
+v=u+gt
+v² = u² + 2gy
+Example 3.8:
+Consider a particle projected vertically
+LevelB
+upwards with an initial velocity V₀ =20m/s
+h
+Vo
+from the top of a 15m building as shown in
+LevelA
+the figure below. How long does it take for the
+particle to reach to: A) level A, the initial
+Level C
+point, B) level B 5m above the initial point,
+C) level C, 5m below the initial point and D)
+Vi
+LevelD
+level D, the building bottom?
+Figure 3.12:
+Motion diagram of a particle thrown vertically upward from the top of a building
+at level A passes through level B reaches to maximum height (hₘₐ), and finally hits
+the ground at level C.
+To find the time of flight at different levels: A, B and C, take the value of the y-
+coordinate of y=0,a=-g
+At level A: The kinematic equation for y then becomes,
+20t - 5t² = 0
+t = 0, = or t = 4s *
+72
+Grade 11
+These two solutions of the time t indicate that the particle appears on the same place
+at two different instants of time. The former one is the initial condition at the instant
+the particle was projected. The later one is the one which is the time it takes to cover
+the entire path to return to its original position.
+At Level B: y = +5m a = - g = -10m/s²
+The kinematic equation for t by replacing y= +5m then becomes
+which is a quadratic equation of the form: 5t² - 20t +5 = 0.
+Solving this equation with the general quadratic formula, we get two roots for t.
+(What are the physical implications of the two roots for t in the solution?)
+At Level C: y = - 5m, a = - g = -10m/s²
+The kinematic equation for t by replacing y = -5m then becomes:
+Which is a quadratic equation of the form 5t² - 20t - 5 = 0. The time solution can
+be obtained from the general quadratic formula.
+t =
+-b = 4(5)(-5)
+2a
+2(5)
+t = -5+22.36 2(5) = = 2(5) 22.36 = -2.73sec
+Since, time is a scalar quantity, it can never be negative and the answer will be 1.73
+seconds.
+Exercise 3.6:
+A ball is thrown vertically upwards with a velocity of 10m/s from the balcony of a
+tall building. The balcony is 15m above the ground and gravitational acceleration
+is 10m/s². Find (a) the time required for the ball to hit the ground, and (b) the
+velocity with which it hits the ground.
+73
+Physics
+Student Text Book
+?
+Activity 3.5:
+Experiment
+Measurement of acceleration due to gravity (g) using the freefall meth-
+od
+Objectives
+The objectives of this experiment are as follows:
+1. To know the meaning of free fall and the conditions under which it occurs.
+2. To know the value for the acceleration of gravity (g).
+3. Corelate the motion of a free-falling object to the graphical descriptions of its
+motion.
+4. To understand that the acceleration of gravity is independent of the mass of the
+free-falling object.
+5. To test the hypothesis that the acceleration of a freely falling object is uniform,
+Apparatus: Millisecond timer, power supply, metal ball, trapdoor and electromagnet.
+Diagram
+Switch closed before
+start so electromagnet holds ball
+Off to start
+Electromagnet
+A
+Timer
+Steel ball
+Off to stop
+S
+B
+Figure 3.12: Laboratory set up to measure
+Procedure
+1. Set up the apparatus as shown in Figure 3.21. The millisecond timer starts
+when the ball is released and stops when the ball hits the trapdoor at B.
+2. When switch A is turned off the steel ball starts to fall and the timer starts. The
+ball falls onto switch B and when it breaks the circuit the timer stops.
+3. Measure the distance S using a meter stick.
+74
+Grade 11
+4. Flick the switch to release the ball and record the time t from the millisecond
+timer.
+5. Repeat for different values of s.
+6. Calculate the values for g using the equation 2h/t Obtain an average value
+for g.
+7. Draw a graph of h against t² and use the slope to find a value for g (g will be
+twice the slope).
+Precautions
+1. For each height h repeat three times and take the smallest time as the correct
+value for t.
+2. Place a piece of paper between the ball bearing and the electromagnet to ensure
+a quick release.
+3. Remember to convert from milliseconds to seconds.
+Note
+Both points 1 and 2 above are associated with the problem that even though you
+switch off the power for the electromagnet (and in so doing switch on the timer)
+it will not lose its magnetism immediately, therefore the ball will not fall straight
+away. This means that the reading on the timer will always be (slightly) longer than
+the time for which the ball was dropping.
+Purpose
+The purpose of this laboratory activity is to measure the acceleration of a falling
+object assuming that the only force acting on the object is the gravitational force.
+Data
+h (m)
+(s)
+t² (s²)
+8=2h
+g
+gavg
+75
+Physics
+Student Text Book
+Conclusion: Report your findings.
+?
+Activity 3.6:
+Drop two balls of different mass (basketball, and tennis ball) from the same
+height. Which will hit the ground first?
+Terminal velocity
+When a solid body is inside a liquid or gas, its entire surface is in contact with the
+particles of the fluid. For this reason, during its motion in a fluid, the body experiences
+a resistive force. These resistance force which the fluid exerted on the body is called
+fluid friction or drag force.
+Thus, a body falling in air moves under the action of two forces (ignoring buoyancy):
+the downward gravitational force (its weight) and the upward drag force.
+At the beginning of the fall the downward gravitational force would be larger than
+the drag force (mg > Fd) and hence it will make an accelerated downward motion,
+which resulted to an increase in velocity. As the velocity the falling object increases,
+so does the drag force. At some velocity, the drag force of resistance will be equal to
+the gravitational pull on the object. At this point the object stops accelerating and
+continues falling at a constant velocity called the terminal velocity. Thus, terminal
+velocity is defined as the point at which the velocity of a falling object is no longer
+getting greater. An object at terminal velocity has zero acceleration.
+Besides weight, terminal velocity depends on other factors such as shape and cross
+sectional area of the falling object and the nature of the fluid.
+2ᵀ
+force from
+d
+air resistance
+force from
+gravity
+F
+σᵀ
+(a)
+(b)
+(c)
+g
+Figure 3.13: A free body diagram showing the forces on a particle at different times
+during its fall: (a) at the start of the fall; (b) during the fall; (c) at the end of the fall.
+76
+Grade 11
+Key term
+Terminal velocity is the maximum velocity of a freely falling body where its
+velocity no more increases, or the acceleration of the motion is zero.
+?
+Activity 3.7
+Assume a drop of rain is falling from a height of 450m. If the drag force were not
+there, what would be it velocity on reaching the surface of the Earth. Discuss the
+effect of this velocity on living things on Earth.
+Galileo Galilei and the Motion of Objects
+In contrary to Aristotle (384-322 b.c.) view ofmotion,
+which states that heavier objects fell faster than lighter
+ones, Galileo Galilei (1564-1642) Italian Physicist
+and Astronomer, postulated that, regardless of their
+size and mass all bodies falling through empty space
+(vacuum) have the same acceleration. He was the first
+person to determine the correct mathematical law for
+acceleration: the total distance covered, starting from
+rest, is proportional to the square of the time.
+Galileo also investigated the motion of an object on an inclined plane, established
+the concept of relative motion, invented the thermometer, and discovered that the
+motion of a swinging pendulum could be used to measure time intervals. After
+designing and constructing his own telescope, he discovered four of Jupiter's moons,
+found that our own Moon's surface is rough, discovered sunspots and the phases of
+Venus, and showed that the Milky Way consists of an enormous number of stars.
+He is also known for the assertion that the Sun is at the center of the Universe (the
+heliocentric system), not Earth.
+?
+Activity 3.8: Experiment
+Calculating Reaction time
+Reaction time is the time a person takes to observe, think and act. Reaction time
+is the time it takes you to react to a hazard. For example, if a person is driving and
+suddenly a boy appears on the road, then the time elapsed before he/she applies
+the brakes of the car is the reaction time. Studies reflect that a person's reaction
+time is anywhere from one to three seconds. You can measure your reaction time
+by a simple experiment.
+77
+Physics
+I
+Student Text Book
+Materials required
+You need two people (one dropper and one catcher), plus a meter ruler.
+Procedure
+The dropper holds the ruler, letting it dangle vertically. The catcher's hand should
+be about chest high, with the ruler passing between the thumb and fingers as shown
+in Figure 3.14. The thumb should be horizontal, so that the top of the thumb can
+be used as a reference. To perform it, have your friend hold the ruler at the very
+top and you hold your fingers at the zero mark. Your friend then drops it, and you
+then catch it as fast as you can, as shown below.
+Catch point
+Figure 3.14: Measuring reaction time
+The difference in distance between where your fingers initially were, at the zero
+mark, and where you catch it, the catch point, gives you the total distance traveled.
+Then, calculate the reaction time using the equation:
+t =
+g
+Reaction distance is the distance you travel during your reaction time. It depends on
+the reaction time and speed. It is calculated as:
+Reaction Distance = Reaction Time x Speed
+S = vt.
+Key term
+Reaction time is the time taken for a person to react to a sudden event.
+78
+Grade 11
+?
+Activity 3.9: Project work
+Make a group containing 4 to 5 members in your class. Search internet or books
+and came up comparing the difference between Aristotle's, Galileo's and Newtons
+view of motion.
+Review Questions 3.4
+1. Describe the motion of a freely falling bodies.
+2. A ball is thrown vertically upward with a velocity of 20 m/s from the top of a
+building. The height of the point from where the ball is thrown is 25 m from
+the ground. (a) how high will the ball rise? (b) how long will it take for the
+ball to hit the ground?
+3. A ball is dropped on the floor from a height of 10 m. It rebounds to a height of
+2.5 m. If the ball is in contact with the floor for 0.01 sec, what is the average
+acceleration during contact?
+4. If a stone is thrown vertically downward into a well with a speed of 10 m/s,
+how long will it take it to reach the water surface 60 m below?
+3.5 Uniform Circular Motion
+By the end of this section, you will be able to:
+define a uniform circular motion
+calculate for angular and tangential displacement, angular and tangential
+velocity, and centripetal acceleration,
+explain uniform circular motion in the horizontal plane,
+identify the force required for circular motion to take place
+?
+Brainstorming Questions
+1. When do we say an object is accelerating?
+2. Can an object accelerate if it's moving with constant speed?
+3. Mention an example in which an object accelerates due to a change in the
+direction of velocity without a change in its magnitude.
+Uniform Circular Motion
+Uniform circular motion is a special type of curvilinear motion in which an object
+travels in a circle with a constant speed but its direction of motion continuously
+79
+Physics
+I
+Student Text Book
+changes. A mass attached to the end of a string and moves in a horizontal circle,
+the second, minute, and hour hands of a watch, the motion of a turntable, and any
+point on a propeller spinning at a constant rate are examples that could demonstrate
+uniform circular motion.
+Angular and tangential displacement
+While moving in a circular path, the angle made by the radius 'r' of the circle is
+known as angular displacement (Θ). It is a vector quantity, hence have a direction.
+The direction of the circular arrow pointing from the initial position to the final
+position will indicate the direction of angular displacement. It can be either clockwise
+or anticlockwise.
+Θ
+S
+Figure 3.15: Angular displacement
+If the arc of the circle in which the body is moving is 's' and the radius of the circle
+is 'r' then, angular displacement
+After one complete revolution, the rotating object will travel a distance equal to the
+circumference of the circular path. Which is equal to 2wr where r is the radius.
+Therefore,
+Θ = S r = r = radian
+Thus, lrev = 2wrad = 360⁰.
+The unit of angular displacement in the SI system is radian. Since angular
+displacement is the ratio of these two quantities hence it is dimensionless.
+On the other hand, tangential displacement (s) is the distance covered by the rotating
+object along the curved path (circumference of a circle), see Figure 3.15
+80
+Grade 11
+Key terms
+Uniform circular motion is a circular motion with constant speed but continuously
+changing direction.
+Angular displacement is the angle swept by the rotating object.
+Tangential displacement the tangential distance on the circumference of the circle.
+Angular velocity and tangential velocity
+Angular velocity measures the rate at which angular displacement changes. It is
+denoted by Greek letter omega (w) and its standard unit is radians per second.
+=
+w
+Angular velocity is a vector quantity. The direction of angular velocity is determined by
+right hand rule. According to right hand rule, if you hold the axis with your right
+hand and rotate the fingers in the direction of motion of the rotating body, then
+thumb will point the direction of the angular velocity.
+3
+3
+Right
+Direction
+hand
+of rotation
+Direction
+of rotation
+Figure 3.16: RHR for the direction of angular velocity
+Vt
+A tangent is a line that touches a curve at a single
+point. As the name suggests, tangential velocity
+describes the motion of an object along the edge
+Γ
+of the circle whose direction at any given point
+(+)
+on the circle is always along the tangent to that
+point. It is the linear component of angular
+velocity at any point along the circular path.
+Figure 3.17: Tangential velocity
+Tangential velocity is equal to the tangential distance divided by time.
+v₁=f₁
+81
+Physics
+I
+Student Text Book
+After one complete rotation, the tangential displacement is equal to the circumference
+of the circle, and time taken for one complete circle is called the period, T. With this
+the equation for tangential velocity will be:
+v₁ = 2πr
+The SI unit of tangential velocity is meters per second.
+Key term
+Centripetal acceleration is an acceleration in circular motion caused by the
+change in the direction of velocity. Its direction is always towards the center of the
+circle.
+The relationship between angular and tangential velocity
+There is a connection between tangential velocity and angular velocity. To find the
+relationship between them let us start from the equation for tangential velocity:
+where r is the radius, and w (omega) is the angular velocity of the rotating object.
+Note that, angular velocity is the same for all points on the rotating object, while
+tangential velocity depends directly on its distance from the axis of rotation.
+Examples 3.9:
+If the angular velocity of a wheel is 40 rad/s, and the wheel diameter is 60 cm.
+Determine the tangential velocity of the wheel.
+Solution:
+v,= ~r = 40rad / sx0.3m = 12m/s =
+82
+Grade 11
+Centripetal Acceleration: Acceleration in Uniform Circular Motion
+We know from kinematics that acceleration is
+caused by a change in velocity, either in
+magnitude or in direction or both. Therefore,
+an object undergoing uniform circular motion
+ac
+is always accelerating, because it always
+changes it direction of motion. We call the
+acceleration of an object moving in uniform
+circular motion the centripetal acceleration,
+ac. Centripetal means center seeking or Figure 3.18: Centripetal accelera-
+towards the center.
+tion
+Centripetal acceleration is in the direction of the change in velocity, which points
+directly toward the center of the circular path. Because ii is directed towards the
+center of a curved path along the radius it is also called radial acceleration. This
+direction is shown with the vector diagram in the Figure 3.18.
+Key term
+Centripetal acceleration is an acceleration in circular motion caused by the
+change in the direction of velocity. Its direction is always towards the center
+of the circle.
+Is seen first at point P with velocity Vᵢ at time tᵢ and then at point Q with velocity
+Vƒ at time where vi|=|vₛ that is they differ only in direction, thus
+v1|=|v/|=v. In order to calculate the acceleration, we start with the definition of
+average acceleration.
+a
+Where V can be obtained graphically by the property of parallel shifting of vectors
+without affecting the direction and the magnitude; so that we can make a parallel
+shift of the tail of Vf from Q to the tail of Vᵢ at P as shown as shown in Figure 3.19.
+83
+Physics
+I
+Student Text Book
+2
+DI
+1,
+&
+(a)
+(b)
+(e)
+Figure 3.19: (a) Circular motion with constant speed V. (b) Velocity vectors at P and Q. (c)
+Graphical method of the application of vector subtraction so that, Since 0
+is the same in (b) and (c), the ratio of the sides of the two triangles are equal.
+The triangle OPQ in Figure 3.19 (b), which has sides and r, is similar to the triangle
+ABC of Figure 3.19 (c), which has sides and ДѴ. Then the pair of corresponding sides
+are proportional, i.e.,
+Which we can obtain the expression for as:
+Substituting this value in the equation for average acceleration we get:
+at
+and the average acceleration becomes r , the instantaneous
+acceleration in the direction of V which is directed towards the center. Thus, the
+equation for centripetal acceleration becomes:
+a.=v²
+Since, v = wr, in terms of angular velocity, the equation for tangential velocity is:
+ac = w² r
+The SI unit of centripetal acceleration is m/s².
+?
+Activity 3.10
+Forming a group of 3 to 5 students discuss the following questions.
+1. State some real-life examples of circular motion.
+2. Mention the cases in which the effect of centripetal acceleration could be made
+to be larger.
+84
+Grade 11
+Example 3.10
+An automobile moves with a constant speed of 50.4 km/h around a circular track
+that has a diameter of 40 m. (a) what is the angular speed of the automobile? (b)
+What is the period of the motion?
+Solution:
+v=504km/h=14m/s,r=d2=20m
+(a) w v 14m/s = /
+vₜ
+(b) T vₜ 2x3.14 14m/s S
+Exercise 3.7
+By how much would the centripetal acceleration change if the speed of a car
+changes from 30 km/h to 90 km/h?
+Centripetal Force
+The force which causes centripetal acceleration is called a centripetal force. Without
+a centripetal force, an object would continue to travel in a straight line and never
+deviate from its direction. Yet, with the centripetal force directed towards the center
+of the circle, the object always changing its direction and undergoing a circular
+motion. Centripetal force is perpendicular to the tangential velocity vector.
+From Newton's second law: Centripetal force = mass X centripetal acceleration.
+Fc = mac
+Example 3.11
+A 100 g ball is whirled in a horizontal circle of radius 40 cm. With what maximum
+speed can it travel if the breaking strength of the rod is 50 N?
+Solution:
+m = 100 g = =0.1kg, r = 40 cm = 0.4m, F = 50 N
+F
+F = m²
+V 50 0.1kg =14.14m/s
+85
+Physics I Student Text Book
+Key term
+Centripetal force is a force that causes centripetal acceleration. It is always
+perpendicular to the direction of motion of the object.
+Applications
+A centrifuge is medical laboratory equipment that is used to separate particles
+suspended in a liquid such as blood or urine according to particle size and density,
+viscosity of the medium, and rotor speed.
+Example 3.12:
+(a)
+Calculate the centripetal acceleration of a point 7.50
+cm from the axis of a centrifuge spinning at 7.5x10⁴ rev / min.
+(b)
+Determine the ratio of this acceleration to the
+acceleration due to gravity.
+Solution:
+r = 7.5cm = 075m
+v = 7.5x10⁴ rev/min = 7.5 x10¹
+1
+= 589m/s.
+(b) In order to compare centripetal acceleration, to that of acceleration due to
+gravity, we need to compare the centripetal force with the weight of the object. i.e.
+Substituting values gives:
+& X
+This last result shows that the centripetal acceleration is 472,000 times larger than
+the acceleration due to gravity, g. Such high-speed centrifuges are called ultra-
+centrifuges. The extremely large accelerations involved greatly decreases the time
+needed to cause the sedimentation of blood cells or other materials in laboratory
+examinations.
+86
+Grade 11
+A merry-go round is a popular amusement ride
+in many kids' play yards. In such play, kids feel
+more uneasy when the wheels are rotated fast
+in a short diameter wheel than when the wheels
+are rotated slow in a long diameter wheel. This
+is because of the fact that the radial acceleration
+is very high for short diameter and high-speed
+rotors.
+Figure 3.20: In the merry go round play kids enjoy the feeling of the effect of
+the radial acceleration as they go round.
+Exercise 3.8
+Suppose the diameter of the merry go round in Figure 3.20 is 4.0 m.
+(a) What will be the radial acceleration of the kid if she rotates one rotation
+every 3 seconds?
+(b) Draw schematic circular path that shows the direction of the centripetal
+acceleration of the circular motion by applying vector subtraction method.
+Uniform Circular Motion in a Horizontal Plane
+Horizontal circular motion indicates circular
+motion across a horizontal surface. There are
+various day-to-day examples such as the motion of
+a mass attached to the end of a string and made to
+rotate in a horizontal circle, Figure 3.21. In this case
+the centripetal force is provided by the tension (T)
+in the string. Hence,
+T
+Figure 3.21: Amass attached
+the end of a string and rotate in
+a horizontal plane
+Example 3.13:
+A string cam withstand a tension of 25 N. What is the greatest speed at which a
+body of mass 1 kg can be whirled in a horizontal circle using a string of length
+1.0m?
+Solution:
+F =T =25 N,m= 1kg,l= r = 1.0m
+=5m/s
+87
+Physics
+I
+Student Text Book
+When a car moves around a roundabout, Figure
+N
+3.22, the centripetal force is provided by the
+frictional force between the road and the tires of the
+car. Hence,
+mg
+Figure 3.22: A car travelling
+on a roundabout
+Where Fₙ is the normal force, ad exerts on the car.
+?
+Activity 3.11:
+It is a common experience to see cars
+skidding out of a roundabout and
+collide with anything in the nearby
+the road. Discuss in group about the
+causes of such accidents and suggest
+the remedy. Present your group's
+opinion to the class and make class
+level discussion.
+Example 3.14
+Find the maximum speed of a car with which it can be safely driven along a curve
+of radius 40 m and the coefficient of friction between tires and road is
+0.7. (Take g = 10 m/s²)
+Solution:
+r=10m,µ=0.2,v=?
+Since the centripetal force is provided by frictional force,
+Ff = m v²
+µmg = m²
+µmg = m²
+v = µgr = X X 40m = 16.73m/ S
+88
+Grade 11
+The conical pendulum
+Suppose a particle of mass m is tied to a string of length l and then whirled round
+in a horizontal circle of radius r, with O fixed directly above the center B of the
+circle, Figure 3.23. If the circular speed of the particle is constant, the string turns at
+a constant angle Θ to the vertical. This is called a conical pendulum.
+0
+F Cose
+F
+h
+0
+Sing
+mg
+Figure 3.23: A conical pendulum
+The horizontal component of the tension in the string (T), points towards the center
+of the circle, hence it provides the centripetal force.
+T sin Θ = mv²
+The weight (mg) of the particle is balanced by the vertical component of the tension
+in the string.
+T cos Θ = mg
+Dividing the above equation by the lower one gives:
+tan Θ = rg
+Motion of a car Round a Banked Road
+Suppose a car is moving round a banked road in a horizontal circular path of radius,
+r, Figure 3.24. If the only forces at the wheels are the normal reaction forces Fₙ, that is
+there is no side-slip or strain at the wheels, the force towards the center of the track is :
+89
+Physics
+I
+Student Text Book
+N cos Θ
+Nsin 0 = m²
+N
+A
+The vertical equilibrium gives: N COS È = mg
+Dividing the top equation by the bottom one gives:
+Nsin 8
+tan Θ =
+00
+mg
+Figure 3.24: Banking of a road
+The angle of banking is then,
+Exercise 3.9
+Calculate the maximum speed with which a car can be driven safely along a
+curved road of a radius of 30m and banked at an angle of 30° with the horizontal.
+(take g = 9.8m/s²)
+Review Questions 3.5
+1. What does it mean by uniform circular motion?
+2. Define the terms centripetal or radial acceleration and force.
+3. What is the direction of centripetal acceleration?
+4. How it is possible for a body to be accelerated if its speed is constant?
+5. What is (a) the tangential velocity? (b) the angular velocity? and (c) the
+centripetal acceleration, due to the Earth's rotation, of a body on the equator?
+Radius of Earth = 6,400 km.
+6. The wheel of a bicycle has a radius of 40 cm. Calculate its period of revolution
+if the bicycle moves with a speed of 20 km/h. How much is the angular
+velocity?
+7. Find the banking angle of the railway track with a radius of curvature of
+1500m. If the train's maximum speed is 15m/s. If the distance between the
+two tracks is 1.8m, calculate the elevation of the outer track over the inner
+track.
+90
+Grade 11
+SUMMARY:
+c
+Acceleration is a vector quantity, and is defined as the rate of change of velocity or
+change in velocity per unit time. The SI unit of acceleration is m/s2.
+C
+Average acceleration:
+a
+C
+Instantaneous acceleration, ains or acceleration at a specific instant in time. It is
+determined by taking the time interval between the two points (t) approach zero.
+c
+A motion with a constant acceleration refers to a motion where, the velocity of the
+object is changing by equal amount in equal interval of time.
+C
+The equations of motion with a constant acceleration:
+v² = vᵢ² + 2as
+Braking distance Stoppind distance = vt+2us v²
+c
+A displacement-time graph shows how displacement changes with time.
+C
+The slope of displacement-time graph gives velocity.
+c
+A velocity-time graph shows how velocity changes with time.
+c
+The slope of a velocity-time graph gives the acceleration.
+c
+The area between a velocity-time graph and the 'time' axis gives the displacement
+of the object.
+c
+Acceleration-time graph shows how acceleration changes with time.
+C
+When things move vertically either up or down under the force of gravity alone,
+the resulting motion is called free fall. The acceleration of a freely falling body is
+constant and is known as acceleration due to gravity, denoted by the letter g.
+c
+Equations of freely falling
+1.v=u+gt
+3.v² = u² + 2gy
+91
+Physics I Student Text Book
+c
+Terminal velocity is defined as the point at which the velocity of a falling object is
+no longer getting greater. An object at terminal velocity has zero acceleration.
+Uniform circular motion is a special type of curvilinear motion in which an object
+travels in a circle with a constant speed but its direction of motion continuously
+changes.
+c
+While moving in a circular path, the angle made by the radius 'r' of the circle is
+known as angular displacement (Θ).
+c
+Tangential displacement (s) is the distance covered by the rotating object along
+the curved path (circumference of a circle).
+c
+Angular displacement 0=5
+c
+Angular velocity measures the rate at which angular displacement changes.
+It is denoted by Greek letter omega (w) and its standard unit is radians per
+second.
+w=4θ
+c
+A velocity describes the motion of an object along the edge of the circle whose
+direction at any given point on the circle is always along the tangent to that point.
+state
+Centripetal Acceleration that acceleration an object moving in uniform circular
+motion the centripetal acceleration, ac. Centripetal means center seeking or
+towards the center.
+C
+The force which causes centripetal acceleration is called a centripetal force.
+Fc = mac
+END OF UNIT QUESTIONS
+1. Which one of the following pairs of concepts cannot both simultaneously be
+constant and non-zero for a body?
+A. The speed and velocity
+B. Magnitude of acceleration and acceleration
+C. Total distance and displacement
+D. Velocity and acceleration
+2. Can an object can have variable speed but constant velocity? Explain.
+3. Can an object can have constant speed but variable velocity? Explain.
+4. What do you mean by motion in one and two dimensions? Give examples of each type.
+92
+Grade 11
+5. Can the displacement be greater than the distance travelled by an object? Give reason.
+6. Can the direction of velocity of an object change, while its acceleration is constant?
+Explain with example.
+7. Is it possible for a body to be accelerated without speeding up or slowing down? If so,
+give an example.
+8. To get to school, a girl walks 1 km North in 15 minutes. She then walks 200 m South-
+west in 160 seconds. What is the girl's average velocity for her walk to school?
+9. Very large magnitude of acceleration can be achieved in some devices such as in a
+gun. A bullet in a gun is accelerated from the firing chamber to the end of the barrel
+at an average rate of 6.20 x 10³ m/s² for 8.10 x 10⁴ S. What is its muzzle velocity (that is, its
+final velocity)?
+10. It is very common for drivers when they
+Mary
+enter the express road, they increase
+ADAMA
+their speed. While entering to the ex-
+press road on its travel from Addis Aba-
+ba to Adama , a car accelerates from rest
+at a rate of 2.40 m/s2 for 12.0 S.
+(a) Draw a sketch of the situation.
+(b) List the knowns in this problem.
+(c) How far does the car travel in those 12.0 s? (d) What is the car's final
+velocity?
+11. A particle moving at 25 m/s in a straight line slows uniformly at a rate of 2 m/s every
+second. In an interval of 10 s, find: (a) the acceleration, (b) the final velocity, (c) the
+distance moved.
+12. At the instant the traffic light turns green, an automobile starts moving with a constant
+acceleration of 5.0 m/s2. At the same instant a truck, travelling with a constant speed
+of 10 m/s, overtakes and passes the automobile. (a) How far beyond the traffic signal
+will the automobile overtake the truck? (b) How fast will the automobile be at that
+instant?
+13. Describe the motion in each interval of the velocity-time graph shown in the figures
+below.
+velocity
+(m/min)
+80
+60
+40
+20
+time
+(min)
+-20
+40
+10
+20
+30
+40
+50
+Figure 3.22
+93
+Physics
+Student Text Book
+14. On its way along a straight line, a car starts from rest and accelerated at a rate of 2.5
+m/s2 for 10s. It maintained its speed for further 5 S and decelerated by 0.5m/s2 to
+come to rest. What is the time taken for the entire motion? How far did it travel?
+Draw the position vs time, and velocity vs time graph of the motion of the car.
+15. On a user's manual of a motorbike you see a specification labeled as "the bike
+can accelerate to 100km/h from rest in 4seconds." A) what can you say about the
+maximum average acceleration of the bike? B) How far does it travel in this time?
+16. The head quarter of Commercial Bank of Ethiopia
+having a height of 198m is the tallest building in
+Ethiopia and one of the top ten tallest buildings in
+Africa. If the engineer's helmet is suddenly dropped
+from the roof during the final topping, A) How long
+does it take for the helmet to reach to the ground?
+B) If someone needs to throw the helmet up to the
+top, what minimum initial velocity is needed? Can
+this initial velocity be achieved by a human being?
+(neglect air resistance in all cases)
+Figure 3.22
+17. A stone strikes the ground with a speed of 25 m/s. (a) From what height was it
+released? (b) How long was it falling? (c) If the stone is thrown down with a speed
+of 10 m/s from the same height, then what will be its speed just before hitting the
+ground?
+18. Calculate the height of a building if it takes 4.0s for a ball to reach to the ground
+when it is thrown straight up from the top of the building with an initial velocity
+of 8.0 m/s. (Sketch the motion diagram.)
+19. A kangaroo can vertically jump over an object
+2.5m high.
+A. What is its initial vertical speed to reach
+this height?
+B. How long will it stay in the air if it is jump-
+ing on a level ground?
+Figure 3.23
+20. Calculate the magnitude of the acceleration of a particle moving in a circle of
+radius r = 0.5 m with a constant speed of 10 m/s.
+21. A 0.525 kg ball is attached to a 1.25 m string and swings in a circular path, making
+2.00 revolutions per second. The angle of the string is nearly horizontal. Find the
+tension in the string.
+22. A 0.525 kg ball is attached to a 1.25 m string and swings in a circular path. The
+angle of the string away from vertical is 30.0°. Find the centripetal force acting on
+the ball and the speed of the ball.
+94
+T
+R
+S
+S

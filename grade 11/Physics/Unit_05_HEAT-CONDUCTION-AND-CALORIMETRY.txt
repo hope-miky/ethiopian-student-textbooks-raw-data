@@ -1,0 +1,1503 @@
+UNIT 5
+radiation
+air
+HEAT CONDUCTION AND
+CALORIMETRY
+conduction
+Introduction
+Everywhere you look including yourself, energy transfer taking place in different forms.
+One of such energy transfer methods is heat transfer. Heat energy is very essential to
+society. From everyday cooking to some of modern-day luxuries, such as refrigerators
+and Jet engines are using the transfer of heat energy at the heart of their working
+principle. Heat is one of the mechanisms to transfer internal energy so that it can be
+usable.
+Heat is often misunderstood to be the same as temperature. In this unit, you will be
+discussing differences and relationships between the two. Apart from that, you will also
+learn about thermal expansion caused by the change in temperature, the quantity of
+heat transfer due temperature changes, and change of phase along with internal energy
+and the work done by a system.
+At the end of this unit, you should be able to:
+gain comprehensive knowledge on basic properties of fluids, thermal
+properties of matter, phase changes, calorimetry
+quantitatively and qualitatively describe about heat capacity, specific heat
+capacity, and thermal expansions.
+solve calorimetry problems.
+use specific heat and heat of transformations in the practical application
+of calorimetry.
+175
+Physics
+Student Text Book
+5.1 The Concept of Heat
+At the end of this section you will be able to:
+explain the concept of heat
+?
+Brainstorming:
+Get motivated by the following questions
+What is temperature?
+Although they are highly related, heat and temperature are completely different
+quantities. Heat is a measure of change, never a property possessed by an object
+or system. Therefore, it is classified as a process variable. However, temperature is
+a fundamental physical quantity which is to the average kinetic energy of particles
+of the substance.
+It should also be noted that work and heat are closely related. Both can change the
+temperature of a substance, and heat can be turned into work and work can be
+turned into heat. This equivalence is the basis of how heat engines power modern
+society.
+What is heat?
+When a hot cup of tea is left in a room
+in contact with the enveloping air, you
+know that the cup of tea will gradually
+cool down over time. So what is
+happening over the course of time to
+cause the tea to cool down?
+Figure 5.1: Spontaneous transfer of heat is from hot to cold
+The fact that the tea lowers its temperature is a sign that the average kinetic
+energy of its particles is decreasing - the tea is losing energy. The energy that is
+lost by the tea is being transferred to the colder surroundings. In general, if two
+objects at different temperatures are brought in thermal contact, energy flows
+spontaneously from the hotter object to the cooler one. The spontaneous transfer
+of energy from hotter region to cooler region is called heat. Since heat is energy,
+176
+Grade 11
+its SI unit is joules (J). When temperatures of the tea and that of the surrounding
+air balance out, we say thermal equilibrium is reached. At thermal equilibrium,
+the two regions may exchange energy, but no net heat transfer occurs.
+Heat, internal energy and thermodynamic work
+Another aspect of the definition
+Key terms:
+of heat is that a body never
+Internal energy is equal to the sum of internal
+contains heat. That is, we
+kinetic energy due to molecular motion
+cannot say "stored heat energy"
+(translational, rotational, and energy of
+as we cannot say "stored electric
+vibration) and internal potential energy due to
+molecular attractive forces.
+current". Heat is not something
+Heat is energy which is in transit from one
+you get it sitting down. Rather,
+body to another as the result of a difference
+heat can be identified only as it
+in temperature.
+crosses a boundary.
+Thermodynamic work is the quantity of energy
+transferred from one system to another.
+When an object is heated, its temperature rises, since the average kinetic energy
+of its particles increases. In other words, the energy stored in the substance is
+increased. This energy stored in the object is what we call internal energy. When
+the tea is cooling down, it is releasing its internal energy in the form of heat.
+Internal energy is equal to the sum of internal kinetic energy due to molecular
+motion (translational, rotational, and energy of vibration) and internal potential
+energy due to molecular attractive forces.
+Heat and work are two different ways of transferring energy from one system to
+another. Heat is the transfer of thermal energy between systems, while work
+is the transfer of mechanical energy between two systems. If heat is supplied
+to an enclosed gas, the temperature of the gas increases by then increasing its
+internal energy. If the gas is closed by a movable piston as shown in Figure
+5.2, work is done by the expanding gas in raising the piston up. Thus, the heat
+supplied is converted partly into internal energy and partly into work done. We
+can also increase the internal energy of the gas by pushing the piston down and
+compressing the gas.
+177
+Physics
+Student Text Book
+Surrounding
+Heat
+supplied (Q)
+Work
+done (W)
+System
+(ideal gas)
+Figure 5.2: Relationships between heat, work and internal energy
+Review Questions 5.1:
+1. Explain the concept of heat and describe effects of heating.
+2. What are the factors that cause heat flow between two systems which are
+in thermal contact?
+3. Is there any heat exchange between two systems in thermal contact if they
+are in thermal equilibrium?
+4. Is it possible to reduce net heat flow to zero? What about internal energy?
+Is there any relationship between internal energy and temperature?
+5. Consider two cylinders, A and B, of equal volume, which are filled with
+equal amount of gases of the same type but A is at higher temperature than
+B.
+a. Can you say A has greater heat than B?
+b. Can you say that A has greater internal energy than B?
+C. If A and B are brought in thermal contact, which one loses
+and which one gains internal energy? What is the direction of
+heat flow? Does the measure of the average kinetic energy of
+molecules in B increase or decrease?
+6. In the figure shown, heat is supplied to the gas confined in a cylinder.
+a. What would happen to this energy after it enters
+into the cylinder?
+b. If work is done on the piston and displaces it up,
+gas
+what would happen to the internal energy; decrease or
+heat
+increase?
+C. If the internal energy remains the same while heat
+is flowing in to the system, what happened to the energy supplied?
+7. What are similarities and differences between heat and work?
+178
+Grade 11
+5.2
+Heat transfer mechanisms
+At the end of this section you will be able to:
+explain the concept of heat conduction
+?
+Brainstorming
+This unit is motivated by the following discovery questions:
+1. When you touch one end of a metal rod whose other end is on a fire, you feel
+warm. How is that happened?
+2. When you are outside of your house and enjoying the morning sun you
+feelwarm. How is that happened? When you insert your hand over the steam
+of boiling water, you feel warm. How is that happened?
+3. What types of objects feel cold and what type of objects feel warm in your
+house? Justify your answer and write them down.
+Have you ever touched a hot pan and burned your fingers, or have you ever warmed
+yourself in front of a campfire on a cold night? These are all related to the movement
+of heat and how it gets transferred between substances and locations. Heat transfer
+mechanisms are the ways by which thermal energy can be transferred between
+objects, and they all rely on the basic principle that kinetic energy or heat wants to be
+at equilibrium. Heat transfer occurs in three different ways: conduction, convection,
+and radiation.
+I. Conduction
+If one end of a metal rod is over a flame and a person is holding the opposite end with
+a bare hand, as shown in Figure 5.3, the heat will quickly transfer through the metal
+to the person's hand and burn him/her. Such direct transfer of heat from one object
+to another by collisions of neighboring particles is called conduction. In conduction,
+no actual drift of molecules in the direction of heat flow is happening.
+Key terms:
+Conduction is the process by which heat energy is transmitted through collisions
+between neighboring atoms or molecules.
+Convection (or convective heat transfer) is the transfer of heat from one place to
+another due to the movement of fluid.
+Radiation heat transfer occurs via electromagnetic waves. Unlike conduction and
+convection, radiation does not need a medium for transmission
+179
+Physics
+Student Text Book
+Conduction
+Hotend
+Coldend
+Figure 5.3: Heat transfer by conduction
+Materials such as metals that conduct heat very well are called good conductors.
+Some substances are very bad at transferring heat, and these are called insulators.
+Good insulators are, therefore, very poor conductors. Do you know why your metal
+pots have wooden handles?
+Do you know...?
+The photo shows Aerogel, an extremely good thermal insulator, be-
+tween a blowtorch and matches. The Aerogel blocks all of the heat
+from the blowtorch and prevents the matches from burning. Source:
+https://www.ucalgary.ca/
+The reason is that the metal pots are good conductors of heat, and wood is bad heat
+conductor. So, metal pots have wooden handles so that persons do not feel hot while
+holding them
+Houses are usually insulated with poor conductors such as rock, wool or fiberglass.
+Imagine how cold a house would be if there was no protection from the cold outside
+during winter, or how hot it would be if it were not protected from the heat outside
+in the summer! Interestingly, though, insulators do not actually totally stop the flow
+of heat, just slow the transfer considerably.
+?
+Activity 5.1:
+1. Suppose you have a piece of metal and a piece of wood in your room. Why
+does the metal feel colder than the wood if they are both at room temperature?
+2. You know that rate of heat transfer depends on the properties of the medium.
+180
+Grade 11
+a.
+What do you think on impact of size or shape on rate of heat transfer?
+b.
+Two regular metal rods of different cross-sectional area and equal length
+are put in to a fire, as shown in Figure 5.4. If you are holding on the cold
+side, after some time you feel the temperature increase in your hand.
+Discuss in groups which one of the metals transfer energy to your hand
+sooner. Why is that?
+3. If you want to have best insulating wall, which factors should you consider?
+Figure 5.4: Conducting slab
+II. Convection
+Convective heat transfer is the transfer of heat between two bodies by currents of
+moving gas or fluid. Convection happens in all fluids like the air in your environment,
+water in a sea and so on. When a fluid is heated, the molecules at the bottom gain
+energy and begin to move faster (See Figure 5.5). As they move faster, they begin to
+spread apart, which makes the fluid less dense. But instead of being confined to a
+small space, the fluid's warmer molecules begin to move upward, while the cooler,
+denser portion of the fluid begins to sink.
+Once the cooler molecules reach the
+bottom where the heat is, they get an
+increase in energy again. They rise back up
+to the top, while the cooler molecules sink
+warm
+molecules
+back to the bottom. The cycle continues as
+Convection
+cool
+long as there is a heat source at the bottom.
+molecules
+Unlike conduction, in convection, heat is
+heat
+carried from the bottom to the top being
+Figure 5.5: Heat transfer by
+carried by molecules. That is, molecules
+convection
+travel with the heat.
+III. Radiation
+When you sit in front of a campfire, you are warmed by its heat. Hover your hand
+over a hot light bulb, and you will feel the heat coming off it, even without touching
+it. If you stand out in the sunshine, you will quickly get warmed by its rays. Such heat
+181
+Physics
+Student Text Book
+transfer mechanism is called radiation.
+Heat transferred by radiation is called radiant heat. Like light, radiant heat is radiant
+energy, and does not necessarily require a medium to carry it. This form of energy
+transfer is facilitated through a type of electromagnetic radiation.
+?
+Activity 5.2
+1. Let there be hot coffee, hot water, hot milk, hot tea, hot porridge. Discuss and
+rank from hottest to coldest. You may design and carry out investigative work
+to scientifically support your claim.
+2. In hot areas what do people do to cool themselves? (Think of in terms of
+clothing housing etc.)
+Review Questions 5.2:
+1. What would happen to boiling water if you close the cover tightly? Try to
+describe it in terms of convention and conduction.
+2. What is the difference between conduction and convection?
+3. Does heat transferred less or more if the area is big?
+4. Name the general mode of heat transfer in: Solids, liquids and gases.
+5. A person prefers to sit by a fire during the cold winter months. Which heat
+transfer mechanism gives him the most heat?
+6. What would be the effect if air were as good conductor as iron?
+7. Three types of heat transfer mechanisms are indicated in the same phenomenon,
+as shown in Figure 5.6. Do you think these are correct designations? Explain.
+Conduction
+Convection
+Radiation
+Radiation
+Figure 5.6: Summarizes the three heat transmission mechanism
+182
+Grade 11
+5.3 Heat Capacity and Specific Heat Capacity
+After completing this section, you should be able to:
+differentiate between heat capacity and specific heat capacity
+list the specific heat capacity of various materials
+?
+Brainstorming!
+Investigate in groups why water is added in the radiator of a car? Why different
+additives are added in the radiator water? Your investigation can be done through
+literature search asking knowledgeable person.
+Heat capacity
+Different substances respond to heat in different ways. For example, if a metal
+plate is placed in the bright sun on a hot day, it may become quite hotter than the
+surrounding. An equal mass of water under the same sun exposure will be cooler
+than the metal. This means that water has a higher heat capacity. Some objects
+gain and lose heat quickly, some slow and some intermediate. Therefore, we need to
+define a quantity called heat capacity.
+Heat capacity is defined as the amount of heat required to change the temperature of
+a given amount of matter by 1°C or by 1K. The mathematical form of this definition
+is given by;
+C=2/AT C
+where Q is heat transferred to the object, T is change in temperature of the object and
+C is heat capacity of the object. The SI unit of C is joule per kelvin (J/K); where 1 J/
+K=1J/°C.
+Consider two tankers, 10 kL and the other 10L, are filled with pure water at the same
+temperature. If the two tankers were subjected to the same input of heat energy, the
+10L water would certainly rise in temperature more quickly than the water in the
+10kL tanker.
+Key terms:
+Heat capacity is the amount of heat required to raise the temperature of an object
+by 1 or 1 K.
+The specific heat capacity of a substance is the amount of energy required to raise
+the temperature of 1 kilogram of the substance by 1 / or 1 K.
+183
+Physics
+|
+Student Text Book
+This suggests that the heat capacity of an object depends not only on the property of
+the object but also on its mass. Because of its much larger mass, the 10 kL water has
+a larger heat capacity than the 10L water. Therefore, we require defining a quantity,
+specific heat capacity, which depends only on properties of the substance.
+Specific heat capacity
+Specific heat capacity is defined as the amount of heat absorbed or released by 1kg
+of an object to change its temperature by 1o C. The specific heat capacity, c, of a
+substance of mass, m, and heat capacity, C, can be defined as
+c = m C , or, c = mAT Q
+The SI unit of specific heat capacity is J/kg.°C, or J/kg.K.
+Specific heat is a property that is specific to a given type of matter, and substances
+vary in their specific heat. Table 5.1 holds specific heat capacity of some substances.
+Table 5.1: Provides specific heats of some substances at 25 °C and atmospher-
+ic pressure.
+Substance
+Specific heat capacity
+Solids
+Aluminum
+900
+Iron
+448
+Lead
+128
+Brass
+380
+Glass
+837
+Carbon, graphite
+709
+Copper
+385
+Gold
+129
+Silver
+233
+Ice (-5°C)
+2090
+Liquids
+Alcohol (ethyl)
+2400
+Mercury
+140
+Water (15°C)
+4186
+Gas
+Steam (100°C)
+2010
+Metals tend to have low specific heat. On the other hand, water has very high specific
+heat compared to most other substances. That is why; water is commonly used as a
+coolant for machinery because it is able to absorb large quantities of heat.
+184
+Grade 11
+Example 5.1:
+Calculate the heat energy transferred if the temperature of 600 g of lead is raised
+from 20 °C to 100°C.
+Solution: Cₚb = 128J / kg.K, m = 600g, T = 100°C - 20°C = 80°C = 80K
+The amount of heat absorbed by the lead is
+Q = cₚ₆mAT = 128J X X K
+Q = 6144.0J
+Review Questions 5.3
+1. What does a higher specific heat capacity mean in terms of heat energy
+transfer?
+2. Concrete has a higher specific heat than soil. Use this fact to explain why a city
+has a higher average temperature than the surrounding countryside at night.
+3. How many joules of energy are required to raise the temperature of 100g of
+gold from 20°C to 100°C? (Specific heat of gold is 129 J/kg. °C)
+4. Why are coastal climates much more moderate than inland climates?
+5. Which heats faster, land or water? You will answer this question by taking
+measurements carried out to study differences in specific heat capacity.
+6. A 0.80 kg aluminum pan on a stove is used to heat 0.20 L of water from 25.0
+°C to 85.0 °C. (Hint: Mass of 1 L of water = 1 kg of water, around 4 °C)
+a)
+How much heat is required?
+b)
+What percentage of the heat is used to raise the temperature of the
+pan?
+7. Calculate the temperature increase of 50 kg of steel falling from a height of 50
+m if 50% of its kinetic energy is converted into heat and assume no heat flow
+to the surrounding ?
+185
+Physics
+Student Text Book
+5.4 Thermal expansion
+After completing this section, you should be able to:
+solve problems associated with thermal expansion
+?
+Brainstorming:
+1. In the construction of ball bearings (shown in Figure 5.7b) the outer metal ring
+and the inner metal ring rotate smoothly due to the solid iron balls between
+them and oil lubrication. Once the iron balls are put in to place, they will be
+there permanently. Have you ever wondered how the iron metal balls get in
+to the ball bearings? Discuss with your group and come up with your opinion.
+Your opinion must be supported by reason.
+2. What is the reason for the bending of the railroad, shown in Figure 5.7a?
+(a)
+(b)
+Ball Bearings
+Figure 5.7: (a) Effect of thermal expansion, (b) application of thermal expansion
+Thermal expansion is the change in size of matter in response to a change in its
+temperature. When a substance is heated, the average kinetic energy of its constituting
+particles is increased.
+Key term:
+Thermal expansion is the change in size of matter in response to a change in
+temperature
+Thereby, the particles start to vibrate and move more and usually maintain a greater
+average separation. Except in some cases, most substances expand when heated
+and contract when cooled. Thermal expansion is also affected by the properties
+of the substance. For example, solids expand very less as compared to liquids and
+186
+Grade 11
+gases. Gases expand much more than liquids and solids. This happens because
+intermolecular force of attraction is very strong in solids, intermediate in liquids and
+very weak in gases. All factors that affect thermal expansion will be treated below.
+Thermal expansion can be classified in to three: linear expansion, surface (area)
+expansion and volume expansion.
+Linear expansion
+If the change in length is along one dimension (length) over the volume due to a
+change in temperature, it is called linear expansion. Suppose an object has an initial
+length of L₀ at some initial temperature T₀. Let the length be changed to L when the
+temperature is changed to T. Experiments show that if the change in temperature
+(T) is not too large, the change in length (L) is directly proportional to T and
+L₀. Then, the change in length is defined as
+where,
+AT = T - T₀ is the change in temperature,
+L = L - L₀ is the change in length,
+α is the linear coefficient of thermal expansion, which has the unit °C⁻¹
+, or K⁻¹, and
+L₀ is the original length.
+T₀
+L.
+AL
+T=T,+AT
+L
+Figure 5.8: Linear expansion
+Each substance has a unique linear expansion coefficient; i.e., different substances
+expand in different amounts for the same temperature change. For example,
+the coefficient of linear expansion of Aluminum is 2.3 x10⁻⁵ K⁻¹ means that if the
+temperature of 1 m long Aluminum is increased by 1 K, its length increases by
+2.3x10⁻⁵ m. By the same change in temperature, the same length of copper wire
+187
+Physics I Student Text Book
+increases by 1.7x10⁻⁵ m. This implies that the same change in temperature on
+different materials of the same length produces different changes in length.
+Table 5.2: Linear expansion coefficients of some solids
+Material
+α X 10-6 (°C⁻¹)
+Aluminum
+24
+Brass and Bronze
+19
+Copper
+17
+Glass
+9
+Lead
+29
+Steel
+11
+Concrete
+12
+Example 5.2:
+A steel bridge is built in several segments, each 20 m long. The bridge was constructed
+when the temperature was 20 °C. If a gap of 4 cm is left between neighboring
+segments what would be the maximum temperature that the bridge can manage
+before buckling?
+Solution:
+T₀ = 20 °C, L₀ =20.0 m, L = 4 cm = 4x10⁻² m, α = 1.1x10⁵K⁻¹
+The gap is filled from the two sides.
+The expected rise in temperature is
+T = L = 1.1X10³k⁻¹x20.0m 4.0x10²m = 180 K = 180°C
+The temperature at which the bridge may buckle is
+T = To + T = 20°C + 180°C = 200°C
+Such big change in temperature may occur if there are exceptional moments such
+as flowing volcano over the bridge.
+188
+Grade 11
+Area expansion
+The same method as linear thermal expansion can also be applied for area expansion.
+Thus, consider the plate of surface area A₀ at a temperature T₀, as shown in Figure
+5.9. For a small change in temperature of T, the change in area A, is given by
+A = A₀βAT
+where â is called the coefficient of surface (area) expansion, and it can be measured
+by the unit °C⁻¹, or K⁻¹.
+A
+A+AA
+Temperature T
+Temperature T+AT
+Figure 5.9: Area expansion
+Relationship between a and ß
+Suppose a square plate of side length L₀ and surface area A₀, is experienced a
+change in temperature of T, then the new area in terms of the new length L can
+be written as:
+Since α is to the order of 10⁻⁵, then ignoring the third term containing α² 10⁻¹⁰)
+doesn't affect the result and we get:
+Comparing this with the original definition, we find that ß = 2α. This is a very
+good approximation, so we do not need table of values for ß as we can easily find it
+by doubling the value of α.
+189
+Physics
+I
+Student Text Book
+Example 5.3:
+The surface area of one side of a circular brass plate at temperature 100 °C, is 3850
+cm². To put this plate inside a cylinder, you need to cool it to 0 °C. What is the
+base area of the cylinder?
+Solution:
+T₀ = 100 °C, T = 0°C, A₀ =3850 cm²
+The area of the plate at T = 0 °C is obtain as
+A = (3850cm²) + 2 X 1.9 X 10⁻⁵K⁻¹ (0°C - 100°C)]
+A = 3835.37 cm²
+In order for the plate to pass into the cylinder, either side of its surface area should
+be reduced to below 3835.37 cm².
+Volume Expansion
+When the length, the width and the thickness of the object are equally significant,
+as shown in Figure 5.10, we need to consider the expansion of the object in three
+dimensions. In this case, all the three lengths experience significant changes in
+length with a change in temperature.
+Peculiarity of water expansion
+The peculiarity of water in its response to temperature changes is that its volume de-
+creases as its temperature increases between 0 °C to 4 °C. The density of water has
+maximum value at 4°C.
+Final Volume
+V
+Initial Volume V
+0
+Initial Length
+Length After Heating
+Figure 5.10: Volume expansion
+190
+Grade 11
+Change in volume V of an object subjected to a small temperature change T, is
+given by
+V = V
+where γ is the coefficient of volume expansion.
+The final volume, V, is, then
+Both ß and γ have the same units as α; that is, °C⁻¹, or K⁻¹.
+Relationship of γ , with a and β
+Using a method similar to what we have done in deriving relationship between ß and
+α, we find the volume of a cube of length L to be:
+V = L³ = L₀³ (1 + αT) = Vₑ 3αT)
+Evaluating all the above discussions, we find that:
+γ = 2ß = 3a
+Table 4.3: Coefficient of volume expansion of solids and liquids
+Material
+Volume Expansion Coefficient (β) X 10-4°C-1
+Alcohol
+1.12
+Benzene
+1.24
+Mercury
+1.82
+Air
+3.67
+Example 5.4:
+1, A 200 liter aluminum cylindrical reservoir is filled with Ethyl alcohol (
+γ = 112 X 10⁻⁵ K⁻¹ at the temperature of 20°C. What volume of alcohol will overflow
+if the system is heated to 100°C.
+Solution:
+α₄ₗ = X T₀ = °C, T = 100 °C, V₀ =200 lit
+The two have the same initial volume, but will have different volumes when
+their temperature is changed even with the same amount. The difference in their
+volumes for an increase in temperature T, is equal to the difference between
+the volume of the alcohol,
+191
+Physics I Student Text Book
+V = V₀ + αT), and that of the cylinder, VAl = V₀ + T) Thus
+Substituting values ans simplifying the result, we obtain
+Vₗcy = (200lit) (80°C) (112 10⁻⁵) K⁻¹ - 3 X 2.31 X 10⁻⁵K⁻¹)
+Vₗcy = 16.81 lit
+2. While working in the laboratory, you fill water in a glass flask that holds exactly
+one litter at temperature 10 °C. You heat the flask, raising the temperature of the
+water and flask to 30 °C. Which material expands more; the glass or the water? The
+information you need for deciding is the coefficient of expansion.
+(take γ = 207x10⁻³K⁻¹ for water and
+= 3x9x10⁻K⁻¹ = 2.7x10⁻K`for glass)
+Solution:
+The glass flask and the water both expand when heated. The water expands more,
+as the result some water spills out. Let Vw be the increase in the volume of water;
+V₉ is the increase in the volume of glass; and^Vₛ is the volume of water spilled.
+Then,
+V$ = VAT - VAT = (Bᵥ - ßg) VAT
+V = (207 X 10⁻⁶ K⁻¹ - 27 X 10⁻⁶K⁻¹) X 10L X (30°C - 10°C)
+V$ = 36mL
+Real and apparent coefficients of cubic expansion
+The formula used to calculate change in volume for a change in temperature of a
+solid can be applied for liquids. However, why we want to discuss volume expansion
+for liquids is that liquids are treated with their containers and consequently the
+expansion of the container affects the result for liquids.
+While measuring the coefficient of cubic expansion of a liquid, the result is not a real
+value, rather it is an apparent value since the container itself is affected by the change
+in temperature. Therefore, the actual coefficient of volume expansion is given by
+γᵣ = r + γc where γᵣ is the real value, γ is the apparent value and Vc is the
+coefficient of cubic expansion of the container.
+192
+Grade 11
+Example 5.5:
+Mercury of volume 10000 cm³, which is filled in a brass container, is heated from 10
+°C to 80 °C. What will be the real and apparent volume expansions of mercury in the
+brass container?
+T₀ = 10°C, T = 80°C, = 18 X , Vb = 5.7 X
+The real expansion of mercury is
+^Vₘ,r = V₀γ T = (10⁴cm³) X (18 x 10⁻⁵K⁻¹) (80°C - 10°C)
+^Vₘ,r = 126cm³
+The apparent coefficient of volume expansion of mercury in brass container,
+γ app = 18 X - X = 12.3 X
+The apparent volume expansion of the mercury becomes
+Vₐₚₚ = γ app VₒT = 12.3 X 10⁻⁵K⁻¹ (10⁴cm³) (70k)
+AVa₇ₚ = 86.1cm³
+Thermal expansion of gases
+Gases expand more at ordinary temperature than solid and liquid. In the case of
+gases, both temperature and pressure determine the change in volume of the gas.
+Increasing the temperature leads to increase in the volume of the gas while the
+increase in the pressure leads to decrease in volume. In this case, you cannot use the
+method used in liquids and solids to determine the volume expansion coefficient of
+a gas.
+Applications of thermal expansion in solids
+?
+Brainstorming
+1. Discuss and present the applications of thermal expansion in your locality.
+2. Explore how mercury thermometer is calibrated. What property is used for
+calibration and why is the mercury made to rise up a capillary tube ? What
+would be the shape of the metals look like after heating up? Describe the
+shapes
+Figure 5.11: Two different metals attached together
+3. Follow the demonstration by your physics teacher and explain Gravesend's
+ring -and -ball experiment to describe thermal expansion of solids. Experiment
+on thermal expansion of gases by putting an inflated balloon on a hot water.
+193
+Physics
+Student Text Book
+Some applications of thermal expansion:
+Riveting two metal sheets tightly: As the rivet cools it contracts and makes
+the joint between the two metal sheets tighter, as shown in Figure 5.12.
+hot rivet - expanded
+cold rivet . contracted
+metal sheets
+cool
+hot
+Figure 5.12: Riveting metal sheets
+brass
+iron or invar
+The bimetallic strip: A bimetallic strip is made
+out of two metals of different coefficients of linear
+this metal
+expands less
+expansion bonded together. For example iron and
+brass bonded together. The coefficient of linear
+expansion (α) of iron (1.1 X 10⁻⁵ K⁻¹) is less than that
+of brass (1.9 X 10⁻⁵ K⁻¹). When the strip is heated, the
+brass expands faster than the iron and as a result the
+strip bends towards the iron side, as shown in Figure
+5.13.
+Figure 5.13: Bimetallic strip
+A bimetallic strip can be used as a switch in an electric circuit that turns on and off
+according to the temperature. This switch is what we call thermostat.
+Removing a stopper: If you find it difficult to remove the stopper
+from a glass bottle, just heat its neck slightly. Now the neck of the bot-
+tle expands and the stopper comes out easily.
+Liquid thermometers: The expansion of mercury or alcohol in a liq-
+uid thermometer is an application of the thermal expansion of liquids.
+Boiling of liquids: When liquid is heated, the molecules of the liquid
+expand and the liquid changes its state.
+Sealed bottles: Medicine bottles are left out with some space at the top
+so that the medicine does not spill off after expansion.
+194
+Grade 11
+Review Questions 5.4
+1. A steel cork of a soft drink bottle at normal temperature is too tight to open it.
+Which method helps to open it easily; heating or cooling?
+2. Does heating a thin, circular ring make it wider or narrower?
+3. A segment of steel railroad track has a length of 60 m when the temperature is
+0.0°C. What is its length when the temperature is raised to 40.0°C?
+4. What would happen if, upon heating, the glass of a thermometer expands more
+than the liquid inside?
+5. Why do we use mercury in a glass thermometer while the glass undergoes
+thermal expansion with it?.
+6. When a metal ring and a metal sphere with equal radius are both at room
+temperature, the sphere does not pass through the ring. After the ring is heated,
+the sphere can pass through the ring. Why?
+7. The diameter of a piston is 10 cm. To what temperature should a steel ring of
+diameter 9.9 cm be heated so that the piston can pass through the ring?
+8. Suppose a 300 L steel barrel is filled with Ethyl alcohol at a temperature of
+10°C. How much Ethyl alcohol over flows if the system is heated to 100 °C?
+9. Consider three metal rods, each has a length of 40.0 cm at a temperature of
+0°C. When the temperature on them is increased by 100 °C, the length of the
+one is increased by 0.08 cm, the second one by 0.05 cm. The third rod which
+is made of combinations of the first two metals, extends by 0.06 cm. Find the
+length of each portion of the composite bar.
+10. Suppose that a steel hoop could at 0.0 degree Celcius be constructed around
+the earth's equator, just fitting it at a temperature 25°C. What would be the
+thickness of space between hoop and the earth if the temperature of the hoop
+were increased by 5 °C. = 1.2 X
+11. Two brass rods and one steel rod of equal length L₀ and equal cross-sectional
+are joined rigidly at their ends. All rods are in the state of zero tension at 0° C.
+Find the length of the system when the temperature is increased to T. (Take
+a
+12. The length of a copper wire at 0°C is 100 cm and it is is shorter by 0.05 cm from
+a steel wire at the same temperature. To what value should the temperature on
+the two wires be increased so that the two wires attain the same length?
+13. Calculate the change in area if the surface area of a container with a glass
+cover is 0.05 m2 and a = 9 X 10⁻⁶ °C-1 when it is exposed to a temperature
+difference of 96 °C.
+195
+Physics
+Student Text Book
+L
+14. Calculate the volume difference of a 1.00 m³ of water when heated from 10 °C
+to 90°C. = 2.1 X 10-4 °C-1.
+5.5 Change of phase
+After completing this section, you should be able to:
+discuss the phenomena of change of phase
+?
+Brainstorming
+You know that heat is a transfer or flow of energy due to temperature dif-
+ference.
+1. Is there a situation in which heat transfers without bringing change in the
+temperature of the substance?
+2. Have you ever noticed that melting or boiling undertakes without any change
+in temperature while heat is being transferring? What happened to the heat
+supplied?
+Anything that has mass is made up of matter - an all-encompassing word for atoms
+and molecules that make up our physical world. We describe this matter as existing
+in states (sometimes referred to as phases). Most people are familiar with three states
+of matter - solids, liquids and gases. The term phase is used to describe a specific
+state of matter, such as a liquid, solid or gas.
+Most substances can exist in different states. For example, water exists in liquid state,
+water as solid state, such ice, and water as gaseous state such as steam or water vapor.
+All these states or phases are the result of being at different temperatures. Phases
+of matter are inter-changeable. That is, matter can be changed from one state to
+another by adding or taking heat from the object.
+196
+Grade 11
+What is phase change?
+What is important about phases of matter is that matter undergoes changes in phase.
+When a substance is supplied with heat, it either changes its temperature or changes
+its internal energy. When internal energy is changed as heat is supplied the substance
+undergoes phase change. At phase change the heat supplied is used to change the
+molecular structure to break the bonds between molecules keeping the temperature
+constant. The transition from one phase to another is called phase change or phase
+transition, for instance, solid to liquid (melting), liquid to gas (evaporation).
+Latent heat
+The energy absorbed or released by a substance during a change in its physical state
+(phase) that occurs without changing its temperature is called latent heat. The
+amount of heat absorbed or released by an object of mass, m, is given mathematically
+by
+Q = mL
+where L is called the latent heat of the substance; i.e., L = Lf for heat of fusion and
+L=Lᵥ = for heat of vaporization. Its SI unit is joule per kilogram (J/kg).
+Latent heat depends on the nature of the phase change as well as on the properties of
+the substance.
+Key terms
+Latent heat of fusion is the amount of heat absorbed by 1kg of a substance from
+solid to liquid - leaving the temperature of the system unaltered.
+Latent heat of vaporization is the amount of heat absorbed by 1kg of the substance
+to change its phase from liquid to gas.
+The word "latent" means "hidden", so why is the term hidden? The reason why it
+is called latent heat is that it cannot be measured by a thermometer. The energy
+involved in a phase change is used to break bonds, and hence there is no increase in
+the kinetic energies of the particles (therefore, no rise in temperature). An important
+point that we should consider is that at a given pressure, any phase change undertakes
+at a specific temperature.
+Latent heat of fusion (Lf) is defined as the amount of heat absorbed by 1 kg
+of a substance to change its state from solid to liquid without any change in
+temperature. The temperature at which fusion takes place is called the melting point
+of the substance. For example, the melting point of water is 0°C. Since fusion and
+solidification of a given substance are the exact opposite processes, they have equal
+in magnitude, but opposite in sign.
+197
+Physics I Student Text Book
+Heat of vaporization (Lᵥ) is defined as the quantity of heat transferred to change 1
+kg of a substance from liquid state to gaseous state keeping the temperature constant.
+The temperature at which a liquid substance changes to steam is called boiling point.
+For example, the boiling point of water is 100 °C.
+The temperature versus heat graph, in Figure 5.14, shows temperatures at which
+phase changes take place.
+Phase Change
+Phase Change
+(Solid Liquid)
+(Liquid Gas)
+Gas
+Temperature (°C)
+Vaporization
+Condensation
+Liquid
+Melting
+Freezing
+Solid :::
+Heat Energy
+Figure 5.14: Temperature versus heat diagram
+Table 5.4: Latent heat of fusion (Lf) and latent heat of vaporization (Lv)
+Melting Point
+Boiling point
+Substance
+(°C)
+Lf (J/kg)
+LV( J/kg)
+(°C)
+Oxygen
+-218.79
+1.38 X 10⁴
+-182.97
+2.13 X 105
+Ethyl alcohol
+-114
+1.04 X 10⁵
+78
+8.54 X 10⁵
+Water
+0.00
+3.33 X 10⁵
+100.00
+2.26 X 10⁶
+Lead
+327.3
+2.45 X 04
+1750
+8.70 X 10⁵
+Copper
+1083
+1.34 X 10⁵
+1187
+5.06 X 10⁶
+Example 5.6
+Suppose the temperature of 4 kg of water is increased from -50 °C to steam at 100 °C,
+at standard pressure. Assume the specific capacity of ice is constant, 21 J/g.K. How
+much energy is absorbed by the water? Draw the temperature versus heat added
+graph.
+Solution:
+Cᵢ = 2100 J kg.K, Lf = 3.36x X J / kg, cw = 4200 kg.K, Tᵢ = -50°C,
+Tₘ = 0°C, Tb = 100°C, Lᵥ = X kg,
+The heat energy absorbed by the ice to increase the temperature from Tᵢ = -50°Cto
+melting point (Tₘ = 0°C) is,
+Qi =
+198
+Grade 11
+The energy absorbed by the ice at 0°C to water at 0°C,
+Qf = mL = 4kg X 3.36 X / kg = 1344000J
+The energy absorbed by the water to increase its temperature from 0°C to boiling
+point
+(Tb = 100°C)
+,
+Qw = mcw (Tb - Tₘ) = 4kg X / kg.K (100°C - 0°C) = 1680000 J
+The energy absorbed to change water at 100°C to steam at 100°C,
+Q$ = mLv = 4kg X 32.25 X 10⁶ J / kg = 1.29x 10⁸ J
+The total energy absorbed by the water is, then
+Q = Qi + Qf + Qw + Q$
+Q = 420000 J + 1344000J + 1680000 J + 129000000 J
+Q = 132444000 J
+Temperature (°C)
+Gas phase
+100
+Liquid phase
+0
+420000 1764000
+3444000
+132444000
+solid phase
+Heat (J)
+-50
+Figure 5.15. illustrates how the temperature varies when we add heat continuously to a
+specimen of ice with an initial temperature below 0°C (point A).
+Phase diagram
+Phase diagram is a graphical representation of the physical states of a substance
+under different conditions of temperature and pressure. The commonly known
+phase diagram has pressure on the y-axis and temperature on the x-axis. As you can
+see in Figure 5.16, there are three major curves for boiling, freezing or melting or
+199
+Physics
+Student Text Book
+fusion, and sublimation on the phase diagram. As you cross the lines or curves on
+the phase diagram, a phase change occurs.
+At several points on the graph, the temperature and pressure combinations will
+create a state of phase equilibrium between two phases. This is illustrated by a line
+along those temperature-pressure combinations called, "phase equilibrium lines." At
+every point along that line, there is equilibrium of both phases.
+Key terms
+The triple point represents the combination of pressure and temperature that
+facilitates all phases of matter at equilibrium.
+Critical Point is the point in temperature and pressure on a phase diagram where
+the liquid and gaseous phases of a substance merge together into a single phase.
+Fusion curve
+solid phase
+compressible
+supercritical fluid
+liqiud
+critical pressure
+Pressure
+Pcr
+liquid
+critical point
+phase
+Vaporization curve
+triple point
+gaseous phase
+Ptp
+sublimation
+vapour
+curve
+critical tempreture
+Tₜₚ
+Tcr
+Temperature
+Figure 5.16: Phase diagram
+The triple point: The triple point is a point at which the three lines on the pressure-
+temperature graph converge, offering an equilibrium state where all the three phases
+of solid, liquid and gas exist simultaneously. For example, the single combination
+of pressure and temperature at which liquid water, solid ice, and water vapor can
+coexist in a stable equilibrium occurs at exactly 273.1600 K and a partial vapor
+pressure of 611.657 Pa.
+Sublimation:
+Sublimation is the term for a phase change that proceeds directly from the solid phase to
+the vapor phase without first making the transition to the liquid state.
+200
+Grade 11
+Critical point (or, critical state): The critical point occurs where the critical
+temperature and critical pressure of a substance meet. Above this point clear phase
+boundaries cease to exist. For water the critical point is around 647 K and 22 MPa. The
+properties of the gas and liquid phases merge together giving only one phase at the
+critical point. Beyond the temperature of the critical point, the merged single phase
+is known as a supercritical fluid. A substance cannot form a liquid above its critical
+temperature, regardless of the applied pressure. Above the critical temperature, the
+molecules have enough kinetic energy to overcome the intermolecular attractive
+forces.
+The critical point is different to the boiling point of a substance. The boiling point
+of a substance is usually meant to mean the boiling point at standard atmospheric
+pressure. However, the actual boiling point of a substance depends on the surrounding
+pressure. From the phase diagram the substance has a number of boiling points
+following the curving blue line. The lower the pressure, the lower is the boiling
+point. The critical point occurs only at one specific temperature and pressure.
+Table 5.5: Liquid-vapor critical temperature and pressure for selected substances
+Substance
+Critical temperature
+Critical pressure (absolute)
+Mercury
+1,476.9 °C (1,750.1 K)
+1,720 atm (174,000 kPa)
+Sulfur
+1,040.85 °C (1,314.00 K)
+207 atm (21,000 kPa)
+Iron
+8,227 °C (8,500 K)
+Gold
+6,977 °C (7,250 K)
+5,000 atm (510,000 kPa)
+Review Questions 5.5
+1. Why does the melting point of ice get lower at higher pressures?
+2. Define critical temperature. Does it vary with pressure? Is it the same as
+boiling point?
+3. Does the boiling point increase indefinitely with increased pressure?
+4. Collect the triple points of water, carbon dioxide, mercury, and zinc, in the
+internet. Compare temperatures of these at triple point with the corresponding
+melting points at standard pressure.
+5. Is it possible to compress steam to form a liquid if the temperature is higher
+than 374°C?
+6. Calculate the heat energy required to melt 10 g of copper at its melting point.
+(Lf for copper = 209 000 J/kg).
+7. Calculate the heat energy released to cool 0.1kg of aluminium from 2,470°C
+201
+Physics
+I
+Student Text Book
+(boiling point of Al) of aluminium gas to solid aluminium at 660.3°C (melting
+point of Al) at standard pressure.
+8. The diagram shows the phase diagram of CO2.
+a. At what temperature and pressure can the solid, liquid and vapor phases of
+CO2 coexist in equilibrium?
+b. At what temperature does carbon dioxide undergoes change in state at
+standard pressure? What type of state change does it undergo?
+C. What are the critical temperature and pressure for CO2?
+Critical
+Supercritical
+point
+c
+fluid
+72.9 atm
+Liquid
+Pressure (not to scale)
+5.1 atm
+0
+Triple
+Solid
+point
+1 atm
+Gas
+B
+-78.5
+°C
+-56.7 °C
+31 °C
+Temperature (not to scale)
+9. The diagram below shows the phase diagram of water.
+a. At what temperature and pressure can the solid, liquid and vapor phases of
+water coexist in equilibrium?
+b. Is water solid, liquid or gas at 0.01 °C under 1 atm?
+217.75 atm
+critical point
+Pc
+Critical
+Pressure
+LIQUID
+melting
+PHASE
+SOLID
+Pressure, P
+PHASE
+1 atm.
+Normal Boiling Point
+triple point
+GAS
+0.006 atm
+PHASE
+sublimation
+0.01
+°C
+100°C
+373.99 °C
+Temperature, T
+Critical Temperature
+202
+Grade 11
+5.6 Calorimetry
+After completing this section, you should be able to:
+solve problems associated with Calorimetry
+investigate a phenomena related with heat capacity from every day
+experience.
+?
+Brainstorming
+You have learned specific heat and heat capacity and later specific latent heat.
+Discuss how you can measure the specific heat and latent heat of a substance.
+Calorimetry is the measurement of the quantity of heat exchanged between
+substances. The experimental approach of measuring heat capacities and the heat
+changes during chemical and physical processes is called calorimetry. A calorimeter
+is a device used to measure specific heat capacity and specific latent heat of solids or
+liquids.
+5.6.1. Measuring specific heat capacity
+There are several methods we can use to determine the specific heat capacity of a
+substance, but remember that to calculate this value we will always need to know:
+the mass of the substance,
+the amount of heat energy supplied,
+its starting temperature, and
+the final temperature.
+All of these slightly different approaches of specific heat measurement methods
+involve heat exchange. This is done by heating one material and bringing it in
+thermal contact with a relatively colder body so that they exchange heat. The heat
+from the hot body is used to warm a colder body. In approaching these heat exchange
+calculations we use the principle that for an isolated system, the heat energy lost
+(Q₁₀ₛₜ) from the hot body will equal the heat gained (Qₐᵢₙ) by the cold body.
+Heat gained by cold object = Heat lost by hot object
+203
+Physics I Student Text Book
+Example 5.7
+A 0.05 kg bar of unknown metal is heated to 200.0°C and then immersed into a
+container with 0.40 kg of water initially at 20.0°C. If the final equilibrium temperature
+of the system is 22.4°C, find the specific heat of the metal.
+Solution:
+Using the heat exchange method,
+Qw = -Qₛ,
+0.4 kgx(4186 J/kg)x(2.4°C-20.0°C) = -0.05 kg x(22.4°C-200.0°C)
+Solving this for Cₛ, we obtain,
+cₛ = 453J/kg.°C.
+Electrical heating to determine the specific heat capacity of a solid
+The electrical method can be used to find the specific heat capacity of a solid or a
+liquid. The diagram in Figure 5.17 The electrical method can be used to find the
+specific heat capacity of a solid or a liquid. The diagram in Figure 5.17 shows the
+apparatus used to find the specific heat capacity of a solid by electric method. In this
+case, the hot body losing the heat energy is the electrical heater. We assume only
+the solid object gains heat. We ignore any heat energy supplied to the thermometer
+and any heat lost to the surroundings, and assumed that the electrical heater is 100%
+efficient in this calculation.
+thermometer
++
+electrical heater of
+known power
+insulation
+solid sample of
+known mass
+Figure 5.17: Finding the specific heat capacity of a known mass
+Key term:
+Calorimetry is the measurement of the quantity of heat exchanged between
+substances.
+204
+Grade 11
+If we know the power rating of the heater and we know how long the heater is
+switched on for we can determine the quantity of heat energy supplied to the block
+as:
+E = Pt
+where E is the energy supplied in the time t, and P is the power rating of the heater.
+For a given mass, mₛ, and change in temperature, T, the specific heat capacity, cₛ
+, can be determined from the principle of calorimetry as
+Pt = m&c AT
+Example 5.8
+A 100 W electrical heater, running for 5 minutes, warmed a 0.50 kg block of an
+unknown metal. The initial temperature of the metal block was 20.0 °C and its final
+temperature was 86.6 °C. Determine the type of the metal.
+Solution
+t = 60x5 S = 300 s, T = Tf - Tᵢ = 86.6°C - 20°C = 66.6°C
+The total energy supplied to the metal block:
+E = Pt = 100 Wx 300 S = 30000 J
+The heat gained by the block: Q = mₛcₛAT = 0.5kg X X 66.6°C
+Since heat supplied equals heat gained, we have
+0.50 kg X Cₛ X 66.60 °C = 30000.00 J
+30000.00J
+cₛ
+=
+=
+900.90J/kg.°C
+0.50kgx66.60°C X
+Comparing this value with the value given in Table 5.1, the metal block is an
+aluminum block.
+205
+Physics I Student Text Book
+I. Electrical heating to determine the specific heat capacity of a liquid
+Electrical heating can also be used to determine
+the specific heat capacity of a liquid. An insulated
+Thermometer
+container could be used for the liquid. Alternatively,
+a calorimeter could be used to hold the liquid.
+Stirrer
+In this case, the liquid is continuously stirred and
+we will take into account the heat energy supplied
+Heater
+to the calorimeter as well as that supplied to the
+liquid. The diagram in Figure 5.18 shows the use of
+Water
+Insulated
+a calorimeter to determine the specific heat capacity
+base
+Calorimeter
+of water.
+Figure 5.18: Determining the specific heat capacity of a liquid
+Applying the heat exchange method for a given mass of liquid, m₁, specific heat
+capacity, c₁, using a calorimeter of mass, mc specific heat capacity, C,, and change
+in temperature, T,
+mccc
+Example 5.9
+A copper calorimeter and stirrer of mass 350 g contains 227 g of a liquid. A 1000 W
+heater running for 1 minute and 15 seconds heated this combination of liquid and
+calorimeter from 20 °C to 88 °C. Calculate the specific heat capacity of this liquid
+given that the specific heat capacity of copper is 420 J/kg.K.
+Solution:
+t = 75 s, P = 1000W, T = 88 °C - 20 °C = 68 °C, Cc = 420J/kg.K, m₁ = 0.225kg,
+mc = 0.35 kg
+Heat supplied: Pt = 1000W X 75 S = 75000J
+Heat gained by the calorimeter and the liquid:
+Q = 0.225kgxc X 68 °C + 0.350 kgx 420 J kg. 68 °C
+Q = (17 kg.ºC)c,+9996 J
+Using the heat exchange method,
+II
+75000 = (15.3 kg.°C)c₁+9996]
+206
+Grade 11
+After some rearrangements, we obtain
+75000 J - 9996 J
+c₁ =
+=
+4,248.6J/kg.°C
+15.3 kg. C
+The type of the liquid is water.
+Mixture method
+This method can be adapted to measure the specific heat capacity of a solid or liquid.
+The diagram in Figure 5.19 shows the method used to determine the specific heat
+capacity of a solid. The solid, of known mass, mₛ, is heated in a water bath to a
+temperature of Th. This temperature will be the initial temperature of the solid.
+The solid is then quickly transferred to the cold water of known mass, mw , in the
+calorimeter. Once in the calorimeter, the hot object (in this case a steel bolt) loses
+some heat energy to the colder water, and the colder calorimeter and stirrer. We stir
+the water and record the highest temperature on the thermometer, which will be the
+final temperature, Tf, of the mixture.
+cotton
+thermometer
+thread
+stirrer
+cover
+cotton
+thread
+beaker
+water
+outer
+jacket
+steel
+bolt
+calorimeter
+lagging
+material
+tripod
+stand
+HEAT
+steel
+bolt
+Figure 5.19: Determining the specific heat capacity of a solid (bolt in this case) using the
+method of mixtures
+207
+Physics I Student Text Book
+In this case, the heat lost by the hot solid object (in this case, the bolt) will be equal
+to the heat gained by the water and the calorimeter/stirrer.
+-Qₛ
+where,
+The heat lost by the
+The heat gained by the cold water: Qw = mwcw (Tf -T.)
+The heat gained by the calorimeter: Qc = mccc (Tf -T.)
+Substituting these expressions in the former equation, we obtain an expression, from
+which the specific heat capacity of the liquid can be derived:
+Example 5.10:
+In the above activity, suppose the temperature and mass of the bolt is 100 °C and 125
+g, respectively. Mass of water is 200 g, and mass of copper calorimeter, copper stirrer
+is 100 g, and initial temperature of water and calorimeter is 20°C. If the equilibrium
+temperature is 25°C, what is the specific heat capacity of the bolt?
+Solution:
+Heat lost by the bolt:
+-Q = = = (9.375kg.°C)
+Heat gained by the water and calorimeter + stirrer:
+Q
+Q =(0.2kgx4200J/ kg.°C +0.1kgx385I/kg.C)(75°C) = 65,887.5J
+Now we know that,
+Heat lost by the bolt = Heat gained by the water and calorimeter + stirrer
+(9.375kg.ºC)c, = 65,887.5
+?
+Activity 5.3
+Discuss uses of specific heat in your daily life in groups and share to your class
+mates.
+208
+Grade 11
+Uses of specific heat in our daily life are given below:
+Utensils for making tea or coffee, or cooking vegetables or rice, are
+made of low-specific heat materials. They have a polished bottom. As a
+result, they heat up faster. For example, copper, aluminum, and so on.
+High specific heat materials can be used as insulators. Wood, for ex-
+ample, has high specific heat. During the summer, wooden houses will
+keep the inside cooler. Builders can select appropriate building mate-
+rials based on location and altitude. This enables the construction of
+warmer or cooler houses.
+Utensil handles at home are made of materials with high specific heat.
+They provide thermal insulation. Specific heat also influences insulat-
+ing capability and conductivity.
+Probably the most relevant, real-life example of how a substance's spe-
+cific heat capacity affects your everyday life is the specific heat of wa-
+ter with regard to the ocean as a heat reservoir. Essentially, the oceans
+of the Earth are enormous heat storage systems and the high specific
+heat capacity of the ocean's water is why we have stable (or relatively
+stable) temperature ranges within our climate systems.
+5.6.2. Measuring specific latent heat
+Measuring specific latent heat of ice or that of steam can be done by the two methods.
+Electrical method: Energy is supplied for a known time by an electrical
+heater of known power.
+Method of mixture: Mixing water and ice in a calorimeter.
+Measurement of specific latent heat of ice using mixture method
+The apparatus in Figure 5.20 can be used to determine the specific latent heat of
+fusion, Lf, of ice by mixture method. The copper calorimeter and stirrer is weighed
+before being half filled with water. The mass of the water present in the calorimeter is
+then determined before the water is heated to at least 10 °C above room temperature.
+Small quantities of ice are then added to the water, while stirring, until the temperature
+is below room temperature and all the ice has melted. The mass of the calorimeter,
+stirrer and water is then determined to find out the mass of ice added.
+209
+Physics I Student Text Book
+thermometer
+stirrer
+copper
+calorimeter
+ice
+water
+(a)
+(b)
+Figure 5.20: A simple experiment to determine the specific latent heat of fusion of ice.
+We will use the principle here that the heat energy lost from the water and the
+calorimeter will go to warming and melting the ice and then warming the cold water
+produced when the ice melts.
+Heat absorbed by ice and cold water = Heat liberated from calorimeter/stirrer and
+water
+Example 5.11:
+The following experimental data are obtained using this method to determine
+the specific latent heat of fusion of ice.
+Mass of calorimeter, mc = 0.15 kg,
+Mass of water, mw = 2.00 kg.
+Mass of ice, mi , added = 0.60 kg
+Initial temperature of ice, T₀ᵢ = - -10 °C
+Initial temperature of water, Tow = 49 °C
+Final temperature of water, Tf = 20 °C
+Specific heat capacity of water, cw = 4200 J/kg.K
+Specific heat capacity of ice, Cᵢ = 2100 J/kg.K
+Specific heat capacity of calorimeter, Cc = 420 J/kg.K
+210
+Grade 11
+Solution
+The latent heat of fusion of ice Lf may be calculated from the following equation:
+Substituting values in to this equation, we obtain
+-f = 346,045
+Measurement of specific latent heat of steam
+When steam, at 100 °C, is bubbled into water, it first condenses to water and then its
+temperature decreases as it loses heat to the surrounding water. If this occurs in an
+insulated container then the heat lost by the steam is equal to the heat gained by the
+water and the container.
+The specific latent heat of vaporisation of water (Lᵥ) can then be calculated using
+the formula:
+where mₛ is mass of steam, mw and mc are masses of water and calorimeter,
+respectively; cc and are specific heat capacities of calorimeter and water,
+respectively; Tₛ =T-Tₛ = is fall in temp of condensed steam, and Tc =T-Tc = is
+rise in temp of calorimeter or rise in temp of water; provided that T is the final
+temperature and Tₛ (=100°C in this case) and Tc are initial temperatures of steam
+and cold water, respectively.
+Group Discussion
+Discuss uses of specific latent heat in your daily life in groups and share to your
+class mates.
+Daily life is filled with examples of latent heat:
+Steaming Food
+Cooling drinks with cold water and ice
+Extinguishing fire by using boiling water
+Melting Ice on the road by using Salt
+Steam electric energy
+Transformation of water to cloud then to water/rain is the result Latent
+211
+Physics
+Student Text Book
+heat.
+?
+Activity 5.4
+1. In a small group, devise and carry out an investigation into the amount of
+heat necessary to convert a known quantity of ice to water at 0°. Show your
+plans to your teacher. How will you measure how much heat is supplied? What
+measurements will you need to take?
+Review Questions 5.6
+1. A 1.0 kg bar of unknown metal is heated to 400.0°C and then immersed into
+a container with 2.0 kg of water initially at 15.0°C. If the final equilibrium
+temperature of the system is 20.8°C, find the specific heat of the metal. What
+is the type of the metal? Neglect the container specific heat and mass.
+2. A calorimeter of mass 250 g contains 200 g of water. A 1000 W heater running
+for 5 minutes, heated this combination of liquid and calorimeter from 20 °C to
+80 °C. Calculate the specific heat capacity of this calorimeter
+3. In an experiment to determine the specific heat of a metal, a 0.25 kg block
+of the metal at 200 °C is dropped in a copper calorimeter of mass 0.02 kg
+containing 150 cm³ of water at 25 °C. The final temperature is 40 °C. What
+is the specific heat of the metal? If heat losses to the surroundings are not
+negligible, is your answer greater or smaller than the actual value for specific
+heat of the metal?
+4. A copper block of mass 20 kg is heated in a furnace to a temperature of 500
+°C and then immediately placed on a large ice block. What is the maximum
+amount of ice that can melt?
+212
+Grade 11
+UNIT SUMMARY
+c
+Heat is energy in transit due to temperature differences.
+c
+Two objects are said to be in thermal equilibrium if they are equal in temperature.
+Two or more objects, which are in thermal equilibrium, do not exchange heat
+energy.
+c
+Internal energy of a system or a body with well defined boundaries is the total of the
+kinetic energy due to the motion of molecules and the potential energy associated
+with the vibrational motion and electric energy of atoms within molecules. It
+includes the energy in all the chemical bonds. Internal energy increases with rising
+temperature and with changes of state or phase from solid to liquid and liquid to
+gas.
+c
+Heat and work are two different ways of transferring energy from one system to
+another. Heat is the transfer of thermal energy between systems, while work is the
+transfer of mechanical energy between two systems. Heat can be transformed into
+work and vice verse, but they aren't the same thing. Heat and work both contribute
+to the total internal energy of a system.
+c
+Conduction is the process by which heat energy is transmitted through collisions
+between neighboring atoms or molecules.
+c
+Convection (or convective heat transfer) is the transfer of heat from one place to
+another due to the movement of fluid.
+c
+Radiation heat transfer occurs via electromagnetic waves. Unlike conduction and
+convection, radiation does not need a medium for transmission.
+c
+Heat capacity is the amount of heat required to raise the temperature of an object
+by 1 °C It is mathematically defined as
+C=2T C
+where Q is heat transferred to the object, T is change in temperature of
+the object and C is heat capacity of the object. The SI unit of C is joule per
+kelvin (J/K); you know that 1 J/K=1J/°C).
+C
+Specific heat capacity is the change in temperature of a unit mass of a substance by
+1o C. The mathematical form of c is
+The SI unit of specific heat capacity is J/kg.°C, or J/kg.K.
+c
+Thermal expansion is the tendency of matter to change in shape, volume, and area
+in response to a change in temperature.
+c
+Thermal expansion of solids can be classified in to three: linear expansion, surface
+(area) expansion and volume expansion. We can determine only cubic thermal
+213
+Physics I Student Text Book
+expansion for liquids and gases as they do not have their own definite shapes.
+c
+When a changed in temperature T caused a change in length of L on a rod of
+original length L₀ at an initial temperature T₀ and negligible width and thickness,
+the fractional change in length is given by,
+AL = aAT
+where a is the linear coefficient of thermal expansion, has unit of °C-1.
+c
+When the area of a plate changes from A₀ to A when the temperature changes
+from T₀ to T, we have the relation given by:
+where ß = 2α is the area coefficient of thermal expansion, having a unit of °C-1.
+c
+Similarly, when the volume of an object changes from V₀ to V when the temperature
+changes from T₀ to T, we have:
+where γ = 2ß = 3α is the volume coefficient of thermal expansion, with a unit
+of °C-¹.
+In measuring he coefficient of cubic expansion of a liquid in a container, we get
+an apparent value since the container itself experiences the change in volume. The
+real value of coefficient of volume expansion of the liquid is given by
+where γᵣ is the real value, γₐ is the apparent value and Vc is the coefficient
+of cubic expansion of the container.
+c
+The energy absorbed or released by a substance during a change in its physical
+state (phase) that occurs without changing its temperature is called latent heat.
+Latent heat on by an object of mass, m, is given mathematically by
+Q = mL
+where L is called the latent heat of the substance; i.e., L = Lf for heat of fusion and
+L = Lv for heat of vaporization. Its SI unit is joule per kilogram (J/kg).
+c
+Latent heat depends on the nature of the phase change as well as on the properties
+of the substance.
+c
+Latent heat of fusion is the amount of heat absorbed to convert a unit mass of a
+substance from solid to liquid - leaving the temperature of the system unaltered.
+c
+Latent heat of vaporization is the amount of heat absorbed to change a unit mass
+of liquid to gas.
+c
+Phase diagram is a graphical representation of the physical states of a substance
+214
+Grade 11
+under different conditions of temperature and pressure.
+c
+The triple point represents the combination of pressure and temperature that
+facilitates all phases of matter at equilibrium.
+c
+Critical Point is the point in temperature and pressure on a phase diagram where
+the liquid and gaseous phases of a substance merge together into a single phase.
+c
+Calorimetry is the measurement of the quantity of heat exchanged between
+substances. The experimental approach of measuring heat capacities and the
+heat changes during chemical and physical processes is called calorimetry. A
+calorimeter is a device used to measure specific heat capacity and specific latent
+heat of solids or liquids.
+c
+There are several methods we can use to determine the specific heat capacity of a
+substance, but all methods always involve heat exchange and the following should
+be known:
+the mass of the substance,
+the amount of heat energy supplied,
+its starting temperature, and
+the final temperature.
+c
+The law of calorimetry states that for an isolated system, the heat energy lost from
+the hot body will equal the heat gained by the cold body.
+Heat gained by cold object = Heat lost by hot object
+215
+Physics
+Student Text Book
+END OF UNIT QUESTIONS
+1. What is/are the condition/s for net heat flow from one place to another place? Is it
+necessary to have a heat-conducting material for heat transfer?
+2. When does net heat flow stop? Do two objects in thermal equilibrium exchange
+heat?
+3. What is the direction of the spontaneous flow of heat?
+4. What is the relationship between temperature and heat? What about between tem-
+perature and internal energy? Is internal energy of a confined gas solely dependent
+on temperature?
+5. If the temperature of a confined gas is increased, which form of energy is said to
+be increased in the gas?
+6. Suppose heat is supplied to an inflated balloon, which is firmly tied at its neck.
+What are connections between the heat supplied, the thermodynamic work and
+the internal energy in the balloon?
+7. Describe conduction, convection and radiation heat transfer mechanisms. Name
+the general mode of heat transfer in solids, in liquids and gases.
+8. Which way is heat transfer believed to occur in a long, hollow cylinder kept at
+consistent but varied temperatures on its inner and outer surfaces?
+9. How can you change the boiling point of water?
+10. At 20.0 degree Celcius, the length of a sheet of steel is 100.0 cm and the width is
+50.0 cm. If the coefficient of linear expansion of steel is 0.000011/C, determine the
+change in area and the final area at 100.0C.
+11. The temperature of a metal bar rises by 10.0°C when it absorbs 9000.0 J of heat
+energy. If the mass of the bar is 1000.0 g, what is its specific heat capacity?
+12. Is thermal energy the same as heat, internal energy or has another definition?
+13. What important properties can be obtained in the phase diagram?
+14. What does the critical point of water at (217.7atm, 374.0°C) mean?
+216
+electrons
++
++
++

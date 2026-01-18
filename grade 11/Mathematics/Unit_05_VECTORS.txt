@@ -1,0 +1,1931 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+Know basic concepts and procedures about vectors and operation on vectors.
+Know specific facts about vectors.
+Apply principles and theorem about vectors in solving problems involving
+vectors.
+Unit Contents
+5.1 Revision on Vectors and Scalars
+5.2 Representation of Vectors
+5.3 Vector Product
+5.4 Application of Scalar and Cross Product
+5.5 Application of Vectors
+5.6 Applications
+Summary
+Review Exercise
+251
+Unit 5: Vectors
+coordinate form of a
+cross product
+KEY
+Words
+vector
+orthogonal vectors
+parallel vectors
+perpendicular vectors
+resolution of vectors
+scalar quantity
+Standard unit vector
+unit vector
+vectors quantity
+zero vector
+Introduction
+In Grade 9, you have discussed that measurement of any physical quantity can be
+expressed in terms of a number and a unit. For instance, physical quantities such as
+length, time, mass, electric current, area, volume, velocity, force, acceleration, work,
+etc. can be expressed in terms of a number and a unit.
+Thus, physical quantities that are used to describe the motion of objects can be
+divided into two categories. The quantity is either a vector or a scalar. In this unit,
+you focus on various geometric and algebraic aspects of vector representation and
+vector algebra.
+5.1 Revision on Vectors and Scalars
+Activity 5.1
+Classify the following physical quantities as scalar and vector quantities:
+a. time
+b. mass
+c. work
+d. torque
+e. distance
+f. displacement
+g. length
+h. velocity
+i. force
+j. volume
+k. temperature
+From Activity 5.1, you have observed that there are physical quantities that can be
+expressed by magnitude and direction and there are physical quantities that can be
+expressed by a certain number associated with a suitable unit only. These physical
+quantities can be classified as a vector or a scalar physical quantity.
+252
+Unit 5: Vectors
+5.1.1 Scalars
+Definition 5.1
+Physical quantities expressed by a certain number associated with a suitable unit
+without any mention of direction in space is known as scalar. The number
+describing the quantity of a particular scalar is known as its magnitude. For
+example, time (15 sec), mass (20 kg), length (5 km), area (7 m²), volume (10
+m³), temperature (37 °C).
+5.1.2 Vectors
+Definition 5.2
+A vector is a physical quantity which can be expressed completely by stating
+both its magnitude with particular unit and direction. For example, car
+movement is usually described by giving the speed and the direction, say 60
+km/h northeast. The car speed and car direction together form a vector quantity,
+velocity of the car.
+Exercise 5.1
+1. Make a list of physical quantities which are not mentioned in the introduction part,
+distinguish whether they are vectors or scalars.
+2. Classify the following physical quantities as scalar and vector quantities.
+a. length
+b. velocity
+C. time
+d. force
+253
+Unit 5: Vectors
+5.2 Representation of Vectors
+5.2.1 Components of Vectors
+Activity 5.2
+1. Discuss how a vector quantity can be represented in a coordinate form in a
+plane by giving examples.
+2. If V = (1,1) is a vector whose initial point is the origin as shown in Figure
+5.1, then find
+a. the components of V.
+b. the direction of V.
+3. If и = (-1, √3) is a vector whose initial point is the origin as shown in Figure
+5.1, then find
+a. the components of V.
+b. the direction of V.
+2
+(-1,√3)
+(1,1)
+1
+и
+v
+x
+-2
+-1
+O
+1
+2
+3
+-1
+Figure 5.1
+From Activity 5.2, you have observed that how vectors can be represented in a
+coordinate or a column form in a plane.
+I
+254
+Unit 5: Vectors
+Definition 5.3
+1. If V is a vector in the plane whose initial point is the origin, O (0, 0) and
+whose terminal point is Q (x,y) then the coordinate form of a vector
+V = vector OQ = (x, y) or the column form of a vector V = (x) as shown in
+Figure 5.2. The numbers x and y are called components of a vector v, the
+direction of the vector can be given by the slope m= x. m = 2/2
+2. If V is a vector in the plane whose initial point P (x₁, y₁) and whose terminal
+point Q( X₂ , y₂) the coordinate form of a vector V = vector
+PQ = (x₂ — x₁ , Y₂ — y₁) or the column form of a vector V = as
+shown in Figure 5.3.
+The numbers X₂ — x₁ and У₂ — У₁ are called components of a vector v, the
+direction of the vector V can be given by the inclination of the line with slope
+y
+y
+O(x
+V
+y₂
+y
+Q(x,y)
+V
+P(x₁,,y₁)
+x2
+o
+Figure 5.2
+Figure 5.3
+Note
+1. If both the initial and terminal points lie at the origin, then V is the zero vector
+and is given by V = (0, 0) or V = (°).
+255
+Unit 5: Vectors
+Example 1
+Find the coordinate and column forms of the vector V that has initial point (0, 0) and
+terminal point (3, 6).
+Solution
+Let O = (0, 0) and Q = (3, 6), as shown Figure 5.4.
+y
+6
+Q(3,6)
+5
+4
+3
+2
+1
+o
+-2
+-1
+1
+2
+3
+4
+5
+x
+Figure 5.4
+Accordingly, coordinate form of vector V is V = (3, 6) and the column form of vector
+V is V = (³).
+Example 2
+Find the coordinate and column forms of the vector V that has initial point (1, 2) and
+terminal point (6, 7).
+Solution
+Let P = (1, 2) and Q = (6, 7), as shown in Figure 5.4.
+I
+256
+Unit 5: Vectors
+y
+7
+Q(6,7)
+6
+5
+4
+3
+2
+P(1,2)
+1
+-1
+O
+2
+3
+4
+$
+6
+7 X
+Figure 5.5
+Thus, the coordinate form of vector V is
+V = PQ = ( x₂ - x₁ , Y₂ - y₁) = (6- 1, 7 - 2) = (5, 5) and the column form of
+vector V is V = (5).
+Exercise 5.2
+1. Find the coordinate and column forms of the vector V that has initial point (0, 0)
+and terminal point (7, 8).
+2. Find the coordinate and column forms of the vector V that has initial point (2, 5)
+and terminal point (5, 10).
+3. Find the coordinate and column forms of the vector V that has initial point
+A (a₁, a₂) and terminal point B (b₁, b₂).
+I
+257
+Unit 5: Vectors
+5.2.2 Addition and Subtraction of Vectors
+a. Addition of Vectors
+Activity 5.3
+1. What do you know about addition of vectors?
+2. Consider vector и as a displacement that Kebede walks 5 m due east and then
+V as a displacement that Kebede walks 6 m due north. Find these two
+displacements as a single displacement.
+From Activity 5.3, you can add two vectors geometrically by joining tail to head of
+the resultant vector r = и + v, which describes addition of vectors and can be found
+by placing V such that its tail is at the same point as the head of u. The resultant
+vector r, or addition of vectors u + v, has its tail at the tail of u and its head at the
+head of v, as shown in Figure 5.6, indicating triangular law of vector addition.
+r=u+v =
+V
+и
+Figure 5.6
+Definition 5.4 (Parallelogram method of addition of vectors (head-to-tail method)
+If u and V are two vectors, the sum и + V is the vector determined by translating
+vector V until its tail coincides with the head of u. Then, the directed line
+segment from the tail of и to the head of V is the vector и +v.
+258
+Unit 5: Vectors
+Theorem 5.1 (Commutative property of vector addition)
+If и and V are any two vectors, then и +v=v+u.
+Z
+и
+Y
+V
+v+u
+u+v
+V
+P
+и
+X
+Figure 5.7
+Theorem 5.2 (Associative Property of vector Addition)
+If u, V and W are any three vectors, then (u + v) + W = и + (v + w).
+Z
+W
+Y
+v+w
+u+v
+P
+V
+и
+X
+Figure 5.8
+Example 1
+y
+If u = (2, 5), V = (7, 3) and W = (1, 6)
+7
+(1,6)
+6
+as shown in figure 5.9, then find
+(2,5)
+5
+a. u + v
+b. V + и
+W
+4
+c. (u + v) + W
+d.u+ (v + w)
+3
+u
+(7,3)
+2
+V
+1
+-2 -10
+1
+2
+3
+4
+5
+6
+7
+8
+x
+-1
+Figure 5.9
+I
+259
+Unit 5: Vectors
+Solution
+Substitute the given values of u, V and W into the definition of vector addition.
+a. u + V = (2, 5) + (7,3) = (2 + 7,5 + 3) = (9,8).
+b. V + u = (7,3) + (2,5) = (7 + 2,3 + 5) = (9, 8).
+9
+y
+8
+7
+(9,8)
+6
+5
+(2,5)
+4
+u+v
+v +u
+3
+и
+2
+(7,3)
+1
+V
+x
+-2 -10
+1 2 3 4 5 6 7 8 9 10
+-1
+Figure 5.10
+c. (u + v) + W = ((2,5) + (7,3)) + (1,6) = (2 + 7,5 + 3) + (1,6) = (9,8) + (1,6)
+= (9 +1, 8 + 6) = (10, 14).
+d. u + (v + w) = (2,5) + ((7,3) + (1,6)) = (2,5) + (7 + 1, 3 + 6) = (2,5) + (8,9)
+= (2 + 8, 5 + 9) = (10, 14).
+y
+(10,14)
+y
+(10,14)
+14
+14
+12
+12
+10
+10
+8
+8
+(8,9)
+(9,8)
+6
+(1,6)
+6
+(2,5)
+v+w
+4
+W
+4
+u+v
+и
+2
+2
+x
+x
+O
+2
+4
+6
+8
+10
+O
+2 4 6 8 10
+Figure 5.11
+I
+260
+Unit 5: Vectors
+Note
+1. For any three vectors u, V and w, if и = V and V = W, then u = w. =
+2. The zero vector 0 has the following property:
+For any vector u, u + 0 = 0 + u = u.
+3. If u = (x₁,y₁) and V = (x₂, y₂) then и + V = (x₁ + x₂, y₁ + y₂ ).
+b. Subtraction of Vectors
+Activity 5.4
+Suppose that u and V are two vectors. How can you interpret the subtraction of
+these vectors in terms of addition?
+From activity 5.4, you have observed that u - V is equal to u + (-v), that is the
+vector sum of u and -v. Now, you can reverse vector V and then add using the
+parallelogram method of addition of vectors.
+V
+u
+-V
+u-v
+Figure 5.12
+This figure shows subtraction of vector u - V as addition of u and (-v) using the
+parallelogram method of addition of vectors.
+Moreover, you can also subtract these vectors using the triangular law of vector
+addition as follows. Draw the position и and V so that their initial points coincide.
+Here, the vector from the terminal point of V to the terminal point of u is then the
+vector u - V as shown in Figure 5.13.
+I
+261
+Unit 5: Vectors
+V
+u-v
+u
+Figure 5.13
+Note
+1. Subtraction of two vectors и and V is adding the negative of vector V to the
+vector u. That means u - v=u (-v).
+2. You can do subtraction of vectors just like how you can do subtraction of
+scalers. You subtract the corresponding components of vectors while
+subtracting vectors.
+3. If V is any non-zero vector and -V is the negative of v, then v+ (-v) = 0.
+4. The subtraction of vectors is not commutative.
+5. The subtraction of vectors is not associative.
+Example 2
+If и = (3, 6), V = (8, 4) and W = (2, 7), then find
+a. u - v
+b.v-u
+c. . (u - v) - w (u v) - W
+d. u - (v - w)
+Solution
+Substitute the given values of u, V and W.
+a. u-v=u + v) = (3, 6) + (8, 4)) = (3, 6) + (-8, -4)
+=(3 +(-8), 6 + (-4)) = (-5,2).
+b. V - u =(8,4)- (3,6)=(8 - 3,4- 6) =(5,-2). =
+I
+262
+Unit 5: Vectors
+c. (u - v) -w = ((3,6) - (8,4)) - (2,7) = (3 - 8,6 - 4) - (2,7)
+= (-5,2) - (2,7) = (-5 -2,2 - 7) = (-7, -5).
+d. u- (v - w) = (3,6) - ((8,4) - (2,7)) = (3,6) - (8 - 2, 4 - 7)
+= (3,6) - (6, -3) = (3 - 6,6 - (-3)) = (-3,9).
+Exercise 5.3
+1. Find a.u+v b. u - v c.(u+v) +w d. (u-v) -w
+if u = (3,4), V = (5,-1) and W = (2, -5).
+2. Write any point A, B, C and F in your notebook and draw diagrams to illustrate
+the following vector equations:
+a. AB + BC = AC
+b. AB + BC + CF = AF c. AB - BC = AC =
+3. Graphically add the given vectors и and V shown in Figure 5.14 by using head to
+tail rule
+y
+u
+V
+o
+x
+Figure 5.14
+5.2.3 Multiplication of Vectors by Scalars
+Activity 5.5
+Let u = (2, 1). Then graph the pair of vectors on the same xy-plane.
+a. u and w, where w=u+u+u
+b. u and -u
+c. u and 2w, where W = u+u+u
+I
+263
+Unit 5: Vectors
+Suppose you have a vector u, then if this vector is multiplied by a scalar quantity
+k = 7/2 and so on, you will get the value as shown in Figure 5.15.
+3u
+-3u
+и
+-u
+2u
+1/11
+Figure. 5.15
+Hence, from the above given set of vectors, you have observed that the direction of
+vector и remains the same when the value of the scalar is positive and the direction
+becomes exactly opposite when the value of the scalar is negative. In both cases the
+magnitude keeps changing depending upon the values of the scalar multiple.
+Note
+The product kv of a vector V and a scalar k is a vector with a magnitude that is |k|
+times the magnitude of v, and with a direction that is the same as the direction of
+V if k > 0, and opposite the direction of V if k < 0. This is called scalar
+multiplication. If k=0 = or V = 0, then kv = 0.
+Example 1
+Let u = (-1, 3). Find 7u.
+Solution
+7u = 7(-1, 3) = (7(-1), 7(3)) = (-7, 21).
+I
+264
+Unit 5: Vectors
+Theorem 5.3 (Properties of Scalar Multiplication)
+Let и and V be vectors, let k₁ and k₂ be scalars. Then the following properties
+are true.
+1
+The magnitude of the vector which is
+=
+multiplied by a scalar is equal to the
+absolute value of the scalar times the
+magnitude of the vector.
+2
+Associative Property
+(k₂ u) = (k₁k₂) и
+3
+Distributive Property
+i. (k₁ + k2) и = k₁u + k2u
+ii. k1(u + v) = k₁u + k1V
+4
+Identity Property
+1.u=u =
+5
+Multiplicative Property of 0
+0 . u = 0
+Example 2
+If u = (5, -9) and V = (3, 5), then find
+a. 2(3u)
+b. (3 + 2) и c. 3(u +v) d.1-v e. 0 V
+Solution
+a. 2(3u) = 2(3(5, - 9)) =2((3(5), 3(-9))) = 2(15, -27) = (30, -54)
+b. (3 + 2) u = (3 + 2) (5,-9) = 5(5, -9) = (25, -45)
+c. 3(u +v) = 3((5, -9) + (3,5))
+= 3(5, -9) +3 (3, 5) = (15, -27) + (9 + 15)
+= (24, -12)
+d. 1- V = 1- (3, 5) = (3, 5)
+e. 0- V = 0 . (3, 5) = (0,0)
+I
+265
+Unit 5: Vectors
+Exercise 5.4
+1. Let u = (11, 16) and V = (-8, 12). Find
+a. 5u
+b. 3(4u)
+c. (5 + 3) u
+d. 4(u + v)
+e. 1. V f. 0.v
+2. In the triangle ABC, AB represents и and BC represents V. If D is the midpoint of
+AB, then express AC, CÁ and DC in terms of u and V.
+C
+V
+A
+B
+D
+u
+Figure 5. 16
+3. ABCD is a parallelogram. AB represents и and BC represents V. If M is the
+midpoint of AC, and N is the midpoint of BD, find BM and AN in terms of u and
+v, afterwards show that M and N are coincident.
+D
+C
+N
+M
+V
+A
+и
+B
+Figure 5. 17
+I
+266
+Unit 5: Vectors
+5.2.4 Unit Vectors
+Activity 5.6
+For vectors in the plane, using standard unit vector "i" and "j" as shown in
+Figure 5.18, express a, b, c, d and e in terms of i and j.
+b
+a
+0
+e
+Figure 5.18
+From Activity 5.6, you should have observed that, for example, c = i + 3j and
+e = 2i + j. Then, the vector c + e is simply 3i + 4j. Adding vectors in terms of i and
+j is just a matter of adding components.
+Consider a vector u whose initial point is the origin O (0, 0) and whose terminal
+point is the point P (a, b) as shown in Figure 5.19.
+y
+u P(a,b)
+j
+O
+i
+x
+Figure 5.19
+Hence, if a vector u = (a, b), then u = (a, b) = (a, 0) + (0, b) = a (1, 0) + b (0, 1)
+= ai + bj where the unit vectors are i = (1, 0) and j = (0, 1).
+267
+Unit 5: Vectors
+Example 1
+Express the following vectors in terms of the standard unit vectors i and j:
+a. (5, -6)
+b. (-4,8)
+c. (-7, 0)
+d. (0, 3)
+Solution
+a. (5, -6) = (5, 0) + (0, -6) = 5 (1, 0) + (-6) (0, 1) = 5i + (-6) j = 5i - 6j.
+b. (-4, 8) = (-4, 0) + (0,8) = -4 (1, 0) + 8 (0,1) = -4i + 8j
+c. (-7,0) = (-7,0) + (0, 0) = (1, 0) + 0 (0, 1) = -7i + Oj = -7i.
+d. (0, 3) = (0, 0) + (0, 3) = 0 (1, 0) + 3(0, 1) = Oi + 3j = 3j.
+Example 2
+Express each of the following vectors as a vector in a coordinate:
+a. i + 4j
+b. 3i 3j
+c. -7i + 8j
+Solution
+a. i + 4j = (1, 0) + 4(0, 1) = (1, 0) + (0, 4) = (1 + 0, 0 + 4) = (1, 4).
+b. 3i - 3j = 3(1, 0) + - 3(0, 1) = (3, 0) + (0, -3) = (3 + 0, 0 + (-3)) = (3, -3).
+c. -7i + 8j = - 7(1, 0) + 8(0, 1) = (-7, 0) + (0, 8) = (-7 + 0,0 + 8) = (-7, 8).
+Exercise 5.5
+1. Express the vector (3, 4) in terms of the standard unit vectors i and j.
+2. Express PQ in terms of unit vectors i and j, when the end points are P (6, 2) and
+Q (1, 3).
+3. Let u be the vector with initial point (-4, 6) and terminal point (-10,5). Write u
+in terms of the standard unit vectors i and j. Also, represent it graphically.
+4. Write the following vectors as a vector in the coordinate:
+a. i+j
+b. -2i+ ¹ 1j 5
+c. -3i +(-5j)
+d. ²i - 6j d. 2 3 6j
+I
+268
+Unit 5: Vectors
+5.2.5 Norm of Vectors
+If AB is a vector with initial point (x₁, y₁) and terminal point (x₂ , y₂ ) as shown
+in Figure 5.20, then its position vector u is determined as
+и = ( x₂ - x₁, y₂ - y₁) = ( x₂ x₁ )i + (y₂ y₁)j
+Thus, ( x₂ - x₁) and (y₂ - y₁ ) are the coordinates of u with respect to the base
+(i,j).
+y
+B(x₂,y₂)
+A(x₁,y₁)
+R(x₂ - x₁, y₂ - V₁)
+u
+O
+x
+Figure 5.20
+The norm or the magnitude of a vector и = ( x₂ - x₁ )i + (y₂ - y₁)j is given by
+|u| =
+Example 1
+Find the norms of the following vectors:
+a. (3, 3)
+b. (4,6)
+c. (-4, 0)
+d. (0, 6)
+Solution
+a. The norm or magnitude of vector u = (3, -3) is
+|u| = =
+b. The norm or magnitude of vector и = (4, 6) is
+|u| = √4² + 6² = + 36 =
+c. The norm or magnitude of vector и = (- 4, 0) is
+|u| = √(-4)²+0² = + 0 = 4.
+d. The norm or magnitude of vector и = (0, 6) is |u| = √0² + (6)² = √0 + 36 = 6. =
+I
+269
+Unit 5: Vectors
+Definition 5.5
+Any vector that has magnitude which equals to 1 is called unit vectors and
+denoted by V (read as V cap). Unit vectors are generally used to denote the
+direction of a vector.
+If u is any non -zero vector then the unit vector in the direction of u is given
+as û = и 1
+For vectors in two dimensions, in general и = xi + yj where x and y are
+scalars and its magnitude is given by the length or norms of vector OA.
+Where OA = √x² + y²
+In this case. we sav that и is expressed as a linear combination of i and i.
+Example 2
+If u = (1, 2) and V = (3, 4), then find:
+a. the unit vector in the direction of V.
+b. the unit vector in the direction of u +v.
+c. the unit vector in the direction of u - v.
+Solution
+a. |v| = + = + 42 = + 16 = √25 = 5
+Substitute the given values of V and |v| into = 1/11 |v| 1
+Hence, V=1 1/1/19
+= 4).
+Thus, the unit vector in the direction of V 4) =
+b. u+v=(1,2)+(3,4)=(4,6)
+The norm of I u + v| = + y² = √4² + 6² = 16 + 36 = √52 = 2v13
+I
+270
+Unit 5: Vectors
+Substitute the given values of и + V and |u + v| into (u + v) = (u + v) X + 1
+V
+I
+Hence, (u + = (u+v) X + 1
+= (4, 6) X 2v13 1 = ( 2v13 4 , 6 = ( √13 2 , √13 3 = 13/13/13 13 , 3 13 13 )
+Thus, the unit vector in the direction of u + V is 2/13 13 , 3V13) 13 = 213 13 i+ 3v13 13 j.
+c. и - V = (1,2) - (3, 4) = (-2, -2).
+The norm of I и v| = + = 2 + (-2) 2 = √4 + 4 = √8 = 22
+Substitute the given values of u - V and |u - v| into (u v) = (u - v) X 1
+Hence, (u = (u v) X 1 V = ( 2, 2) X 22 1 = ( 1/2' √2' 1 - 1/2 1 = ( √2 2 v₂). 2
+Thus, the unit vector in the direction of u - v is (- (-2/2, √2 √₂) √2 2 = √2 2 2 j.
+Exercise 5.6
+1. Find the norm (or magnitude) of each of the following vectors.
+a. u = (1, 1)
+b. V = (-2, 1)
+c. u = (5, 0)
+d. V = 1 3
+e. √⁹
+2. If u = 3i + 5j and V = 7i j, then find
+a. |u+v|
+b. |u - v|
+c. r (u + 2v), r ER
+d. 4 1 v|
+3. Find a unit vector in the direction of the vector (3, 6).
+4. Find a unit vector in the direction opposite to the vector (1, 3).
+5. Find two, unit vectors, one in the same direction and the other opposite to the
+vector и = (a, b) # 0.
+I
+271
+Unit 5: Vectors
+Definition 5.6
+Two vectors и and V are parallel if и = kv for some non-zero k. furthermore, if
+k > 0 they are actually in the same direction, if k < 0, they are in opposite
+direction.
+Note
+1. Two vectors и = u₁i + u₂j and V = v₁i + V2j are equal if and only if their
+components are equal. i.e., u₁ = V₁ and u₂ = V2.
+2. Two or more vectors are said to be equal if they have the same magnitude and
+the same direction.
+Example 3
+Determine which of the vectors are equal to each
+y
+other as shown in Figure 5.21.
+r
+Solution
+V
+You will compare the given vectors to determine
+W
+u
+their magnitudes and directions.
+o
+x
+First, you determine the magnitudes of the vectors.
+Figure 5.21
+It is obvious that |u| = |w| and |v| = |r|. The magnitudes of the vectors u and W as well
+as the magnitude of vectors V and r are the same.
+To compare the directions, it can be observed that the vectors u and W are parallel to
+each other with arrows on the same direction whereas the vectors V and r are parallel
+to each other with arrows on the opposite direction.
+Thus, we can conclude that:
+1. If two vectors have the same magnitude and direction, they are equal.
+2. If two vectors have the same magnitude but opposite directions, one is inverse
+vector to the other.
+272
+Unit 5: Vectors
+Example 4
+If и = 2i + j and V = i - 2j, which of the vectors below are parallel to u or v?
+1. a = -2i j
+2. b=5i-10j =
+3. c = 4i - 8j =
+4. d = 6i + 3j
+5. e = - 2i + 4j
+6. f = -4i 2j
+Solution
+The given vectors are expressed in terms of the unit vectors i and j. To determine
+whether or not they are parallel, you can check if their respective components can be
+expressed as scalar multiples of each other or not. Therefore, vectors a, d and f are
+parallel to vector u whereas vectors b, c and e are parallel to vector V.
+Exercise 5.7
+1. Determine whether the following two vectors are parallel or not. Then determine
+the magnitude of the two vectors.
+a. u = (3i + 4j) and V = (9i + 12j) b. W = (6i + 8j) and u = -3i 4j
+c. V = (1,3) 1 ₄, 3) and u = 3)
+2. The column vectors u and V are defined by u = (8-) , V =
+Given that u=v =
+a. Find the values of x and y.
+b. Find the values of |u| and |v|.
+273
+Unit 5: Vectors
+5.3 Vector Product
+The products of vectors are discussed in this sub-unit as follows:
+5.3.1 Scalar (inner or dot) Product
+Activity 5.7
+1. Find the angle between the following pairs of vectors.
+a. 4i and 2j
+b. i and 3i
+c. 2i and - i
+d. i + j and 3j
+e. i and i + √3j
+2. Consider two vectors such as и and V both of which have the same initial
+point. The angle formed by these two vectors is Θ as shown in figure 5.22.
+Discuss how you can express Θ in terms of |u| and |v|.
+In previous section, you have seen three vector operations: vector addition,
+subtraction and multiplication by a scalar, each of which provides another vector. In
+this section, you will study another vector operation like the inner or dot product.
+This product provides a scalar, rather than a vector.
+u
+Θ
+V
+Figure 5.22
+As shown in Figure. 5.22, the tails of the two vectors coincide and the angle between
+the vectors has been labelled Θ. It is expressed Θ in terms of |u| and |v| as u . V = u V
+cos Θ which defines the scalar product of two vectors such as u and V. It is very
+important to use the dot in the formula. The dot is the symbol for the scalar product,
+and is the reason why the scalar product is also known as the dot product.
+The angle Θ is always chosen to lie between 0 and π, and the tails of the two vectors
+must coincide.
+274
+Unit 5: Vectors
+Theorem 5.4
+If и and V are vectors and Θ is the angle between и and v, then the dot product of
+и and V, denoted by и . V is given by u . V = и V cosΘ
+u
+Θ
+V
+Figure. 5.23
+Example 1
+Suppose the vector и has norm 8 and the vector V has norm 7. Suppose also that the
+angle, Θ, between these vectors is 30° as shown
+in Figure 5.24. Calculate и . V.
+Solution
+и
+30°
+и . V = u [v] cos Θ
+V
+= 8x7 cos 30
+= 56(v³)
+o
+= 28√3.
+Figure 5.24
+Example 2
+Find the dot product of the vectors u and V when
+a. u = (0, 2) and V = (0, 4)
+b. u = (3, 0) and V = (2, 23)
+-
+275
+Unit 5: Vectors
+Solution
+From the Theorem 5.4 you have
+a. I u| =2, |v I = 4 and Θ = 0° => u . V = 2 X 4 X cos 0° = 8x1=8. =
+b. Let us show these vectors graphically as shown in Figure 5.25.
+y
+(2,23)
+3
+2
+V
+1
+Θ
+(3,0)
+-1
+o
+1 u 2
+3
+4
+x
+-1
+Figure 5.25
+I = 3, |v| = (2√3)² + 2² = 4 and cos 0-2 = 1/2 =
+why?
+Then, u'v= V I cosΘ
+= 3 X 4 X 1/2 2 1 = 6
+Before discussing the next properties of dot product, recall the relation between
+degree and radian that you have learnt in grade 10 such as, 45° = π/4 π , 90 O = π 2
+,
+180° O = π, 270° = 3 / 2 2 and 360 O = 2π.
+I
+276
+Unit 5: Vectors
+Note
+1. i . j = 0, since cos (2) = 0.
+2. i . i=j . j=1, = since cos (0) = 1.
+3. If either u or V is 0 then u . v = 0. =
+4. и - u>0 if и # 0 and и . u=0ifu=0. =
+5.
+u'v=v'u
+....
+dot product of vector is commutative.
+6. If the vectors и and V are parallel and pointing to the same direction, then
+u . V = |u||v|.
+7. If the vectors и and V are parallel and pointing to the opposite direction, then
+u'v=- |u||v|.
+8. In particular, for any vector u, you have u . u = |u|² , you write u² to mean
+|u|²
+9. If the vectors и and V are perpendicular or orthogonal, then u . V = 0, since
+cos (2) = 0.
+10. If и and V are nonzero vectors, then the cosine of the angle between u and V
+is given by cos
+Exercise 5.8
+1. Let и and V be two vectors with |u|= = 4 and |v| = 2 and Θ = 45°.
+Find their dot product.
+2. Let и and V be two vectors with |u|=7 and |v| = = 3 and =
+Find their dot product.
+3. Find the dot product of the vectors и and V when
+a. и = (2, 0) and V = (4, 0).
+b. u = (0, 3) and V = ( 2√3, 2).
+I
+277
+Unit 5: Vectors
+Theorem 5.5 (Properties of the dot product)
+If u, V and W are vectors and k is a scalar then
+1. k (u . v) = (ku) . v=u . (kv)
+2. Distributive property
+i) и . (v + w) = и . V + u . W
+ii) (v + w) . u=v . u+w· u
+Corollary 5.1
+If u = (u₁, u2) and V = (v₁, v2) are vectors, then и . V = u₁v₁ + u₂v₂.
+Proof
+u'v= (u₁i + u₂j) . (v₁i + v₂j)
+= u₁i . (v₁i + v₂j) + u₂j . (v₁i + v₂j)
+= u₁i . v₁i + u₁i . v₂j + u₂j . v₁i + u₂j . v₂j
+= u₁v₁i . i+ u₁v₂i . j + u₂v₁j . i + u₂v₂j . j
+= u₁v₁ + u₂v₂.
+Example 3
+Find the dot product of the vectors u = 5i + 3j and V = 7i -2j.
+Solution
+u'v= (5i + 3j) . (7i 2j) = 5 X 7 + 3 X (-2) = 29.
+Example 4
+Find the cosine of the angle formed by two vectors u = 2i + 3j and V = 2i + 3j.
+I
+278
+Unit 5: Vectors
+Solution
+From the corollary above you have
+и . V = u₁v₁ + u₂v₂ = 2(-2) + 3(3) = 5
+The norm of vector и is √2² + 3² = √13 and the norm of vector V is
+Using the Theorem for scalar product, you have
+и . V = cos Θ
+Then, cos Θ = u - v = √13 5 √13 = 13 5
+Therefore, cos Θ 13 = 5
+Example 5
+Let u and V be two vectors |u|= = 3 and |v| = 6 and = F / 3
+a. Find |3u - 2v|.
+b. Find the cosine of angle between 3u - 2v and u.
+Solution
+a. Using the properties of dot product, you have
+3u- 2v|² =(3u - 2v) (3u-2v)
+= 9u² - 12u . V + 4v²
+= 9 . 3² - 12|u||v| cos-3 + 4 . 6², , since u² =|u|²
+= 81 - 12 . 3 . 6 . 2 + 144
+= 117
+Thus, 3u - 2v|= v117.
+b. Let Θ be the angle between 3u - - 2v and u. Then
+(3u - 2v) . u = 3u -2v|| cos Θ
+3u² - 2 V . u = 3u - 2v| (3) cos Θ but from a you have |3u - 2v|= √117
+I
+279
+Unit 5: Vectors
+3 . 3² - 2|v||u| cosᵀ₃ = √117 . 3 cos Θ
+3 . 3² - 2 X 6 X 3 X 2 1 = 3 √117 cos Θ
+27 - 18 = 3v117 cos Θ
+=9 = 3v117 cos Θ
+cos Θ = √117 3 = 3v13 3 = √13 1 = V13/3 √13 13
+Exercise 5.9
+1. Find the dot product of the following vectors:
+a. u = 4i + 2j and v=3i-5j =
+b. u = -2i + 2j and V = 7i + 4j
+2. Find the cosine of the angle formed by the following two vectors:
+a. u = 4i + 3j and V = 4i - 3j
+b. и = -2i +3j and V = 3i + 2j
+3. Let u = (1, -1), V = (1, 1) and W = (-2, 3). Find the cosines of the angles between:
+a. u andv
+b. V and W
+c. u and W
+4. Say whether the vectors are orthogonal, parallel or neither
+a. u = (-5,3) V = (6, -8)
+b. u=(4,6) = v=(-3,2) =
+c. u = (-1,¹,¹) 1/2 v=(3,6)
+d. u = (2, 6) V = (-3, - 9)
+5. Find the angle between the two vectors 2i + 3j and 5i - 2j.
+6. Show that (u - v) (u + v) = v².
+7. Show that (u + v)² = u² F 2 u . V + v², where u² = u ' u. =
+8. Vectors u and V make an angle between them. If |u| = 5 and |v| = 12, then
+find
+a.u'v
+b. (u-v) . (u+v) c. (u+v) . (u+v) d. 3u + v|
+9. Given a triangle with vertices A (1, 5), B (2, 2), and C (4, 6), find angle of BCA.
+I
+280
+Unit 5: Vectors
+5.3.2 Vectors in Three-dimensional Space
+Coordinate of a point in space
+Activity 5.8
+1. Represent each of the following points on the xy - coordinate plane.
+a. A (1,1)
+b. B (2, 2)
+c. C (-4,4)
+d. D (0,-5)
+e. E(-2, -2)
+2. Plot the following points, by naming the vertical axis on the plane z, and the
+horizontal axis y.
+a. P (2, 3)
+b. Q(-1,3)
+c. (-2,-2)
+From activity 5. 8, you observed that two numbers are necessary to locate a point in a
+plane. You know that any point in the plane can be represented as an ordered pair (a,
+b) of real numbers, where a is the x-coordinate and b is the y-coordinate. For this
+reason, a plane is called two-dimensional. A plane coordinate system is extended to
+three dimensional spaces as follows: Consider a fixed-point O in space and three
+lines that are mutually perpendicular at the point O. The point O is called the origin;
+the three lines are now called the x-axis, the y-axis and the z-axis. It is common to
+have the x- and the y-axes on a horizontal plane and the z-axis vertical or
+perpendicular to the plane containing the x- and the y-axes at the point O as shown in
+Figure 5.26 below.
+Z
+0
+y
+x
+Figure 5.26
+281
+Unit 5: Vectors
+The direction of the z-axis is determined by the right-hand rule as illustrated in
+Figure 5.27:
+Z
+y
+x
+Figure 5.27
+If you curl the fingers of your right hand around the z-axis in the direction of a 90°
+counterclockwise rotation from the positive x-axis to the positive y-axis, then your
+thumb points
+in the positive direction of the z-axis. With these axes any point p in space can be
+assigned three coordinates p (x,y,z) as shown Figure 5.28.
+Z
+p(x,y,z)
+Z
+y
+x
+y
+x
+Figure 5.28
+Example 1
+Locate the point P (1, 3, 4) in space using the reference axes x, y and z.
+282
+Unit 5: Vectors
+Solution
+The process of locating the point P may be described as follows:
+The process of locating the point P may be described as follows: Start from the origin
+O and move 1 unit in the
+Z
+5
+direction of the positive x-axis.
+4
+P(1,3,4)
+Then move 3 units in the
+3
+direction of the positive y-axis
+2
+and finally move 4 units up in
+1
+the direction of the positive z-
+axis to get point P (1, 3, 4) as
+0
+1
+1
+2
+shown in Figure 5.29.
+2
+3
+3
+4
+5
+x
+4
+6
+5
+y
+6
+Figure 5.29
+Exercise 5.10
+Locate each of the following points in space using reference axes x, y and z. You may
+use the same or different coordinate systems in each case.
+a. P (2, 1, 2)
+b.Q(-3,5,4)
+c. R (2, - 2, 3)
+d. S ((2, 2 1 ,-4)
+e. T (0, 0, -4)
+f. Q (0, -4, 0)
+Vectors in Space
+Activity 5.9
+1. How do you represent a vector on a plane?
+2. How do you represent the magnitude of a vector?
+3. How do you express the vector P (x, y) using the standard unit vectors i and j?
+I
+283
+Unit 5: Vectors
+From activity 5.9, you have observed that the vector OP can be named using a
+single letter. That is, OP may be named P, or simply by P so that P = xi + yj. Just as
+you worked with vectors on a plane by using the coordinates of their terminal points,
+you can handle vectors in a three-dimensional space with the help of the coordinates
+of the terminal points.
+Now, let the initial point of a vector in space be the origin O of the coordinate system
+and let its terminal point be at P (x,y,z) as shown in Figure 5.30.
+Z
+p(x,y,z)
+z
+O
+y
+x
+Figure 5.30
+Then the vector OP can be expressed as the sum of its three components in the
+directions of the x, the y and the z-axis, in the form:
+OP = xi + yj + zk where i = (1, 0, 0),
+j= (0, 1,0) and k = (0, 0, 1) are standard Unit
+D
+P
+vectors in the directions of the positive x,
+positive y and positive z-axis respectively as
+A (x, z)
+shown in Figure 5.31.
+*
+Y
+Do you observe that the vector OP is the sum
+01
+B
+of the three perpendicular vectors OC , 0B
+and OD ?
+x
+Figure 5.31
+284
+Unit 5: Vectors
+Example 2
+If the initial point of a vector in space is at the origin and its terminal point or head is
+at P (4, 6, 5), show the vector using a coordinate system and identify its three
+perpendicular components in the directions of the three axes.
+Solution
+The three components are the vectors with common initial point O (0, 0, 0) and
+terminal points A (4, 0, 0) on the x-axis, B (0, 6, 0) on the y-axis and
+C (0, 0, 5) on the z-axis as shown in Figure 5.32.
+Z
+5
+4
+P(4,6,5)
+3
+2
+1
+O
+1
+1
+2
+2
+3
+3
+4
+5
+x
+4
+6
+5
+y
+6
+Figure 5.32
+That means OP = OA + OD + OP or in terms of the unit vectors,
+(4, 6, 5) = 4i + 6j + 5k = (4, 0, 0) + (0, 6, 0) + (0, 0, 5).
+Magnitude of a vector
+At the beginning of the discussion about vectors in space, it was mentioned that a
+vector is usually represented by an arrow, where the arrow head indicates the
+direction and the length of the arrow represents the magnitude of the vector. Thus, to
+-
+285
+Unit 5: Vectors
+find the magnitude of a vector, it will be sufficient to find the distance between the
+initial point and the terminal point of the vector in the coordinate space.
+Example 3
+If the initial point of a vector is at the origin of the coordinate space and the terminal
+point is at P (3, 2, 2), then find the magnitude of the vector OP.
+Solution
+The magnitude of the vector OP is the distance from O to P. This is,
+Note
+1. If the initial point of a vector u is at the origin and its terminal point is at a
+point
+Q(x, y, z) or if и = xi + yj+ zk then |u| = + y² + z² .
+2. If the initial point of u is at P( x₁, y₁, z₁) and the terminal point at Q( x₂, y₂,
+z₂) then |u| = (x₂ - x₁) 2 + (y₂ y₁) 2 + (Z₂ z₁) 2
+Exercise 5.11
+1. Calculate the magnitude of each of the following vectors.
+a. (-1, 2, 0)
+b. (2, 1, -1)
+c.
+2. Make a three-dimensional sketch showing each of the following vectors with
+initial point at the origin.
+a.u=3i+j+4k
+b. v=4i+5j-k =
+c.w=2i+4j+k
+d. u = 3j - 5k =
+I
+286
+Unit 5: Vectors
+5.3.3 Cross Product
+Activity 5.10
+1. What do you know about cross product of vectors?
+2. Find det(A) if -41 2
+5 -3 1
+3. Find det(A) if 4 1 -1. 3
+From Activity 5.10, recall 2 by 2 and 3 by 3 matrix that you have already seen in
+previous unit.
+The determinant of 2 by 2 matrix (v₁ v₂) is defined by u₁v₂-u₂V₁.
+Again, a determinant of 3 by 3 matrix can be defined in terms of 2 by 2 determinants
+as follows:
+W₁
+Observe that each term on the right side of the above equation involves a number
+uᵢ in the first row of the determinant, and uᵢ is multiplied by 2 by 2 determinant
+obtained from the left side by deleting the row and column in which uᵢ appears. This
+implies that 2 by 2 determinants and the standard basis vectors
+i = (1, 0, 0), j = (0, 1, 0) and k = (0, 0, 1) define the cross product of the vectors
+u = u₁ i + u₂ j + u₃ k and V = v₁ i + v₂ j + v₃ k as
+j
+u
+X
+V
+=
+u₁
+u₂
+и₃
+v₁
+v₂
+v₃
+=
+= (u₂v₃ - u₃v₂) i (u₁ u₃v₁) j + k
+Thus, the cross product of two vectors, say и X v, is equal to another vector at right
+angles to both vectors, and it happens in the three-dimensions.
+287
+Unit 5: Vectors
+Definition 5.7
+Given two non-zero vectors, u= и₁ i + u₂ j +u₃ k and V = v₁ i + v₂ j +v₃ k then
+the cross product of и and V is the vector
+i
+j
+k
+u
+X
+V
+=
+и₁ u₂ Из = (u₂v₃ — u₃v₂) i- (u₁v₃ - u₃v₁) j + (u₁v₂- u₂v₁) k
+V1 V₂ V₃
+Example 1
+If и = i + 3 j + 4k and V = 2i + 7j- 5k, then find the cross product of u X v.
+Solution
+i j k
+u X v = 134 2 7 -5 = 7 3 -5 4 i- 2 1 -5 4 j + 2 1 3 7 k
+= (- 15 - 28) i - (- 5 - 8) j + (7- 6)k = - 43i + 13j + k
+Thus, the cross product of u X v is - 43i + 13j + k.
+Example 2
+Find I и X v| where u = 3i + 4j + 5k and V = 7i + 8j + 9k.
+Solution
+i j k
+u X v =
+345 = ((4x 9) - (5x 8)) i - ((3x 9) - (5x 7)) j + ((3x 8) - (4x k
+789
+= (36 - 40) i - (27-35) j + (24 - 28) k = 4i + 8j - 4k
+= -4i + 8j - 4k
+Therefore, |u X v| = (-4) 2 + 8² + (-4)² = 4√6.
+288
+Unit 5: Vectors
+Theorem 5.6 (Properties of the cross product)
+If u, V and W are vectors and r is a scalar
+1. Anticommutativity: и XV=- (v x u)
+2. Multiplication by scalars: (ru) Xv=r = (uxv) = u X (r v)
+3. Distributivity: ux (v+w) = u X V + и X W
+4. Orthogonal properties: (u x v) . u = (u X v) . v=0 =
+5. Cross product of the zero vector: ux0=0 =
+6. Cross product of the vector with itself: uxu=0 =
+7. The cross product of the unit vectors: ixi = j X j = k X k=0 =
+8. Triple scalar product: и . (v X w) = (u XV) . W
+Note
+i X j = k, j X k = i, k X i = j, j X i = - k, k X j = - i and i X k = - j
+Exercise 5.12
+1. If u = - 2 1 i + 3j + k and V = 2i - 3 | 4 3 4 - 2k, then find the following.
+a.uxv
+b. - (v x u)
+c.uxu
+d. u (u x v)
+e. V . (u xv)
+f. |u X v|
+2. Let u = i + 3j + 5k and V = 5i + 6j - 6k be vectors. Then, find u XV and
+|u x v|.
+3. Find u X V if u = 2i + k and V = i + j + k.
+4. Given a vector и = (i + 3j - 2k) X (i + 3k) then find the magnitude of u.
+I
+289
+Unit 5: Vectors
+Theorem 5.7
+The cross-product и XV is perpendicular or orthogonal to both и and V.
+If u and V are represented by directed line segments with the same initial point
+then the cross-product и XV points in a direction perpendicular to the plane
+through и and V.
+Its magnitude determines area of
+uxv
+the parallelogram A = u X v
+I
+as shown in Figure 5.33.
+V
+A=uxv =
+Θ
+и
+Figure 5.33
+Example 3
+Find the area of the parallelogram formed by the vectors и = 3i + j and V = 2i + 3j,
+spanned between them.
+Solution
+Area of the parallelogram = u X v I
+i j k
+A|=|uXv|= 3 1 0
+2 3 0
+= 7 square units
+Example 4
+If и and V are two vectors represented as 2i + 3j + 4k and i + 3j + 5k, find the area
+of the parallelogram spanned between them.
+290
+Unit 5: Vectors
+Solution
+Area of the parallelogram A = u X v I
+i j k
+uXv= 2 3 4 = (15 - 12) i - (10 - 4) j + (6 - 3) k = 3i - 6j + 3k
+1 3 5
+Then, A = u X V | = 3i - 6j + 3k = 3² + (-6) 2 + 3²
+= 3√6.
+Theorem 5.8
+If Θ is the angle between и and V (where, 0 ≤ Θ ≤ π) then | u X v = и V sin Θ.
+Since a vector is completely determined by its magnitude and direction, we can now
+say that u X v is the vector that is perpendicular to both u and v, whose orientation is
+determined by the right-hand rule, and whose length is | u | | V I sinΘ as shown in
+Figure 5.34.
+UXV
+v
+v|sinΘ
+Θ
+и
+Figure 5.34
+If u and V are represented by directed line segments with the same initial point, then
+they determine a parallelogram with base | и , altitude | V sin Θ, and area
+A = I u X v = | u V sin Θ as shown in the Figure 5. 34.
+291
+Unit 5: Vectors
+Exercise 5.13
+1. Find the area of the parallelogram defined by the vectors u = 2i + j and
+v=i+3j.
+2. Find the area of the triangle with vertices (-1, 2), (4, - 1) and (8, 7).
+3. Find the area of the parallelogram defined by the vectors u = 2i + 3j + k and
+V = 4i + j + 2k.
+5.4 Application of Scalar and Cross Product
+The dot product is used to find the angle between two vectors, the length of the
+vector as well as work done by the force, whereas the cross product is mostly used to
+determine the vector, which is perpendicular to the plane surface spanned by two
+vectors.
+Example 1
+Find the measure of the angle between each pair of the vectors.
+a. u = 4i - j and V = 5i + 3j
+b. u = + 5j and V =
+Solution
+a. To find the cosine of the angle formed by two vectors. substitute the components
+of the vector into equation cos
+But и . v=(4i-j) . (5i + 3j) = + =
+and v| = /52 + (3)² = v34
+=
+Θ = cos⁻¹(v₂)
+Θ = 45°.
+I
+292
+Unit 5: Vectors
+b. To find the cosine of the angle formed by two vectors, substitute the components
+of the vector into equation cosΘ = u ' v
+But и . V = (2i + 5j) = 1) 1 + = 1 + 15 4 4, 15 11
+|u| = + 5² = √29 and
+- =
+Example 2
+Suppose a child is pulling a wagon with a force having a magnitude of 8 N on the
+handle at an angle of 60° , as shown in Figure 5.35. If the child pulls the wagon 50 m,
+then find the work done by the force.
+Solution
+According to physics formula, work done is got by dot product of force and
+displacement. Hence, the work done by the force F, acting at an angle Θ = 60° form
+the line of motion which is given by
+W = |Fx| S = (|F| cos Θ) S=F|S cos Θ, where S is the displacement of the wagon.
+= 8N (50 m) cos 60° = 400(1) N m = 200 J
+8N
+60°
+50m
+Figure 5.35
+I
+293
+Unit 5: Vectors
+Example 3
+Find the area of the triangle with vertices P (1, 4, 6), Q (-2, 5, -1), and R (1, -1, 1).
+Solution
+PQ = (-2 - 1) i + (5 - 4) j + (-1 - 6) k = -3i + j - 7k
+Then, PQ X PR = -3 i 1 j -7 k = (-5 - 35) i - (15 - 0) j + (15 -0) k
+0 -5 -5
+= = -40i - 15j +15k
+Thus, PQ X PR = 40i - 15j + 15k. The area of the parallelogram with adjacent
+sides PQand PR is the magnitude of this cross product:
+|PQ X PR I = 2 + 2 + (15) 2
+= 5√82
+The area A of the triangle PQR is half the area of this parallelogram.
+Thus,
+Example 4
+A bolt is tightened by applying a 40 N force to a 0.25 m wrench, as shown in Figure
+5.36.
+0.25m
+75°
+40N
+Figure 5.36
+Find the magnitude of the torque about the centre of the bolt.
+294
+Unit 5: Vectors
+Solution
+According to physics formula, the torque vector is calculated by cross product of the
+position vector and the force.
+Thus, τ | = | r x F = | r F | sin 75°
+= (0.25) (40) sin 75°
+= 10 sin 75° ≈ 9.66 N m,
+If the bolt is right-threaded, then the torque vector itself is τ = | τ | n ≈ 9.66 n
+where n is a unit vector directed down into the page.
+Exercise 5.14
+1. Find the measure of the angle between each pair of the vector.
+a. и = 3i + 2j and V = 5i - j
+b. u = i + 7j and V = - i + j
+c. u = 6i + j and v=i+8j
+2. A conveyor belt generates a force F = = 5i -3j + 3k that moves a suitcase from
+point P (1, 1, 1) to Point Q (9, 4, 7) along a straight line. Find the work done by
+the conveyor belt. The distance is measured in meters and the force is measured in
+newtons.
+3. If u and V are vectors represented as 2i + 3 j + 4 k and i + 2j + 3k, then find the
+area of the parallelogram spanned between them.
+4. Find the area of the triangle whose vertices are A (3, 1, 2), B (1, - 1, -3) and
+C (4, - 3, 1).
+5. Find the area of the quadrilateral whose vertices are A (1, 0), B (3, 5), C (7, 2)
+and D (5, -2).
+6. A car mechanic applies a force of 800 N to a wrench to loosen a bolt. She applies
+the force perpendicular to the arm of the wrench. The distance from the bolt to
+her hand is 0.40 m. What is the magnitude of the torque applied?
+295
+Unit 5: Vectors
+5.5 Application of Vectors
+In previous section, you have seen that vectors have many applications.
+Geometrically, any two points in the plane determine a straight line. A straight line in
+the plane is determined by its slope and a point through which it passes. These lines
+have been determined to have a certain direction. Thus, related to vectors, you will
+see how one can write equations of lines, circles, and tangent line to a circle using
+vectors.
+5.5.1 Vectors and Lines
+Activity 5.11
+Consider two points in the line such as R₀ (x₀ , y₀) and R₁ (x₁ , y₁), then the
+vector from R₀ to R₁ is V = (x₁ - x₀, y₁ - y₀) as shown in Figure 5.36.
+Discuss what will happen to the magnitude and direction of vector
+V = r₁ - r₀= (x₁ - x₀, y₁ - У₀ ) , where r₁ and ro are position vectors
+corresponding to the points R₀ and R₁ respectively, if t = 1, 2, 3, 4 and so on
+and generalize it for r = r₀ + tv where t is a scalar, t ER and V is a direction
+vector of the line.
+y
+R₀(x₀,y₀)
+V
+ro
+R₁(x₁,y₁)
+r₁
+R(x,y)
+r
+x
+0
+C
+L
+Figure 5.37
+296
+Unit 5: Vectors
+From Activity 5.11, you have observed that the line L that passes through R₀ and R₁
+is parallel to the vector V = (x₁ - x₀, y₁ - y₀).
+Let R (x, y) be any point on L. Then the position vector (r) from the origin to any
+point on line L is obtained by
+OR₀ + R₀ = OR
+r₀ + tv = =
+r = r₀ + tv where t is a scalar, t E R and V is a direction vector of the line.
+Thus,
+1. If a direction vector V and a point R₀(x₀, y₀) are given, then the vector equation of
+the line L determined by r₀ and V is given by r = r₀ + tv, t E R and V # 0
+where t is a scalar, t E R and V is a direction vector of the line.
+2. If V = (p, q), R (x, y) and R₀(x₀, y₀), then the above equation can be written as
+(x, y) = (x₀, y₀) + t(p, q) = (x₀, y₀) + tp, tq) = (x₀ + tp, yo + tq)
+Then, from equality of vectors you have
+X = x₀ + tp and y= yo + t q where t E R, (p, q) # (0,0)
+This system of the equations is called the parametric equations of the line L
+through R₀(x₀, y₀) whose direction is that of the vector V = (p, q), t is called a
+parameter.
+3. If p and q are both different from 0 then from (2) above
+t = x p x₀ and
+x p x₀ = q У₀ which is called the standard equations of the line.
+Example 1
+Consider the line passing through the point (1, 4) and (2, 2), then
+a. Find the vector equation.
+b. Find the parametric equations.
+c. Find the standard equations.
+297
+Unit 5: Vectors
+Solution
+Let R₀ = (1, 4) and R₁ = (2, 2) as shown in Figure 5.38.
+a. The vector equation of the line is:
+(x,y) = (1,4) + t ((2,2)- - (1,4))
+y
+6
+= (1,4) + t(1,-2)
+5
+R₀ (1,4)
+4
+Thus, (x,y) = (1,4) + t(1,-2), t E R,
+3
+b. From the vector equation of question
+r₀
+R₁ (2,2)
+2
+(a), you have the parametric equations:
+r₁
+1
+r
+R(x,y)
+x = 1 + t,y = 4 - 2t, t E R.
+c. From parametric equation of question
+-1
+o
+1
+2
+3
+4
+x
+-1
+(b), you have the standard equation
+x - 1=V-4 y-4/2 -2 2x + y - 6 = 0. =
+Figure 5.38
+Example 2
+Consider a line passing through (2,2) and with direction vector (1, 4), then
+a. Find the vector equation of the line.
+y
+b. Find the parametric equation.
+6
+Solution
+5
+(x,y)
+Let R₀ = (2, 2) and V = (1, 4) as shown in
+4
+V
+Figure 5.39.
+3
+11
+a. The vector equation of the line is:
+2
+(2,2)
+(x,y) = (2,2) + t (1,4), t E R.
+1
+r₁
+b. The parametric equations are:
+-1
+o
+1
+2
+3
+4
+x
+-1
+x = 2 + t,y = 2 + 4t, t E R.
+Figure 5.39
+298
+Unit 5: Vectors
+Exercise 5.15
+1. Consider the line defined by the following points:
+a. (2, -9) and (8, 4)
+b. (7, 3) and (4, -3)
+c. (-1, -1) and (3, 10)
+1) Sketch the line.
+2) Find the vector equation of the line.
+3) Find the parametric equations of the line.
+4) Find the standard equation of the line.
+2. Find the vector equation of the line passing through (1, -3) with direction vector
+(-5, 6).
+3. Find the vector equation of line passing through the point having vector 5i + 4j
+and having direction vector (-3, 4).
+4. Find the vector equation of the line passing through the point having position
+vector -i - j and parallel to the line L, i + 2j.
+5.5.2 Vectors and Circles
+Activity 5.12
+Consider a circle with centre C (x₀, y₀) and radius r> 0 and any point R (x, y) on a
+circle such that r - c| = r. where r and C are position vectors of R (x, y) and
+C (x₀, y₀) respectively as shown in Figure 5.40. Discuss how to show that
+r.r - 2r c + c.c = r² represents an equation of the circle at C(x₀, y₀) and
+radius r through a position vector of any point on the circle R(x, y).
+Consider a circle with centre C (x₀, y₀) and radius r > 0 as the set of points R (x, y) in
+the plane such that Pr - c| = r, where r and C are position vectors of R (x, y) and C
+(x₀, y₀), respectively as shown in Figure 5.40.
+299
+Unit 5: Vectors
+By squaring both sides |7-2|²=r²
+=
+1
+r
+2
+y
+C(x₀.y₀)
+c
+R(x,y)
+14
+O
+x
+Figure 5.40
+Thus, equation 2 represents the equation of the circle centred at C (x₀, y₀) and radius r
+by using a position vector of any point on the circle R (x, y).
+Substituting the corresponding components of r and c in equation 1 and
+simplification, we obtain:
+(x- x₀)² + (y - y₀)² = which is called the standard equation of a circle.
+This equation can be expressed as:
+x² + y² + Ax + By + C=0 where A = - 2x₀, B = - 2y₀ and C = x₀² + y₀²
+r²
+by expanding and rearranging the terms.
+Example 1
+Find an equation of the circle centred at C (2, 3) and radius 4.
+Solution
+Let R (x, y) be a point on the circle as shown in Figure 5.41.
+300
+Unit 5: Vectors
+y
+9
+4
+C(2,3)
+2
+c
+R(x,y)
+is
+-4
+-2
+o
+2
+6
+8X
+-2
+Figure 5.41
+Let r and c'be the position vectors of R (x, y) and C (x₀, y₀) respectively. Then from
+equation 2, you have
+c r
+Substituting the corresponding components of r and cin equation 2, you obtain:
+(x,y) (x,y) - 2(x,y) (2,3) + (2,3) . (2,3) = 4²
+= by corollary 5.1
+x² + y² — 4x - by + 13 - 16 = 16 - 16
+subtracting both sides
+x²+y²-4x-6y-3=0.
+Example 2
+Find the equation of the circle whose end points of a diameter are P (-1, -1) and
+Q = (4, 11).
+Solution
+The centre of the circle is = 3
+The radius of the circle is given by 2 2 + 2 (11+1)² /(5)2+(12)2 2
+301
+Unit 5: Vectors
+Let R(x, y) be a point on the circle and r and c be position vectors of R and C
+respectively.
+Substituting the corresponding components of and c in equation 2, you obtain:
+= )
+by
+corollary 5.1
+x²+y²-3x-10y-15=0. =
+Exercise 5.16
+1. Find an equation of the circle centred at C (1, -3) and radius 6.
+2. Find the equation of the circle whose end points of a diameter are P (2, 1) and
+Q = (6,3).
+3. Find an equation of the circle centred at origin and passing through (3, 3).
+4. Find an equation of the circle centred at C (-4, 2) and passing through (2, -5).
+5.5.3 Equations of Tangent Lines to a Circle
+Activity 5.13
+Consider a circle with center R₀ (x₀, y₀) and a radius of r units as shown in the
+figure 5.41. Discuss how to show that the equation of the tangent line is
+(x x₀) (x₁ x₀) + (y y₀) (y₁ y₀) = r² where (x₁, y₁) is a point of tangency to
+the circle at R₁ and (x, y) is any point on line L.
+Consider a circle with center C (x₀, y₀) and a radius of r units as shown in the Figure
+5.42.
+302
+Unit 5: Vectors
+y
+R₁(x₁,y₁)
+R(x,y)
+C(x₀,y₀)
+L
+o
+x
+Figure 5.42
+Let R₁(x₁, y₁) be a point of tangency to the circle and it fulfills the following equation
+because it is on the point of the circle:
+A tangent line is a straight line that touches the circumference of a circle at the point
+of tangency.
+The radius of the circle r is perpendicular (orthogonal) to the tangent L at the point of
+contact R₁(x₁,y₁).
+If R (x, y) is an arbitrary point on L, R₁Ř CR₁ = 0
+Thus, the equation of the tangent line is
+by corollary 5.1
+Adding both sides of the equation above and
+you obtain
+Factorizing (x₁ - x₀) and (y₁- y₀) from respective terms, you have
+(x-x₁+x₁-x)
+=
+303
+Unit 5: Vectors
+Note
+If the circle is centred at the origin, then the above equation becomes:
+xx₁ + yy₁ = r².
+Example 1
+Find the equation of the tangent line to the circle x² + y² + 10x + 2y + 13 = 0
+at the point (-3,2)
+Solution
+R(x,y)
+y
+5
+4
+shown in Figure 5.43
+3
+(-3,2)
+2
+1
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+x
+-1
+C(-5,-1)
+-2
+-3
+-4
+-5
+Figure 5.43
+From x² + y² + 10x + 2y + 13 = 0
+x²+10x+y²+2y+13=0
+(x + 5)² - 25 + (y + - 1 + 13 = 0
+By completing square
+(x + 5)² + (y + 26 + 13 = 0
+=
+Therefore, the equation of the circle is
+(x + 5)² + (y + = 13 with centre C (-5, -1) and radius r = √13.
+The equation of the tangent line is given by (x - x₀) (x₁ - x₀) + (y y₀) (v₁ - y₀) = r²
+Substituting the corresponding components of R₁(-3,2)
+and R₀ (-5, -1) in equation above, you obtain:
+I
+304
+Unit 5: Vectors
+(x + 5) (-3+5) + (y + 1) (2 + 1) = √13²
+(x + 5) (2) + (y + 1) (3) = 13
+2x + 10 + 3y + 3 = 13
+2x + 3y = 0
+Thus, the tangent line to the graph of the circle at the point (-3, 2) is 2x + 3y = 0
+Example 2
+Find equation of tangent line through R₁ (3, 4) a point on the circle x² + y² = 25 as
+shown in Figure 5.44
+y
+Solution
+R₁(3,4)
+4
+Recall that the equation of tangent
+2
+line if the circle is centred at the
+origin is given by xx1 + yy₁ =
+-6
+4
+is
+0
+2
+4
+Since, the circle is centred at the
+2
+origin with radius 5, the equation of
+the tangent line to the circle is
+x X 3 + y X 4 = 5² 3x + 4y = 25.
+Figure 5.44
+Exercise 5.17
+1. Find the equation of the tangent line to the circle x² + y² + 4x - 8y = 0 at the
+point R₁(-4,8).
+2. Find the equation of the line tangent to the circle x² + y² - 8x - 10y - 128 = 0 at
+the point R₁ (-8, 10).
+3. Find equation of the tangent line through R₁(-4, -3) point on the circle
+x² + y² = 25.
+4. Find equation of tangent line to the circle x² + y² = 29 at the point R (-2, 5).
+305
+Unit 5: Vectors
+5.6 Applications
+In this unit, you discussed definition and properties of scalar as well as cross product
+of vectors with their application, application of vectors such as determining the
+equations of a line, and the equations of a tangent line to a circle. Now, you will
+consider further applications involving vectors.
+Example 1
+Prove the diagonals of a parallelogram meet at right angles if and only if it is a
+rhombus.
+A
+v
+C
+Proof
+и
+и
+O
+V
+B
+Figure 5.45
+Let OA = u and OB = v, as shown in Figure 5.45.
+Therefore, BC = 0A = u
+AC=OB=v =
+oc = u +v
+AB = v - u
+=uv-uu+v'v-uv = - . - distributive property
+Now for vectors to be perpendicular, the scalar product must be 0.
+Therefore, 0 =
+=
+Hence, when the length of u is the same as V (i.e., a rhombus) the angle is 90°.
+I
+306
+Unit 5: Vectors
+Example 2
+A ball is thrown with an initial velocity of 70 m/s at an angle of 35° horizontally.
+Find the vertical and horizontal components of the velocity.
+Solution
+Let V represent the velocity and use the given information to write V in unit vector
+form:
+V = 70cos35°i + 70sin35°j
+Simplify the scalars, you get:
+V ≈ 57.34i + 40.15j since the scalars are the horizontal and vertical components of V.
+Therefore, the horizontal component is 57.34 m/s and the vertical component is 40.15
+m/s.
+Exercise 5.18
+1. Prove the diagonals of a rectangle meet at right angles if and only if it is a square.
+2. Use vectors to prove the sum of the squares of the lengths of a parallelogram's
+diagonals is equal to the sum of the squares of the lengths of the sides.
+3. Ahmed is pulling her toy duck (mass 1kg) at a constant speed of 2.5 m/s. The
+string she uses to pull the duck makes an angle 45° above the horizontal and
+Ahmed keeps a constant tension in the string of 2 N. What is the work done by the
+tension force when the duck is pulled forward a distance of 2.8 m?
+4. An airplane is flying in the direction of 43° east of north (also abbreviated as
+N43E at a speed of 550 m/h. A wind with speed 25 m/h comes from the southwest
+at a bearing of N15E. What is the ground speed and new direction of the airplane?
+307
+Unit 5: Vectors
+Problem Solving
+1. A plane leaves the airport on the bearing of 45° traveling at 400 km/h if the
+bearing angles are measured clockwise from north. The wind is blowing at a
+bearing of 135° at a speed of 40 km/h. What is the actual velocity of the
+plane?
+2. Two children are playing with a ball. The girl throws the ball to the boy. The
+ball travels in the air, curves 3 m to the right, and falls 5 m away from the girl,
+as shown in Figure 5.46. If the plane that contains the trajectory of the ball is
+perpendicular to the ground, find its equation.
+3m
+5m
+Figure 5.46
+3. In square DEFG, side DE has column vector
+(2)
+Find two possible column
+vectors for EF.
+308
+Summary and Review Exercise
+Summary
+1. Vector
+a. A scalar quantity is a physical quantity which can be expressed completely by
+its magnitude and particular units alone.
+b. A vector quantity is a physical quantity which can be expressed completely by
+stating both its magnitude with particular unit and directions.
+c. Two vectors are said to be equal, if they have the same magnitude and
+direction.
+d. A zero vector or null vector is a vector whose magnitude is zero and whose
+direction is indeterminate.
+e. A unit vector is a vector whose magnitude is one.
+2. Addition and subtraction of vectors
+Let и and V be vectors, then the sum и + V is a vector given by the parallelogram
+law or triangle law satisfying the following properties.
+a. Vector addition is commutative. u+v=v+u.
+b. Vector addition is associative. (u + v) + W = u + (v + w).
+c. u + 0 = u.
+d. u+( ( u) = 0.
+e. For any three vectors u, V and W, if u = V and V = w, then u = W.
+3. Multiplication of a vector by a scalar
+Let и and V be vectors, let k₁ and k₂ be scalars hen the following properties are true.
+a. |k₁u|= |k₁|u.
+b. Associative Property: k1(k₂ = (k₁k₂) u.
+c. Distributive Property: (k₁ + k₂) u = k₁u + k₂u or + v) = k₁u + k₂v.
+d. Identity Property: 1 .
+u=u.
+e. Multiplicative Property of zero:0 . u = 0. =
+4. Scalar product or dot product
+If u, V and W be vectors, k is a scalar and Θ is an angle between two vectors then
+the dot product of two vectors is defined as и . V = |u|| v| cos Θ satisfying the
+following properties.
+309
+Summary and Review Exercise
+a. The scalar product of vectors is commutative. и . v=v'u.
+b. k (u . v) = (ku) . v=u . (kv).
+c. The scalar product of vectors is distributive: и . (v + w) = u . V + u . W.
+d. If и = 0 or V = 0, then u: v = 0. =
+e. Two vectors и and V are orthogonal if и . v = 0. =
+f. If u = (u₁, u₂) and V = (v₁, v₂) are vectors, then u. V = u₁v₁ + u₂V₂.
+5. Cross product
+If u, V and W are vectors and r is a scalar the cross product of vectors has the
+following properties
+a. Anticommutativity: u xv =-v X u.
+b. Multiplication by scalars: (ru) X V = r (u X v) = u X (r v).
+c. Distributivity: u X (u+w) = и X V + u X W.
+d. Orthogonal properties: (u xv) . u = (u x v) . v = 0. =
+e. Cross product of the zero vector: ux0=0. =
+f. Cross product of the vector with itself: uxu=0.
+g. The cross product of the unit vectors: ixi = jx X j = kx k = 0. =
+h. Triple scalar product: u . (v X w) = (u XV). W.
+310
+Summary and Review Exercise
+Review Exercise
+1. If vector и = (3, -2), V = (-2, -1) and W = (5, 1), then find
+a. 2u - 3v
+b. 3u - 2v + w|
+c.u+ 4v -w
+d. 2u + 2w
+e. Find unit vector in the direction of и +w
+f. Find a if a + V = 2u - W
+2. If и = i + 2j, V = 2i + 4j and W = 5i - j, then find each of the following product
+a. (u . v) W
+b. и . (3w)
+C. |v|²
+3. If и = 3i + 2j + 5k and V = i + 3j + 6k, then find
+a.uXv
+b.vxu
+4. If vector V = 2i + 3j, then find the angle formed by the following vectors:
+a. V and i
+b. V and j
+5. Determine whether u = i + 5k and V = 10i + 3j - 2k are orthogonal vectors or
+not.
+6. Let u = (-5, 3, 7) and V = (6, -8, 2). Determine if the vectors are parallel,
+perpendicular or neither.
+7. Given the vectors и = 6i + j - 3k and V = 2i + 3j +k, then find
+a. the area of the parallelogram formed by и and V.
+b. the area of the triangle formed by и and V.
+8. A constant force of 60N is applied at angle
+F
+of 30° to pull a handcart of 10 m across the
+30°
+ground, as shown in Figure 5.47. What is
+10m
+the work done by this force?
+Figure 5.47
+9. If the line L passing through the point P (-2, 1) and parallel to the vector 2i + 3j,
+then find a. vector equation of the line.
+b. parametric equation of the line.
+10. Find the equation of the line tangent to the circle x² + y² + x - y = 7 at point
+a. A (2 -5)
+b.B(-1,4)
+311
+Summary and Review Exercise
+11. If three forces F₁ = 3i - 4j, F₂ = 4i + 5j and F₃ = 5j are acted on the body, then
+find the resultant force.
+12. A balloon is rising vertically at 4 m/s. Wind is blowing from east to west at 3 m/s.
+Find the resultant velocity of the balloon.
+13. A 50-N weight is hung by a cable so that the two
+40°
+portions of the cable make angles of 40° and
+53°
+53°, respectively, with the horizontal, as shown
+in Figure 5.48. Find the magnitudes of the forces
+of tension T₁ and T₂ in the cables if the resultant
+50 N
+force acting on the object is zero.
+Figure 5.48
+312
+UNIT
+6-
+TRANSFORMATIONS OF THE
+PLANE

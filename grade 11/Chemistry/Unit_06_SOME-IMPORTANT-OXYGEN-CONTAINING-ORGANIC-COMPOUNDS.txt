@@ -1,0 +1,2874 @@
+Unit Outcomes
+At the end of this unit, you will be able to:
+classify organic compounds
+write the structural formula and IUPAC names of alcohols, ethers,
+aldehydes, ketones, carboxylic acids and esters
+give the general formulas of alcohols, ethers, aldehydes, ketones,
+carboxylic acids and esters
+describe some physical and chemical properties of alcohols, ethers,
+aldehydes, ketones, carboxylic acids and esters
+develop skills in naming and writing the molecular and structural
+formulas of alcohols, ethers, aldehydes, ketones, carboxylic acids, esters,
+anhydrides, amides, and acid chlorides
+predict and correctly name the products of organic reactions, including
+substitution, addition, elimination, esterification, hydrolysis and
+oxidation reactions
+perform activities to prepare an alcohol (Katikalla), and a carboxylic acid
+test for the carboxylic acid and ester functional groups
+write the general formula of fats and oil and the structures for some
+common triglycerides
+give the structures, properties and uses of fats and oils, and demonstrate
+scientific enquiry skills, including: observing, classifying, comparing and
+contrasting, asking questions, drawing conclusions, applying concepts
+and problem solving.
+264
+UNIT 6
+Introduction
+Start-up Activity
+Perform the following activity in groups and present your response
+to the rest of the class.
+Take turns to name an item that contains organic molecules that we use in
+daily life, and identify what class of organic compound (s) it contains.
+6.1
+Introduction
+At the end of this section, you will be able to:
+classify organic compounds.
+Classification of organic compounds
+Why is classification of organic compounds needed? What is the basis of the
+classification?
+In Grade 10, you have learned about some general organic reactions of hydrocarbons.
+In this unit, you will continue to learn about more functional groups: oxygen-
+containing functional groups. The oxygenated hydrocarbons include alcohols, ethers,
+aldehydes, ketones, carboxylic acids and esters. Alcohols occur widely in nature and
+have many industrial and pharmaceutical applications. Methanol, for example, is one
+of the most important of all industrial chemicals. Ethers are relatively resistant to
+chemical transformation and are often used as solvents in chemical reactions.
+Can you name the common functional groups and give an example for each functional
+group?
+Aldehydes and ketones contain a carbonyl group that consists of a carbon-oxygen
+double bond (C=O). Many compounds found in nature have aldehyde or ketone
+functional groups. Aldehydes have pungent odors, whereas ketones tend to smell
+sweet. Carboxylic acids and esters are present in many fruits and flowers. Many
+carboxylic acids are used as food additives in jams, jellies, candies and pickles, etc.
+In this unit, you will also learn about fats and oils which are esters.
+UNIT 6
+265
+CHEMISTRY GRADE 11
+6.2
+Alcohols and Ethers
+At the end of this section, you will be able to:
+define alcohols
+tell the functional group of alcohols
+classify alcohols based on the number of hydroxyl groups
+write the general formulas of monohydric alcohols
+write the molecular formulas and the names of the first six members of
+the monohydric alcohols
+give the IUPAC names for the given alcohols
+classify monohydric alcohols based on the number of alkyl groups
+attached to the carbon atom carrying the hydroxyl group
+give some examples for primary, secondary and tertiary alcohols
+describe the physical properties of alcohols
+explain general methods of preparation of alcohols
+explain the industrial preparation of ethanol
+perform an experiment to prepare ethanol from sugar
+explain the chemical reactions of alcohols such as oxidation, reaction
+with active metals, esterification and dehydration
+carry out an activity to show chemical reactions of alcohols with active
+metals
+write the molecular formulas and names of the first six members of ethers
+give the IUPAC names for given ethers
+describe the physical properties of ethers
+explain the general methods of preparation of ethers
+explain the use of ethers, such as solvent inorganic reactions.
+266
+UNIT 6
+Alcohols and Ethers
+Activity 6.1
+Discuss the following questions in groups, and write a report. Present your
+report to the class.
+1. List some alcohols you know. Name the alcohol used in alcoholic
+beverages. What are the uses of alcohols in industry?
+2. Ethiopia uses an alcohol blended with gasoline to drive cars. What is the
+name of the alcohol?
+3. Hand sanitizers are used as an alternative to washing hands to kill most
+bacteria and viruses that spread colds and flu. Which alcohol (s) is
+present in hand sanitizers?
+4. Explain the effects of using carbon-based fuels on the increase in carbon
+dioxide in the atmosphere and its consequences.
+What do you think when you hear the word "alcohol"? Can you define alcohol?
+Give a few examples of the uses of alcohols. Most people think of two common
+alcohols: the substance that intoxicates people, and the one used in clinics and
+hospitals. However, there are many types of alcohol. The only alcohol present in all
+alcoholic beverages is called ethanol. Other alcohols are used for different purposes.
+Alcohols are derivatives of hydrocarbons in which one or more of the hydrogen
+atoms in the hydrocarbon have been replaced by a hydroxyl group (-OH). The
+functional group in an alcohol is an -OH (hydroxyl) group, which is responsible for
+imparting certain chemical and/or physical properties to the compound. In alcohols,
+the hydroxyl group is directly attached to carbon atom(s) of an aliphatic system.
+Example 6.1
+H
+H
+H
+H
+H
+H
+H
+C
+OH
+H
+C
+C
+OH
+H
+C
+C
+C
+OH
+H
+H
+H
+H
+H
+H
+Methanol
+Ethanol
+1-Propanol (Propan-1-ol)
+UNIT 6
+267
+CHEMISTRY GRADE 11
+6.2.1
+Classification of Alcohols
+Alcohols may be classified as топо-, di-, tri- or polyhydric compounds depending
+on whether they contain one, two, three or many hydroxyl (-OH) groups respectively
+in their structures.
+i. Monohydric alcohols are alcohols containing only one hydroxyl group.
+Example 6.2
+CH₃-CH₂-OH CH₃-CH₂-CH₂-OH CH₃-CH₂-CH₂-CH₂-OH
+Ethanol
+1-Propanol
+1-Butanol (Butan-1-ol)
+Which one of the above monohydric alcohols is present in any drinking alcohol?
+ii. Dihydric alcohols are those containing two hydroxyl groups per molecule. They are
+also named glycols or diols.
+Example 6.3
+H₂C-CH₂
+OH OH
+Ethane-1,2-diol (Ethylene glycol)
+Can you give more examples of dihydric alcohols?
+iii. Trihydric alcohols are those containing three hydroxyl groups in their molecular
+structure.
+Example 6.4
+H2C-CH-CH2
+OH OH OH
+Propane-1,2,3-triol (Glycerine or glycerol)
+iv. Polyhydric alcohols are those alcohols containing three or more hydroxyl groups
+in their molecular structure.
+268
+UNIT 6
+Alcohols and Ethers
+Can you give examples of polyhydric alcohols?
+Classification of Monohydric Alcohols
+Monohydric alcohols may be further classified according to the carbon atom to which
+the hydroxyl group is attached.
+Primary alcohols
+In a primary alcohol, the carbon with the hydroxyl group is only attached to one alkyl
+group.
+H
+General structure:
+R
+C
+OH
+H
+Primary (1°) o alcohol
+Example 6.5
+CH₃
+CH₃-CH₂-OH
+CH₃-CH₂-CH₂-OH
+CH₃-CH₂-CH-CH₂-OH
+Ethanol
+1-Propanol
+2-Methyl-1-butanol
+Secondary alcohols
+In a secondary alcohol, the carbon with the hydroxyl group is attached to two alkyl
+groups.
+OH
+General structure:
+R
+C
+R'
+Where, R and R' may be the same or different
+H
+Secondary (2°) alcohol
+Example 6.6
+OH
+OH
+OH
+CH₃-CH-CH₃
+CH₃-CH₂-CH-CH₃
+CH₃-CH₂-CH-CH₂-CH₃
+2-Propanol
+2-Butanol
+3-Pentanol
+UNIT 6
+269
+CHEMISTRY GRADE 11
+Tertiary alcohols
+In a tertiary alcohol, the carbon with the hydroxyl group is attached to three other alkyl
+groups.
+OH
+General structure:
+R-C-R'
+Where, R, R' and R" may be the same or different
+R"
+Tertiary (3°) alcohol
+Example 6.7
+OH
+OH
+CH₃-C-CH₃
+CH₃CH₂-C-CH₃
+CH₃
+CH₃
+2-Methyl-2-propanol
+2-Methyl-2-butanol
+6.2.2
+Nomenclature of Alcohols
+The common name of an alcohol is derived from the common name of the alkyl
+group and adding the word alcohol to it. In the IUPAC system, an alcohol is named by
+replacing the e of the corresponding alkane name with ol.
+Example 6.8
+CH₃-H
+CH₃-OH
+CH₃-CH₂-H
+CH₃-CH₂-OH
+Methane
+Methanol
+Ethane
+Ethanol
+(methyl alcohol)
+(ethyl alcohol)
+When an alcohol consists of a chain with three or more carbon atoms, the chain is
+numbered to give the position for the -OH group and any substituents on the chain.
+For this, the longest carbon chain (parent chain) is numbered starting at the end nearest
+to the hydroxyl group. The positions of the -OH group and other substituents are
+indicated by using the numbers of carbon atoms to which these are attached.
+270
+UNIT 6
+Alcohols and Ethers
+Example 6.9
+OH
+CH₃-CH₂-CH₂-OH
+CH₃-CH-CH₃
+3214
+3
+2
+1
+1-Propanol
+2-Propanol
+(propyl alcohol)
+(isopropyl alcohol)
+Is neopentyl alcohol a 1°, 2°, or 3° alcohol?
+For naming polyhydric alcohols, the 'e' of alkane is retained and the ending 'ol' is
+added. The number of -OH groups is indicated by adding the multiplicative prefix, di,
+tri, etc., before 'ol'.
+Example 6.10
+OH
+HO-CH₂-CH₂-OH
+HO-CH₂-CH-CH₂-O
+2
+321
+1,2-Ethanediol
+1,2,3-Propanetriol
+(ethylene glycol)
+(glycerol)
+Exercise 6.1
+1. Give the general formula for the homologous series of monohydric
+alcohols.
+2. Classify the following alcohols as monohydric, dihydric and trihydric
+alcohols.
+a. 2-propanol
+b. 1,3-propanediol
+c. 1,2,3-butanetriol
+3. Classify the following monohydric alcohols as primary, secondary or
+tertiary alcohols.
+a. 1-pentanol
+b. 2-pentanol
+c. 2-methyl-2-butanol
+4. Give the IUPAC name for the following alcohols:
+OH
+b. Ho
+OH
+a.
+c.
+OH
+UNIT 6
+271
+CHEMISTRY GRADE 11
+6.2.3
+Physical Properties of Alcohols
+Activity 6.2
+Answer the following questions in groups, and share your answers with the
+whole class.
+1. Is the bond in -0-H polar or non-polar? Why?
+2. Compare the physical state of the first four members of monohydric
+alcohols and alkanes.
+3. Lower alcohols, like methanol and ethanol, are miscible with water in all
+proportions, while lower hydrocarbons are not so. Explain.
+The hydroxyl group in an alcohol is polar due to the high electronegativity of oxygen.
+As a result, there is significant hydrogen bonding in alcohols (Figure 6.1).
++
++
+δ
+8
+R
+δ
+H-O
+H
++
++
+δ
+δ
+δ
+δ
+δ
+H
+O
+H-O
+R
+Hydrogen
+R
+R
+bonding
+Figure 6.1: Hydrogen bonding between molecules of an alcohol
+Due to the hydrogen bonding in alcohols, they have higher melting and boiling
+points than hydrocarbons of comparable molecular size (mass). Table 6.1 gives some
+physical constants of the first six monohydric alcohols. Hydrogen bonding is also the
+cause for even lower members to be liquids at room temperature.
+272
+UNIT 6
+Alcohols and Ethers
+Group Assignment 6.1
+Form a group of five and explain the following facts by
+searching information from the internet and any other sources.
+Submit your report in Word and PDF formats.
+1. Dihydric and the trihydric alcohols have higher boiling
+points than monohydric alcohols of similar molecular size
+(mass).
+2. The solubility of alcohols in water decreases with
+increasing carbon number.
+3. The water solubilities of dihydric and trihydric alcohols
+are higher than those of monohydric alcohols of similar
+molecular mass.
+4. The boiling point of a branched isomer is lower than that
+of its isomeric straight-chain alcohol.
+Table 6.1: IUPAC Names, Condensed Structure and Physical Constants of the
+First Six Monohydric Alcohol
+Structure of monohy-
+IUPAC name
+Melting
+Boiling
+Density
+dric alcohol
+point (°C)
+point (°C)
+(g/mL)
+CH3OH
+Methanol
+-97
+64.7
+0.792
+CH₃CH₂OH
+Ethanol
+-117
+78.3
+0.789
+CH₃CH₂CH₂OH
+1-Propanol
+-126
+97.2
+0.804
+CH₃(CH₂)₂CH₂OH
+1-Butanol
+-90
+117.7
+0.810
+CH₂(CH₂),CH₂OH
+1-Pentanol
+-78.5
+138
+0.817
+CH₂(CH₂)₄CH₂OH
+1-Hexanol
+-52
+156.5
+0.819
+UNIT 6
+273
+CHEMISTRY GRADE 11
+6.2.4
+Preparation of Alcohols
+The general laboratory methods of preparation of alcohols are:
+A. Acid-catalyzed hydration of alkenes:
+Water is added to the double bond of an alkene in the presence of dilute acid
+such as H2SO4 or H3PO4.
+General Reaction:
+H3O+
+C
+C
++
+HOH
+C
+C
+H OH
+Alkene
+Alcohol
+Example 6.11
+CH₃
+H₃C
+H3O+
+C
+CH₂
++
+HOH
+25 °C
+H₃C-C-CH₂-H
+H₃C
+OH
+2-Methylpropene
+(isobutylene)
+tert-Butyl alcohol
+Note that hydrogen of the water goes to the carbon of the alkene that contains more
+hydrogens.
+Does addition reaction change the hybridization of the carbon items initially held by
+the double bond? Explain.
+B. Hydrolysis of alkyl halides:
+Warming alkyl halides with sodium hydroxide forms alcohols.
+What does hydrolysis mean?
+General Reaction:
+heat
+R - -CH₂X
++ NaOH
+R-CH₂OH
++
+NaX
+(X = Cl, Br, I)
+Alcohol
+Alkyl halide
+274
+UNIT 6
+Alcohols and Ethers
+Example 6.12
+heat
+CH₃-CH₂Cl
++
+NaOH
+CH₃-CH₂OH
++
+NaCl
+Ethyl chloride
+Ethanol
+C. Hydrolysis of Esters:
+Heating esters with potassium hydroxide produces alcohols.
+General reaction:
+heat
+RCOOR'
++
+KOH
+RCOOK
++
+R'OH
+Ester
+Alcohol
+Example 6.13
+heat
+CH₃COOCH₂CH₃
++
+KOH
+CH₃COOK
++
+CH₃CH₂OH
+Ethyl acetate
+Ethanol
+Methods B and C involve the replacement of other groups by the -OH group. Hence,
+they are examples of substitution reactions.
+Ethanol (Ethyl Alcohol), CH₃CH₂OH
+Activity 6.3
+Answer the following questions individually and share your answers with
+others in the class.
+1. Why is the shelf-life of some alcoholic beverages low, while for others it
+is high?
+2. How can you improve the shelf-life of those alcoholic beverages with a
+low shelf-life?
+Ethanol is the second member of the homologous series of monohydric alcohols.
+It is one of the constituents of all alcoholic beverages. 'Tella', 'Tej', Beer, Wine,
+'Katikalla', Ouzo, Gin and Whisky contain ethanol. There are a number of methods
+for preparing ethanol using different materials.
+Can you categorize the alcoholic beverages as distilled and non-distilled?
+UNIT 6
+275
+CHEMISTRY GRADE 11
+Industrial preparation of ethanol
+Ethanol is manufactured industrially by:
+1. Fermentation of carbohydrates such as sugar. Fermentation is the slow
+decomposition of carbohydrates such as sucrose, starch and cellulose in the
+presence of a suitable enzyme. It results in the formation of ethanol and carbon
+dioxide:
+C₁₂H₂₂O₁₁
+invertase
++
+H₂O
+C₆H₁₂O₆
++
+C₆H₁₂O₆
+Sucrose
+Glucose
+Fructose
+C₆H₁₂O₆
+2CH₃CH₂OH + 2CO₂
+Glucose
+Ethanol
+Fermentation can produce an alcoholic beverage whose ethanol content is 12-
+15% only. Why is it that difficult to produce a higher percentage of alcohols by
+fermentation? How can a higher ethanol-containing beverage be produced?
+Most liquor factories in Ethiopia use molasses, a by-product of sugar industries,
+as a raw material to produce ethanol. In the brewing industry, germinated barley
+called malt is used as the starting material. The whole process taking place in
+breweries is summarized as follows:
+2(C₆H₁₀O₅)ₙ + nH₂O Diastase
+nC₁₂H₂₂O₁₁
+nH₂O
+2nC₆H₁₂O₆
+Starch
+Maltose
+Maltase
+Glucose
+C₆H₁₂O₆
+Zymase
+2CH₃CH₂OH + 2CO₂
+Glucose
+Ethanol
+2. Catalytic Hydration of Ethene: Most ethanol is manufactured at present by this
+method. In this process, ethene is treated with steam at 573 °K and 60 atm pressures
+in the presence of phosphoric acid, H3PO₄, catalyst.
+H3PO4
+CH₂=CH₂ (g) + H2O (g)
+CH₃CH₂OH (g)
+Ethene
+573 K/60 atm
+Ethanol
+276
+UNIT 6
+Alcohols and Ethers
+Experiment 6.1
+Preparation of Ethanol by Fermentation
+Objective: To prepare ethanol from sugar.
+Materials and chemicals: Conical flask, glass rod, distillation flask, condenser,
+spatula, thermometer, watch glass, Bunsen burner, tripod, boiling chips, beaker,
+stopper and delivery tube. Sugar, ammonium phosphate or ammonium sulphate,
+yeast, Ca(OH)₂.
+Procedure:
+1. Take 50 mL of distilled water in a conical flask, add 15 g of sugar to it and
+stir. Add about 1 gram of yeast and a small amount of ammonium phosphate
+or ammonium sulphate to the solution. Arrange the setup, as shown in Figure
+6.2, and let the flask stand for three days at a warm place.
+Delivery tube
+Rubber stopper
+Conical flask
+Beaker
+Sugar solution
+Calcium hydroxide
+Figure 6.2: The fermentation of sugar
+Observations and analysis:
+A. What is the purpose of adding yeast to the solution?
+B. Why do we add ammonium phosphate or ammonium sulphate to the sugar
+solution?
+C. What happened to the calcium hydroxide solution at the end of the first or
+second day? Which gas is produced?
+D. What is the smell of the solution in the flask after three days?
+E. What has happened in the flask containing the sugar solution as it stood for
+three days?
+UNIT 6
+277
+CHEMISTRY GRADE 11
+F. After three days, filter the solution, and arrange the set up as in Figure 6.3.
+Pour 20 mL of the filtrate in a distilling flask, with a few boiling chips, heat
+the solution, and collect the liquid in a receiver.
+Thermometer
+Water outlet
+Stand
+Clamp
+Condenser
+Fermented
+sugar solution
+Water inlet
+Wire gauze
+Conical flask
+Ethanol
+Bunsen burner
+Figure 6.3: Separation of ethanol by distillation
+Points to observe:
+A. Observe the colour and identify the smell of the distillate.
+B. Pour a small amount of the distillate on a watch glass, strike a match and
+bring the flame close to the distillate. Does it catch fire?
+C. Write a complete laboratory report on this experiment and submit it to your
+teacher.
+278
+UNIT 6
+Alcohols and Ethers
+Project 6.1
+Form a group of five and do the following activities. Submit Word and PDF
+documents to your teacher.
+1. Search the preparation of "Katikalla", "Tela", "Tej", and other locally
+prepared alcoholic beverages in your community by interviewing
+elders. Report your findings to the whole class.
+2. Choose one locally prepared non-distilled alcoholic beverage in your
+community and illustrate its preparation.
+3. Compare the traditional and industrial methods of preparing alcoholic
+beverages.
+4. Search the internet or any other sources to summarize the properties
+and uses of ethanol.
+6.2.5
+Chemical Properties of Alcohols
+Activity 6.4
+Discuss the following questions in groups, and write a report. Present
+your report to the class.
+1. Why do alcoholic beverages such as "Tela", "Tej", beer and wine turn
+sour if they are not properly stored? Which reaction of alcohols is
+responsible for this? Write a chemical equation to support your answer.
+2. What types of reactions do alcohols undergo? Alcohols contain
+a hydrocarbon group and a functional group (-OH). Which part
+of alcohols is responsible for most of their chemical reactions?
+Reactions of alcohols may involve the cleavage of the oxygen-hydrogen bond
+(-O-H) or the carbon-oxygen bond (-C-O).
+1. Reactions of alcohols involving cleavage of -0-H bond
+a. Reaction with Active Metals
+Alcohols react with Li, Na, K, Mg, and other active metals to liberate hydrogen and
+to form metal alkoxides.
+UNIT 6
+279
+CHEMISTRY GRADE 11
+General reaction:
+2R-CH₂-O-H + 2 Na
+2R-CH₂-O⁻Na⁺
++ H₂
+Alcohol
+Sodium alkoxide
+Example 6.14
+2CH₃-CH₂-O-H
++
+2 Na
+2CH₃-CH₂-ONa⁺ + H2
+Ethanol
+Sodium ethoxide
+Experiment 6.2
+Reactions of Alcohols with Active Metals
+Objective: To observe the reaction of alcohols with sodium and magnesium.
+Materials required: Ethanol, sodium and magnesium metal. Test tubes, test
+tube holder, test tube rack, measuring cylinder, Bunsen burner, scissors or knife.
+Procedure:
+Take two test tubes and add 2-5 mL of ethanol to each of the test tubes. Cut a
+very small piece of sodium with a knife and drop it into the first test tube. Take
+magnesium ribbon and drop it in the second test tube.
+Observations and analysis:
+A. What do you observe
+a. in the first test tube?
+b. in the second test tube?
+B. Is there an evolution of gas? How do you check this gas is hydrogen?
+C. If no reaction occurs in any of the test tubes, heat the mixture gently using a
+Bunsen burner and write your observation.
+D. Which bond of the alcohol is broken in the reaction?
+E. Write a general reaction for such reactions.
+F. What type of metals reacts in this manner?
+b. Oxidation of alcohols
+The oxidation products of alcohols depend on the type of alcohol and the nature of
+oxidizing agents. Oxidation of alcohols is a very important method for the production
+of other oxygen-containing organic compounds, such as aldehydes, ketones and
+carboxylic acids.
+280
+UNIT 6
+Alcohols and Ethers
+i. Oxidation of primary alcohols
+Depending on the oxidizing agent used, a primary alcohol is oxidized to an aldehyde
+which in turn is oxidized to a carboxylic acid in the presence of mild oxidizing
+agents such as copper metal, primary alcohols yield aldehydes.
+General reaction:
+Cu
+R-CH₂-OH
+R-C-H
+Primary alcohol 360 °C Aldehyde
+Example 6.15
+O
+Cu
+CH₃-CH₂-OH
+CH₃-C-H
+Ethanol
+360 °C
+Ethanal
+Strong oxidizing agents, such as acidified KMnO₄ or K₂Cr₂O₇ or CrO₃ in H2SO₄,
+oxidize primary alcohol first to aldehydes and then to carboxylic acids. It is difficult to
+stop the reaction at the aldehyde stage.
+General reaction:
+R-CH₂-OH KMnO₄/H R-C-H R-C-H KMnO₄/H R-C-OH
+Primary alcohol
+Aldehyde
+Carboxylic acid
+Example 6.16
+KMnO₄/H⁺
+CH₃-CH₂-OH
+CH₃-C-OH
+Ethanol
+Ethanal
+Ethanoic acid
+Is there any possibility to prepare aldehydes from primary alcohols?
+ii. Oxidation of secondary alcohols yields ketones
+General reaction:
+OH
+O
+R-C-R'
+=
+[0]
+R-C-R'
+H
+Secondary alcohol
+Ketone
+UNIT 6
+281
+CHEMISTRY GRADE 11
+Example 6.17
+OH
+O
+KMnO4/H+
+H3C
+C
+H
+H3C
+CH₃
+CH₃
+Propanol
+2-Propanol
+(acetone)
+iii. Tertiary alcohols and ketones are generally resistant to oxidation
+OH
+[O]
+R
+C
+R'
+No reaction
+under normal conditions
+R"
+Tertiary alcohol
+What happens if 3° alcohols subject to oxidation under drastic conditions?
+Group Assignment 6.2
+Do the following activity in a group of five and share your
+responses with the whole class.
+Alcohols A, B, and C all have the composition C₄H₁₀.
+Molecules of alcohol A contain a branched carbon chain
+and can be oxidized to an aldehyde; molecules of alcohol B
+contain a linear carbon chain and can be oxidized to a ketone;
+and molecules of alcohol C can be oxidized to neither an
+aldehyde nor a ketone. Predict the structural formulas of
+these molecules.
+2. Reactions involving cleavage of carbon-oxygen (C - O) bond in alcohols
+a. Dehydration of alcohols: Alcohols undergo dehydration (removal of a molecule
+of water) to form alkenes on treating with an acid such as concentrated H₂SO₄ or
+H3PO4 and heating.
+282
+UNIT 6
+Alcohols and Ethers
+General reaction:
+H H
+Conc.H₂SO₄
+R
+H
+R-C-C-OH
+C
+C
++ H₂O
+H
+H
+H H
+Alcohol
+Alkene
+In general, dehydration of primary alcohols is difficult and requires concentrated acid
+and high temperature.
+Example 6. 18
+Ethanol dehydrates in the presence of concentrated H2SO4 and heating at 170 °C.
+H-C-C-C-OH H H
+Conc.H₂SO₄
+H
+H
+C
+C
++ H₂O
+170 °C
+H
+H
+H H
+Ethanol
+Ethene
+Secondary and tertiary alcohols dehydrate under milder conditions.
+Example 6.19
+OH
+85%
+CH₃-CH-CH₃
+H3PO4
+CH₃-CH=CH₂
++ H2O
+167 °C
+2-Propanol
+Propene
+CH₃
+CH₂
+20% H₃PO₄
+CH₃-C-OH
+CH3-C-CH3 + H2O
+85 °C
+CH₃
+2-Methyl-2-propanol
+2-Methylpropene
+Arrange primary, secondary, and tertiary alcohols in the degree of dehydration order.
+b. Reactions of alcohols with hydrogen halides: Alcohols react with hydrogen halides
+to form alkyl halides.
+UNIT 6
+283
+CHEMISTRY GRADE 11
+General reaction:
+R-CH2-OH
++
+HX
+R-CH₂-X
++
+H2O
+Alcohol
+(X=Cl,Br,I)
+Alkyl halide
+Example 6.20
+CH₃-CH₂-OH
++
+HBr
+CH₃-CH₂-Br
++
+H2O
+Ethanol
+Ethyl bromide
+(1-bromoethane)
+Is it possible to produce alcohols from alkyl halides?
+Exercise 6.2
+1. What is the functional group in alcohols?
+2. Classify the following alcohols as primary, secondary and tertiary
+alcohols:
+a. 3-hexanol
+b. 2-methyl-2-pentanol
+c. 3-methyl-2-butanol
+d. 1-heptanol
+e. 2-methyl-1-propanol f. 2,3-dimethyl-2-butanol
+3. Compare boiling points of alcohols and hydrocarbons of similar
+molecular mass. Explain if there is any difference.
+4. Complete the following chemical reactions in your exercise book:
+CrO₃/H₂SO₄
+a.
+CH₃CH₂CH₂CH₂OH
+b. H₃C-CH₂-CH-CH₂CH₃ OH K₂Cr₂O₇/H⁺ +
+284
+UNIT 6
+Alcohols and Ethers
+6.2.6
+Structure and Nomenclature of Ethers
+Activity 6.5
+Try to answer the following questions in groups, and present your
+responses to the whole class.
+1. Diethyl ether (CH₃CH₂-O-CH₂CH₂) is prepared from ethyl alcohol
+(CH,CH2-OH). Based on these information and your prior knowledge of
+molecular structures, discuss these questions.
+a. From CH₃CH₂-OH and CH₂CH₂-O-CH₂CH₂, which one do you
+expect to have higher boiling point?
+b. Which one of these compounds is more soluble in water? Why?
+Ethers are compounds in which an oxygen is bonded to two alkyl substituents (R-
+O-R'), where R and R' may be the same or different. If the alkyl substituents are
+identical, the ether is a symmetrical ether. If the substituents are different, the ether is
+an unsymmetrical ether.
+R-O-R
+R-O-R
+a symmetrical ether
+an unsymmetrical ether
+The common name of an ether consists of the names of the two alkyl substituents
+(in alphabetical order), followed by the word "ether". The smallest ethers are almost
+always named by their common names.
+Example: 6.21
+CH₃
+a. CH₃-O-CH₂CH₃
+b. CH₃CH₂-O-CH₂CH₃
+c. CH₃CH-O-CH₂CH₃
+ethylmethyl ether
+diethyl ether
+ethylisopropyl ether
+The IUPAC system names ether as an alkane with an RO- substituent. The substituents
+are named by replacing the "yl" ending in the name of the alkyl substituent with "oxy".
+CH₃O-
+CH₃CH₂O-
+CH₃CHO-
+methoxy
+ethoxy
+CH₃
+isopropoxy
+UNIT 6
+285
+CHEMISTRY GRADE 11
+Example 6.22
+OCH₃
+a. CH₃CHCH₂CH₃
+b. CH₃CH₂CH₂CH₂CH₂-OCH₂CH₃
+2-methoxybutane
+1-ethoxypentane
+Exercise 6.3
+1. Give the systematic (IUPAC) name for each of the following ethers:
+a. CH₂CH₂CH₂OCH₂CH₂CH₂CH₃
+b. CH₃CH₂CH₂CH₂CHCH₂CH₃
+OCH₃
+2.
+What are the common names of the compounds given in question 1?
+6.2.7
+Physical Properties of Ethers
+Ethers are polar compounds in which oxygen bears a partial negative charge and each
+carbon bonded to it bears a partial positive charge (Figure 6.4).
+How do ethers differ from alcohols?
+The boiling points of ethers are much lower than those of alcohols of comparable
+molecular weight. For example, the boiling points of ethanol (78 °C) is much higher
+than its constitutional isomer dimethyl ether (-24 °C). The difference in boiling points
+between these two compounds is due to the polar O-H group in the alcohol, which
+is capable of forming intermolecular hydrogen bonds. How do you rate the boiling
+points of ethers and hydrocarbons of comparable molecular weight?
+only very weak
+dipole-dipole interaction
+H
+H
+δ
+H
+H
+C+
+H
+δ
+C
++
++
+C
+δ
+δ
+δ
++
+H
+H
+H
+C
+δ
+H
+H
+H
+H
+Figure 6.4: Weak attractive interactions exist between diethyl ether
+molecules in the pure liquid
+286
+UNIT 6
+Alcohols and Ethers
+Because the oxygen atom of ether carries a partial negative charge, ethers form
+hydrogen bonds with water (Figure 6.5) and are more soluble in water than are
+hydrocarbons of comparable molecular weight and shape.
+H
+H
+H
+C+
++co
+to
+δ
+H
+H
+C
+H
+H
+H
+hydrogen bonding
+Figure 6.5: Hydrogen bonding between diethyl ether and water
+Exercise 6.4
+1. Arrange these compounds in order of increasing solubility in water:
+a. CH₂OCH₂CH₂OCH₃ b. CH,CH₂OCH₂CH₃
+c. CH,CH,CH,CH,CH,CH,
+2. Arrange these compounds in order of increasing boiling point:
+a. CH₂OCH₂CH₂OCH₃
+b.
+HOCH2CH2OH
+c. CH₂OCH₂CH₂OH
+3. Write the condensed structures of both isomers with the formula C₂H₆O.
+Label the functional group of each isomer.
+6.2.8
+Preparation of Ethers
+1. Dehydration of alcohols
+Alcohol undergoes dehydration in the presence of protic acids (sulphuric acid,
+phosphoric acid) to produce alkenes and ethers under different conditions. For
+example, ethanol is dehydrated to ethene at 170 °C in the presence of sulphuric
+acid. On the other hand, ethanol yields ethoxyethane in the presence of sulphuric
+acid at 140 °C. The method is limited to use with primary alcohols.
+H2SO4
+CH₃CH₂OH
+CH₂=CH₂
++ H₂O
+Ethanol
+170 °C
+Ethene
+water
+H2SO4
+2CH₃CH₂OH
+CH₃CH₂OCH₂CH₃
++
+H₂O
+Ethanol
+140 °C
+Diethyl ether
+water
+UNIT 6
+287
+CHEMISTRY GRADE 11
+What is the problem if we use secondary and tertiary alcohols? Does this method work
+for the synthesis of both symmetrical and unsymmetrical ethers?
+2. Williamson ether synthesis
+In this method, an alkyl halide is made to react with an alkoxide which leads to
+the formation of ether.
+R-X
++
+R-0
+R-O-R
++
+X⁻
+Alkyl halide
+Alkoxide ion
+Ether
+Can this method be used for the preparation of both symmetrical and unsymmetrical
+ethers?
+Example 6.23
+CH₃CH₂Br +
+CH₃O
+CH₃CH₂OCH₃
++
+Br⁻
+ethyl bromide
+methoxide ion
+ethyl methyl ether
+CH₃CH₂CH₂CH₂I
++ CH3CH₂O
+CH₃CH₂CH₂CH₂OCH₂CH₃
++ I
+butyl iodide
+ethoxide ion
+butyl ethyl ether
+6.2.9
+Reactions of Ethers
+Ethers, R-O-R, resemble hydrocarbons in their resistance to chemical reaction. They
+do not react with oxidizing agents, such as K₂Cr₂O₇ or KMnO₄. Ethers are not affected
+by bases, however, they can react with proton donors to form oxonium salts.
+Example 6.24
++
+CH₃CH₂OCH₂CH₃
++ HBr
+CH₂CH₃
+O
+CH₂CH₃
+Br
+H
+An oxonium salt
+Heating dialkyl ethers with very strong acids (HI, HBr, and H2SO₄) cleaves the ether
+linkage:
+Д
+CH₃CH₂OCH₂CH₃
++ 2 HBr
+2 CH₃CH₂Br + H2O
+288
+UNIT 6
+Aldehydes and Ketones
+Ethers are not affected by most reagents at moderate temperatures. Because of their
+good solvent properties and general inertness to chemical reaction, ethers are excellent
+solvents in which to carry out many organic reactions.
+Exercise 6.5
+1. What are the common uses of ethers in medicine and industry?
+2. Outline how the alkoxide ion is prepared for the Williamson ether
+synthesis using a chemical equation.
+6.3
+Aldehydes and Ketones
+At the end of this section, you will be able to:
+write the general structural formulas of aldehydes and ketones
+give the structures and names of common members of each group
+describe the physical properties of aldehydes and ketones
+explain some methods of preparation of aldehydes and ketones
+explain the chemical reactions of aldehydes and ketones such as addition,
+oxidation and reduction
+give some chemical tests that differentiate aldehydes from ketones.
+Activity 6.6
+Answer the following questions in groups then present your response to
+the whole class.
+1. What functional group form if one of the carbon in the C=C is
+replaced by an oxygen atom?
+2. What is the common type of reaction for alkenes?
+3. Which type of reaction do you expect for aldehydes and ketones?
+The functional group of an aldehyde is a carbonyl group (C=O) bonded to a hydrogen
+atom. In methanal (formaldehyde), the carbonyl group is bonded to two hydrogen
+atoms. In other aldehydes, it is bonded to one hydrogen atom and one carbon atom.
+The functional group of a ketone is a carbonyl group bonded to two carbon atoms.
+UNIT 6
+289
+CHEMISTRY GRADE 11
+O
+O
+C
+or RCHO
+C
+or
+RCOR' where R and R' may be
+R
+H
+R
+R'
+same or different.
+Aldehyde
+Ketone
+What are the simplest ketone and simplest aldehyde?
+6.3.1
+Nomenclature
+The IUPAC system of nomenclature for aldehydes and ketones follows the familiar
+pattern of selecting the longest chain of carbon atoms that contains the functional
+group as the parent alkane. Aldehydes are named by changing the suffix -e of the
+parent alkane to -al. The suffix "-al" indicates the functional group -CHO.
+Example 6.25
+O
+O
+H-C-H
+CH₃—CH
+CH₃-CH₂-C-H
+Methanal
+Ethanal
+Propanal
+Because the carbonyl group of an aldehyde can appear only at the end of a parent chain
+and numbering must start with that group as carbon-1, its position is unambiguous;
+there is no need to use a number to locate it.
+Example 6.26
+C₂H₅ O
+4
+H3C-CH2-CH2-CH-C-H
+3-Methylbutanal
+2-Ethylpentanal
+The functional group of a ketone is a carbonyl group bonded to two carbon atoms. The
+IUPAC names of ketones are obtained by using the suffix -one to replace the terminal
+-e in the corresponding alkane name. The suffix '-one' indicates the functional group
+-RCOR'.
+Example 6.27
+O
+O
+CH₃-C-CH₃
+CH₃-C-CH₂-CH₃
+Propanone
+Butanone
+290
+UNIT 6
+Aldehydes and Ketones
+Unlike aldehydes, the position of the functional group must be indicated in the name
+of higher ketones. To do so, the longest chain containing the functional group is chosen
+as a parent structure and then the carbon atoms of the chain are numbered starting
+from the end closer to the carbonyl group.
+Example 6.28
+H
+H
+1
+2
+3
+5
+CH₃
+C
+c
+C
+CH₃
+H
+H
+H
+H
+2-Pentanone or pentan-2-one
+3-Pentanone or pentan-3-one
+Give structures and name of ketones containing six (6) carbon atoms. Hint: consider
+isomeric forms including cyclic ones.
+6.3.2
+Physical Properties of Aldehydes and Ketones
+Oxygen is more electronegative than carbon; therefore, a carbon-oxygen double bond
+is polar, with oxygen bearing a partial negative charge and carbon bearing a partial
+positive charge:
+C
+Polarity of a carbonyl group
+Because of the polarity of the carbonyl group, aldehydes and ketones are polar
+compounds and interact in the liquid state by dipole-dipole interactions. As a result,
+aldehydes and ketones have higher boiling points than those of non-polar compounds
+with comparable molecular weight. For example, butanal and butanone both have a
+molecular mass (MM) of 72. The boiling point of butanal is 76 °C and of butanone
+is 80 °C, which is much higher than the boiling points of diethyl ether (MM) 74, 34
+°C and pentane (MM) 72, 36 °C.
+Because the carbonyl groups of aldehydes and ketones interact with water molecules
+by hydrogen bonding, low-molecular-weight aldehydes and ketones are more soluble
+in water than are non-polar compounds of comparable molecular weight. Table 6.2
+lists the boiling points and solubilities in water of several low-molecular-weight
+aldehydes and ketones.
+UNIT 6
+291
+CHEMISTRY GRADE 11
+Table 6.2: Physical properties of selected aldehydes and ketones
+Name
+Common Name
+Structural Formula Boiling
+Solubility
+Point (°C)
+(g/100 g water)
+Methanal
+Formaldehyde
+HCHO
+-21
+infinity
+Ethanal
+Acetaldehyde
+CH3CHO
+20
+infinity
+Propanal
+Propionaldehyde
+CH,CH2CHO
+49
+16
+Butanal
+Butyraldehyde
+CH₁CH₂CH₂CHO
+76
+7
+Hexanal
+Caproaldehyde
+CH₃(CH₂)₄CHO
+129
+slight
+Propanone
+Acetone
+CH3COCH3
+56
+infinity
+Methyl ethyl
+2-Butanone
+CH3COCH2CH3
+80
+26
+ketone
+3-pentanone
+Diethyl ketone
+CH₂CH₂COCH₂CH₃
+101
+5
+Project 6.2
+Form a group of five and write on the following topics by searching
+information from the internet or any other sources. For each case, give the
+general reaction and specific examples.
+i. Method of preparation of aldehydes and ketones. These may include:
+a. ozonolysis of alkenes
+b. oxidation of alcohols: oxidation of a primary alcohols using mild
+oxidizing agents oxidation of a secondary alcohol
+ii. Reactions of aldehydes and ketones. Here focus on addition, oxidation,
+and reduction reactions.
+a. Addition
+Addition of Grignard reagents to aldehydes and ketone
+Addition of alcohol: formation of hemiacetals and acetals
+b. Oxidation
+Oxidation of aldehydes and ketones
+c. Reduction
+Catalytic reduction of aldehydes and ketones
+Metal hydride reductions
+292
+UNIT 6
+Aldehydes and Ketones
+Exercise 6.6
+1. Which of the following statements is false? Give your reason.
+a.
+The carbonyl carbon in all aldehydes is bonded to a hydrogen and
+to an alkyl group.
+b. Ketones are more soluble in water than alcohols of comparable
+molecular weight.
+c.
+Any reaction that oxidizes an aldehyde to a carboxylic acid will
+also oxidize a ketone to a carboxylic acid.
+2. Draw a structural formula for the one ketone with molecular formula
+C₄H₈O and for the two aldehydes with molecular formula C₄H₈O.
+3. Draw structural formulas for these compounds:
+a.
+1-Chloro-2-propanone
+b. 3-Hydroxybutanal
+c.
+4-Hydroxy-4-methyl-2-pentanone
+4. Give the IUPAC name of the following compounds:
+O
+O
+a.
+b.
+H
+5. Formalin helps in the preservation of biological specimens. What is the
+main constituent of formalin?
+UNIT 6
+293
+CHEMISTRY GRADE 11
+6.4
+Carboxylic Acids
+At the end of this section, you will be able to:
+list common organic acids and name their sources
+write the general formula of saturated monocarboxylic acids
+write the molecular formulas and names of the first six members of the
+saturated monocarboxylic acids
+give the structural formula for the first four members of the saturated
+monocarboxylic acids
+give the examples of mono, di and tricarboxylic acids
+name some branched carboxylic acids]
+explain why "Tella" or "Tej" turns sour
+describe the physical and chemical properties of saturated
+monocarboxylic acids
+explain the general methods of preparation of saturated monocarboxylic
+acids
+explain the industrial and laboratory preparation of acetic acid
+conduct an experiment to prepare acetic acid in the laboratory
+name and write structural formulas of some fatty acids
+describe some uses of common carboxylic acids.
+6.4.1
+Structure and Nomenclature of Carboxylic Acids
+Activity 6.7
+Discuss the following questions in groups, then present your response to
+the whole class.
+1. What are acids?
+2. Name some common house-hold carboxylic acids.
+294
+UNIT 6
+Carboxylic Acids
+6.4.1.1
+Structure of Carboxylic Acids
+Carboxylic acid is one of the class of organic compounds containing the carbonyl
+functional group (C=0). A carboxyl group (COOH) is a functional group consisting
+of a carbonyl group (C=O) with a hydroxyl group (O-H) attached to the same carbon
+atom. It is usually written as -COOH or -CO₂H.
+Carboxyl group
+A.
+Saturated monocarboxylic acids
+The general formula for saturated monocarboxylic acids can be written as:
+O
+R-C-OH
+where R is either hydrogen or an alkyl group for aliphatic carboxylic acids. When R is
+phenyl (aryl) group, the structure represents aromatic carboxylic acids.
+Example 6.29
+1. The structure of the first three saturated monocarboxylic acids are
+written as follows:
+O
+a. H-C-OH
+Methanoic acid
+O
+b.
+CH₃-C-OH
+Ethanoic acid
+O
+c. CH₃-CH₂-C-OH
+Propanoic acid
+2. The simplest aromatic acid is benzoic acid.
+COOH
+Benzene carboxylic acid (Benzoic acid)
+UNIT 6
+295
+CHEMISTRY GRADE 11
+B.
+Di- and tricarboxylic acids
+Carboxylic acids containing two carboxyl groups in their structure are called
+dicarboxylic acids.
+Example 6.30
+1. The structure of the first three saturated dicarboxylic acids are shown below:
+O
+O
+a. Ho-c-c-oH
+Ethanedioic acid
+b. Ho-c-cH,-E-oH
+Propanedioic acid
+Butanedioic acid
+c.
+2. The simplest aromatic dicarboxylic acid occurs in three isomeric forms.
+One of these is phthalic acid; its structure and IUPAC name are shown
+below.
+COOH
+COOH
+1, 2- Benzenedicarboxylic acid (phthalic acid)
+Give the structures, IUPAC and common names of the other two isomers.
+Similarly, carboxylic acids that contain three carboxyl groups in their structure are
+called tricarboxylic acids. Example: citric acid is a typical tricarboxylic acid.
+Can you give the structure of citric acid?
+Activity 6.8
+Form a group and make a list of some fruits containing carboxylic acid.
+Which acid is commonly present in most fruits? Which carboxylic acid is
+present in wine fruits? Is this acid a monocarboxylic, a dicarboxylic or a
+tricarboxylic acid?
+Present your responses to the whole class.
+296
+UNIT 6
+Carboxylic Acids
+Exercise 6.7
+1. Write the structure of the following monocarboxylic acids:
+a. Butanoic acid
+b. Pentanoic acid
+2. Write the structure of the following dicarboxylic acids:
+a. Pentanedioic acid
+b. Hexanedioic acid
+c. 1,3-Benzenedicarboxylic acid
+3. A great many carboxylic acids are encountered in nature. List some of
+them and their respective sources.
+6.4.1.2
+Nomenclature of Carboxylic Acids
+i. Common names carboxylic acids
+A.
+Straight chain monocarboxylic acids
+A large number of carboxylic acids have widely used common names which need
+to be learned. The common names of some basic carboxylic acids are derived from
+Latin names that indicate the first original natural source of the carboxylic acid.
+Table 6.3 lists common names of some of the most important monocarboxylic acids.
+Table 6.3: Common names of some monocarboxylic acids.
+Structure of Acid
+Natural Source
+Common Name
+HCOOH
+Ants (Formica)
+Formic acid
+CH2COOH
+Vinegar (Acetum)
+Acetic acid
+CH₃CH₂COOH
+Basic Fat (Propio)
+Propionic acid
+CH,CH2CH,COOH
+Rancid butter (Butyrum)
+Butyric acid
+CH,CH2CH₂CH₂COOH
+Present in a Valerian herb
+Valeric acid
+CH,CH₂CH,CH₂CH₂COOH
+Goat (Caper)
+Caproic acid
+Note that the common name of carboxylic acids end with the suffix -ic acid.
+UNIT 6
+297
+CHEMISTRY GRADE 11
+B.
+Branched chain and substituted carboxylic acids
+In common naming system, the branched chain and substituted acids are named as
+derivatives of straight chain carboxylic acids. In this case, the position of the side
+chain or substituents is indicated by Greek letters, α, ß, Y, δ... for designating the 1ˢᵗ,
+2ⁿᵈ, 3ʳᵈ, position of carbon atoms as shown below:
+O
+δ
+γ
+ß
+α
+-C-C-C-C-C-OH
+5 4 3 2 1
+Example 6.31
+ß
+a
+Syßa
+a. CH₃-CH-COOH
+b. CH₃-CH-CH₂-CH-COOH
+Cl
+CH₃
+CH₃
+α-chloropropionic acid
+α,y-dimethyvaleric acid
+C. Dicarboxylic acids
+Dicarboxylic acids also possess common names which are based on their sources.
+Table 6.4 lists common and IUPAC names of some of the most important dicarboxylic
+acids.
+Table 6.4: Common and IUPAC names of some dicarboxylic acids.
+Structure
+Common Name
+IUPAC Name
+HOOC-COOH
+Oxalic acid
+Ethanedioic acid
+HOOC-CH,-COOH
+Malonic acid
+Propanedioic acid
+HOOC-(CH₂)₂-COOH
+Succinic acid
+Butanedioic acid
+HOOC-(CH₂)₂-COOH
+Glutaric acid
+Pentanedioic acid
+HOOC-(CH₂),-COOH
+Adipic acid
+Hexanedioic acid
+HOOC-(CH₂)₂-COOH
+Pimelic acid
+Heptanedioic acid
+298
+UNIT 6
+Carboxylic Acids
+D.
+Aromatic carboxylic acids
+Aromatic carboxylic acids are compounds which have a carboxyl group directly
+attached to an aromatic ring. The common name of the simplest aromatic
+carboxylic acid is benzoic acid.
+O
+Il
+c-oH
+Benzoic acid
+In common naming system, the position of the substituent is indicated by the prefixes
+ortho (o-), meta (m-), para (p-) as it is shown in the structure below.
+O
+Il
+C-OH
+ortho
+ortho
+meta
+meta
+para
+Example 6.32
+COOH
+COOH
+CH₃
+a.
+b.
+Cl
+CH₃
+m-chlorobenzoic acid
+o,p-dimethylbenzoic acid.
+UNIT 6
+299
+CHEMISTRY GRADE 11
+Exercise 6.8
+1. Write the common names for the following carboxylic acids:
+a. CH₂-CH-CH₂-CH-COOH
+b. HOOC-(CH₂)₂-CH₂-COOH
+Br
+CI
+2. Write the structures of carboxylic acids for the given common names:
+a. β-Bromobutyric acid
+b. p-bromobenzoic acid
+c. glutaric acid
+ii. IUPAC names of carboxylic acids
+A.
+Straight chain monocarboxylic acid
+In IPUAC system, monocarboxylic acids are named by replacing the terminal
+"-e" of the corresponding alkane name with "-oic acid." They are named as
+alkanoic acids.
+Example 6.33
+1. Write the IPUAC names for:
+a. H-COOH
+b. CH₃-CH₂-COOH
+c. CH₃-CH₂-CH₂ CH₂-COOH
+methanoic acid
+propanoic acid
+pentanoic acid
+2. Write the structure of the following carboxylic acids:
+a. Ethanoic acid
+b. Butanoic acid
+c. Hexanoic acid
+O
+O
+O
+a.
+CH₃-C-OH
+b.
+c.
+CH₃-CH₂-CH₂-CH₂-CH₂-C-OH
+B. Branched chain and substituted monocarboxylic acids
+The IUPAC name of a branched carboxylic acid is derived from that of the longest
+carbon chain that contains the carboxyl group. The positions of the substitutes are
+indicated by Arabic numerals as 1, 2, 3. The numbering of the chain starts from the
+carboxyl carbon and it is always assigned C-1 position. Note that C-2 position in
+the IUPAC system corresponds to the α-position in the common naming system.
+O
+δ
+γ
+a
+Common System
+-c-C-C-C-C-OH
+5
+4
+3
+2
+1
+IUPAC System
+Example 6.34
+a. CH₂-CH(CH,)CH₂-COOH b. CH₂-CH₂CH(Cl)-CH(CH,)-COOH
+3-methylbutanoic acid
+3-Chloro-2-methylpentanoic acid
+300
+UNIT 6
+Carboxylic Acids
+C.
+Dicarboxylic acids
+In the IUPAC system, dicarboxylic acids are named as alkanedioic acids. These
+names are obtained by replacing the suffix "-e" in the name of corresponding
+alkane by "-dioic acid". Table 6.4 above gives the common and IUPAC names
+of the first six dicarboxylic acids.
+Example 6.35
+HOOC-CH₂-CH,-COOH
+Butanedioic acid
+Write the structure of hexaneanedioic acid.
+D.
+Aromatic carboxylic acids
+IUPAC name of the simplest aromatic carboxylic acid is benzenecarboxylic acids.
+COOH
+Benzenecarboxylic acid
+Substituted aromatic acids with one carboxyl group are named as derivatives of
+benzenecarboxylic acids. The position of substituents is indicated using the Arabic
+numerals 2,3, etc according to their position on the benzene ring relative to the carboxyl
+group. The carbon on which the carboxyl group is attached is by convention C-1.
+COOH
+COOH
+1
+1
+6
+2
+6
+2
+or
+5
+3
+5
+3
+4
+4
+Example 6.36
+COOH
+1
+6
+2
+Br
+5
+3
+4
+2-bromobenzenecarboxylic acid
+UNIT 6
+301
+CHEMISTRY GRADE 11
+Exercise 6.9
+1. Write the IUPAC names for the following carboxylic acids:
+a. CH₃-CH-COOH
+b. CH₃-CH-CH₂-CH-COOH
+CH₂CH₃
+CH₂
+CH₃
+CH₃
+c. Cl-CH₂-CH₂-CH₂-COOH
+d. HO-CH₂-CH₂-CH₂-COOH
+COOH
+NH₂
+Cl
+e.
+f.
+CH₂CH₃
+COOH
+2. Draw the structures of the following carboxylic acids:
+a. 3-chloro-2,3-dimethylpentanoic acid
+b. 4-bromo-2-hydroxybenzoic acid
+c. p-Methylbenzoic acid
+d. 2-ethyl-3-methylpentanedioic acid
+6.4.2
+Physical Properties of Carboxylic Acids
+Activity 6.9
+Discuss the following questions in groups, then present your ideas to the
+whole class.
+1. The solubility of monocarboxylic acids in water decreases with
+increase in molecular mass. Explain.
+2. Higher members of monocarboxylic acids are almost odourless. Why?
+3. Compare the boiling points of monocarboxylic acids with alcohols,
+aldehydes and ketones of similar molar masses?
+1. State
+The lower aliphatic acids containing up to 9 carbon atoms are liquids, whereas
+the higher members are colourless waxy solids. Benzoic acid and most of its
+derivatives are also colourless solids.
+302
+UNIT 6
+Carboxylic Acids
+2. Odor
+The odors of the lower aliphatic acids progress from a sharp, irritating odor
+of methanoic acid and ethanoic acids to the distinctly unpleasant odor of the
+butanoic, pentanoic and hexanoic acids.
+3. Melting and Boiling Points
+The melting points and boiling points of carboxylic acids are higher than those
+of hydrocarbons and oxygen-containing organic compounds of comparable size
+and shape and indicate strong intermolecular attractive forces. Figure 6.6 gives
+boiling point comparison of carboxylic acid with alkene, ketone, and alcohol.
+What is the molecular mass of each compound shown in Figure 6.6?
+OH
+O
+O
+OH
+2-Methyl-1-butene
+2-Butanone
+2-Butanol
+Propanoic acid
+bp (1 atm):
+31 °C
+80 °C
+99 °C
+141 °C
+Figure 6.6: Boiling point comparison of carboxylic acid with alkene,
+ketone, and alcohol
+A unique hydrogen-bonding arrangement, shown in Figure 6.7, contributes to these
+attractive forces. The hydroxyl group of one carboxylic acid molecule acts as a proton
+donor toward the carbonyl oxygen of a second. In a reciprocal fashion, the hydroxyl
+proton of the second carboxyl function interacts with the carbonyl oxygen of the first.
+The result is that the two carboxylic acid molecules are held together by two hydrogen
+bonds.
+Hydrogen bonding
+18
+ost
+18
+H
+R
+C
+Carboxylic acid
+Carboxylic acid
+C
+R
+δ
+ost
+δ
+δ
+Hydrogen bonding
+Figure 6.7: Carboxylic acid dimer
+UNIT 6
+303
+CHEMISTRY GRADE 11
+4. Solubility
+In aqueous solution intermolecular association between carboxylic acid molecules is
+replaced by hydrogen bonding to water. The solubility properties of carboxylic acids
+are similar to those of alcohols. Carboxylic acids of four carbon atoms or fewer are
+miscible with water in all proportions. Figure 6.8 shows hydrogen bonding between
+carboxylic acids and water molecules.
+Water
+Hydrogen
+δ
+bonding
+O
+18
+ost
+ast
+H
+H
+ost
+H
+C
+18
+ast
+001
+Carboxylic acid
+R
+O
+H
+O
+Water
+R
+!ost
++
+18
+Carboxylic acid
+H
+O
+C
+Hydrogen
+8
+ost
+bonding
+O
+H
+Figure 6.8: Formation of hydrogen bonding between carboxylic acids and
+water molecules
+Does the solubility carboxylic acids in water decrease or increase with increasing
+molecular mass? Why? Do you predict that carboxylic acids will be soluble in organic
+solvents? Explain.
+The boiling points, melting points and solubilities of some carboxylic acids are
+given in Table 6.5.
+Table 6.5: Physical constants of some carboxylic acids
+Boiling point
+Solubility (g/100 mL)
+Structure
+IUPAC Name
+(°C)
+H2O at 25 °C
+HCOOH
+Methanoic acid
+100.5
+∞*
+8
+CH2COOH
+Ethanoic acid
+118
+00*
+CH,CH2COOH
+Propanoic acid
+141
+∞*
+CH₂(CH₂),COOH
+Butanoic acid
+164
+00*
+CH₁(CH₂),COOH
+Pentanoic acid
+187
+4.97
+CH₂(CH₂)₄COOH
+Hexanoic acid
+205
+1.08
+304
+UNIT 6
+Carboxylic Acids
+Boiling point
+Solubility (g/100 mL)
+Structure
+IUPAC Name
+(°C)
+H2O at 25 °C
+CH₁(CH₂),COOH
+Heptanoic acid
+223
+CH₂(CH₂)₆COOH
+Octanoic acid
+239
+0.07
+CH₂(CH₂),COOH
+Nonanoic acid
+253
+-
+CH₂(CH₂) COOH
+Decanoic acid
+269
+0.015
+∞* means miscible in all proportions.
+Exercise 6.10
+1. Arrange the following aliphatic carboxylic acids in the decreasing order
+of boiling point:
+a. butanoic acid
+c. octanoic acid
+b. decanoic acid d. propanoic acid
+2. Which of these aliphatic carboxylic acids has the lowest boiling point?
+a. pentanoic acid c. hexanoic acid
+b. methanoic acid d. propanoic acid
+3. Arrange the following compounds in increasing order of their boiling
+points:
+a. C₅H₁₂
+c. C₄H₁₁OH
+b. C2H,COOH
+d. CH₃(CH₂),COOH
+6.4.3
+Chemical Properties of Carboxylic Acids
+Activity 6.10
+Form a group, discuss the following questions and present your responses to
+the whole class.
+1. Why does 'Tella' or 'Tej' turn sour when kept for a longer time but not
+Katikalla?
+2. Why does beer have a longer shell life than 'Tella'?
+3. What is the practical use of metal salts of carboxylic acids in your daily life?
+UNIT 6
+305
+CHEMISTRY GRADE 11
+The carboxylic acids show reactions due to the alkyl or aryl group and the carboxyl
+group. The carboxyl group is further considered to be made up of a carbonyl and a
+hydroxyl group. All these groups modify the properties of each other due to their
+interaction. Some of the common reactions of carboxylic acids are:
+i. Reaction as an acid
+In aqueous solution, the cleavage of 0-H bond occurs leading to the formation
+of carboxylate ion and hydronium ion. Carboxylic acids ionize partially and an
+equilibrium exists between the ionized and un-ionized forms.
+O
+O
+R-C-O-H
+H2O
+H₃O⁺
++
++
+R-C-0
++
+Carboxylic acid
+Carboxylate ion
+Hydronium ion
+Carboxylic acids are weak acids and dissociates slightly. The following are examples
+of reactions of carboxylic acids as an acid.
+a. Reaction with metals: Carboxylic acids react with active metals such as Na, K, Mg,
+Ca, etc. to give metal carboxylate salts, RCO₂ M+, and hydrogen gas.
+O
+O
+2R-C-O-H + 2 Na
+2R-C-O Na+
++
+H₂
+Carboxylic
+Sodium
+Hydrogen
+acid
+carboxylate
+gas
+The salts of carboxylic acids are named by writing the name of the metal first,
+followed by the name of the acid replacing the ending -ic acid by -ate.
+For example, sodium reacts with ethanoic acid to form sodium ethanoate and
+hydrogen.
+2 CH₃-COOH
++
+2
+Na
+2 CH₃-COO + H₂
+b. Reaction with Bases: Carboxylic acids react with strong bases like sodium
+hydroxide or potassium hydroxide to form the corresponding metal carboxylate
+salts and water.
+O
+O
+R-C-OH
++ NaOH
+R-C-O Na+
++
+H2O
+Carboxylic acid
+Sodium carboxylate
+306
+UNIT 6
+Carboxylic Acids
+Reaction with a base is a simple neutralization reaction. Carboxylic acids react with
+weak bases like carbonates or bicarbonates to form salt, water and carbon dioxide.
+O
+O
+2R-C-OH + Na₂CO₃ 2R-C-O Na+ + H2O + CO₂
+Carboxylic acid
+Sodium carboxylate
+O
+O
+R-C-OH
++
+NaHCO₃
+R-C-O Na+ + H₂O + CO₂
+Carboxylic acid
+Sodium carboxylate
+They also react with ammonia to form ammonium salts of carboxylic acids.
+O
+R-C-OH + NH₃
+R
+R-C-O-NH+
+Carboxylic acid
+Ammonium carboxylate
+ii. Formation of Esters
+One of the important reactions of carboxylic acids involves the replacement of -OH
+group by an alkoxy group to form esters as products. In this reaction, carboxylic acids
+are heated with alcohols in the presence of concentrated sulphuric acid. The reaction
+is called esterification.
+R-C-O-R' O H₂O
+Ester
+Carboxylic acid
+Alcohol
+Exercise 6.11
+1. Write the chemical equations for the reaction between ethanoic acid
+and each of the following reagents and write the names of the products
+formed:
+a. KOH
+b. Na₂CO₃
+c. NH₃
+2. Write the chemical equations for the reaction between methanoic acid
+and ethanol and write the name of the product.
+UNIT 6
+307
+CHEMISTRY GRADE 11
+6.4.4
+Preparation of Carboxylic Acids
+One of the important methods for preparation of carboxylic acids is oxidation. Many
+saturated monocarboxylic acids are obtained by the oxidation of the corresponding
+primary alcohols, whereas aromatic acids are obtained from the corresponding
+alkylbenzenes.
+i. Oxidation of Primary Alcohols
+The primary alcohols are readily oxidized to the corresponding carboxylic acids by
+their reaction with common oxidizing agents like K₂Cr₂O₇ or KMnO₄.
+O
+R-CH₂-OH KMnO₄ R-C-OH
+1° Alcohol
+Carboxylic acid
+For example, oxidation of ethanol yields acetic acid (ethanoic acid).
+O
+KMnO₄
+CH₃-CH₂-OH
+CH₃-C-OH
+Ethanol
+Ethanoic acid
+ii. Oxidation of Alkylbenzenes
+Aromatic compounds containing alkyl group as substituent undergo oxidation to
+form aromatic acids. The reaction involves oxidation with KMnO₄ or K₂CrO₇ under
+vigorous conditions. The alkyl group is oxidized to carboxyl group irrespective of its
+size. For example, toluene and ethylbenzene, both give benzoic acid on refluxing with
+KMnO₄ in alkaline medium.
+308
+UNIT 6
+Carboxylic Acids
+Example 6.37
+O
+II
+CH₃
+C OH
+KMnO₄/⁻OH
+heat
+Toluene
+Benzoic acid
+Write the chemical equations for the oxidation of ethylbenzene with KMnO₄ in
+alkaline medium.
+iii. Preparation of acetic acid (Ethanoic acid)
+Acetic acid is one of the important carboxylic acids which is used as food preservative. It
+can be prepared in laboratory by the oxidation of ethanol with potassium permanganate.
+It can also be obtained by passing the vapours of ethanol through copper oxide as
+described in Experiment 6.3.
+Experiment 6.3
+Laboratory Preparation of Acetic Acid
+Objective: To prepare acetic acid in the laboratory by oxidation of ethanol.
+Apparatus: Goggles, test tubes, test tube rack, quickfit distillation apparatus,
+250 mL beaker, pipettes, Bunsen burner, stand, clamp, tripod, wire gauze, digital
+balance, blue litmus paper, boiling chips such as fine gravels, broken porcelain
+pieces, etc.
+Chemicals: Ethanol, sodium dichromate, 1M sulphuric acid, 0.5M sodium
+carbonate solution.
+Procedure:
+Oxidation of ethanol to ethanoic acid
+1. Set up the Quickfit distillation apparatus for refluxing as shown in
+Figure 6.9a.
+2. Place about 10 mL of 1M sulphuric acid into the 250 mL round-bottom
+flask.
+UNIT 6
+309
+CHEMISTRY GRADE 11
+3. Add 2-3 g of sodium dichromate (Na₂Cr₂O₂) and a few pieces of boiling
+chips. Swirl the contents of the flask until the solution is complete (warm
+if necessary).
+4. Cool the mixture under a running tap since the process is exothermic.
+5. Add 1 mL of ethanol dropwise into the flask.
+6. Boil under reflux (Figure 6.9 a) for 20 minutes
+7. Arrange the distillation set up as shown in (Figure 6.9 b) and distil up to
+2-3 mL
+8. Notice the smell of the product (distilled liquid) and compare it with that
+of ethanol.
+9. Add a few drops of the distilled liquid to a small amount of solid sodium
+carbonate.
+10. Add a drop of the distilled liquid to moistened blue litmus paper.
+Water outlet
+Condenser
+Water inlet
+Round bottom flask
+Reactants
+Heating
+Mantle
+Heat
+RPM
+Figure 6.9a: Reflux set-up
+Observation and analysis
+1. What happened to the colour of the solution in the flask?
+2. What is the role of sodium dichromate in the above reaction? Is it oxidized
+or reduced?
+3. Write the chemical equation for this reaction.
+4. What do you conclude from this experiment?
+310
+UNIT 6
+Carboxylic Acids
+Thermometer
+Water outlet
+Stand
+Clamp
+Condenser
+Water inlet
+Wire gauze
+Receiver
+Acetic acid
+Bensen burner
+Figure 6.9b: Laboratory set-up for distillation of acetic acid
+Large quantities of acetic acid are obtained in industry from fermentation of ethanol.
+The process is known as Quick Vinegar Fermentation Process. In the process large
+wooden vats (Figure 6.10) are used which have a perforated bottom. They are packed
+with wood shavings moistened with old vinegar. Ethanol solution is poured from the
+top and trickles down slowly to the perforated bottom. From the lower portion, air
+is pumped in the vat. The bacteria present in old vinegar, ferment the ethanol into
+acetic acid. The liquor obtained at the bottom is recirculated through the tower. The
+maximum concentration of acetic acid obtained by this process is about 10%, which
+can be fractionated to yield glacial acetic acid (anhydrous acetic acid).
+UNIT 6
+311
+CHEMISTRY GRADE 11
+Air outlet
+Ethanol
+Wood shavings
+Air inlet
+Perforated
+bottom
+Pump
+Vinegar
+Figure 6.10: Industrial preparation of acetic acid
+6.4.5
+Fatty Acids
+Activity 6.11
+Discuss the following questions in groups and present your answer to the class.
+You have learned about the six foodstaffs in your lower grade biology lesson.
+Which one of these foodstaffs produces fatty acid during digestion? Why
+are they named fatty acids?
+Fatty acids are carboxylic acids with long hydrocarbon chains. The fatty acids most
+frequently found in nature are shown in Table 6.6. Most naturally occurring fatty
+acids contain an even number of carbon atoms and are unbranched. Fatty acids can
+be classified as saturated or unsaturated.
+What is the main difference between saturated and unsaturated compounds?
+312
+UNIT 6
+Carboxylic Acids
+Double bonds in naturally occurring unsaturated fatty acids are never conjugated.
+How many methylene (-CH₂-) group(s) usually separates the double bonds in
+unsaturated fatty acids (See Table 6.6).
+Table 6.6: Some common naturally occurring fatty acids
+Number
+Melting
+Common Name
+Structure /Formula
+Point
+of carbons
+(°C)
+Saturated
+12
+Lauric acid
+CH₂(CH₂)₁₀COOH
+44
+14
+Myristic acid
+CH₃(CH₂)₁₂COOH
+58
+16
+Palmitic acid
+CH₂(CH₂)₁₄COOH
+63
+18
+Stearic acid
+CH₂(CH₂)₁₆COOH
+69
+Arachidic
+20
+CH₃(CH₂)₁₈COOH
+77
+acid
+Unsaturated
+Palmitoleic
+16
+CH₂(CH₂)sCH=CH(CH₂),COOH
+0
+acid
+18
+Oleic acid
+CH,(CH₂)₂CH=CH(CH₂),COOH
+13
+18
+Linoleic acid
+CH₂(CH₂)₂CH=CHCH₂CH=CH(CH,),COOH
+-5
+Linolen-ic
+CH,CH₂CH=CHCH,CH=CHCH₂
+18
+-11
+acid
+CH=CH(CH₂), COOH
+The physical properties of a fatty acid depend on the length of the hydrocarbon chain
+and the degree of unsaturation. The melting points of saturated fatty acids increase
+with increasing molecular weight because of increased van der Waals interactions
+between the molecules.
+Why do unsaturated fatty acids have lower melting points than saturated fatty acids
+with comparable molecular weights?
+UNIT 6
+313
+CHEMISTRY GRADE 11
+The melting points of the unsaturated fatty acids decrease as the number of double
+bonds increases. For example, an 18-carbon fatty acid melts at 69 °C if it is saturated,
+at 13 °C if it has one double bond, at -5 °C if it has two double bonds, and at 11 °C
+if it has three double bonds (Table 6.6).
+6.4.6
+Uses of Carboxylic Acids
+Acetic acid is used as a solvent and as a starting material in the preparation of acetates,
+acetic anhydride, etc. It is also used to prepare the vinyl acetate polymer which is
+used in paints and adhesives. Vinegar contains about 8-10% acetic acid which is
+used in many food items. Perhaps one of the most important industrial applications
+of long chain carboxylic acid is for making soaps, detergents, and shampoos.
+Can you suggest some more examples of the use of carboxylic acids in daily life?
+Exercise 6.12
+1. Explain the difference in the melting points of the following fatty acids:
+a. palmitic acid and stearic acid
+b. palmitic acid and palmitoleic acid
+c. oleic acid and linoleic acid
+2. What are omega fatty acids? Give some examples of omega fatty acids.
+3. What is the difference between omega-3-fatty acids and omega-6-fatty
+acids?
+4. List some essential fatty acids. Why are they called 'essential?
+Project 6.3
+Form a group of five and share information on some carboxylic derivatives
+(anhydrides, amides, and acid chloride), then submit a written word and PDF
+documents to your teacher. In your write-up, put the following key points into
+consideration:
+structures and naming (both IUPAC and common systems) of
+anhydrides, amides, and acid chloride
+physical properties of anhydrides, amides, and acid chloride
+common reactions and methods of preparations.
+314
+UNIT 6
+Esters
+6.5
+Esters
+By the end of this section, you will be able to:
+list common sources of esters
+write the general structural formula of esters
+write the molecular formulas and names of some simple esters
+describe physical properties of esters
+explain the chemical properties of esters
+explain the general methods of preparation of esters
+describe some uses of common esters.
+6.5.1
+Sources of Esters
+Why do some fruits and flowers give out a pleasant smell?
+Esters are among the most widely occurring compounds in nature. Many esters are
+pleasant smelling substances and are responsible for the flavor and fragrance of many
+fruits: for example, apples, pears, bananas, pineapples, strawberries, etc. Oils, fats
+and waxes of plants or animal origin are all esters. Many esters are found in flowers
+and form the part of essential oils obtained from flowers.
+6.5.2
+Nomenclature
+Esters are derivatives of carboxylic acids in which the hydroxyl group (-OH) of a
+carboxylic acid is replaced by an alkoxy group (-OR). Esters can be formed by the
+reaction between acids and alcohols or phenols. In such cases, the hydroxyl group is
+replaced by an alkoxy group.
+Esters have the general formula RCO2R' (or RCOOR'), which can be represented by
+the general formula:
+O
+R-C-O-R' or RCO₂R' or RCOOR'
+Where R = hydrogen, alkyl or an aryl group and R' = alkyl or an aryl group.
+UNIT 6
+315
+CHEMISTRY GRADE 11
+Esters are named by the common system and IUPAC system. In both the cases, the name
+consists of two parts. The first part is named using the part from alcohol. The second
+part of the name is based on the acid. Therefore, we have to identify the parts coming from
+the alcohol and the carboxylic acid. The reaction below shows the part coming from the
+alcohol is attached to the oxygen as an alkyl group, and the acid part is attached to the
+oxygen through the carbonyl group.
+O
+H+
+R-C-O-H
++
+H-O-R'
+R-C-O-R'
++
+H2O
+Alcohol
+Acid
+Alcohol
+Carboxylic acid
+portion
+Portion
+The names of esters are derived from the names of the alcohol (with the ending -yl)
+and the acid (with the ending -ate or -oate). While writing their names the part of
+the name derived from the alcohol comes first. When we use the common name of
+carboxylic acid, the name of the ester is a common name, and when the IUPAC name
+of the acid is used, we get the IUPAC name for the ester. See the ester formed from
+ethyl alcohol and ethanoic acid:
+O
+O
+H+
+CH₃-C-O-H
++
+H-O-CH2-CH₃
+CH₃-C-O-CH₂-CH₃
++
+H₂O
+Ethanoic acid
+Ethyl alcohol
+Ethyl Ethanoate
+(Acetic acid)
+(Ethyl acetate)
+The common name for this ester is ethyl acetate, and the IUPAC name is ethyl ethanoate. The
+formulas and names of some esters are listed in Table 6.7.
+Table 6.7: Names and formulas of some common esters
+Molecular
+Structure/Formula
+Common Name
+IUPAC Name
+Formula
+C2O2H4
+HCOOCH3
+Methyl formate
+Methyl methanoate
+C₃O₂H₆
+CH2COOCH3
+Methyl acetate
+Methyl ethanoate
+C₃O₂H₆
+HCOOCH2CH3
+Ethyl formate
+Ethyl methanoate
+C₄O₂H₈
+CH2COOCH2CH3
+Ethyl acetate
+Ethyl ethanoate
+C₄O₂H₈
+HCOOCH2CH2CH3
+Propyl formate
+Propyl methanoate
+C₅O₂H₁₀
+CH,COOCH,CH,CH₃
+Propyl acetate
+Propyl ethanoate
+Note that in the given Table 6.7 molecular formulas can represent more than one
+structure. For example, methyl ethanoate and ethyl methanoate have the same molecular
+316
+UNIT 6
+Esters
+formula, C₃O₂H₆. Similarly, ethyl ethanoate and propyl methaoate have the same molecular
+formula (C O₂H₈).
+Exercise 6.13
+1. Name the following esters.
+O
+a.
+c.
+C
+O
+CH₃
+b. CH₃-C-0
+d.
+2. Identify the acid and alcohol (or phenol) portions of carboxylic esters
+give in question 1.
+3. Write the structure of the following esters:
+a. Isopropyl methanoate b. Ethyl propanoate
+6.5.3
+Physical Properties
+Activity 6.12
+Form a group and discuss the following questions. After the discussion,
+share your ideas with the rest of the class.
+Which one of the following compounds do you expect to have the highest
+boiling point? Why?
+O
+a.
+CH₃-CH₂-C-OH
+b. CH₃CH₂-O-CH₂CH₃
+c. H-C-O-CH2-CH₃ O
+i. Boiling points
+The boiling points of esters increase with increasing molecular mass. Branched-
+chain esters have lower boiling points than their straight-chain isomers. Esters have
+lower boiling points than compounds of comparable molecular mass that are capable
+of forming hydrogen bonds such as carboxylic acids and alcohols. Ester molecules
+cannot form hydrogen bonds with each other.
+UNIT 6
+317
+CHEMISTRY GRADE 11
+ii. Solubility
+Esters of low molecular mass are fairly soluble in water. Esters have about the same
+solubility in water with that of the same molecular mass carboxylic acids. Because
+carboxylic esters can form hydrogen bonding with water Figure 6.11, the solubility
+of esters in water decreases as their molecular mass increase. All esters are soluble in
+organic solvents.
+δ
++ δ
+O
+δ
+R
+O
+H
+H
+δ
+C
+δ-
+C
+δ+
+O
+O
+R'
+R
+δ
+H
+δ
+H8+
+R'
+Figure 6.11: Hydrogen bonding between water and ester molecules
+iii. Odor
+In sharp contrast to the disagreeable odors of carboxylic acids, esters have pleasant
+odors. Many of the odors of fruits and flowers result from mixtures of carboxylic
+esters, and many of them are used in perfumes and food flavorings.
+6.5.4
+Chemical Properties
+Activity 6.13
+Form a group and discuss the following questions. After the discussion,
+share your ideas with the rest of the class.
+1. What would happen when esters are treated with water?
+2. Recall the reactants that form esters. What was the by-product of the
+reaction?
+i. Hydrolysis
+The most important reaction of carboxylic esters is their hydrolysis, which may
+be catalyzed by either mineral acids or bases. The reaction yields the corresponding
+carboxylic acid and alcohol of the ester.
+The general reaction for acid-catalyzed hydrolysis of esters can be written as:
+O
+O
+H₃O⁺
+R-C-O-R' + H₂O
+R-C-O-H + R'-OH
+318
+UNIT 6
+Esters
+Example 6. 38
+O
+O
+H₃O⁺
+CH₃-CH₂-CH₂-C-O-CH₂-CH₃ + H2O
+CH₃-CH₂-CH₂-C-OH + CH₃-CH₂-OH
+For synthetic purposes, base catalysis is often preferred because the reaction is not
+reversible. Base-catalyzed ester hydrolysis is called saponification.
+The general reaction for base-catalyzed hydrolysis of esters can be written as:
+O
+O
+R-C-O-R' + NaOH
+R-C-ONa+ + R'-OH
+Example 6.39
+O
+CH₃-C-O-CH₂-CH₃ + NaOH
+CH₃-C-O Na+ + CH₃-CH₂-OH
+In biological systems, many ester hydrolysis reactions take place, for example, in the
+digestion of fats. These reactions occur under very mild conditions, and in the presence of
+certain biological catalysts known as enzymes.
+ii. Reduction
+Esters are reduced to primary alcohols by special reducing agents like lithium aluminum
+hydride, LiAlH4. The general reaction for reduction of esters is given by:
+O
+1. LiAlH₄
+R-C-O-R'
+R-CH₂-O-H + R'-OH
+2. H⁺
+Example 6.40
+1.
+LiAlH4
+CH₃-CH₂-CH₂-CH₂-CH₂-OH + CH₃-OH
+2.H⁺
+UNIT 6
+319
+CHEMISTRY GRADE 11
+6.5.5
+Preparation of Esters
+Esters can be synthesized by heating a mixture of a carboxylic acid and an alcohol in the
+presence of an acid (usually H2SO₄) as catalyst. This reaction is called esterification and
+is a common method for the preparation of esters. In esterification, the -OH group from
+the carboxylic acid and the -H from the alcohol are removed and combine to form
+water molecule.
+O
+O
+H+
+H-O-CH₃
+H₃C
+C
+O
+CH₃ +
+H₂O
+H₃C
+C
+O
+H
++
+Ethanoic acid
+Methanol
+Methyl ethanoate
+In this condensation reaction, the hydroxyl group (-OH) from the acid and a hydrogen
+atom (-H) from the alcohol are eliminated in the form of water. In the same way, write the
+equation showing the preparation of acetylsalicylic acid, commonly known as aspirin
+from the salicylic acid and acetic acid.
+Exercise 6.14
+1. Write the reactions for the preparation of each of the following esters using
+appropriate acids and alcohols:
+a. ethyl acetate b. ethyl butanoate c. methyl benzoate d. phenyl ethanoate
+2. The esters formed from butyric acid are pleasant-smelling compounds
+found in fruits and used in perfumes. Draw the structural formula for
+the ester formed from the reaction of butyric acid with 2-propanol.
+6.5.6
+Uses of Esters
+Most simple esters are pleasant-smelling substances. They are responsible for the
+flavors and fragrances of most fruits. They are used in the manufacture of perfumes
+and as flavoring agents in the confectionery (cakes, candies, and ice cream) and soft-
+drink industries.
+Esters of low molecular mass are non-toxic liquids and thus used as solvents. Esters
+are used as solvents for oils and fats, nail polishes, varnishes, paints, gums and resins;
+medicine (e.g. Aspirin); clothing, e.g. polyesters (Dacron); fragrance in perfumes;
+and plasticizers (e.g. octyl phthalate). Some common esters which are responsible for
+many pleasant fragrances in nature are presented in Table 6.8.
+320
+UNIT 6
+Fats and Oils
+Table 6.8: Esters naturally available in fruits and responsible for their pleasant
+fragrances
+Fruit
+Formula
+Ester present
+Apple
+C₄H₉COOC₅H₁₁
+Isoamyl isovalerate
+Pineapple
+C₃H₂COOC₂H₅
+Ethyl butyrate
+Banana
+CH₃COOC₅H₁₁
+Isopentyl acetate
+Orange
+CH₃COOC₈H₁₇
+Octyl acetate
+Grape
+C H₂(NH₂)(COOCH₂)
+Methyl anthranilate
+Pear
+CH₂CO₂(CH₂),CH(CH₂)₂
+Isopentyl acetate
+6.6
+Fats and Oils
+By the end of this section, you will be able to:
+define fats and oils
+write the general structural formula for fats and oils
+write the structures of some common triglycerides
+describe physical properties of fats and oils
+explain hardening of oils (process of converting oils to hard fats)
+explain rancidity.
+6.6.1
+Source of Fats and Oils
+Activity 6.14
+Perform the following activity in groups, then present your conclusion to
+the whole class.
+Collect samples of butter, lard, tallow, peanut oil, soybean oil and olive oil.
+Classify them to as vegetable or animal origin based on their physical state.
+Do you find any relation between the origin and the physical state?
+UNIT 6
+321
+CHEMISTRY GRADE 11
+Fats and oils are esters. They are triesters of glycerol which are collectivity known as
+triglycerides or triacylglycerols. Glycerol contains three alcohol groups and therefore
+can form three ester groups. Fats and oils are widely found in nature especially in
+living things. They have long hydrocarbon tails which are derived from carboxylic
+acids, which make them hydrophobic. A triglyceride is called a fat if it is a solid or
+semi-solid at room temperature; it is called an oil if it is a liquid at that temperature.
+Triglycerides obtained from animals are usually solids, while those of plant origin
+are generally oils. Therefore, we commonly say animal fats and vegetable oils. Note
+that edible vegetable oils are entirely different from mineral oils such as petroleum.
+Mineral oils are long chain alkanes.
+6.6.2
+Structure of Fats and Oils
+Fats and oils are triesters. Variation in the structure of fats and oils occur in the fatty
+acid portion of the triglyceride (or triacylglycerol)
+Fats and oils are represented by the following general structural formula:
+CH₂
+O
+C
+R₁
+CH2-OH
+II
+CH-OH
+8-2-0-80
+CH
+O
+C
+R₂
+O
+II
+CH₂-OH
+$8-2-0-980
+CH₂
+O
+C
+R₃
+A triglyceride (triacylglycerol)
+Glycerol
+Where R1, R₂ and R₃ may be the same or different hydrocarbon groups.
+Fats are esters of glycerol and mostly saturated fatty acids, whereas oils are liquid
+esters primarily derived from unsaturated fatty acids and glycerol. The acid part of fats
+and oils almost always contain on even number of carbon atoms.
+The structures of some common triglycerides are shown below:
+O
+CH₂
+O
+C
+(CH₂)₁₆CH₃
+CH₂
+O
+C
+C₁₇H₃₃
+O
+CH
+O
+C
+(CH₂)₁₆CH₃
+CH
+O
+C
+C₁₇H₃₃
+O
+CH₂
+O
+C
+(CH₂)₁₆CH₃
+CH₂
+O
+C
+C₁₇H₃₃
+Glyceryl tristearate (stearin) fat
+Glyceryl trioleate (olein) oil
+322
+UNIT 6
+Fats and Oils
+Exercise 6.15
+1. Write the structure of the following compounds
+a. Glyceryl trimyristate
+b. Glyceryl palmitooleostreate
+2. Calculate oxidation numbers of the various carbon atoms in both fats
+and oils and use oxidation number as an indicator of energy content;
+the lower the oxidation number the higher the energy content of the
+substance. Reference could also be made to the type of hybridization of
+the carbon atoms.
+6.6.3
+Physical Properties of Fats and Oils
+Activity 6.15
+From a group and compare vegetable oils with mineral oils.
+1. Do they behave in a similar fashion? Explain.
+2. Present your responses to the whole class.
+Fats and oils have common physical properties, including they are greasy to the touch,
+and have lubricating properties; they are not readily volatile; and may be burned without
+leaving any residue, that is, ash.
+Fats like butter, lard and tallow are solids at room temperature. On the other hand, oils
+which are mainly obtained from plants, e.g., corn oil, peanut oil, cotton seed oil, olive oil and
+soybeanoi are liquids at room temperature. All oils and fats are colorless, odorless and
+neutral substances in their pure form. They are lighter than water and immiscible with it.
+They are soluble in organic solvents e.g. benzene, ether and chloroform etc.
+UNIT 6
+323
+CHEMISTRY GRADE 11
+6.6.4
+Hardening of Oils
+Activity 6.16
+Form a group and classify the following fatty acids as saturated or
+unsaturated fatty acids.
+-Myristic acid
+- Oleic acid
+-Linolic acid
+- Lauric acid
+-Palmitic acid
+- Linolenic acid and
+-Stearic acid.
+Can you suggest a method of converting unsaturated fatty acids to
+saturated fatty acids? Present your findings to the whole class.
+Oils can be converted to fats by addition of hydrogen (hydrogenation) at high pressure
+in the presence of nickel or palladium as a catalyst. The process of converting oils
+to hard fats is known as hardening of oils. This reaction is used in the preparation of
+margarine. Hydrogenation of vegetable oils results in the formation of solid fat (eg.
+Sheno Lega) which is not different in composition from animal fat.
+Example 6.41
+A glyceryl tristearate (found in animal fat) can be prepared by hydrogenation
+of glyoryl trioleate (oil found in olive oil and whole oil) is shown in the
+equation below:
+O
+O
+CH₂0-ε-(CH₂)-CH=CH-(CH₂)7-CH3;
+CH₂·O-E-(CH₂)₁₆-CH₃
+Heat
+CH-O-E-(CH2)₁₆-CH₃
+CH₂·O-C-(CH₂)₁₆-CH₃
+O
+Glyceryl trioleate
+Glyceryl tristearate
+Exercise 6.16
+Write the equation for the hydrogenation of:
+a. Glyceryl trilinoleate, and
+b. Glyceryl tripalmitoleate
+324
+UNIT 6
+Fats and Oils
+The various carbon atoms in fats and oils have different oxidation numbers, which
+are used as indicators of their energy contents. The lower the oxidation number the
+higher the energy content of the substance. In oils double bonded carbon atoms have
+sp² hybridization, while in fats all carbon atoms in the hydrocarbon tails have sp³
+hybridization.
+Vegetable oils differ from animal fats in possessing a higher degree of unsaturation,
+but could have double bonds. The number of fats also contain sites of unsaturation like
+vegetable oils. Unsaturation in fat tends to lower its melting point and thus tends to
+make it a liquid at room temperature.
+Saturated fat is found in many foods including:
+Animal foods (like beef, chicken, lamb, pork, and veal)
+Coconut, palm, and palm kernel oils
+Dairy products (like butter, cheese, and whole milk) and lard.
+Unsaturated fats are found in two main types: mono or polyunsaturated fats (oils):
+Monounsaturated fat, which can be found in avocados, nuts and seeds (like
+cashews, pecans, almonds, and peanuts), vegetable oils (like canola, olive,
+peanut, safflower, sesame, and sunflower).
+Polyunsaturated fat, which can be found in fatty fish (like herring, mackerel,
+salmon, trout and smelt), fish oils, nuts and seeds (like cashews, pecans,
+almonds and peanuts), vegetable oils (like canola, corn, flaxseed, soybean and
+sunflower).
+6.6.5
+Rancidity
+Activity 6.17
+Perform the following activity in groups, then present your findings to the
+whole class.
+Obtain two packets of fried potato chips from the market. Open one packet
+and smell it. Now place half the contents in a close tight container and other
+half in an open container. Let the second packet be kept as such. After 15
+days, smell the chips kept in the open container, closed container and sealed
+packet. Record your observations and find out what is the best method to keep
+such items.
+UNIT 6
+325
+CHEMISTRY GRADE 11
+Fats and oils are quite reactive substances. When stored for any considerable length of
+time, especially when the temperature is high and the air has free access to them, they
+deteriorate and spoil. Among the various fats, spoilage takes the form of rancidity.
+Fats and oils develop an unpleasant odor due to rancidity. It is caused mainly due to
+the hydrolysis of ester linkage and oxidation across the double bonds. In this respect,
+different fats differ markedly. Some spoil very much more rapidly than others. The
+fat acquires a peculiarly disagreeable odor and flavor.
+The rancidity of a given fat is not necessarily the result of long storage under
+unfavorable conditions. The fat may have been spoiled and rancid from the moment
+of its production. This will inevitably be true when the materials from which it was
+produced have undergone decomposition. In other words, to obtain a sound and sweet
+fat, the raw material must be sound and sweet; it must be processed speedily before
+it gets time to decompose; and this must be done under clean and sanitary conditions.
+The fat obtained must be stored under favorable conditions and its consumption
+should not be delayed.
+326
+UNIT 6
+Fats and Oils
+Unit Summary
+Alcohols are compounds containing the hydroxyl (-OH) group as their functional
+group and represented by the general formula CH₂ₙ⁺₁OH.
+Alcohols are classified depending on the number of hydroxyl groups they contain
+as monohydric, dihydric and trihydric alcohols.
+The names of alcohols contain the suffix '-ol' which indicates the presence of
+-OH group in the molecule.
+Primary alcohols oxidize to give aldehydes and then carboxylic acids, and
+secondary alcohols yield ketones on oxidation.
+The functional group of ether is an atom of oxygen bonded to two carbon atoms.
+Ethers are used as solvents and in medicine as inhalation anesthetics.
+Ethers are weakly polar compounds. Their boiling points are close to those of
+hydrocarbons with comparable molecular weight.
+An aldehyde contains a carbonyl group bonded to a hydrogen atom and a carbon
+atom, whereas, a ketone contains a carbonyl group bonded to two carbons.
+Aldehydes and ketones have higher boiling points and are more soluble in water
+than non-polar compounds of comparable molecular weight.
+Carboxylic acids are compounds with a -COOH functional group.
+Because of the -COOH functional group, carboxylic acids are polar compounds
+and can form hydrogen bonding with water and among themselves.
+Esters are mildly polar compounds that are widely distributed in nature.
+Fats are saturated fatty acids, whereas oils are unsaturated fatty acids.
+The process of converting oils into hard fats is known as hardening of oils.
+UNIT 6
+327
+CHEMISTRY GRADE 11
+CHECKLIST
+KEY TERMS
+Addition reaction
+Fermentation
+Alcohol
+Hardening of oils
+Aldehyde
+Hydrogenation
+Carboxyl group
+Ketone
+Carboxylic acid
+&
+Lipid
+Ester
+&
+Oil
+Esterification
+&
+Ozonolysis
+Ether
+Rancidity
+Fat
+Substitution reaction
+Triglycerides
+328 UNIT 6
+Fats and Oils
+REVIEW EXERCISE
+Part I: Multiple choice Type Questions
+1.
+Which one is the least soluble in water?
+a. methanol
+c. hexane
+b. butanal
+d. hexanedioic acid
+2.
+Which of the following compounds is ether?
+a. CH₁CH₂COOCH₃
+c. CH1CH2CH2CHO
+b. CH₂CH₂CH₂COOH
+d. CH₂CH₂OCH₃
+3.
+The compounds CH3OH and CH2COOH react in the presence of an acid catalyst
+to form:
+a. a carboxylic acid b. an aldehyde c. a ketone d. an ester
+4.
+Alcohols that yield ketones on oxidation are classified as:
+a. primary alcohols
+c. dihydric alcohols
+b. secondary alcohols
+d. trihydric alcohols
+5.
+What is the product of the reduction of 3-methyl-2-pentanone?
+a. 3-methyl-2-pentanol
+c. 3-methyl-2-pentanal
+b. 2-methyl-3-pentanol
+d. 3-methyl-2-pentene
+6.
+Acetic acid is manufactured by the fermentation of:
+a.
+ethanol
+b. methanol
+c. ethanal
+d. methanal
+7.
+Fats and oils are:
+a. acids
+b. alcohols
+c. esters
+d. hydrocarbons
+8.
+Which pair of compounds can react to form a hemiacetal?
+a. CH,CH2CHO and CH3CH2OH
+b. CH3COCH3 and CH,CH2CHO
+b. CH,CH2CHO and CH2COOH
+d. CH3COCH3 and CH2COOH
+Part II: Answer the following questions:
+9.
+Why is there a large difference in the boiling points of butanal and 1-butanol?
+10. Write a test to differentiate between 2-pentanone and pentanal.
+11. Why are carboxylic acids more acidic than alcohols or phenols although all of
+them have hydrogen atom attached to an oxygen atom (-O-H)?
+12. Draw the structural formula for the ester formed when each of the following
+reacts with methyl alcohol:
+a. Acetic acid b. Benzoic acid c. Formic acid d. Propionic acid
+UNIT 6
+329
+CHEMISTRY GRADE 11
+13. Give the IUPAC and common names, if any, for each of the following:
+O
+a. H-C-O-CH₃
+O
+h.CHj-CH₂-0-0-CH₂-CH₂-CH,
+c.
+CH₃-CH₂-C-O-CH₂-CH₃
+d.
+14. Draw the structural formula for each of the following reactions:
+O
+CH₃
+H+
+a. CH₃-CH₂-CH₂-CH₂-C-OH + OH-CH-CH₂-CH₃
+Heat
+O
+C-OH
+H⁺
+b.
++ HO-CH₂-CH₂-CH₂-CH₃
+Heat
+c. + H₂O H₃O⁺
+d. O + NaOH
+H₃O⁺
+e. + H₂O
+15. Identify each of the following as a saturated, monounsaturated, polyunsaturated:
+O
+a. CH₃-(CH₂)₁-CH=CH-(CH₂)₁⁻C-OH
+O
+O
+c. CH₃⁻(CH₂)₁₄⁻C⁻OH
+330 UNIT 6

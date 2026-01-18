@@ -1,0 +1,1360 @@
+Unit Outcomes
+By the end of this unit, you will be able to:
+Know minor and cofactor of a matrix.
+Evaluate determinant of a matrix.
+Understand properties of a determinant.
+Apply principles of determinants to compute inverse of a matrix.
+Use Cramer's rule to solve system of linear equations.
+Apply determinant concepts to solve real-world situations.
+207
+Unit 4: Determinants and their Properties
+Unit Contents
+4.1 Determinants of Matrices of Order 2
+4.2 Minors and Cofactors of Elements of Matrices
+4.3 Determinants of Matrices of Order 3
+4.4 Properties of Determinants
+4.5 Inverse of a Square Matrix of Order 2 and 3
+4.6 Solutions of Systems of Linear Equations Using Cramer's Rule
+4.7 Applications
+Summary
+Review Exercise
+Adjoint
+cofactor
+KEY
+Words
+cramer's rule
+determinant
+inverse
+minor
+Introduction
+Every square matrix can be associated with a number called its determinant.
+Determinants occur in many mathematical topics. The coefficients in system of linear
+equations are often represented by matrices and the determinant can be used to solve
+systems of linear equations, if the coefficient matrix is an invertible matrix.
+In this unit, determinant of a matrix; basic properties of determinant will be discussed
+and some applications of determinants in solving systems of linear equations will
+also be given.
+I
+208
+Unit 4: Determinants and their Properties
+4.1 Determinants of Matrices of Order 2
+Activity 4.1
+Consider the square matrix A=(a b)o of order 2. Suppose ad - bc # 0. Then
+a. show that A is invertible and find A⁻¹.
+b. solve the following system of linear equations:
+ax + by = e
+cx + dy = f
+From Activity 4.1, you have found that
+a. A is invertible and its inverse is given by -b) and
+b. The solution set of the given system is
+In both cases, the number ad - bc is involved and ad - bc is called the determinant
+of A.
+The determinant of a square matrix of order 2 is defined as follows.
+Definition 4.1
+Let A (a2) be a square matrix of order 2. The determinant of A, denoted
+by det(A) or |A|, is the number defined by
+Example 1
+Find the determinant of A = (3 3 1 2). 2
+Solution
+Using the definition, det(A) = 1(4) - 2(3) = 4 - 6 = 2
+209
+Unit 4: Determinants and their Properties
+Example 2
+Let If (A)=0, then find x.
+Solution
+If det (A)=0, then 1(x+1)-2x=0=1-x=0.
+This implies,x=1.
+Example 3
+Find the determinant ofI₂=(¹).
+Solution
+The determinant of the identity matrix for multiplications is given as:
+Exercise 4.1
+1. Determine the determinant of each of the following matrices.
+a. A =(1 2)
+b. B=(3 2)
+c. C = 0 2 0
+2. Determine the determinant of each of the following matrices.
+a. (1 2
+b. (x x)
+c. (1)
+3. Let A -(3 x1). If det (A)=0 then determine the value(s) of x.
+I
+210
+Unit 4: Determinants and their Properties
+4.2 Minors and Cofactors of Elements of Matrices
+Minors of Elements of Matrices
+Activity 4.2
+Let A = Then find
+4 7 1 2 5 8 9 3 6
+a. matrix B obtained by crossing-out the 2ⁿᵈ row and the 1st column from A.
+b. det(B)
+c. matrix C obtained by crossing-out the 1st row and the 2ⁿᵈ column from A.
+d. det(C)
+From your responses for Activity 4.2, observe that
+(i) both B and C are 2 X 2 matrices;
+(ii) the determinant of B is called the minor of a₂₁, the element in the intersection
+of the second row and the first column of A;
+(iii) the determinant of C is called the minor of a₁₂, the element in the intersection
+of the first row and the second column of A.
+Note
+If A = (a) is a 1 X 1 matrix, then the determinant of A is defined by det(A) = a.
+211
+Unit 4: Determinants and their Properties
+Definition 4.2
+Let n be a positive integer greater than or equal to 2 and A = (aᵢⱼ)nxₙbe a
+square matrix of order n.
+Suppose we know how to define the determinant of any (n - 1) X (n — 1)
+matrix.
+Let (i,j), for i = 1,...,n andj=1,....,n, be an ordered pair of positive
+integers.
+Cross out the iᵗʰ row and jth column of A and obtain an (n — ) X (n-1)
+matrix and this matrix is denoted by Aᵢⱼ.
+That is,
+a₁₁
+a₁₂
+...
+a₁ⱼ
+...
+a1n
+a₂₁
+a₂₂
+...
+a2j
+...
+a2n
+...
+...
+...
+Aᵢⱼ
+=
+aᵢ₁
+aᵢ₂
+...
+aij
+...
+ain
+...
+...
+...
+aₙ₁
+aₙ₂
+...
+anj
+...
+ann
+(n-1)x(n-1)
+Then det(Aᵢⱼ) is called the minor of the entry aᵢⱼ of A, denoted by Mᵢⱼ.
+Example 1
+Determine the minors of all the entries of matrix A =
+(1)
+Solution
+i.
+A₁₂ A12=(3)
+=
+A₂₁
+=
+A₁₁=(² ¹) A₃₁
+A₃₂
+A₃₃ =
+I
+212
+Unit 4: Determinants and their Properties
+ii.
+The minors of A are
+Cofactors of Elements of Matrices
+Activity 4.3
+LetA=456 789 123
+Then compute for every (i,j) pair of
+positive integers where i = 1,2,3 and i = 1,2,3.
+From your responses in Activity 4.3, the values is called the cofactor
+of the entry aᵢⱼ for every pair (i,j) of positive integers for i = 1,2,3 and j = 1,2,3.
+Definition 4.3
+Let n be a positive integer greater than or equal to 2 and A = (aᵢⱼ)nxₙbe a
+square matrix of order n. Then is called the cofactor of
+aij, for every pair of positive integers (i,j) for 1≤i≤nand 1≤j≤n.
+Example 2
+Determine the cofactors of all the entries of the matrix A
+=
+(1)
+213
+Unit 4: Determinants and their Properties
+Solution
+From Example 1, the minors of all the entries of A are:
+M₁₁ = A₁₁ =5
+M₁₂ =|A₁₂| = 0
+M₁₃ = A₁₃ =3
+M₂₁ =| A₂₁|= 11
+M₂₂ = A₂₂ = 2
+M₂₃ = A₂₃ = 7
+M₃₁=|A₃₁|=-1
+M₃₂ = A₃₂ = 0
+M₃₃ = A₃₃ =1.
+Then the cofactors of all the entries of A are:
+C₁₂=(-1)⁺²|A₁₂|=0
+Exercise 4.2
+Find the minors and the cofactors of all the entries of the following matrices.
+a.
+A=456 789, 123
+b.B=034 005 113
+4.3 Determinants of Matrices of Order 3
+Activity 4.4
+LetA= 2 3 3 111 344
+Then, determine
+a.
+b. q₁C₁₁+a₂,C₂₁+a₃C₃₁.
+From your responses in Activity 4.3, observe that the answers for both questions are
+the same number and this number is called the determinant of A.
+I
+214
+Unit 4: Determinants and their Properties
+Definition 4.4
+Let A = (aᵢⱼ)₃x₃ be a square matrix of order 3. Then the determinant of A,
+det(A) or |A|, is the number defined by
+and this sum is called the cofactor expansion of the determinant along the
+first row.
+It is possible to express determinant of a matrix A as a cofactor expansion along a
+column of A and gives you the same result, but in this subunit, cofactor expansion of
+the determinant along a row only is considered.
+Example 1
+LetA=456 (123) 789
+Then find the determinant of A using a cofactor expansion along
+the first row.
+Solution
+First find the cofactors C₁₁, C₁₂ and C₁₃ as:
+and
+Then the determinant of A is given by:
+That is, A|=0.
+215
+Unit 4: Determinants and their Properties
+Example 2
+Find the determinant ofI₃ = 100 001 010
+Solution
+Using a cofactor expansion along the first row, the determinant of I₃ is given by:
+-
+Therefore, the determinant of I₃ is 1.
+Exercise 4.3
+1. Let A = (1) 279 741 356
+Then compute the determinant of A using a cofactor
+expansion along the first row.
+200
+2. Compute the determinant of the matrix B=
+020
+002
+Cofactor Expansion of Determinant along Any Row
+Activity 4.5
+Let HH
+Then evaluate each of the following.
+b.
+c.
+I
+216
+Unit 4: Determinants and their Properties
+In your responses in Activity 4.5, you have observed that, the values in (a), (b) and
+(c) are the same and this number is the determinant of A.
+The results in Activity 4.5 tell us that the determinant does not depend on the choice
+of the row as stated in Theorem 4.1.
+Theorem 4.1
+Let A = be a square matrix of order 3. Then, the determinant of A,
+det(A), can be expressed as a cofactor expansion along any row of A.
+That is, each i = 1,2,3.
+Example 3
+LetA=456 123 789
+Then, find the determinant of A using cofactor expansion along
+the three rows of A.
+Solution
+In Example 1 of these section, you have seen that using cofactor expansion of the
+determinant along first row,
+a. The determinant of A using the cofactor expansion along the second row is
+given by:
+8
+=-4(18-24)+5(9-21)-6(8-14)=24-60+36 =0.
+II
+b. The determinant of A using a cofactor expansion along the third row is given by:
+217
+Unit 4: Determinants and their Properties
+1
+2
+5
+= 7(12-15)-8(6-12)+9(5-8)
+=7(-3)-8(-6)+9(-3)=-21+48-27=0
+Thus, the determinant of A using the cofactor expansion along any of its three rows
+is the same: that is, |A| = 0. =
+Note
+Let A = (aᵢⱼ)ₙxₙ be a square matrix of order n.
+a. The expression (-1)i+ji in the expansion of the determinant determines the
+algebraic sign in the position (i,j) of a square matrix of order n and these
+signs form a checkerboard pattern of "+" and " - " that has + in the (1,1)
+position. The patterns for n = 2 and 3 are given as follows.
++ 1+ + 1 +
+n = 2
+n = 3 =
+b. In determining the determinant of a square matrix by cofactor expansion
+along a row, the best strategy is to use a cofactor expansion along a row with
+large number of zeros.
+Example 4
+Compute the determinant of the matrix A = 121 -5 11 0 12 0 !). 0
+I
+218
+Unit 4: Determinants and their Properties
+Solution
+As the second row has two zero entries, more zero entries than the other two rows,
+you can use a cofactor expansion along the second row.
+121
+-5 11 0
+= 12 11 2 0 1 = =(-12)x(0-11)=132 =
+Therefore, the determinant of A is 132.
+Exercise 4.4
+1. Let A = 172 -141 052
+Then compute the determinant of A using a cofactor
+expansion along all the three rows.
+2. Compute the determinant of each of the following matrices by using cofactor
+expansion.
+0 2 1
+a. B = 3-22 2 1 0 1 2 0
+b. C = 411
+320
+3. Find the determinant of each of the following matrices.
+2 3 4
+121
+a.
+0 -20 0 1 0 0 4 0
+b.
+015
+C.
+342
+0 0 -4
+563
+219
+Unit 4: Determinants and their Properties
+4.4 Properties of Determinants
+Determinants of Triangular Matrices
+Activity 4.6
+Find the determinant of each of the following matrices.
+a 0 0
+a b c
+a. A =
+b c 0
+b. B = 0 d e
+d e f
+0 0 f
+From your responses in Activity 4.6, observe that matrices A and B are triangular
+matrices and
+a. the determinant of matrix A is the product of its diagonal entries;
+b. the determinant of matrix B is the product of its diagonal entries.
+These properties are true in general and are stated as follows.
+Theorem 4.2
+Let n be a positive integer greater than or equal to 2 and A = (aᵢⱼ) nxn If A is a
+triangular matrix, then the determinant of A is the product of its diagonal
+elements.
+a₁₂
+a₁ₙ
+a₁₁
+0
+0
+...
+...
+a₁₁
+0
+a₂₁
+a₂₂
+0
+...
+...
+a₂₂
+a₂n
+That is, if A =
+or A =
+...
+...
+:.
+...
+...
+...
+:.
+...
+,
+a(n-1)1
+a(n-2)2
+0
+...
+0
+0
+...
+ann
+aₙ₁
+aₙ₂
+...
+ann
+then |A| = a₁₁a₂₂ ann.
+I
+220
+Unit 4: Determinants and their Properties
+Note
+1. If A is a diagonal matrix, then A is a triangular matrix and its determinant is
+the product of its diagonal entries.
+a₁₁ 0 ... 00
+0 a₂₂ ... 00
+That is, if =
+,
+then |A| = a₁₁a₂₂ aₙₙ
+FENEE
+0
+0
+...
+0
+aₙₙ
+10
+...
+00
+01 ... 00
+2. For a positive integer n the matrix Iₙ =
+is the identity
+FINES
+00
+...
+01
+matrix for matrix multiplication and it is a diagonal matrix.
+Thus, |Iₙ| = 1x1X...X1=1. =
+Example 1
+213
+Compute the determinant of A = 0 -14
+001
+Solution
+Using the cofactor expansion along the first row:
+=2x(-1)+(-1)x0+3x0=-2
+On the other hand, A is an upper triangular matrix.
+Thus, det (A)=2x(-1)x1=-2, the product of the diagonal entries of A.
+Example 2
+Find the determinant of each of the following matrices:
+-100
+400
+a.
+A=035 221 001
+b. B =
+020
+c. C =
+0 -1 0
+-101
+00-2)
+221
+Unit 4: Determinants and their Properties
+Solution
+a. A is an upper triangular matrix and |A|=2x3x1=6, = which is the product of the
+diagonal entries of A.
+b. B is a lower triangular matrix and |B| = = -1x2x1 = -2, which is the product
+of the diagonal entries of B.
+c. C is a diagonal matrix and hence C|=4x(-1)x(-2)=8, = which is the product of
+the diagonal entries of C.
+Exercise 4.5
+Determine the determinant of each of the following matrices:
+a.A=045 0 0 -1) 123
+b.B=2-10
+200 01-2
+c. C = 003 0 -20 100
+Determinant and Elementary Row Operations
+Let us consider the effects of the three elementary operations of matrices on
+determinants of matrices. Let us start our discussion by considering the following
+activity.
+Activity 4.7
+Let A = (a b). Then find the determinant of each of the following matrices in
+terms of the determinant of A.
+a.
+(a d)
+b. (3a c 3b)
+c. a 2a d ᵇ ₂b)
+From your responses in Activity 4.6, observe that:
+a.
+a C b = -|A| (Interchanging two rows of a matrix changes the determinant by
+sign).
+I
+222
+Unit 4: Determinants and their Properties
+b. 3b d = 3|A| (The determinant of a matrix obtained from A by multiplying a
+row of A by a scalar is the scalar times the determinant of A).
+c.
+= |A| (Adding a scalar multiple of a row of A onto another
+row does not change the determinant).
+These three properties are the effects of elementary row operations on the
+determinant of A and these effects are true in general for any square matrix as stated
+in Theorem 4.3.
+Theorem 4.3
+Let A be a square matrix of order n.
+a. Interchanging two rows of the matrix changes the sign of the determinant;
+That is, if A Ri Ri B for i # then B = |A|.
+b. The determinant of a matrix obtained by multiplying one row of A by a
+constant gives you the same constant times the determinant of the given
+matrix.
+That is, if, A B and k is any constant, then | B| = k|A|. =
+c. Adding a scalar multiple of one row of A to another row of A does not change
+the determinant. That is, if A B for i # j and k is any constant,
+then |B| = |A|.
+Note
+One consequence that follows from property (b) of Theorem 4.3 is if you multiply
+a square matrix of order n by a scalar k, then the determinant of the new matrix is
+kⁿtimes the determinant of the given matrix.
+That is, if A is a square matrix of order n and k is a scalar, then|kA| = kⁿ|A|.
+223
+Unit 4: Determinants and their Properties
+Example 3
+Let A = (a b). If det(A) = -2, then find the determinant of each the following
+matrices:
+a. B=(2a+c 2b+a)
+d. c. D=(3c 3d) D E = = 3d 3b
+b.
+Solution
+If det(A) = -2, then |A| = = = ad bc = -2.
+a. B|=|2a+c b =a(2b+d)=b(2a+c)= ad -bc=-2. = . Observe that,
+matrix B is obtained by replacing the third row of A by 2 times the first row of
+A plus the second row of A and A=B=-2.
+b. C = -4. Observe that, matrix
+C is obtained by scaling the first row of A by -2 and |C|= 2|A|=2x(-2)=-4. C (-2) -4.
+c.
+Observe that D = and |D|=3²|A|=9x(-2)=-18.
+d. E da = bc) = Observe that, matrix E is obtained by
+swapping the first and the second rows of A and det(E)=-det(A)=-(-2)=2. =
+I
+224
+Unit 4: Determinants and their Properties
+Example 4
+Let A = =def g a b h k c
+If det(A) = 2, then find the determinant of each of the
+following matrices.
+a. B = g d h b e f k
+b.
+C = g + d a 3a h + 3b b e k + ƒ c 3c
+c. D= 5d 5e 5f
+d. E= 4d 4e 4f = 4g 4a 4h 4b 4k 4c
+Solution
+a. Matrix B is obtained by swapping the first and the second rows of A.
+Thus, det(B) = det(A) = -2.
+b. Matrix C is obtained by replacing the third row of A by 3 times the first row of
+A plus the third row of A. Thus, det(C) = det(A) = 2.
+c. Matrix D is obtained by scaling the second row of A by 5.
+Thus, det(D) = 5det(A) = 5 X 2 = 10.
+d. A is a 3 X 3 and E = 4A.
+Thus, det(E) = det(4A) = 4³ det(A) = 64 x 2 = 128.
+Note
+Using property (b) in Theorem 4.3 we can introduce many zeros in a row of a
+square matrix and compute the determinant of the matrix by expanding the
+determinant along the row with many zeros.
+225
+Unit 4: Determinants and their Properties
+Example 5
+Determine the determinant of the following matrix after reducing it to a matrix in
+REF.
+A = 133 123 1 1 1
+Solution
+First reduce A into an upper triangular matrix using appropriate elementary row
+operations as follows.
+1 1 1
+A = 133 1 123 1 1
+R₂ R₂-R₁
+0 1 2
+R₃R₃-R₁
+0 2 2
+1 1 1
+R₃ R₃-2R₂
+0 1 2 = B
+0 0 -2
+The last matrix, B, is a triangular matrix and hence the determinant of B is the
+product of its diagonal entries.
+That is, B|
+Observe that matrix B is obtained from A by applying three successive elementary
+row operations. Each of these elementary row operations are of the same type; adding
+a scalar multiple of one row onto another row.
+Thus, all these elementary row operations do not make any change on the
+determinant of the matrix.
+Therefore, the determinants of both A and B are the same and hence
+|A| = |B| = -2.
+I
+226
+Unit 4: Determinants and their Properties
+Exercise 4.6
+1. Let A = (a If det(A) = 2, then find the determinant of each the following
+matrices.
+a. (a+c b+d) a+c b+d
+(ac b)
+C. (30 -3d) -3a -3c -3d -3b
+2. Let A = d e f
+and det(A) = 3. Then, compute the determinant of each of the
+following matrices.
+a
+b
+c
+a. abc a h b e k c
+b.
+(20 )
+C.
+d
+e
+f
+g + 3a h + 3b k + 3c
+3.LetA=112
+(i)
+Determine the determinant of matrix B if:
+a.
+c. A R₃ R₃ B
+Determinant of Product of Matrices and Determinant of a Transpose
+Activity 4.8
+Let A = b and B =(g h)
+Then, compute each of the following.
+a. det(A) and det(B).
+b. det(AB), det(A¹) and det(B¹)
+In your responses in Activity 4.8, observe that;
+a. det(A) = det (A¹), that is, the determinant of A and its transpose are equal;
+b. det(AB) = (det A) (det B); that is, the determinant of the product of A and B,
+det(AB), is equal to the product of the determinant of A and the determinant of B.
+227
+Unit 4: Determinants and their Properties
+In general, we have the following results about the determinant of a transpose and the
+determinant of product of matrices.
+Theorem 4.4
+Let A and B be two square matrices of order n. Then
+a. det(A)=det(A¹)
+b. det(AB) = det(A)det(B)
+Note
+Using Property (b) of Theorem 4.4 and the associative property of matrix
+multiplication, if A, B and C area square matrix of order n, , then
+ABC = ABC.
+Example 6
+Let A and B be square matrices of order 3 with |A| = 4 and |B| = 5. Then compute
+each of the following:
+a. det(AB)
+b. det(3A)
+c. det(2AB⁺)
+d. det(A⁵)
+Solution
+a. det(AB) = det(A) det(B) = 4 x 5 = 20. =
+b. det(3A) = 3³ det(A) = X 4 = 108.
+c. det (2ABt) = 2³ det (AB'), since ABt is a square matrix of order 3.
+The matrix ABt is the product of A and B⁺.
+This implies det (2ABt) = 2³ det (A) (B') = 2³ det (A) (B) and
+det(B)=det(B').
+Therefore, det(2AB')= 2`det(A)det(B)=8x4x5=160.
+d. det(A³)=(detA)`=4`=1024.
+I
+228
+Unit 4: Determinants and their Properties
+Exercise 4.7
+Let A and B be square matrices of order 3 with |A| = 2 and |B| = 3. Then compute
+each of the following.
+a. det(AB)
+b. det(2A)
+c. det(3AB⁺)
+d. det(A⁴)
+Determinant of Inverse of an Invertible Matrix
+Let A be a square matrix of order n. If A is invertible, then AA⁻¹ = Iₙ and
+det(Iₙ) = det(AA⁻¹) = [det(A)][det(A⁻¹)] = 1
+Therefore, det(A) # 0, because the product of det A and det(A⁻¹) is different from
+zero and hence, det(A⁻¹)= det(A).
+Thus, the following theorem is proved.
+Theorem 4.5
+If A is an invertible matrix of order n, then det(A) is not zero and the
+determinant of A⁻¹ is given bydet(A⁻¹)= det(A) det(A)
+Example 7
+Let A and B be two invertible matrices of order 3. Suppose det(A) = 4 and
+det(B) = 3. Then find
+a. det(A⁻¹)
+b. det(A⁻¹B)
+Solution
+a. Since A is invertible and = # then
+b. a
+229
+Unit 4: Determinants and their Properties
+Exercise 4.8
+Let A and B be 3 X 3 matrices with det(A) = 2 and det(B) = 5. Then find
+a. det(A⁻¹)
+b. det(A⁻¹B)
+c. det(B⁻¹)
+d. det(AB⁻¹)
+4.5 Inverse of a Square Matrix of Order 2 and 3
+There are different applications of determinants. One of these applications that is
+considered in this section is invertibility of a matrix.
+Adjoint of a square Matrix
+Activity 4.9
+1 2 1
+Let A = 233 Then find
+4 1 4
+a. the cofactors of all the entries of A.
+b. matrix B defined by B =
+The matrix B you have obtained in Activity 4.9 is called the adjoint of A and if A
+is invertible, then matrix B has a role in determining the inverse of A.
+Definition 4.5
+Let A = (aⱼ)ₙₓₙ be a square matrix of order n and Cij = be the
+cofactor of the element aᵢⱼ for i = 1 n and j = 1, , , n. Then, the matrix
+C₁₁
+C₂₁
+Cₘ₁
+C12
+C22
+C₁₁₂
+(Cif)'nxn =
+C2n
+Cₘₙ
+is called adjoint of A and it is denoted by Adj(A).
+230
+Unit 4: Determinants and their Properties
+Example 1
+Determine the adjoint of A = 3 1 4 2
+Solution
+A₁₁ = (4)
+A₁₂ = (3)
+A₂₁ = (2) =
+A₂₂ = (1).
+Thus, the cofactors of all the elements A are:
+F
+C₂₁ =(-1)²⁺det(A₂,)=-2
+Therefore, the adjoint of A is
+Example 2
+Determine the adjoint of the matrix
+A=143 (12) 120
+Solution
+C₁₁ C₁₃
+are the cofactors of all the entries of A.
+231
+Unit 4: Determinants and their Properties
+Therefore, the adjoint of A is:
+Adj(A) ------------------------- =
+Exercise 4.9
+1. Determine the adjoint of A (3). = 21 3 4
+2. Determine the adjoint of B= ).
+( )
+Adjoint and Determinant
+Activity 4.10
+LetA=343 221 112
+Then find
+a. det(A)
+b. Adj(A)
+c. A(Adj(A))
+d. (Adj(A))A
+From your responses in Activity 4.10, observe that
+In general, given a square matrix of order n, A(Adj(A)) = det(A)Iₙ = (Adj(A))A.
+If det(A) is not equal to zero, then
+II
+This implies, A is invertible and its inverse is given by:
+A⁻¹ = det(A) (Adj(A)) 1
+I
+232
+Unit 4: Determinants and their Properties
+Thus, the following result is proved.
+Theorem 4.6
+Let A be a square matrix of order n. Then, A(Adj(A)) =(Adj(A))A = det(A),
+and if the determinant of A is not zero, then A is invertible and its inverse is
+given by
+Example 3
+Let tA=(3 ²). Find the inverse of A (if it exists).
+Solution
+a. From Example 1,
+b. det(A)=4-6=-2#0.
+This implies, A is invertible and its inverse is given by
++
+Example 4
+Let A = 1 4 3 Find the inverse of A (if it exists).
+( )
+233
+Unit 4: Determinants and their Properties
+Solution
+-622
+From Example 2, Adj(A) = -202 3 -1 -2 and
+= -6+6-2=-2+0.
+Therefore, A is invertible and its inverse is given by
+A⁻¹
++
+Remark
+Let A be a square matrix of order n. A is invertible if and only if the determinant
+of A is not zero. This is equivalent to saying that: A is singular if and only if the
+determinate of A is zero.
+Exercise 4.10
+Find the determinant, adjoint and inverse (if it exists) of each one the following
+matrices
+a. 23 11
+b. 001 014 123
+c. 515 314 121
+I
+234
+Unit 4: Determinants and their Properties
+4.6 Solutions of Systems of Linear Equations Using
+Cramer's Rule
+We can use determinants to obtain another method, known as Cramer's Rule, to solve
+systems of n linear equations in n variables if the coefficient matrix of the system is
+invertible.
+Consider a system of n linear equations AX = B, where A is a square matrix of order
+n. If A is invertible, then the system has a unique solution and this unique solution is
+given by
+X = A⁻¹B.
+Activity 4.11
+x+y=1
++
+=
+Consider a system of two linear equations in two variables given by
+x-y=3
+=
+1 1
+11
+3 -1
+1 3
+a. Solve the given system.
+b. Compute
+and
+.
+1
+1
+1
+1
+1 -1
+1 -1 -
+From your responses in Activity 4.11, observe that
+1 1
+1 1
+3 -1
+1 3
+a. x =
+and y =
+;
+1 1
+1
+1
+1 -1
+1 -1
+b. The matrix (1 1) is obtained by replacing the first column of the
+coefficient matrix of the given system by (¹) and matrix (1 3) 3 is
+obtained by replacing the second column of the coefficient matrix of the
+given system by (¹)
+This method is called Cramer's Rule.
+235
+Unit 4: Determinants and their Properties
+Theorem 4.7 (Cramer's Rule for Two Variables)
+Given the system [ax+by=ef
+in two variables x and y, ifad - bc #0, then
+e
+b
+the given system has a unique solution and it is given by x =
+and
+ad
+-
+bc
+yes
+Example 1
+Use Cramer's rule, if possible, and solve the following system of linear equations:
+{x+y=1
+Solution
+The given system in matrix form is given by:
+Thus, the system has a unique solution that is given by:
+11
+11
+5
+1-5
+-4
+2
+5 - 2
+3
+x
+=
+and
+y
+=
+=-3.
+11-1-1
+1
+-1
+21
+21
+Therefore, the solution set of the given system of linear equations is {(4,-3)}.
+I
+236
+Unit 4: Determinants and their Properties
+Exercise 4.11
+Use Cramer's rule, if possible, and solve each of the following system of linear
+equations.
+a. [x+y=2 2x+3y=4
+b. 3x-4y=2 2x+y=9 = =
+c. [x+3y=8 2x-3y=4
+d. [-x+2y=0 -2x+y=-1 = =
+Theorem 4.8 (Cramer's Rule for Three Variables)
+Given the system
+a₁₁x+a₁₂y+a₁₂=b₁
+a₁₁x+a₂y+a₂₂=b₂
+a₁₁x+a₃₂y+a₃₂=b₃
+a₁₁
+a₁₂
+a₁₃
+in three variables x, y and Z, if
+a₂₁
+a₂₂
+a₂₃
+#0, then the given system has
+a₃₁ a₃₂ a₃₃
+a unique solution given by x=Dx, D D , y=D y D D and Z=D D D , where
+a₁₁ a12 a₁₃
+b₁
+a₁₂
+a₁₃
+a₁₁ b₁ a₁₃
+D =
+a₂₁
+a₂₂
+a₂₃
+Dᵣ =
+=
+,
+b₂
+a₂₂
+a₂₃
+D
+=
+,
+a₂₁
+b₂
+a₂₃
+and
+a₃₁
+a₃₂
+a₃₃
+b₃
+a₃₂
+a₃₃
+a₃₁ b₃ a₃₃
+a₁₁
+a₁₂
+b₁
+D.= =
+a₂₁
+a₂₂
+b₂
+a₃₁
+a₃₂
+b₃
+237
+Unit 4: Determinants and their Properties
+Example 2
+Using Cramer's Rule (if possible) and solve the following system of linear equations.
+2x+3y-5z=1
+II
+x+y-z=2
+2y+z=8
+Il
+Solution
+The given system of linear equations is given in matrix form as:
+2 0 1 2 3 1 -5 -1 1 y x = 2 8
+.
+Then the determinant of the coefficient matrix is:
+2 3 -5
+D=1 1-1=-7 0.
+0 2 1
+Thus, the system has a unique solution and by Cramer's Rule:
+13 -5
+2 1 -5
+21 -1
+1 2 -1
+x = 2 8 2 3 -5 1 ==7, = -7 -7 = 1,
+081
+-21
+y
+=
+=
+=
+3
+and
+2
+3
+-5
+-7
+11 -1
+1 1 -1
+0 2 1
+0 2 1
+231
+112
+z = 2 028 3 -5 = -14 = 2. -7 2.
+11 -1
+0 2 1
+Therefore, the solution set of the given system of linear equations is {(1,3,2)}.
+I
+238
+Unit 4: Determinants and their Properties
+Remark
+It is worth mentioning that, in finding the solution set of a system of n linear
+equations in n variables using Cramer's Rule, we have to evaluate n + 1
+determinants. For systems with large number of equations, Gaussian Elimination
+Method is more efficient.
+Exercise 4.12
+Use Cramer's rule, if possible, and solve each of the following system of linear
+equations.
+x+y+z=3
+x+y-z=1
+x+y-z=1
+Il
+a.
+-2x+2y+2z=5
+b.
+2x+z=4
+II
+C.
+x-y+z=2
+x+y+2z=4
+y-z=5
+2x+2z=3
+II
+Systems of Linear Equations with no Solution or Infinitely Many
+Solutions
+Given a system AX = B of n linear equations in n variables, where n is a positive
+integer, if |A| = 0, we cannot apply Cramer's rule to solve the system and further
+investigation is required.
+If |A| = 0, then there are two possibilities: the system has no solution or the system
+has infinitely many solutions.
+The cases of no solution or infinitely many solutions of a given system of linear
+equations are considered in the following two examples.
+Example 3
+Solve the following system of linear equations (if possible).
+-x+2y=3
+3x-6y=0
+Il
+239
+Unit 4: Determinants and their Properties
+Solution
+The coefficient matrix of the given system is =
+This implies the system has no unique solution and we cannot use the Cramer's rule.
+The system has no solution or it has infinitely many solutions and we can use
+elimination method to determine.
+The augmented matrix of the system is $(3).
+3 -60 2 3 0 2 09 3
+and the last matrix is in REF.
+Thus, the given system is equivalent to the system:
+-x+2y=3
+0 = 9
+The last equation, 0 = 9, is always false.
+Therefore, the system has no solution.
+Graphing the lines represented by the two equations in Figure 4.1 reveals that the two
+lines are parallel.
+y -x+2y=3
+3
+2
+1
+3x 6y = 0
+-3
+-2
+-1
+O
+1
+2
+3
+4
+x
+-1
+-2
+-3
+Figure 4.1
+I
+240
+Unit 4: Determinants and their Properties
+Example 4
+Solve the following system linear equations.
+x-2y+3z=0 =
+3x+y-2z=0 =
+2x-4y+6z=0
+Solution
+Let us first determine the determinant of the coefficient matrix.
+1 -2 3
+The coefficient matrix of the system is
+3
+1
+-2
+and its determinant is
+2 -4 6
+1 -2 3
+3 1 -2 = 0.
+2 -4 6
+This implies the system has no unique solution and we cannot use the Cramer's rule.
+The system has no solution or it has infinitely many solutions and we can use
+elimination method to determine.
+The augmented matrix of the system is:
+1 -2 3 0
+3 1 -2 0
+2 -4 6 0
+1 -2 3 0
+2-460 3 1 -2 1 -20 3 0 R₂ R₂-3R₁ R₃-R₃-2R₁
+0 7 -11 0
+0 0 0 0
+and the last matrix is in Row Echelon Form.
+Then, the given system of linear equations has the same solution as the system of
+linear equations:
+x-2y+3z=0 =
+7y-11z=0 =
+241
+Unit 4: Determinants and their Properties
+From the last equation,
+Substituting this value in the first equation give us
+Therefore, the given system has infinitely many solutions given by:
+Exercise 4.13
+Solve each of the following systems of linear equations, if possible.
+x+y-2z=3
+a. -2x+2y=-4 x-y=2
+b.
+-2x-2y+4z=-6
+y-z=5
+x+y+z=3
+x+y-z=1
+c.
+-2x+2y+2z=5
+d.
+x-y+z=2
+x+y+2z=4
+2x+2z=3
+4.7 Applications
+Polynomial Interpolation
+In studying a set of data that relates two variables x and y, it may be the case that we
+can use a polynomial to "fit" to the data. If such a polynomial can be established, it
+can be used to estimate values of x and y which have not been provided.
+Example 1
+Consider the data points (0,1),(1,2) and (2,22). Find an interpolating
+polynomial p(x) of degree at most two, and estimate the value of p(3).
+I
+242
+Unit 4: Determinants and their Properties
+Solution
+The desired polynomial p(x) is given by p(x)=a+bx+cx²
+Then, p(0)=1=a, 2=a+b+c and = 2b + 4c.
+This gives us a system of linear equations
+a = 1
+a+b+c=2
+a+2b+4c=22 =
+and the coefficient matrix of the given system is:
+100
+100
+111 and 111 = 24 11 =1(4-2)=2#0.
+1 2 4
+124
+Then, the given system of linear equations has a unique solution.
+We can solve the system using Cramer's rule as follows:
+100
+110
+101
+211
+121
+112
+224
+1224
+17
+1222
+19
+a
+=
+=1,
+=
+=
+=
+8.5
+c
+=
+Il
+9.5.
+100
+100
+2
+100
+2
+111
+111
+111
+124
+124
+124
+Therefore, the required polynomial is:
+p (x) =1-8.5x+9.5x² and p(3)=1-8.5(3)+9.5(3)* 61.
+Exercise 4.14
+Consider data points (0,2), (1,5) and (2,25). Find an interpolating polynomial p(x)
+of at most degree two and estimate the values of p(-1)and p(3).
+243
+Unit 4: Determinants and their Properties
+Area of a triangle in the xy-plane
+Determinant can be used to find the area of a triangle whose three vertices are in the
+xy -plane.
+The area of a triangle with vertices A(x₁,y₁),B(x₂,y₂) and C(x₃,y₃) is in the plane is
+given by
+x₁
+y₁
+1
+x₁
+y₁
+1
+1
+Area (ДАВС) =
+x₂
+y₂
+1
+x₂
+y₂
+1
+<0.
+x₃
+y₃
+1
+x₃
+y₃
+1
+Example 2
+Find the area of the triangle with vertices A(0,5),B(0,0) and C(5,0)
+Solution
+Using the cofactor expansion along the second row,
+051
+001 = (-1) 0 5 5 = 25 > 0.
+5 0 1
+0 5 1
+Therefore, Area (ДАВС) = 0 0 1 = (25) = 12.5 Square units.
+5 0 1
+Example 3
+Find the area of the triangle with vertices P(1,1),Q(1,3) and R(4,5)
+I
+244
+Unit 4: Determinants and their Properties
+Solution
+Using the cofactor expansion along the first row,
+111
+1 3 1 3 5 1 -1 1 1 1 +1 1 5 3 =-2+3-7=-6 < 0.
+4 5 1
+1
+1
+Therefore, Area (APQR) = 3 1 = 3 Square units.
+4 5 1
+Exercise 4.15
+Find the area of the triangle with vertices the following three points.
+a. (-2,0), (0,2) and (2,0)
+b. (1,0), (2,1) and (2,3)
+Test for collinear points in the xy-plane
+Three points in xy -plane are said to be collinear if all the three points lie on the
+same line. Determinant can be used to determine whether three points in the
+xy -plane are collinear or not.
+Three points A(x₁,y₁), B(x₂,y₂) and C(x₃,y₃) in the xy-plane are collinear if and
+only if
+x₁ y₁ 1
+x₂
+y₂
+=
+0.
+x₃ y₃ 1
+Example 4
+Determine if the points A (1,1), B(2,2) and C(3,3) are collinear.
+245
+Unit 4: Determinants and their Properties
+Solution
+1 1 1
+221 = 0.
+3 3 1
+This implies, the points A(1,1), B(2,2) and C(3,3) are collinear.
+Example 5
+Determine if the points A(0,1), B(1,0) and C(0,0) in the xy -plane are collinear.
+Solution
+0 1 1
+1 0 1 = - 1 0
+0 0 1
+This implies, the points A(0,1),B(1,0) and C(0,0) are not collinear.
+Two point form of equation of a line in the xy-plane
+We can use determinant to find equation of a line in xy -plane passing through two
+points. An equation of a line passing through two distinct points P(x₁,y₁) and
+Q(x₂, y₂) is given by
+x y 1
+x₁ y₁ 1 = 0,
+x₂ y₂ 1
+where (x,y) is a point on the line.
+Example 6
+Find an equation of the line passing through the points P(2,0) and R(0,3).
+I
+246
+Unit 4: Determinants and their Properties
+Solution
+If (x,y) is a point on the line passing through P (2,0) and R (0,3), then:
+x y 1
+201=0. =
+0 3 1
+This implies -2 3 1 1 x 0 y 3 -2(y-3)-(3x-0)=0. =
+Thus, the general equation of the line passing through the two points P (2,0) and R
+(0,3) is 3x+2y-6=0.
+Exercise 4.16
+1. Determine if the following set of points are collinear.
+a. (1,1), (3,2) and (4,3)
+b. (1,0), (2,1) and (3,2)
+2. Find the general form of equation of the line passing through each of the
+following pairs of points.
+a. (1,1) and (3,2)
+b. (1,-1) and (-2,2)
+c. (-1,1) and (-4,2)
+Problem Solving
+1. If the area of a triangle with vertices (-2, 0), (2, 0) and (0, k) is 8 sq. units,
+then determine the value(s) of k.
+2. If the points (3,k), (k,1) and (6,-1) are collinear, then determine the
+value(s) of k.
+247
+Summary and Review Exercise
+Summary
+1. If A = (an), then
+2. If A = (aᵢⱼ)ₙxₙ, then the matrix obtained by crossing out the iᵗʰ row and jth
+column of A is denoted by Aᵢⱼ.
+a. det(Aᵢⱼ) is called the minor of the element aᵢⱼ and
+b. det(Aᵢᵢ) is called the cofactor of aᵢⱼ.
+3. If = (aᵢⱼ)₃x₃, expansion of the
+determinant along the first row.
+If , then det(A) = acf. =
+4. If A and B are two square matrices of order n, then,
+a. det(A) = det(A¹)
+b. det(AB) = det(A)det(B).
+5. If A is an invertible matrix of order n, then det(A) is not equal to zero and the
+determinant of A⁻¹ is given by
+det(A⁻¹) = det(A)
+6. Let A = (aᵢⱼ)ₙxₙ be a square matrix of order n and det(Aᵢᵢ) be
+the cofactor of the entry aᵢⱼ for i=1,...,n and j = 1,..,n.
+...
+Then matrix C₂₂ C₂₁ ... J Cₙ₂ Cₙ₁ is called
+Adjoint of A.
+C₁ₙ C₂ₙ ... Cₙₙ)
+248
+Summary and Review Exercise
+7. Let A be a square matrix of order n. Then A(Adj(A))=(Adi(A))A =det(A),
+and if the determinant of A is not zero, then A is invertible and its inverse is
+given by
+Review Exercise
+1. Find the minor and the cofactor of each entry of the following matrices.
+a. A = (1₃ 2) b. B = -1 231 10-1 2 3
+2. Find the determinant of each of the following matrices.
+a. A = 24 13
+b.B=230 100 3 -2 -1)
+C. C = -1 213 1 -2 0 2 4
+d.1 -2 003 3 -1
+e.E= -3 0 0 1 ) 020 0 0
+f. F = 123 000
+(-13-2)
+3. Let A and B be square matrices of order 3 and det (A) = 2 and det(B)=-3.
+Then find each of the following determinants.
+a. det(2AB)
+b. det(AB⁺)
+c. det(A⁻¹B)
+4. Determine the invertiblity of each of the following matrices and find the inverse
+if it exists.
+a. A = (1 3)
+b.B=210
+100 3 -2 -1)
+c.C=122 111 (134)
+249
+Summary and Review Exercise
+d. D=012 2 0 3 0 -1 -1
+e. E = 0 0 1 2 0 0 0 0 3
+f.F= 111 133 122
+5. Use Cramer's rule to solve each of the following systems of linear equations:
+x+2y-z=4
+a.
+2x+3y=0 x+y=1
+b. 3x-y+z=5
+2x+3y+2z=7
+6. Find the area of the triangle with vertices the following three set of points.
+a. (-3,0), (0,3) and (1,1) b. (1,-1), (1,2) and (3,2)
+7. Find the general form of equation of the line passing through each of the
+following pairs of points:
+a. (1,1) and (-1,2)
+b. (1,2) and (-2,-3)
+c. (1,0) and (-4,4)
+8. Determine if the following set of points are collinear:
+b. (1,1), (3,2) and (5,-2) b. (1,0), (2,2) and (3,3)
+I
+250
+UNIT
+5
+VECTORS

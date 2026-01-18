@@ -1,0 +1,1357 @@
+UNIT 3: ENZYMES
+Substrate
+Product
+Catalysis
+Enzyme + Substrate
+Enzyme-Substrate
+Enzyme-Product
+Enzyme + Product
+Complex
+Complex
+Figure 3.1 Enzymatic reactions
+Lab activity 3.1 Classroom experimental activities
+Objectives: investigate the enzyme Salivary Amylase in mouth
+Material
+White bread
+Procedure
+1. Pieces of bread are prepared for each student who will chew.
+2. All students chew the pieces of bread in mouth slowly.
+3. Each student notices the changing flavor of the mush in his/her mouth while
+chewing.
+4. Each student realizes that the mush in the mouth slowly tastes sweeter.
+Control experiment:
+Mix some pieces of bread in a glass of water and wait for five minutes
+Let the students taste the mush (water + bread) and compare with flavor of
+mush of bread and saliva.
+How is the taste?
+Assessments
+What did you recognize from the changes in the mush?
+How does the saliva convert starch into maltose?
+Where did the enzyme amylase come from?
+What do you conclude from the activity?
+BIOLOGY GRADE 11
+75
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+3.2 Properties and functions of enzymes
+After the successful completion of this section, the student will
+be able to:
+Identify the properties of enzymes
+Explain the action of each property
+Describe the functions properties
+What are the enzyme properties?
+Enzyme properties are reactions demonstrated through
+physical and chemical properties.
+3.2.1 General properties of an enzyme
+The general properties of enzymes are the nature of both their physical and chemical properties.
+Enzymes accelerate the reaction rates. They neither affect the nature of products formed nor
+undergo any changes by the reaction catalyzed.
+A. The physical properties of enzymes
+The physical properties of enzymes include denaturation, solubility, colloids, biocatalysts,
+precipitation, molecular weight, and enzyme activity (Figure 3.2).
+Denaturation is the process of breaking the intra and inter-molecular non-covalent bonds that
+distort the shape and active site of the enzymes. Enzymes are denatured by high heat (above
+40°C), alternation in the pH (too low or too high), heavy metals and high salt concentrations,
+solvents and other reagents.
+Solubility is the property of enzymes that allow them to be dissolved in water, salt (NaCI), diluted
+glycerol and alcohol causing denaturation.
+BIOLOGY GRADE 11
+76
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+Precipitation
+Precipitation
+Molecular weight
+Colloids
+Enzyme physical
+Enzyme activity
+properties
+Solubility
+Biological catalyst
+Denaturation
+Figure 3.2 Physical properties of Enzymes
+The colloidal nature of enzyme is the tendency of having little or no dialysis cross the
+semipermeable membrane due to the large size or high molecular weight.
+The biocatalyst property is the activity of enzymes in which very small quantities or a small
+amount of enzyme is enough to convert a large quantity of substrate and remain unchanged after
+the reaction.
+Enzyme precipitation is the separation of enzymes for analysis using different aqueous or
+ethanol solvents.
+Molecular weights of enzymes are large protein biomolecules that hold polypeptide chains of
+various amino acid sequences in enzymes having a high molecular weight.
+Enzymatic activity is the general catalytic properties of an enzyme. It depends on factors such as
+temperature, pH, and enzyme concentration and substrate concentration. Enzymes show the
+highest activity at optimum temperature and pH that a low concentration of enzymes and
+substrates slows down the enzymatic reaction.
+B. Chemical properties of enzymes
+Enzyme chemical properties are sensitivity, regulations, specificity, catalysis and reversibility
+reactions (Figure 3.3).
+Enzyme
+reversibility
+Enzyme
+Enzyme
+specificity
+regulation
+Enzymes
+chemical
+properties
+Enzyme
+Enzyme
+sensitivity
+catalyst
+Figure 3.3 Chemical properties of enzymes
+BIOLOGY GRADE 11
+77
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+Heat and PH Sensitivity is an enzymatic reaction to heat (temperatures) and pH (acidity and
+basicity) activated at optimum levels.
+Regulation is the process of controlling the activity of enzymes by activator and inhibitor
+molecules.
+Catalysis is the process of the acceleration of a chemical reaction by a catalyst. Enzymes are
+biological catalysts that possess high catalytic efficiency. They can transform about 100-10,000
+substrates per second. The reactions catalyzed by the enzymes show a 10³-10⁸ times faster reaction
+rate in comparison to the non-catalyzed reactions.
+Reversibility is the ability of enzymatic biomolecules to catalyze various metabolic (anabolic and
+catabolic) reactions. It is the reaction to synthesize (build up new molecules or products) and
+decompose (breaks down different products) in which enzymatic reactions catalyze biochemical
+reactions in both forward and reverse directions.
+Enzyme specificity is a property of the enzyme that describes
+What is enzyme specificity?
+how restrictive the enzyme is in its choice of substrate. A
+completely specific enzyme would have only one substrate.
+Specificity of enzymes:
+Bond specificity is a relative specificity of enzymes, which indicates that enzymes are
+specific for a bond.
+Group specificity is a structural specificity of enzymes, which describes that enzymes are
+specific for a group.
+Substrate specificity is the feature of enzymatic activity where an enzyme acts only on
+a particular substrate.
+Optical specificity is when enzymes act on the substrate optical configuration.
+Co-factor specificity is the enzymatic specificity to the substrate and co-factors.
+BIOLOGY GRADE 11
+78
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+Inquiry activity 3.2 Group discussion
+Discuss the following properties of enzymes:
+Differences in physical and chemical properties
+Catalytic property
+Specificity property
+Reversibility property
+PH sensitivity property
+Heat sensitivity property
+3.2.2 The function of enzymes
+Enzymes help speed up chemical
+Which enzymes convert carbohydrates, proteins,
+lipids and nucleotides into their monomers?
+reactions in the human body. They are
+essential for respiration, digesting food,
+the liver, muscle, and nerve function. Each cell in the human body contains thousands of enzymes
+that provide help in facilitating chemical reactions within each cell. The turn over number of
+molecules is the number of substrates converted by one enzyme molecule per second at saturated
+(fully occupied) active sites.
+Enzymes are markers of the states of various diseases like myocardial infraction, jaundice,
+pancreatitis, cancer and neurodegenerative disorders etc. Each enzyme has an active site with a
+unique shape that speeds up metabolism or chemical reactions in our bodies and builds substances
+in all living things.
+Examples of enzymes:
+Sucrase breaks down a sugar called sucrose.
+Lactase breaks down lactose, a kind of sugar found in milk products.
+Carbohydrase breaks down carbohydrates into sugars.
+Lipase breaks down fats into fatty acids.
+Protease breaks down protein into amino acids
+Enzyme acting on a substrate to produce product releasing enzyme for further use through steps 1-
+4 (Figure 3.4).
+BIOLOGY GRADE 11
+79
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+1
+The substrate, sucrose,
+Glucose
+consists of glucose and
+Fructose
+fructose bonded together.
+2
+The substrate binds to the
+enzyme, forming an
+enzyme-substrate complex.
+Bond
+4
+Products are released,
+H2O
+and the enzyme is free
+to bind other substrates.
+Active site
+3
+The binding of the
+substrate and enzyme
+places stress on the
+Enzyme
+glucose-fructose bond
+and the bond breaks.
+Figure 3.4 Enzyme functions
+Enzymes perform their function by lowering a reaction's activation energy. Activation energy is
+the energy required to start a reaction. The lower the activation energy, the faster a reaction
+happens (Figure 3.5).
+Without enzyme
+Activation
+energy
+without
+With enzyme
+enzyme
+Activation
+energy with
+Energy
+enzyme
+Substrates
+Products
+Reaction progress
+Figure 3.5 Enzymatic reactions between glucose and oxygen
+BIOLOGY GRADE 11
+80
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+Table 3.1 Some of enzymes in the body and their functions
+Enzyme
+Function
+Lipases
+Split fats found in the blood, gastric juices, pancreatic
+secretions, intestinal juices adipose (fatty) tissues and
+participate in digestions.
+Amylase
+Amylase exists in saliva and helps in changing starches
+into sugars.
+Maltase
+Maltase exists in foods such as potatoes, pasta and beer
+and saliva breaks the sugar maltose into glucose.
+Trypsin
+Found in the small intestine, breaks proteins down into
+amino acids.
+Lactase
+Found in the small intestine, breaks lactose, the sugar in
+milk, into glucose and galactose.
+Helicase
+Unwinds DNA
+DNA Polymerase
+An enzyme responsible for forming new copies of DNA in
+the form of nucleic acids molecules
+Acetyl
+Breaks down the neurotransmitter acetylcholine in
+cholinesterase
+nerves and muscles
+Lab-based activity 3.3 Experiment on the functions of enzymes
+Objectives: learning by doing
+Materials and chemicals
+Knife, Potatoes and Hydrogen peroxide
+Procedure
+Cut potatoes into two slices.
+Drop hydrogen peroxide on the potato slice and observe.
+Students observe that it starts bubbling as a result of enzymatic
+reactions.
+Assessments
+1. What causes the bubbling in the potato slices?
+2. How does metabolic decomposition take place?
+3. Identify which one is the enzyme, substrate, and product.
+BIOLOGY GRADE 11
+81
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+3.3 Protein structures
+After the successful completion of this
+section, the student will be able to:
+Self-question
+Explain the structure of proteins.
+Before starting this section, ask yourself this
+question: "What do I know about protein
+Determine the protein's primary,
+structure and what do I want to learn from
+secondary, and tertiary structures.
+this section?"
+List the levels of protein function
+You have learnt about proteins in grade ten. In the above sections, we have discussed that
+enzymes are proteins. Proteins have different structures. Protein structure is a polymer of amino
+acids joined by peptide bonds with three-dimensional
+What is protein structure?
+arrangements of atoms in amino acid chain molecules. The protein
+complex macromolecules have four structural levels:
+1. Primary structure
+2. Secondary structure
+3. Tertiary structure
+4. Quaternary structure
+1. The primary structure of proteins
+The primary structure of proteins makes up amino acid sequences based on the side-chain
+substituents that differ by the chemical, physical, and structural properties. It is the sequence of
+amino acids linked together to form a polypeptide chain through peptide bonds created during the
+protein biosynthesis process (Figure 3.6).
+Proteins with fewer than 50 sequences are peptides, and proteins with longer than 50 sequences
+of amino acids are polypeptides.
+Humans require 20 amino acids out of which 10 amino acids are synthesized in the human body,
+and the rest 10 amino acids are obtained from diets.
+Cells use 20 different standards of L-a-amino acids containing basic amino acids and acidic
+carboxyl groups for protein construction.
+BIOLOGY GRADE 11
+82
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
++
+HN
+Amino acid
+Peptide bond
+COO
+PRIMARY STRUCTURE
+Figure 3.6 Primary structures of proteins
+2. The secondary structure of proteins
+The secondary structure of a protein is a folded structure formed within a polypeptide due to
+interactions between atoms of the backbone based on hydrogen bonding and containing a-helix
+and ß-sheet types of strands.
+2.1 The a - Helix
+The a-helix is a right-handed coiled strand and the side-chain substituents of amino acid groups
+extend to the outside and form hydrogen bonds with oxygen (C=O) in the strand with the hydrogen
+of each (N-H) group of four amino acids to make the structure stable.
+The a-Helix structure is one of the most common ways in which a polypeptide chain forms all
+possible hydrogen bonds by twisting into a right-handed screw with the NH group of each amino
+acid residue hydrogen-bonded to the CO of the adjacent turn of the helix.
+2.2 ß-pleated sheet
+The hydrogen bonding in the ß-sheet is
+between the inter-strands and intra-strands
+in which the sheet conformation of the ß-
+sheet consists of pairs of strands lying side-
+a helix
+by-side.
+Hydrogen bond
+All peptide chains stretch out to nearly
+ß pleated sheet
+maximum extension, laid side by side and
+ß strand, shown as a flat
+arrow pointing toward
+held together by intermolecular hydrogen
+the carboxyl end
+bonds forming pleated folds of drapery
+Hydrogen bond
+(Figure 3.7)
+Figure 3.7 Secondary structures of a proteins
+BIOLOGY GRADE 11
+83
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+3. The tertiary structure of proteins
+The tertiary protein structure is the three-
+Hydrophobic
+dimensional shape of protein molecules
+interactions
+CH
+CH2
+that bend and twist to achieve the
+H3C
+CH3
+0
+H2C
+CH3
+Hydrogen
+H
+CH
+bond
+maximum stability or the lowest energy
+O
+C=OH
+CH2-S-S-CH₂
+state. It is fashioned by many stabilizing
+CH2
+Disulfide bridge
+forces due to the bonding interactions
+0
+between the side-chain groups of amino
+CH₂-CH₂-CH₂-CH₂-NH]-O-C-CH₂
+Ionic bond
+acids (Figure 3.8).
+Types of side chain interactions
+Overall 3D shape (3° Structure)
+Figure 3.8 Tertiary structure of protein
+4. The quaternary structure of proteins
+ß₂
+ß₁
+A protein quaternary structure is the
+arrangement of multiple folded protein
+subunits in a multi-subunit complex. It is the
+association of several protein chains or
+heme
+group
+subunits into closely packed arrangements
+with their own primary, secondary, or
+tertiary structures and held together by the
+hydrogen bonds (Figure 3.9).
+α₂
+α₁
+Figure 3.9 Hemoglobin showing the quaternary structure
+BIOLOGY GRADE 11
+84
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+Table 3.2 Summary on protein structures
+Proteins
+Structures
+Primary
+The basic linear sequence level of amino acids comprising one
+polypeptide chain
+Secondary
+The next level up of proteins with folding regions into the specific
+structural patterns within one polypeptide chain
+Tertiary
+The next level up is the three-dimensional arrangement of all the
+amino acids in a single polypeptide chain.
+Quaternary
+All polypeptide chains are held together by a specific spatial
+arrangement and interactions.
+Inquiry based activity 3.4 Drawing a big protein structure
+poster
+Learning by drawing
+Procedure
+1. Draw a large poster of the primary, secondary, tertiary and
+quaternary protein structures and post it on the wall
+2. Discuss in groups of five students the poster and present to your
+class
+Assessments
+1. Describe the differences in protein structural levels
+2. What are the subunits of protein structures?
+3. How do protein subunits hold together?
+BIOLOGY GRADE 11
+85
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+3.4 Enzyme substrate models
+After the successful
+completion of this section, the
+Self-questioning
+student will be able to:
+Before starting this section, ask
+Identify enzyme substrate
+yourself this question: "What do I
+models
+know about models of enzyme actions
+Explain the active site of
+and what do I want to learn from this
+section?"
+enzymes
+Enzyme substrate models are models for enzyme substrate interaction describing that the shapes
+of the active site and the substrate complement to fit into the binding active site perfectly.
+3.4.1 Enzyme-substrate binding models
+There are two different of enzyme-substrate binding
+How do enzyme substrate models fit?
+models that we will look at in this section: the lock and
+key model and the induced fit model.
+1. Enzyme lock and key model
+The lock and key model is when enzyme active
+Substrate
+sites fill-in with a substrate to interact through
+Active site
+non-covalent interactions.
+Key (substrate)
+Lock (enzyme)
+Enzyme
+The model explains on how the enzymes must bind
+to substrates before they catalyze a chemical
+reaction. Once the reaction progresses to the
+transition state and forms products, the active
+Lock-key complex
+Enzyme-substrate
+site will not be able to accommodate changes
+complex
+(Figure 3.10).
+Figure 3.10 Lock and Key model
+2. Enzyme induced fit model
+An enzyme induced fit model is the active site of an enzyme that elicits responses to the binding
+substrate by inducing the substrate to take up transition even when the active site is not perfect
+BIOLOGY GRADE 11
+86
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+to perform the required product. Enzymes change shapes by induced fit upon substrate binding to
+form enzyme substrate complexes. The amino acid side chains that make up the active site mold
+into the precise positions enable the enzyme to perform its catalytic functions. The concept of
+induced fit states that when a substrate binds to an enzyme, it brings about a change in the shape
+of the enzyme, which either enhances or suppresses the activity of the enzyme.
+Upon binding, the inducing process enables to elicit required energy for the reaction to move by
+putting the active site under strain and making the transition stable (Figure 3.11).
+Enzyme changes shape
+Products
+Substrate
+slightly as substrate binds
+Active site
+Substrate entering
+Enzyme/substrate
+Enzyme/product
+Products leaving
+the active site of
+complex
+complex
+the active site of
+the enzyme
+the enzyme
+Figure 3.11 Induced fit enzyme model
+3.4.2 Enzymatic transition state
+An enzymatic transition state is the reaction rates of elementary chemical reactions and assumes
+chemical equilibrium between reactants and activated transitions. It describes how the chemical
+reactions are taking place qualitatively in the activated enzyme-substrate complex of absolute
+reaction rates. The reactive state of substrate binding catalysis is corresponding to the maximum
+reaction activated and its state of transition (Figure 3.12). Where:
+E = Enzyme
+S = Substrate
+ES = Enzyme substrate combined
+ES* = Enzyme substrate complexes
+EP = Enzyme product,
+BIOLOGY GRADE 11
+87
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+Transition
+state
+Energy
+ES⁺
+Substrates
+ES
+Binding
+EP
+Products
+Catalysis
+Reaction coordinate
+Figure 3.12 Enzymatic transitional states
+Inquiry based activity 3.5 Practical activities
+Learning enzyme-substrate models by doing
+Construct the shapes of the enzyme "Lock and Key" and "Induced
+Fit" substrates.
+Models from locally available materials and post them on the walls of
+your class.
+3.5
+Enzyme regulation
+After the successful completion of
+Self-Questioning
+this section, the student will be able to:
+Before starting this section, ask
+Explain enzyme regulation
+yourself this question: "What do I
+Distinguish activator and inhibitor
+know about types of enzymes and
+enzymes
+how their action is regulated? What
+Describe substrate and bonding
+do I want to learn from this section?"
+Enzyme regulation is a control system for enzymatic activities in which enzymes are turned "on" or
+"off" depending on the organisms need. It is adapting enzymatic activities by other molecules or
+metabolic cells to either increase or decrease the activities.
+What are the enzyme regulations?
+A regulatory enzyme is the one in a biochemical pathway
+through which it responds to the presence of certain other
+biomolecules and regulates the pathway activity. It requires an extra activation process to pass
+through some modifications and functions. Regulatory enzymes are of two types, allosteric enzymes
+and covalently modulated enzymes, and we will look at these in more detail in this section.
+BIOLOGY GRADE 11
+88
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+1. Allosteric enzymes
+Allosteric enzymes are enzymes that have additional binding sites for effector molecules other than
+the active site that cause conformational changes, leading to changes of catalytic properties.
+Allosteric enzymes contain two binding sites called active site/catalytic site and allosteric
+site/regulatory site for binding effectors and substrates respectively. Effectors are small
+molecules (inhibitor or activator) modulating the enzyme activity and function through reversible
+non-covalent binding of a regulatory metabolite in the allosteric site or non-active site.
+Effectors lead to conformational changes in a concrete part of the enzyme that affect the overall
+conformation of the active site, causing modifications in the activity of the reaction.
+Active site/Catalytic
+site
+Substrate
+Allosteric
+enzyme
+Allosteric
+effector
+Allosteric site/Regulatory
+site
+Figure 3.13 Allosteric enzyme
+2. Genetic and covalent modification
+The genetic and covalent modification modifies the protein surface and facilitates intracellular
+delivery. Genetic modification of enzymes is to improve the properties of enzymes and gain active
+and inactive forms.
+Covalent modulated enzymes are active and inactive forms of the enzymes altered due to covalent
+modification of structures catalyzed by other enzymes. Covalent modifications are enzyme-catalyzed
+alterations of synthesized proteins by the addition or removal of chemical groups.
+Modifications can target a single type of amino acid or multiple amino acids and will change the
+chemical properties of the site. Enzyme regulation occurs by the addition or elimination of some
+molecules attaching to the enzyme protein.
+Examples:
+BIOLOGY GRADE 11
+89
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+Phosphorylation is the addition of phosphate groups to proteins. It is the most frequent
+regulatory modification mechanism in our cells (Figure 3.14).
+Phosphorylase b
+Phosphorylase a
+R State
+2 ATP
+2 ADP
+Really ON
+OFF
+PP1
+2
+ATP
+2 ADP
+T State
+ON
+Really OFF
+PP1
+=
+active site
+= phosphorylation
+Figure 3.14 Enzyme phosphorylation
+3. Enzyme inhibition
+Enzyme inhibition is a decrease in enzyme activity by enzyme inhibitors. Enzyme inhibitors are
+molecule that binds to an enzyme and blocks its activity. There are two types. These are reversible
+inhibitors and irreversible inhibitors (Figure 3.15).
+Irreversible inhibitor: is a substance that permanently blocks the action of an enzyme.
+Reversible inhibitor: inactivates an enzyme through noncovalent easily reversed interactions.
+Reversible inhibitors can be competitive and uncompetitive.
+Competitive
+Inhibition
+Reversible
+Inhibition
+Uncompetitive
+Inhibition
+Enzyme
+Inhibition
+Non
+Irreversible
+competitive
+Inhibition
+Inhibition
+Figure 3.15 Enzyme inhibition
+1. Competitive inhibitor is a molecule that blocks the binding of the substrate to the active
+site (Figure 3.16).
+BIOLOGY GRADE 11
+90
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+Inhibitor binds to
+the active site
++
++
+NO
+REACTION
+enzyme
+substrate
+inhibitor
+enzyme-inhibitor
+Directly blocks
+complex
+the active site
+Figure 3.16 Competitive inhibition
+2. Noncompetitive inhibitor binds to the enzyme already bound the substrate and
+decreases the efficacy of the enzyme.
+3. Uncompetitive inhibitor binds only to the enzyme substrate complex, but not to the free
+enzyme. It occurs in reactions with two or more substrates or products and slows enzyme
+reactions by binding the substrate to each other (Figure 314).
+Inquiry based activity 3.6 Discuss in pairs and
+present to the class
+Learning enzymes through discussions
+1. Enzyme active site, passive site, allosteric site
+2. Enzyme activators
+3. Enzyme inhibitors
+4. Binding and blocking of molecules
+3.6
+Types of enzymes
+After the successful completion of this section, the
+student will be able to:
+List types enzymes
+Describe the function of each type of enzyme
+Define activities of each type of enzyme
+Enzymes that catalyze chemical reactions can be classified into various types. Enzyme types are
+based on how enzymes that bind specific molecules together to form new molecules and enzymes
+that break specific molecules apart into separate molecules.
+BIOLOGY GRADE 11
+91
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+3.6.1 Enzyme structural classification
+The structural classification of enzymes deals with the separation of an enzyme into simple
+proteins (active) and conjugated proteins (holoenzymes).
+Then, the conjugated protein part (holoenzyme) is divided into the non-protein part (cofactor) and
+the protein part (apoenzyme: inactive) groups.
+How do you classify enzymes?
+Finally, the non-protein part (cofactor) separates into the firmly
+attached metal ion (prosthetic group) and the loosely attached
+vitamin B complex (coenzyme) groups (Figure 3.17).
+Enzyme
+Simple protein
+Conjugated protein
+(Active)
+(Holoenzyme)
+Non-protein part
+Protein part
+(Cofactor)
+(Apoenzyme: Inactive)
+Firmly attached
+Loosely attached
+(usually metal ion)
+(usually vitamin B
+(Prothetic group)
+complex)
+(Coenzyme)
+Figure 3.17 Structural classifications of enzymes
+3.6.2 Basic classification of enzymes
+Enzymes are composed of six classes based on what and how they react, the types of reactions
+they catalyzed, and the end suffix "-ase". The followings are basic classes of enzymes.
+1. Oxidoreductases are a class of enzyme that catalyzes oxido-reduction reactions. It
+catalyzes the transfer of electrons from one molecule (oxidant) to other molecule
+(reductant) reactions in the following pattern: AT + B A+B where A is the
+oxidant and B is the reductant.
+BIOLOGY GRADE 11
+92
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+2. Transferase is an enzyme that transfers functional groups like methyl from one
+donor molecule to acceptor molecule.
+3. Hydrolases are enzymes that catalyze the hydrolysis of various bonds.
+4. Lyases are enzymes that cleave bonds by other means rather than hydrolysis or
+oxidation in which two or more substrates are involved in one reaction.
+5. Isomerases are a general class of enzymes that convert molecules from one isomer
+to another isomer.
+6. Ligases are enzymes that catalyze the joining of two molecules with concomitant
+hydrolysis of the di-phosphate bond in ATP.
+Lab activity 3.7: tests for enzyme reactions
+Objectives: test the reaction of enzymes in apples
+Materials: an apple or banana fruits and a knife
+Procedures:
+Cut an apple into two slices and wait for about 10 minutes and
+observe
+Observe until it turns into brownish showing pigmentations
+Control experiment:
+Cover the other half cut slice of the apple by plastic sheet immediately
+Compare the color change of covered apple slice with the exposed one
+Does the covered slice change its color?
+Assessments:
+1. What gives it the brownish color?
+2. What is enzyme catalyzing?
+3. What is the name of the enzyme found in apples?
+4. Why the covered slice did not change pigments?
+5. What is the difference between the covered and exposed apple
+slices?
+BIOLOGY GRADE 11
+93
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+3.7
+Factors affecting enzyme action
+After the successful completion
+Self-Questioning
+of this section, student will be able to:
+Before starting this section, ask
+List factors affecting enzyme actions
+yourself this question: "What do I
+Describe how each factor affects
+know about factors that affect
+enzyme action
+enzyme actions, enzyme kinetics,
+Discuss on how to optimize the
+enzyme application, and what do
+factors
+I want to learn from this
+section?"
+Enzymes work best within specific temperature and pH
+What are the factors that affect
+enzyme action and how?
+ranges and at optimal conditions (the condition under
+which particular enzyme is most active), an increase or
+decrease in the conditions of these factors affects the functions of enzymes.
+There are varieties of factors that affect the activity of enzymes: temperature, pH, inhibitors,
+activators, radiation, water, enzyme, substrate, and end-product concentrations (Figure 3.18).
+Radiation
+Temperature
+Activators
+Water
+Factors Affecting
+End- products
+Enzyme Activities
+pH
+Inhibitors
+Substrate
+Enzyme
+concentration
+concentration
+Figure 3.18 Factors affecting enzymes' activity
+BIOLOGY GRADE 11
+94
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+3.7.1 Description on factors affecting enzymatic actions
+Temperature: while all enzymes work best within the specific ranges of optimum temperatures,
+low or high temperature causes an enzyme to lose its activity and ability to bind a substrate and
+denatured. Once enzymes denatured, they cannot be renatured.
+Initial Rate of Reaction
+inactive
+denatured
+optimum
+0
+10
+20
+40
+50
+60
+Temperature (°C)
+Figure 3.19 Enzyme reactions to temperature
+1. PH: enzymes function at optimum pH (the potential of hydrogen ions) that ranges from too
+low (strong acid) to too high (too alkaline) pH. Such extreme temperatures cause an
+enzyme to lose its ability to bind into a substrate.
+Initial Rate of Reaction
+optimum
+3
+4
+5
+6
+7
+8
+9
+pH
+Figure 3.20 Enzyme reactions and pH
+Substrate concentrations: enzymes require a maximum limit of substrate concentration to
+bind.
+1. Radiation damages enzyme activities by reducing in enzymatic efficiency and creating
+disorders in the macromolecules.
+2. Water: affects the performance of enzymes' activity beyond its optimum level.
+3. End product (Feedback) inhibition is a cellular control mechanism in that the end
+product inhibit enzyme's activity. In feedback inhibition, the endproduct binds to the
+allosteric site of the enzyme and change the structure of the active site. This prevents the
+BIOLOGY GRADE 11
+95
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+enzyme to perform its activity. Due to feedback inhibition, a cell is able to know whether the
+amount of a product is enough for its subsistence or not.
+Inhibition of the pathway
+Substrate
+Intermediate
+Intermediate
+End
+substrate
+substrate
+product
+A
+B
+Enzyme 1
+Enzyme 2
+Enzyme 3
+Figure 3.21 Feedback inhibition
+Example: The drug Tipranivir used to treat HIV blocks the activity of a viral genome enzyme to
+make more copies as a reversible inhibitor.
+Lab activity 3.8: tests for the functions of enzymes
+Objectives: test for enzyme sensitivity to heat
+Materials: hydrogen peroxide (H202), Potatoes, a knife and cooking
+utensils
+Procedure:
+Take two slices of potatoes, boil hard one slice and leave raw the other one
+Drop hydrogen peroxide on boiled and raw potato slices
+Observe and compare the enzyme reactions of both potato slices
+Assessments:
+1. Identify reaction differences between the boiled and raw potato slices
+2. In which of the potato slices is, enzymes denatured?
+3. Did high temperature affect the activity of enzymes?
+3.8
+Enzyme kinetics
+After the successful completion of this
+section, students will be able to:
+Explain enzyme kinetics
+Describe the steps enzyme kinetic
+How enzyme kinetics works?
+BIOLOGY GRADE 11
+96
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+Enzyme kinetics describes the rates of chemical reactions that
+How do you measure the
+are catalyzed by enzymes and the binding affinities of
+enzymatic rates of reactions?
+substrates, inhibitors and the maximal catalytic rates
+achieved. Enzyme kinetics explains that enzymes speed up reactions by lowering the activation
+energy of the reactants and turning them into products. Hence, the concentration of enzyme and
+substrates determines the rate of the reactions or production volumes per unit time.
+One of the most known models of enzyme kinetics is the Michaelis-Menten formula that takes
+a form of equation describing the rate of enzymatic reaction by relating the reaction rate, rate of
+formation of product to the concentration of substrate.
+The model explains the relationship between the rate of an enzyme-catalyzed reaction [V₁], the
+concentration of substrate [S] and two constants, Vmax and Km with the following equation.
+Vₘₐₓ[S]
+V₁ =
+{Kₘ + [S]}
+Where:
+4
+V,
+max
+V₁ = the initial velocity/rate reaction
+3
+Vmax = the maximal velocity/maximum rate of reaction
+Rate
+2
+½ V max
+[S] = the substrate concentration
+1
+KM = substrate concentration at half-maximal velocity
+Kₘ
+0
+0
+1
+2
+3
+4
+(Michaelis constant).
+Concentration
+Figure3.22 Enzyme kinetics as a function of concentration
+Inquiry activity 3.9 investigating effect of inhibitors
+Be in groups and find what happens to the rate of reactions and the graph in the
+presence of inhibitors (competitive and non-competitive inhibitors) from the library or
+the internet, discuss and present it in class.
+BIOLOGY GRADE 11
+97
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+Lab-based activity 3.10 Experiment on enzyme reaction rates
+Objectives: test for enzyme reactions
+Materials: beef liver, Potato, Carrot, 3 Test tubes, H2O2 and Knife
+Procedures:
+Label the test tubes as A for beef liver, B for potato C for Carrot
+Chop the beef liver, potato and carrot into small pieces and put the chopped
+sample of beef liver in (A), Potato in (B) and in Carrot (C) test the tubes
+Add about 2ml of hydrogen peroxide to each test tube equally ml)
+Observe the rate of enzyme kinetic reactions of each test tube and measure the
+height of bubbles and speeds (time rate)
+Assessments:
+1. What were the reaction rates in test tubes A, B, and C?
+2. Which of the reaction was the fastest?
+3. Why was the reaction in A the highest?
+3.9 Application of enzymes in industries and their
+benefits
+After the successful completion of this section, the
+student will be able to:
+Explain applications of enzymes
+List areas of enzyme applications
+Identify and discuss locally applied enzymes
+Application of enzymes is the use of enzymatic
+What are the uses of enzymes?
+biochemical reactions for chemical conversion process
+that are driving forces of great change for productivity of various industries. Enzyme protein
+catalytic activity is efficient enough (100s to 1000s) of times higher than that of inorganic catalyst.
+BIOLOGY GRADE 11
+98
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+3.9.1 Uses of enzyme application
+The application of enzymes are widely used in food, feed, textile, papermaking, leather and
+detergents, pharmaceutical and other industrial productions.
+Examples:
+1. Enzymes break down larger complex molecules into simpler molecules in our body where they
+can be used to fuel our digestive systems and cellular respirations.
+2. Most enzymes used for food industry were extracted from the internal organs of animals and
+plants, but now most enzymes are obtained by microbial fermentation.
+3. Enzymes cause billions of chemical reactions to happen at lightning speed inside the cells of our
+body.
+4. Enzymes improve the utilization of feed rate of starch, protein, and minerals and degrade the
+anti-nutritional factors in animal feed, prevent animal indigestion and improve feed digestibility.
+5. In the pharmaceutical industry, enzymes are used in drugs, antibiotics, household products to
+speed up chemical reactions and synthesis.
+6. Enzymes are powerful tools in sustaining a clean environment in several ways.
+7. Washing powders are enzymes used to break down protein, starch and fat stains on clothes
+Table 3.3 the applications and functions of enzymes
+Cellulases
+Biofuel industry
+Breakdown cellulose into sugars and
+ferment to produce cellulosic ethanol
+Ligninase
+Biofuel industry
+Pre-treatment of biomass for biofuel
+production
+Protease,
+Biological
+Protease removes protein, amylase
+Amylase, Lipase
+detergent
+removes starch, and lipase removes fat
+or oil stains from laundry and dishware
+Mannanase
+Biological
+Remove food stains from the common
+detergent
+food additive guar gum
+Betaglucanase
+Brewing industry
+Improve beer filtration
+Papain
+Culinary uses
+Tenderize meat for cooking
+Rennin
+Dairy industry
+It hydrolyses protein in the manufacture
+of cheese
+Trypsin
+Food processing
+Manufacture hypo-allergenic baby foods
+Cellulases,
+Food processing
+Clarify fruit juices.
+Pectinase
+Nuclease,
+DNA
+Molecular biology
+Uses
+restriction
+digestion
+and
+Ligase,
+polymerase chain reaction to create
+Polymerase
+recombinant DNA
+BIOLOGY GRADE 11
+99
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+Activity 3.11: Discussion
+Discuss the applications and uses of enzymes and fill-in the table
+Enzymes
+Enzymes and substrates
+Potential application
+Arginase
+Ligninase
+Lipase
+Mannaninase
+Papain
+Proteinase
+3.10 Malting in Ethiopian tradition
+After the successful completion of this section, the student will
+be able to:
+Explain the what and why of malting for alcohol drinks
+List some of the locally prepared types of malting
+Define the nature and function of malting for alcoholic production
+Malting (sprouting) is a widely applied traditional technology.
+How do you make malt?
+It is the process of steeping, germinating and drying grain to
+convert it into malt.
+Malting is the limited controlled germination of grains in moist air, which results in the mobilization
+of amylases, proteases and other enzymes that hydrolyze and modify the grain components and its
+structure.
+BIOLOGY GRADE 11
+100
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+3.10.1 Steps of modern malting
+There are three steps to modern malting,
+temperature and moisture levels with
+steeping, germinating and kilning, and these
+regulated airflow and the uniformity of water
+will be discussed in this section.
+spray enables achieve a high quality and
+consistent germination process.
+1. Steeping
+Malting is partly an art and partly a science
+Steeping is the process of cleaning the grain
+that can be gauged in the degree of
+kernels and bringing it to life with water and
+modification with the eyes, sense of smell and
+oxygen by immersing it in the water and air
+hands.
+for a specified time period. The water
+activates naturally the existing enzymes in
+3. Kilning (Heating)
+grains and stimulates the production of
+enzymes in which water temperature and
+Kilning is the heating treatment of germinated
+aeration are vital for producing high quality
+grain to dry the green malt and prevent from
+malt. Although the process can vary
+further germination. If germination continued,
+depending on the grain type and size, malting
+the kernel would keep growing and the
+occurs over a period of 24-48 hours.
+growing plant would use all of the starch
+reserves needed by the brewer. Removing
+The steeping will be complete when the
+moisture from the germinated grain is initially
+barley has reached a sufficient moisture level
+for withering. Additional drying further
+to allow a uniform breakdown of starches and
+reduces the moisture content and prepares
+proteins. So starch and protein hydrolyzing
+the malt for flavor and color development.
+enzymes are activated during steeping
+The kilning process achieves enzymatic
+activity and friability, a wide ranges of malt
+2. Germinating
+colors and flavors and distinctive ales and
+Germinating is to continue the process with
+lagers.
+the growth and modification of the grain.
+3.10.2 Why is malting for?
+Rootlets emerge from the kernel to the
+outside of the grain and within the outer husk
+Malting aims to convert or modify the physical
+and a shoot or acrospires grows.
+structure of the barley grain and allow
+Modification is the breakdown of protein and
+synthesis or activation of a series of enzymes
+carbohydrates, resulting in the opening up of
+to produce malt for uses in the subsequent
+the seeds' starch reserves within four to six
+purposes (brewing, distilling or food
+days as Green Malt. The control of
+production).
+BIOLOGY GRADE 11
+101
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+Barley is the most common cereal used for
+amylase, protease (breaks down proteins)
+the production of malt because of its high
+and beta-amylase.
+starch-to-protein ratio and adhering
+The main purpose of malting is to produce
+husk that contribute to the economic yield,
+enzymes such as the α-amylase and ß-
+ease of processing and production.
+amylase useful for modifying and converting
+grains' starches into simple sugar
+Barley malting in Ethiopia is practiced for the
+(monosaccharide),
+complex
+sugar
+production of traditional beer (Tella) and uses
+(disaccharides) and malt sugar (maltose) and
+as in ingredient in porridge making or drinks.
+higher sugars called maltodextrines. Then
+after, the yeast uses these monosaccharides
+The most common enzymes used in the
+to to produce alcohol by alcoholic
+malting process are beta-glucanase, alpha-
+fermentation.
+3.10.3 Traditional malting for local alcohol production
+Traditional malting is the process of sprouting barley grains
+How do people produce malt?
+for the production of enzymes (a-amylase and ß-amylase)
+to process fermentation drinks such as Tella.
+The steps of traditional malting process include:
+1. Soaking barley grains (steeping)
+2. Germinating (sprouting)
+3. Kilning (Heating) the malt
+The most commonly used grains for malting are
+barley, maize, millet, sorghum and the like. However,
+barley is the most preferable grain to produce local
+drinks in local malting (Figure 3.23).
+Figure 3.23 Malted barley
+The main purpose of malt production is to produce alcoholic beverages drinks for consumptions and
+income generation to support the livelihood of the people. Malting requires raw materials like barley
+for fermentation of alcoholic drinks like Tella.
+BIOLOGY GRADE 11
+102
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+People in Ethiopia produces local drinks like Booka, Cheka, Keribo, Korefe, Shameta, Borde and Teji
+in different occasions (holidays, wedding ceremonies, and celebrations).
+Do people in your area use malting to produce
+such types of local drinks?
+Inquiry based activity 3.12 Malting practices in the
+classroom with groups of five students
+Exercise malting practices
+Materials
+Barley seeds and Water
+Procedure
+Make a malt of barley seeds
+Present the steps of malting to the class
+Assessment
+1. What happened to the barley seeds?
+2. How did you halt the malt's from further sprouting?
+3. What is the purposes of malting?
+3.11 Renowned Biochemists in Ethiopia
+After the successful completion of this section, students will
+be able to:
+Explain what a biochemist is
+Describe the work of a biochemist
+List renowned Ethiopian biochemists
+A biochemist is a scientist who studies the chemical processes transformations in living organisms
+including DNA, proteins and cell parts. A biochemist also conducts research on how certain chemical
+reactions happen in cells, tissues and organisms and record the effects of products in food additive
+and medicines.
+BIOLOGY GRADE 11
+103
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+The study of biochemistry deals with all aspects of the immune systems, expressions of genes,
+isolation, analysis and synthesis of products. It also concerned with studying mutations that leads
+to cancers, scientific procedures used to manage and monitor laboratory works.
+Biochemists also conduct research in the field of agriculture, in the interactions between herbicides
+with plants. They also examine the relationships between or among compounds that determine the
+ability to inhibit growth and evaluate the toxicological effects.
+Inquiry based activity 3.13 Group discussion
+List any renowned biochemists you know with pertinent biography
+Discuss the roles of biochemists in research and take notes
+Unit three summary
+Enzymes are protein biochemical catalysts that speed up chemical reactions to keep up metabolisms
+without affecting the products and the nature of the catalyst itself. An enzyme is a substance that
+acts as a catalyst in living organisms, regulating the rate at chemical reactions and proceeds
+unaffected in the process.
+Enzyme active site increase reaction rates by lowering energy activations. However, some enzyme
+reactions convert substrates to products in millions of times faster speeds. In contrast, enzymes are
+inactive, destroyed or denatured at very low and higher temperature and PH.
+Enzyme substrate complex is a temporary molecule formed in perfect contact of enzymes with
+binding substrate active sites to converts into products. Substrate concentrations, enzyme
+concentrations and inhibitors are also factors affecting the properties enzymes.
+Many enzymes require cofactors (coenzyme) to become complex holoenzyme with apoenzyme
+before exerting catalytic activities (apoenzyme + coenzyme = holoenzyme). Cofactors are non-
+protein molecules that make enzymes active on binding to none-proteins. Enzymes require dietary
+minerals, vitamins and cofactors to function, make products that act as the substrate for the next
+side-product and remove wastes from cells. The entire active complex of an enzyme is a
+holoenzyme made up of apoenzyme (protein portions), coenzyme (cofactor) and prosthetic
+groups of metal-ion activators.
+BIOLOGY GRADE 11
+104
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
+UNIT 3: ENZYMES
+Most enzymes are proteins and not all proteins are enzymes whereby the non-protein parts
+attached to the protein as apoenzyme (cofactors).
+Molecules that increase the activity of enzymes are activators and molecules that decrease the
+activity of enzymes are inhibitors. Both activators and inhibitors of enzymes are molecules that
+turn up or down the activity of enzymes by binding with molecules of enzymes.
+Regulatory enzymes exist at high concentrations and their activity increases or decreases depending
+on changes in substrate concentrations.
+Unit three review questions
+Part I. True or false items
+Instructions: write true if the statement is correct and false if the statement is not correct.
+1. Enzymes are biocatalyst proteins.
+2. The rate of enzymatic reaction increases with increased rate of substrate concentration.
+3. Inhibitor is a molecule that reduces the rate of enzyme-catalyzed reactions.
+4. If you drop H2O2 on slice of boiled potato, enzymatic reactions are very active.
+5. The suffix "ase" indicates that a molecule is an enzyme.
+6. All enzymes are protein molecules, but not all proteins are enzymes.
+7. Our saliva contains an enzyme amylase.
+8. Enzymes can react beyond the optimum pH.
+9. Activators are molecules that increase the activity of enzymes.
+10. Enzymes are drugs in the pharmaceutical industry.
+Part II. Multiple-choice test Items
+Instructions: Choose the correct answer from the given alternatives.
+1. What is the optimum temperature of enzyme activity in human body?
+A. 5- 30 °C
+C. 25 45
+B. 35 75 °C
+D. 37 °C
+2. What is the first discovered enzyme?
+A. Lactase
+C. Diastase
+B. Ligases
+D. Hydrolase
+3. An enzyme acts best at a particular pH called
+A. Catalytic pH
+C. Optimum pH
+B. Abnormal pH
+D. None
+BIOLOGY GRADE 11
+105
+FDRE-MoE ETHIOPIA
+BIOLOGY GRADE 11
+STUDENT TEXTBOOK
+4. The two enzyme specificity models are
+A. Lock and Key
+C. A and B
+B. Induced fit model
+D. All
+5. Which of the following statement is incorrect?
+A. Enzymes are protein in nature
+C. Enzymes are thermo-labile
+B. Enzymes is colloidal in nature
+D. Enzymes are inorganic catalyst
+6. What is enzyme kinetics?
+A. The rate of reaction
+C. Acidic reactions
+B. Base reactions
+D. Heat reaction
+7. What is the molecular weight of enzymes?
+A. Large protein biomolecules
+C. A and B
+B. 200 to 300 peptide bonds
+D. all
+8. Enzymes that have additional binding sites
+A. Allosteric enzymes
+C. Transition state
+B. Enzyme rates
+D. None
+9. Enzyme activity is dependent on
+A. The folding of a proteins
+C. Sensitivity to the pH and salt concentration
+B. Sensitivity to the temperature
+D. All
+10. What is the formula for the rate enzyme kinetic mechanism?
+A.
+S
+TI
+ES
+TI
+ES*
+TI
+EP
+TI
+E+P
+C.S TV ES TJ ES TV EP TV E+P
+B. S + ES
+TI
+ES*
+EP TV E + P
+D.
+S
+TJ
+ES
+TI
+ES*
+EP TV P
+11. The three steps of malting are
+A. Germinating, Steeping and Kilning
+C. Steeping, Germinating and Kilning
+B. Kilning, Germinating and Steeping
+D. None of the steps is correct
+12. An enzyme that carries and transfers methyl groups from one compound donor
+(Cofactor) to another compound (acceptor) is
+A. Transferase
+C. Isomerases
+B. Lyases
+D. Translocases
+Part III. Short answers
+Instruction: give short answer for the following questions
+1. What are the five types of enzymes and their applications (uses)
+2. How does the function of the active site of an enzyme differ from that of an allosteric site?
+BIOLOGY GRADE 11
+106
+MINISTRY OF EDUCATION, ETHIOPIA
+BIOLOGY GRADE 11
